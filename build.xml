@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="sypet" default="jar">
+
+    <dirname property="this.dir" file="${ant.file}"/>
+    <property name="target.loc" location="${target}"/>
+
+    <target name="init">
+        <mkdir dir="bin"/>
+    </target>
+
+    <target name="compile" depends="init"
+          description="compile the source code">
+
+    <javac target="1.7" source="1.7" srcdir="src" destdir="bin" debug="true">
+        <classpath>
+          <pathelement location="lib/commons-cli-1.2.jar"/>
+          <pathelement location="lib/apt.jar"/>
+	  <pathelement location="lib/pdbadapter.jar"/>
+            <pathelement location="lib/bow4j.jar"/>
+            <pathelement location="lib/commons-lang3-3.4.jar"/>
+            <pathelement location="lib/ecj-4.5.1.jar"/>
+            <pathelement location="lib/gson-2.3.1.jar"/>
+            <pathelement location="lib/guava-18.0.jar"/>
+            <pathelement location="lib/soot-trunk.jar"/>
+            <pathelement location="lib/sat4j-pb.jar"/>
+            <pathelement location="lib/snowball-stemmer-1.3.0.581.1.jar"/>
+            <pathelement location="lib/junit-4.12.jar"/>
+            <pathelement location="lib/hamcrest-core-1.3.jar"/>
+            <pathelement location="lib/jython.jar"/>
+            <pathelement location="lib/httpclient-4.5.2.jar"/>
+            <pathelement location="lib/httpcore-4.4.4.jar"/>
+            <pathelement location="lib/joda-time-2.8.2.jar"/>
+            <pathelement location="lib/rt7.jar"/>
+            <pathelement location="lib/commons-io-2.5.jar"/>
+        </classpath>
+    </javac>
+    </target>
+
+    <target name="sypet">
+    <java classname="edu.utexas.sypet.Experiment"
+          maxmemory="4g"
+          fork="true"
+          failonerror="true">
+        <arg line="${args}"/>
+        <jvmarg value="-ea"/>
+        <classpath>
+            <pathelement location="${this.dir}/sypet.jar"/>
+            <pathelement location="lib/bow4j.jar"/>
+            <pathelement location="lib/commons-lang3-3.4.jar"/>
+            <pathelement location="lib/ecj-4.5.1.jar"/>
+            <pathelement location="lib/gson-2.3.1.jar"/>
+            <pathelement location="lib/guava-18.0.jar"/>
+            <pathelement location="lib/soot-trunk.jar"/>
+            <pathelement location="lib/sat4j-pb.jar"/>
+            <pathelement location="lib/snowball-stemmer-1.3.0.581.1.jar"/>
+            <pathelement location="lib/apt.jar"/>
+	    <pathelement location="lib/commons-cli-1.2.jar"/>
+            <pathelement location="lib/jython.jar"/>
+            <pathelement location="lib/httpclient-4.5.2.jar"/>
+            <pathelement location="lib/httpcore-4.4.4.jar"/>
+            <pathelement location="lib/joda-time-2.8.2.jar"/>
+            <pathelement location="lib/rt7.jar"/>
+            <pathelement location="lib/commons-io-2.5.jar"/>
+        </classpath>
+    </java>
+    </target>
+
+    <target name="jar" depends="compile"
+          description="generate the distribution" >
+        <jar jarfile="sypet.jar" basedir="bin"/>
+    </target>
+
+    <target name="clean"
+          description="clean up" >
+        <delete dir="bin"/>
+        <delete file="sypet.jar"/>
+    </target>
+</project>

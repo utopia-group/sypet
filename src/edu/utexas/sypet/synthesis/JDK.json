@@ -1,0 +1,274 @@
+{
+        "directed": true,
+        "type": "graph type",
+        "label": "Java build-in type",
+        "nodes": [
+            {
+                "id": "1",
+                "type": "primitive",
+                "name": "byte"
+            },
+            {
+                "id": "2",
+                "type": "primitive",
+                "name": "short"
+            },
+            {
+                "id": "3",
+                "type": "primitive",
+                "name": "char"
+            },
+            {
+                "id": "4",
+                "type": "primitive",
+                "name": "int"
+            },
+            {
+                "id": "5",
+                "type": "primitive",
+                "name": "long"
+            },
+            {
+                "id": "6",
+                "type": "primitive",
+                "name": "float"
+            },
+            {
+                "id": "7",
+                "type": "primitive",
+                "name": "double"
+            },
+
+            {
+                "id": "8",
+                "type": "container",
+                "name": "Array"
+            },
+
+            {
+                "id": "9",
+                "type": "container",
+                "name": "java.util.List"
+            },
+
+            {
+                "id": "10",
+                "type": "container",
+                "name": "Set"
+            },
+
+            {
+                "id": "11",
+                "type": "container",
+                "name": "java.util.Vector"
+            },
+
+            {
+                "id": "12",
+                "type": "container",
+                "name": "Map"
+            },
+            
+            {
+                "id": "13",
+                "type": "string",
+                "name": "String"
+            },
+            
+             {
+                "id": "14",
+                "type": "container",
+                "name": "char[]"
+            },
+            
+            {
+                "id": "15",
+                "type": "primitive",
+                "name": "Integer"
+            }
+        ],
+        "edges": [
+            {
+                "id": "1",
+                "source": "1",
+                "target": "2",
+                "label": "?"
+            },
+
+            {
+                "id": "2",
+                "source": "2",
+                "target": "3",
+                "label": "?"
+            },
+             {
+                "id": "3",
+                "source": "3",
+                "target": "2",
+                "label": "?"
+            },
+              {
+                "id": "4",
+                "source": "2",
+                "target": "4",
+                "label": "?"
+            },
+               {
+                "id": "5",
+                "source": "3",
+                "target": "4",
+                "label": "?"
+            },
+                {
+                "id": "6",
+                "source": "4",
+                "target": "5",
+                "label": "?"
+            },
+              {
+                "id": "7",
+                "source": "5",
+                "target": "6",
+                "label": "?"
+            },
+            {
+                "id": "8",
+                "source": "6",
+                "target": "7",
+                "label": "?"
+            },
+            {
+                "id": "9",
+                "source": "8",
+                "target": "9",
+                "label": "java.util.Arrays.asList(?)"
+            },
+            {
+                "id": "10",
+                "source": "9",
+                "target": "8",
+                "label": "?.toArray()"
+            },
+            {
+                "id": "11",
+                "source": "9",
+                "target": "11",
+                "label": "new java.util.Vector(?)"
+            },
+            {
+                "id": "12",
+                "source": "11",
+                "target": "9",
+                "label": "new java.util.ArrayList(?)"
+            },
+            {
+                "id": "13",
+                "source": "9",
+                "target": "10",
+                "label": "new java.util.HashSet(?)"
+            },
+            {
+                "id": "14",
+                "source": "10",
+                "target": "9",
+                "label": "new java.util.ArrayList(?)"
+            },
+            {
+                "id": "15",
+                "source": "10",
+                "target": "11",
+                "label": "new java.util.Vector(?)"
+            },
+            {
+                "id": "16",
+                "source": "11",
+                "target": "10",
+                "label": "new java.util.HashSet(?)"
+            },
+            {
+                "id": "17",
+                "source": "12",
+                "target": "10",
+                "label": "?.keySet()"
+            },
+            
+            {
+                "id": "18",
+                "source": "13",
+                "target": "8",
+                "label": "?.split(\"\")"
+            },
+            
+                        {
+                "id": "22",
+                "source": "13",
+                "target": "4",
+                "label": "Integer.parseInt(?)"
+            },
+            
+                        {
+                "id": "23",
+                "source": "13",
+                "target": "5",
+                "label": "Long.valueOf(?)"
+            },
+            
+                        {
+                "id": "24",
+                "source": "13",
+                "target": "6",
+                "label": "Float.valueOf(?)"
+            },
+            
+                        {
+                "id": "25",
+                "source": "13",
+                "target": "7",
+                "label": "Double.valueOf(?)"
+            },
+            
+                                    {
+                "id": "26",
+                "source": "13",
+                "target": "14",
+                "label": "?.toCharArray()"
+            },
+            
+            {
+                "id": "27",
+                "source": "4",
+                "target": "13",
+                "label": "String.valueOf(?)"
+            },
+            
+            {
+                "id": "28",
+                "source": "7",
+                "target": "6",
+                "label": "(float)?"
+            },
+            
+            {
+                "id": "29",
+                "source": "7",
+                "target": "4",
+                "label": "(int)?"
+            },
+            
+                        
+            {
+                "id": "30",
+                "source": "15",
+                "target": "4",
+                "label": "?"
+            },
+            
+                        
+            {
+                "id": "31",
+                "source": "4",
+                "target": "15",
+                "label": "?"
+            }
+        ]
+}
