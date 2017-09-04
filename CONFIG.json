@@ -11,8 +11,6 @@
 	],
 
 	"poly": [
-	    "java.awt.geom.Ellipse2D,java.awt.geom.Area",
-	    "java.awt.geom.Rectangle2D,java.awt.geom.Area",
 	    "java.awt.geom.Ellipse2D,java.awt.Shape",
 	    "java.awt.geom.Rectangle2D,java.awt.Shape",
 	    "org.joda.time.LocalDate,org.joda.time.ReadablePartial",
