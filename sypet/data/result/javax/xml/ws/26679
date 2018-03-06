@@ -1,0 +1,1 @@
+{"id":26679,"className":"javax.xml.ws.Service","methodName":"getServiceName","signature":"\u003cjavax.xml.ws.Service: javax.xml.namespace.QName getServiceName()\u003e","javadoc":"/** \n * Gets the name of this service.\n * @return Qualified name of this service\n */\n","tf":{"freq":{"name":3,"servic":3,"qualifi":1},"maxFreq":3,"totalTerms":7},"loc":3}

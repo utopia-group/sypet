@@ -1,0 +1,1 @@
+{"id":11057,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getSize","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getSize()\u003e","javadoc":"/** \n * See the size property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"properti":1,"size":2},"maxFreq":2,"totalTerms":4},"loc":0}

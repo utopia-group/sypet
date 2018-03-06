@@ -1,0 +1,1 @@
+{"id":10050,"className":"javax.management.ObjectName","methodName":"getDomain","signature":"\u003cjavax.management.ObjectName: java.lang.String getDomain()\u003e","javadoc":"/** \n * Returns the domain part.\n * @return The domain.\n */\n","tf":{"freq":{"domain":3,"part":1},"maxFreq":3,"totalTerms":4},"loc":3}

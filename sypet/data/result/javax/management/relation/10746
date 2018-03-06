@@ -1,0 +1,1 @@
+{"id":10746,"className":"javax.management.relation.RoleUnresolved","methodName":"clone","signature":"\u003cjavax.management.relation.RoleUnresolved: java.lang.Object clone()\u003e","javadoc":"/** \n * Clone this object.\n * @return an independent clone.\n */\n","tf":{"freq":{"clone":3,"independ":1,"object":1},"maxFreq":3,"totalTerms":5},"loc":7}

@@ -1,0 +1,1 @@
+{"id":12797,"className":"javax.swing.JTree$DynamicUtilTreeNode","methodName":"getChildCount","signature":"\u003cjavax.swing.JTree$DynamicUtilTreeNode: int getChildCount()\u003e","javadoc":"/** \n * Returns the number of child nodes.\n * @return the number of child nodes\n */\n","tf":{"freq":{"child":3,"node":2,"count":1,"number":2},"maxFreq":3,"totalTerms":8},"loc":5}

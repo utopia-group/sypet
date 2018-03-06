@@ -1,0 +1,1 @@
+{"id":27670,"className":"org.jcp.xml.dsig.internal.dom.DOMManifest","methodName":"getReferences","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMManifest: java.util.List getReferences()\u003e","loc":3}

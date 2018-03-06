@@ -1,0 +1,1 @@
+{"id":15064,"className":"java.nio.file.WatchEvent$Modifier","methodName":"name","signature":"\u003cjava.nio.file.WatchEvent$Modifier: java.lang.String name()\u003e","javadoc":"/** \n * Returns the name of the modifier.\n */\n","tf":{"freq":{"name":2,"modifi":1},"maxFreq":2,"totalTerms":3},"loc":0}

@@ -1,0 +1,1 @@
+{"id":19168,"className":"org.apache.commons.math3.util.Combinations","methodName":"iterator","signature":"\u003corg.apache.commons.math3.util.Combinations: java.util.Iterator\u003cint[]\u003e iterator()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"iter":1},"maxFreq":1,"totalTerms":1},"loc":13}

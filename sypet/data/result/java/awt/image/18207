@@ -1,0 +1,1 @@
+{"id":18207,"className":"java.awt.image.ColorModel","methodName":"hashCode","signature":"\u003cjava.awt.image.ColorModel: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code for this ColorModel.\n * @return    a hash code for this ColorModel.\n */\n","tf":{"freq":{"model":2,"color":2,"hash":3},"maxFreq":3,"totalTerms":7},"loc":18}

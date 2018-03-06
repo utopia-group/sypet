@@ -1,0 +1,1 @@
+{"id":10971,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getLeft","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getLeft()\u003e","javadoc":"/** \n * See the left property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"left":2,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

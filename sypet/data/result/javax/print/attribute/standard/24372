@@ -1,0 +1,1 @@
+{"id":24372,"className":"javax.print.attribute.standard.PrinterStateReasons$PrinterStateReasonSetIterator","methodName":"PrinterStateReasonSetIterator","signature":"\u003cjavax.print.attribute.standard.PrinterStateReasons$PrinterStateReasonSetIterator: void PrinterStateReasonSetIterator(javax.print.attribute.standard.Severity,java.util.Iterator)\u003e","loc":5}

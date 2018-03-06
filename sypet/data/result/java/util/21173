@@ -1,0 +1,1 @@
+{"id":21173,"className":"java.util.EventListenerProxy","methodName":"getListener","signature":"\u003cjava.util.EventListenerProxy: T getListener()\u003e","javadoc":"/** \n * Returns the listener associated with the proxy.\n * @return  the listener associated with the proxy\n */\n","tf":{"freq":{"proxi":2,"associ":2,"listen":3},"maxFreq":3,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12443,"className":"javax.swing.DefaultListSelectionModel","methodName":"getMinSelectionIndex","signature":"\u003cjavax.swing.DefaultListSelectionModel: int getMinSelectionIndex()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"min":1,"index":1,"select":1},"maxFreq":1,"totalTerms":3},"loc":1}

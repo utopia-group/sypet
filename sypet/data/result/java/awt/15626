@@ -1,0 +1,1 @@
+{"id":15626,"className":"java.awt.Toolkit","methodName":"beep","signature":"\u003cjava.awt.Toolkit: void beep()\u003e","javadoc":"/** \n * Emits an audio beep.\n * @since     JDK1.1\n */\n","tf":{"freq":{"emit":1,"audio":1,"beep":2},"maxFreq":2,"totalTerms":4},"loc":0}

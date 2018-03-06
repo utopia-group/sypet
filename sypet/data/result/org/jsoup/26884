@@ -1,0 +1,1 @@
+{"id":26884,"className":"org.jsoup.Connection$KeyVal","methodName":"key","signature":"\u003corg.jsoup.Connection$KeyVal: java.lang.String key()\u003e","javadoc":"/** \n * Get the key of a keyval\n * @return the key\n */\n","tf":{"freq":{"keyval":1,"key":3},"maxFreq":3,"totalTerms":4},"loc":0}

@@ -1,0 +1,1 @@
+{"id":10816,"className":"javax.management.monitor.CounterMonitor$CounterMonitorObservedObject","methodName":"setModulusExceeded","signature":"\u003cjavax.management.monitor.CounterMonitor$CounterMonitorObservedObject: void setModulusExceeded(boolean)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":22752,"className":"java.util.concurrent.Exchanger$Node","methodName":"Node","signature":"\u003cjava.util.concurrent.Exchanger$Node: void Node(java.lang.Object)\u003e","javadoc":"/** \n * Creates node with given item and empty hole.\n * @param item the item\n */\n","tf":{"freq":{"node":2,"given":1,"creat":1,"item":3,"hole":1,"empti":1},"maxFreq":3,"totalTerms":9},"loc":3}

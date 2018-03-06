@@ -1,0 +1,1 @@
+{"id":15741,"className":"java.awt.List","methodName":"add","signature":"\u003cjava.awt.List: void add(java.lang.String)\u003e","javadoc":"/** \n * Adds the specified item to the end of scrolling list.\n * @param item the item to be added\n * @since JDK1.1\n */\n","tf":{"freq":{"scroll":1,"item":3,"ad":1,"list":1,"add":2,"end":1,"specifi":1},"maxFreq":3,"totalTerms":10},"loc":3}

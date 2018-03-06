@@ -1,0 +1,1 @@
+{"id":19363,"className":"java.awt.peer.ChoicePeer","methodName":"removeAll","signature":"\u003cjava.awt.peer.ChoicePeer: void removeAll()\u003e","javadoc":"/** \n * Removes all items from the combo box list.\n * @see Choice#removeAll()\n */\n","tf":{"freq":{"item":1,"remov":3,"choic":1,"list":1,"box":1,"combo":1},"maxFreq":3,"totalTerms":8},"loc":0}

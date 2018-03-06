@@ -1,0 +1,1 @@
+{"id":21615,"className":"java.util.Observable","methodName":"Observable","signature":"\u003cjava.util.Observable: void Observable()\u003e","javadoc":"/** \n * Construct an Observable with zero Observers. \n */\n","tf":{"freq":{"observ":3,"construct":1,"zero":1},"maxFreq":3,"totalTerms":5},"loc":3}

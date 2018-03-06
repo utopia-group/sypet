@@ -1,0 +1,1 @@
+{"id":17418,"className":"java.awt.Cursor","methodName":"getDefaultCursor","signature":"\u003cjava.awt.Cursor: java.awt.Cursor getDefaultCursor()\u003e","javadoc":"/** \n * Return the system default cursor.\n */\n","tf":{"freq":{"system":1,"cursor":2},"maxFreq":2,"totalTerms":3},"loc":3}

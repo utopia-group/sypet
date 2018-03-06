@@ -1,0 +1,1 @@
+{"id":17938,"className":"javax.swing.plaf.basic.BasicSplitPaneUI","methodName":"setLastDragLocation","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneUI: void setLastDragLocation(int)\u003e","javadoc":"/** \n * Set the last drag location of the JSplitPane.\n */\n","tf":{"freq":{"locat":2,"last":2,"jsplit":1,"drag":2,"pane":1},"maxFreq":2,"totalTerms":8},"loc":3}

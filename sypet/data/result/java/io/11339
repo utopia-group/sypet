@@ -1,0 +1,1 @@
+{"id":11339,"className":"java.io.CharArrayWriter","methodName":"size","signature":"\u003cjava.io.CharArrayWriter: int size()\u003e","javadoc":"/** \n * Returns the current size of the buffer.\n * @return an int representing the current size of the buffer.\n */\n","tf":{"freq":{"buffer":2,"repres":1,"current":2,"size":3},"maxFreq":3,"totalTerms":8},"loc":3}

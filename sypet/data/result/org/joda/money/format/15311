@@ -1,0 +1,1 @@
+{"id":15311,"className":"org.joda.money.format.MoneyPrintContext","methodName":"getLocale","signature":"\u003corg.joda.money.format.MoneyPrintContext: java.util.Locale getLocale()\u003e","javadoc":"/** \n * Gets the locale.\n * @return the locale, never null\n */\n","tf":{"freq":{"never":1,"local":3},"maxFreq":3,"totalTerms":4},"loc":3}

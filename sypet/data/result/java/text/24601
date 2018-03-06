@@ -1,0 +1,1 @@
+{"id":24601,"className":"java.text.FieldPosition","methodName":"getField","signature":"\u003cjava.text.FieldPosition: int getField()\u003e","javadoc":"/** \n * Retrieves the field identifier.\n */\n","tf":{"freq":{"field":2,"retriev":1,"identifi":1},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":21440,"className":"java.util.WeakHashMap$EntrySet","methodName":"iterator","signature":"\u003cjava.util.WeakHashMap$EntrySet: java.util.Iterator\u003cjava.util.Map.Entry\u003cK,V\u003e\u003e iterator()\u003e","loc":3}

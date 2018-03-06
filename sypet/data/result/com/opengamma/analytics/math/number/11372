@@ -1,0 +1,1 @@
+{"id":11372,"className":"com.opengamma.analytics.math.number.ComplexNumber","methodName":"getImaginary","signature":"\u003ccom.opengamma.analytics.math.number.ComplexNumber: double getImaginary()\u003e","javadoc":"/** \n * @return The imaginary part\n */\n","tf":{"freq":{"imaginari":2,"part":1},"maxFreq":2,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12452,"className":"com.opengamma.analytics.math.cube.InterpolatedFromSurfacesDoublesCube","methodName":"getValue","signature":"\u003ccom.opengamma.analytics.math.cube.InterpolatedFromSurfacesDoublesCube: java.lang.Double getValue(java.lang.Double,java.lang.Double,java.lang.Double)\u003e","loc":35}

@@ -1,0 +1,1 @@
+{"id":27469,"className":"org.jsoup.parser.Tag","methodName":"getName","signature":"\u003corg.jsoup.parser.Tag: java.lang.String getName()\u003e","javadoc":"/** \n * Get this tag\u0027s name.\n * @return the tag\u0027s name\n */\n","tf":{"freq":{"tag":2,"name":3},"maxFreq":3,"totalTerms":5},"loc":3}

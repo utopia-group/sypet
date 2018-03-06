@@ -1,0 +1,1 @@
+{"id":27436,"className":"org.jsoup.parser.TokenQueue","methodName":"advance","signature":"\u003corg.jsoup.parser.TokenQueue: void advance()\u003e","javadoc":"/** \n * Drops the next character off the queue.\n */\n","tf":{"freq":{"queue":1,"charact":1,"advanc":1,"drop":1,"next":1},"maxFreq":1,"totalTerms":5},"loc":3}

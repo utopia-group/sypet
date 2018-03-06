@@ -1,0 +1,1 @@
+{"id":12047,"className":"javax.naming.directory.BasicAttributes","methodName":"getAll","signature":"\u003cjavax.naming.directory.BasicAttributes: javax.naming.NamingEnumeration\u003cjavax.naming.directory.Attribute\u003e getAll()\u003e","loc":3}

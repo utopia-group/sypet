@@ -1,0 +1,1 @@
+{"id":22751,"className":"javax.swing.text.html.TableView","methodName":"getColumnCount","signature":"\u003cjavax.swing.text.html.TableView: int getColumnCount()\u003e","javadoc":"/** \n * The number of columns in the table.\n */\n","tf":{"freq":{"count":1,"tabl":1,"column":2,"number":1},"maxFreq":2,"totalTerms":5},"loc":3}

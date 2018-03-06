@@ -1,0 +1,1 @@
+{"id":14234,"className":"org.joda.time.format.DateTimeFormatterBuilder$TextField","methodName":"estimatePrintedLength","signature":"\u003corg.joda.time.format.DateTimeFormatterBuilder$TextField: int estimatePrintedLength()\u003e","loc":3}

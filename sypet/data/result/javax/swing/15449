@@ -1,0 +1,1 @@
+{"id":15449,"className":"javax.swing.JLayeredPane","methodName":"JLayeredPane","signature":"\u003cjavax.swing.JLayeredPane: void JLayeredPane()\u003e","javadoc":"/** \n * Create a new JLayeredPane \n */\n","tf":{"freq":{"creat":1,"layer":1,"jlayer":1,"pane":2},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":18728,"className":"org.apache.commons.math3.stat.descriptive.SynchronizedMultivariateSummaryStatistics","methodName":"getSum","signature":"\u003corg.apache.commons.math3.stat.descriptive.SynchronizedMultivariateSummaryStatistics: double[] getSum()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"sum":1},"maxFreq":1,"totalTerms":1},"loc":3}

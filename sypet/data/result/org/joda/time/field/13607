@@ -1,0 +1,1 @@
+{"id":13607,"className":"org.joda.time.field.UnsupportedDurationField","methodName":"isPrecise","signature":"\u003corg.joda.time.field.UnsupportedDurationField: boolean isPrecise()\u003e","javadoc":"/** \n * This field is precise.\n * @return true always\n */\n","tf":{"freq":{"field":1,"alway":1,"precis":2,"true":1},"maxFreq":2,"totalTerms":5},"loc":3}

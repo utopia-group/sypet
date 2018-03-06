@@ -1,0 +1,1 @@
+{"id":21649,"className":"org.apache.commons.math3.linear.ArrayRealVector","methodName":"map","signature":"\u003corg.apache.commons.math3.linear.ArrayRealVector: org.apache.commons.math3.linear.ArrayRealVector map(org.apache.commons.math3.analysis.UnivariateFunction)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"map":1},"maxFreq":1,"totalTerms":1},"loc":3}

@@ -1,0 +1,1 @@
+{"id":23911,"className":"java.util.jar.Attributes$Name","methodName":"hashCode","signature":"\u003cjava.util.jar.Attributes$Name: int hashCode()\u003e","javadoc":"/** \n * Computes the hash value for this attribute name.\n */\n","tf":{"freq":{"attribut":1,"hash":2,"name":1,"comput":1,"valu":1},"maxFreq":2,"totalTerms":6},"loc":6}

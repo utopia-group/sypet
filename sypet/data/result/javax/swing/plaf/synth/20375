@@ -1,0 +1,1 @@
+{"id":20375,"className":"javax.swing.plaf.synth.ParsedSynthStyle$DelegatingPainter","methodName":"paintRadioButtonBorder","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$DelegatingPainter: void paintRadioButtonBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":4}

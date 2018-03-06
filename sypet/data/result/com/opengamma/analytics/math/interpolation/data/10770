@@ -1,0 +1,1 @@
+{"id":10770,"className":"com.opengamma.analytics.math.interpolation.data.Interpolator1DDoubleQuadraticDataBundle","methodName":"higherKey","signature":"\u003ccom.opengamma.analytics.math.interpolation.data.Interpolator1DDoubleQuadraticDataBundle: java.lang.Double higherKey(java.lang.Double)\u003e","loc":3}

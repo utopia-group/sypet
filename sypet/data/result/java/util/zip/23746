@@ -1,0 +1,1 @@
+{"id":23746,"className":"java.util.zip.Inflater","methodName":"Inflater","signature":"\u003cjava.util.zip.Inflater: void Inflater()\u003e","javadoc":"/** \n * Creates a new decompressor.\n */\n","tf":{"freq":{"decompressor":1,"creat":1,"inflat":1},"maxFreq":1,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":16970,"className":"javax.swing.tree.VariableHeightLayoutCache$TreeStateNode","methodName":"getXOrigin","signature":"\u003cjavax.swing.tree.VariableHeightLayoutCache$TreeStateNode: int getXOrigin()\u003e","javadoc":"/** \n * @return x location to draw node at.\n */\n","tf":{"freq":{"draw":1,"node":1,"locat":1,"xorigin":1},"maxFreq":1,"totalTerms":4},"loc":5}

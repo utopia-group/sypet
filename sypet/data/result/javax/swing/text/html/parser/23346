@@ -1,0 +1,1 @@
+{"id":23346,"className":"javax.swing.text.html.parser.Parser","methodName":"parse","signature":"\u003cjavax.swing.text.html.parser.Parser: void parse(java.io.Reader)\u003e","javadoc":"/** \n * Parse an HTML stream, given a DTD.\n */\n","tf":{"freq":{"stream":1,"given":1,"pars":2},"maxFreq":2,"totalTerms":4},"loc":46}

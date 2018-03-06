@@ -1,0 +1,1 @@
+{"id":22387,"className":"org.apache.commons.math.MathConfigurationException","methodName":"MathConfigurationException","signature":"\u003corg.apache.commons.math.MathConfigurationException: void MathConfigurationException()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"math":1,"except":1,"configur":1,"constructor":1},"maxFreq":1,"totalTerms":4},"loc":3}

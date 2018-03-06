@@ -1,0 +1,1 @@
+{"id":20899,"className":"javax.swing.plaf.synth.SynthParser","methodName":"setDocumentLocator","signature":"\u003cjavax.swing.plaf.synth.SynthParser: void setDocumentLocator(org.xml.sax.Locator)\u003e","loc":5}

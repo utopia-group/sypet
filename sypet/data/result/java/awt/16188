@@ -1,0 +1,1 @@
+{"id":16188,"className":"java.awt.Rectangle","methodName":"isEmpty","signature":"\u003cjava.awt.Rectangle: boolean isEmpty()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"empti":1},"maxFreq":1,"totalTerms":1},"loc":3}

@@ -1,0 +1,1 @@
+{"id":26540,"className":"javax.xml.bind.util.ValidationEventCollector","methodName":"reset","signature":"\u003cjavax.xml.bind.util.ValidationEventCollector: void reset()\u003e","javadoc":"/** \n * Clear all collected errors and warnings.\n */\n","tf":{"freq":{"warn":1,"clear":1,"error":1,"reset":1,"collect":1},"maxFreq":1,"totalTerms":5},"loc":3}

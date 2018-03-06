@@ -1,0 +1,1 @@
+{"id":27159,"className":"org.jsoup.nodes.Comment","methodName":"getData","signature":"\u003corg.jsoup.nodes.Comment: java.lang.String getData()\u003e","javadoc":"/** \n * Get the contents of the comment.\n * @return comment content\n */\n","tf":{"freq":{"content":2,"data":1,"comment":2},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":21879,"className":"org.apache.commons.math3.linear.NonPositiveDefiniteMatrixException","methodName":"getColumn","signature":"\u003corg.apache.commons.math3.linear.NonPositiveDefiniteMatrixException: int getColumn()\u003e","javadoc":"/** \n * @return the column index.\n */\n","tf":{"freq":{"index":1,"column":2},"maxFreq":2,"totalTerms":3},"loc":3}

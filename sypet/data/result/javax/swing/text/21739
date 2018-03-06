@@ -1,0 +1,1 @@
+{"id":21739,"className":"javax.swing.text.GapContent$MarkVector","methodName":"elementAt","signature":"\u003cjavax.swing.text.GapContent$MarkVector: javax.swing.text.GapContent$MarkData elementAt(int)\u003e","javadoc":"/** \n * Fetches the mark at the given index\n */\n","tf":{"freq":{"fetch":1,"element":1,"index":1,"given":1,"mark":1},"maxFreq":1,"totalTerms":5},"loc":13}

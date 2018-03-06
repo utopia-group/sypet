@@ -1,0 +1,1 @@
+{"id":16975,"className":"javax.swing.tree.VariableHeightLayoutCache$TreeStateNode","methodName":"getRow","signature":"\u003cjavax.swing.tree.VariableHeightLayoutCache$TreeStateNode: int getRow()\u003e","javadoc":"/** \n * Returns the row of the receiver.\n */\n","tf":{"freq":{"receiv":1,"row":2},"maxFreq":2,"totalTerms":3},"loc":3}

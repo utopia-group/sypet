@@ -1,0 +1,1 @@
+{"id":14762,"className":"java.nio.channels.Pipe","methodName":"source","signature":"\u003cjava.nio.channels.Pipe: java.nio.channels.Pipe$SourceChannel source()\u003e","javadoc":"/** \n * Returns this pipe\u0027s source channel.  \u003c/p\u003e\n * @return  This pipe\u0027s source channel\n */\n","tf":{"freq":{"sourc":3,"channel":2,"pipe":2},"maxFreq":3,"totalTerms":7},"loc":0}

@@ -1,0 +1,1 @@
+{"id":14516,"className":"java.lang.invoke.MemberName","methodName":"isMethod","signature":"\u003cjava.lang.invoke.MemberName: boolean isMethod()\u003e","javadoc":"/** \n * Query whether this member is a method. \n */\n","tf":{"freq":{"member":1,"queri":1,"method":2,"whether":1},"maxFreq":2,"totalTerms":5},"loc":3}

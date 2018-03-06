@@ -1,0 +1,1 @@
+{"id":12806,"className":"java.beans.NameGenerator","methodName":"unqualifiedClassName","signature":"\u003cjava.beans.NameGenerator: java.lang.String unqualifiedClassName(java.lang.Class)\u003e","javadoc":"/** \n * Returns the root name of the class.\n */\n","tf":{"freq":{"root":1,"unqualifi":1,"name":2},"maxFreq":2,"totalTerms":4},"loc":7}

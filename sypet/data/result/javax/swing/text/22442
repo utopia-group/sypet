@@ -1,0 +1,1 @@
+{"id":22442,"className":"javax.swing.text.DefaultFormatter$DefaultNavigationFilter","methodName":"getNextVisualPositionFrom","signature":"\u003cjavax.swing.text.DefaultFormatter$DefaultNavigationFilter: int getNextVisualPositionFrom(javax.swing.text.JTextComponent,int,javax.swing.text.Position$Bias,int,javax.swing.text.Position.Bias[])\u003e","loc":10}

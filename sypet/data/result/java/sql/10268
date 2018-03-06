@@ -1,0 +1,1 @@
+{"id":10268,"className":"java.sql.Date","methodName":"toString","signature":"\u003cjava.sql.Date: java.lang.String toString()\u003e","javadoc":"/** \n * Formats a date in the date escape format yyyy-mm-dd. \u003cP\u003e\n * @return a String in yyyy-mm-dd format\n */\n","tf":{"freq":{"string":2,"format":3,"date":2,"yyyi":2,"escap":1},"maxFreq":3,"totalTerms":10},"loc":17}

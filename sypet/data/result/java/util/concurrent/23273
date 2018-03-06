@@ -1,0 +1,1 @@
+{"id":23273,"className":"java.util.concurrent.LinkedTransferQueue","methodName":"take","signature":"\u003cjava.util.concurrent.LinkedTransferQueue: E take()\u003e","loc":7}

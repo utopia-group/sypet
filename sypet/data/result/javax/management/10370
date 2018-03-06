@@ -1,0 +1,1 @@
+{"id":10370,"className":"javax.management.Attribute","methodName":"getValue","signature":"\u003cjavax.management.Attribute: java.lang.Object getValue()\u003e","javadoc":"/** \n * Returns an Object that is the value of this attribute.\n * @return the value of the attribute.\n */\n","tf":{"freq":{"attribut":2,"valu":3,"object":1},"maxFreq":3,"totalTerms":6},"loc":3}

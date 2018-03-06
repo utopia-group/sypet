@@ -1,0 +1,1 @@
+{"id":28989,"className":"javax.sound.sampled.Port$Info","methodName":"equals","signature":"\u003cjavax.sound.sampled.Port$Info: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * Finalizes the equals method\n */\n","tf":{"freq":{"method":1,"equal":2},"maxFreq":2,"totalTerms":3},"loc":3}

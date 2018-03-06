@@ -1,0 +1,1 @@
+{"id":15117,"className":"java.nio.file.FileSystemException","methodName":"getFile","signature":"\u003cjava.nio.file.FileSystemException: java.lang.String getFile()\u003e","javadoc":"/** \n * Returns the file used to create this exception.\n * @return  the file (can be {@code null})\n */\n","tf":{"freq":{"except":1,"creat":1,"file":3,"use":1},"maxFreq":3,"totalTerms":6},"loc":3}

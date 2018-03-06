@@ -1,0 +1,1 @@
+{"id":22824,"className":"javax.swing.text.html.ImageView","methodName":"getImage","signature":"\u003cjavax.swing.text.html.ImageView: java.awt.Image getImage()\u003e","javadoc":"/** \n * Returns the image to render.\n */\n","tf":{"freq":{"imag":2,"render":1},"maxFreq":2,"totalTerms":3},"loc":4}

@@ -1,0 +1,1 @@
+{"id":15859,"className":"java.awt.CompositeContext","methodName":"dispose","signature":"\u003cjava.awt.CompositeContext: void dispose()\u003e","javadoc":"/** \n * Releases resources allocated for a context.\n */\n","tf":{"freq":{"resourc":1,"releas":1,"context":1,"dispos":1,"alloc":1},"maxFreq":1,"totalTerms":5},"loc":0}

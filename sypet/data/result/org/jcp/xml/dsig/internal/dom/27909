@@ -1,0 +1,1 @@
+{"id":27909,"className":"org.jcp.xml.dsig.internal.dom.DOMStructure","methodName":"isFeatureSupported","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMStructure: boolean isFeatureSupported(java.lang.String)\u003e","loc":7}

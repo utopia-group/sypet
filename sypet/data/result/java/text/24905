@@ -1,0 +1,1 @@
+{"id":24905,"className":"java.text.Collator","methodName":"clone","signature":"\u003cjava.text.Collator: java.lang.Object clone()\u003e","javadoc":"/** \n * Overrides Cloneable\n */\n","tf":{"freq":{"clone":1,"cloneabl":1},"maxFreq":1,"totalTerms":2},"loc":7}

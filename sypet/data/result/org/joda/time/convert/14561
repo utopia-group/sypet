@@ -1,0 +1,1 @@
+{"id":14561,"className":"org.joda.time.convert.StringConverter","methodName":"getSupportedType","signature":"\u003corg.joda.time.convert.StringConverter: java.lang.Class\u003c?\u003e getSupportedType()\u003e","javadoc":"/** \n * Returns String.class.\n * @return String.class\n */\n","tf":{"freq":{"support":1,"string":2,"type":1},"maxFreq":2,"totalTerms":4},"loc":3}

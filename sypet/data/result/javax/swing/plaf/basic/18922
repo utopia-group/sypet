@@ -1,0 +1,1 @@
+{"id":18922,"className":"javax.swing.plaf.basic.BasicComboPopup","methodName":"show","signature":"\u003cjavax.swing.plaf.basic.BasicComboPopup: void show()\u003e","javadoc":"/** \n * Implementation of ComboPopup.show().\n */\n","tf":{"freq":{"popup":1,"combo":1,"show":2},"maxFreq":2,"totalTerms":4},"loc":6}

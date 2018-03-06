@@ -1,0 +1,1 @@
+{"id":23807,"className":"java.util.jar.JarVerifier","methodName":"update","signature":"\u003cjava.util.jar.JarVerifier: void update(int,byte[],int,int,sun.security.util.ManifestEntryVerifier)\u003e","javadoc":"/** \n * update an array of bytes.\n */\n","tf":{"freq":{"updat":2,"array":1},"maxFreq":2,"totalTerms":3},"loc":11}

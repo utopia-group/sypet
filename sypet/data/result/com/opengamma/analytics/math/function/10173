@@ -1,0 +1,1 @@
+{"id":10173,"className":"com.opengamma.analytics.math.function.DoublesVectorFunctionProvider","methodName":"from","signature":"\u003ccom.opengamma.analytics.math.function.DoublesVectorFunctionProvider: com.opengamma.analytics.math.function.VectorFunction from(java.lang.Double[])\u003e","loc":4}

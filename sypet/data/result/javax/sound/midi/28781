@@ -1,0 +1,1 @@
+{"id":28781,"className":"javax.sound.midi.Track","methodName":"size","signature":"\u003cjavax.sound.midi.Track: int size()\u003e","javadoc":"/** \n * Obtains the number of events in this track.\n * @return the size of the track\u0027s event vector\n */\n","tf":{"freq":{"obtain":1,"vector":1,"event":2,"track":2,"number":1,"size":2},"maxFreq":2,"totalTerms":9},"loc":5}

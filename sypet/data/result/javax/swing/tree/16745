@@ -1,0 +1,1 @@
+{"id":16745,"className":"javax.swing.tree.DefaultTreeCellRenderer","methodName":"setBorderSelectionColor","signature":"\u003cjavax.swing.tree.DefaultTreeCellRenderer: void setBorderSelectionColor(java.awt.Color)\u003e","javadoc":"/** \n * Sets the color to use for the border.\n */\n","tf":{"freq":{"color":2,"select":1,"use":1,"border":2},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":19295,"className":"java.awt.peer.MenuComponentPeer","methodName":"dispose","signature":"\u003cjava.awt.peer.MenuComponentPeer: void dispose()\u003e","javadoc":"/** \n * Disposes the menu component.\n * @see MenuComponent#removeNotify()\n */\n","tf":{"freq":{"notifi":1,"compon":2,"menu":2,"remov":1,"dispos":2},"maxFreq":2,"totalTerms":8},"loc":0}

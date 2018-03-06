@@ -1,0 +1,1 @@
+{"id":14190,"className":"javax.swing.SwingPaintEventDispatcher","methodName":"shouldDoNativeBackgroundErase","signature":"\u003cjavax.swing.SwingPaintEventDispatcher: boolean shouldDoNativeBackgroundErase(java.awt.Component)\u003e","loc":3}

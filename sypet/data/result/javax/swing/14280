@@ -1,0 +1,1 @@
+{"id":14280,"className":"javax.swing.TimerQueue","methodName":"TimerQueue","signature":"\u003cjavax.swing.TimerQueue: void TimerQueue()\u003e","javadoc":"/** \n * Constructor for TimerQueue.\n */\n","tf":{"freq":{"queue":2,"timer":2,"constructor":1},"maxFreq":2,"totalTerms":5},"loc":7}

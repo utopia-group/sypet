@@ -1,0 +1,1 @@
+{"id":14660,"className":"java.nio.Buffer","methodName":"limit","signature":"\u003cjava.nio.Buffer: int limit()\u003e","javadoc":"/** \n * Returns this buffer\u0027s limit. \u003c/p\u003e\n * @return  The limit of this buffer\n */\n","tf":{"freq":{"buffer":2,"limit":3},"maxFreq":3,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":21313,"className":"javax.swing.text.JTextComponent","methodName":"getInputMethodRequests","signature":"\u003cjavax.swing.text.JTextComponent: java.awt.im.InputMethodRequests getInputMethodRequests()\u003e","loc":11}

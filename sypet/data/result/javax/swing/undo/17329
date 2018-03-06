@@ -1,0 +1,1 @@
+{"id":17329,"className":"javax.swing.undo.UndoableEditSupport","methodName":"beginUpdate","signature":"\u003cjavax.swing.undo.UndoableEditSupport: void beginUpdate()\u003e","javadoc":"/** \n */\n","tf":{"freq":{"updat":1,"begin":1},"maxFreq":1,"totalTerms":2},"loc":6}

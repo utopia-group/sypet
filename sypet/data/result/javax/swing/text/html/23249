@@ -1,0 +1,1 @@
+{"id":23249,"className":"javax.swing.text.html.StyleSheet","methodName":"getPointSize","signature":"\u003cjavax.swing.text.html.StyleSheet: float getPointSize(int)\u003e","javadoc":"/** \n * Returns the point size, given a size index.\n */\n","tf":{"freq":{"point":2,"index":1,"given":1,"size":3},"maxFreq":3,"totalTerms":7},"loc":3}

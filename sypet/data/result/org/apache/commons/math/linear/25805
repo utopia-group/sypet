@@ -1,0 +1,1 @@
+{"id":25805,"className":"org.apache.commons.math.linear.BigMatrix","methodName":"copy","signature":"\u003corg.apache.commons.math.linear.BigMatrix: org.apache.commons.math.linear.BigMatrix copy()\u003e","javadoc":"/** \n * Returns a (deep) copy of this.\n * @return matrix copy\n */\n","tf":{"freq":{"matrix":1,"deep":1,"copi":3},"maxFreq":3,"totalTerms":5},"loc":0}

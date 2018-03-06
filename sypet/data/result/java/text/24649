@@ -1,0 +1,1 @@
+{"id":24649,"className":"java.text.AttributedString$AttributedStringIterator","methodName":"getRunStart","signature":"\u003cjava.text.AttributedString$AttributedStringIterator: int getRunStart(java.text.AttributedCharacterIterator$Attribute)\u003e","loc":18}

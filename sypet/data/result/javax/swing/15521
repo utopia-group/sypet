@@ -1,0 +1,1 @@
+{"id":15521,"className":"javax.swing.JComboBox","methodName":"showPopup","signature":"\u003cjavax.swing.JComboBox: void showPopup()\u003e","javadoc":"/** \n * Causes the combo box to display its popup window.\n * @see #setPopupVisible\n */\n","tf":{"freq":{"caus":1,"window":1,"visibl":1,"popup":3,"display":1,"box":1,"combo":1,"show":1},"maxFreq":3,"totalTerms":10},"loc":3}

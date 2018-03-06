@@ -1,0 +1,1 @@
+{"id":12636,"className":"java.beans.XMLDecoder","methodName":"getOwner","signature":"\u003cjava.beans.XMLDecoder: java.lang.Object getOwner()\u003e","javadoc":"/** \n * Gets the owner of this decoder.\n * @return The owner of this decoder.\n * @see #setOwner\n */\n","tf":{"freq":{"decod":2,"owner":4},"maxFreq":4,"totalTerms":6},"loc":3}

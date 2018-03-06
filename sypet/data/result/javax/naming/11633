@@ -1,0 +1,1 @@
+{"id":11633,"className":"javax.naming.RefAddr","methodName":"getType","signature":"\u003cjavax.naming.RefAddr: java.lang.String getType()\u003e","javadoc":"/** \n * Retrieves the address type of this address.\n * @return The non-null address type of this address.\n */\n","tf":{"freq":{"address":4,"retriev":1,"type":3,"non":1},"maxFreq":4,"totalTerms":9},"loc":3}

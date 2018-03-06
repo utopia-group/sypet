@@ -1,0 +1,1 @@
+{"id":10673,"className":"com.opengamma.analytics.math.interpolation.ProductPiecewisePolynomialInterpolator","methodName":"interpolate","signature":"\u003ccom.opengamma.analytics.math.interpolation.ProductPiecewisePolynomialInterpolator: com.opengamma.analytics.math.interpolation.PiecewisePolynomialResult interpolate(double[],double[])\u003e","loc":14}

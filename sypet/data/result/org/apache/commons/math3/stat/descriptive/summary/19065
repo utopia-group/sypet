@@ -1,0 +1,1 @@
+{"id":19065,"className":"org.apache.commons.math3.stat.descriptive.summary.SumOfSquares","methodName":"getN","signature":"\u003corg.apache.commons.math3.stat.descriptive.summary.SumOfSquares: long getN()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","loc":3}

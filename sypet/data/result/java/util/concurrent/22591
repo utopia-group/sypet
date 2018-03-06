@@ -1,0 +1,1 @@
+{"id":22591,"className":"java.util.concurrent.ConcurrentLinkedDeque","methodName":"clear","signature":"\u003cjava.util.concurrent.ConcurrentLinkedDeque: void clear()\u003e","javadoc":"/** \n * Removes all of the elements from this deque.\n */\n","tf":{"freq":{"clear":1,"element":1,"remov":1,"dequ":1},"maxFreq":1,"totalTerms":4},"loc":4}

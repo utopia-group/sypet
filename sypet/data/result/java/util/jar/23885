@@ -1,0 +1,1 @@
+{"id":23885,"className":"java.util.jar.Manifest$FastInputStream","methodName":"skip","signature":"\u003cjava.util.jar.Manifest$FastInputStream: long skip(long)\u003e","loc":14}

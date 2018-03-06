@@ -1,0 +1,1 @@
+{"id":21724,"className":"javax.swing.text.WhitespaceBasedBreakIterator","methodName":"preceding","signature":"\u003cjavax.swing.text.WhitespaceBasedBreakIterator: int preceding(int)\u003e","loc":3}

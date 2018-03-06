@@ -1,0 +1,1 @@
+{"id":18854,"className":"java.awt.image.renderable.ParameterBlock","methodName":"ParameterBlock","signature":"\u003cjava.awt.image.renderable.ParameterBlock: void ParameterBlock()\u003e","javadoc":"/** \n * A dummy constructor. \n */\n","tf":{"freq":{"paramet":1,"dummi":1,"block":1,"constructor":1},"maxFreq":1,"totalTerms":4},"loc":1}

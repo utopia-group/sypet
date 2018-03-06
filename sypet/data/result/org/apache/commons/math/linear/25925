@@ -1,0 +1,1 @@
+{"id":25925,"className":"org.apache.commons.math.linear.AbstractRealMatrix","methodName":"copySubMatrix","signature":"\u003corg.apache.commons.math.linear.AbstractRealMatrix: void copySubMatrix(int[],int[],double[][])\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"sub":1,"matrix":1,"copi":1},"maxFreq":1,"totalTerms":3},"loc":21}

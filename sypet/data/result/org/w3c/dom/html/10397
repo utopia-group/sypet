@@ -1,0 +1,1 @@
+{"id":10397,"className":"org.w3c.dom.html.HTMLTableElement","methodName":"getTBodies","signature":"\u003corg.w3c.dom.html.HTMLTableElement: org.w3c.dom.html.HTMLCollection getTBodies()\u003e","javadoc":"/** \n * Returns a collection of the defined table bodies.\n */\n","tf":{"freq":{"defin":1,"bodi":1,"tbodi":1,"tabl":1,"collect":1},"maxFreq":1,"totalTerms":5},"loc":0}

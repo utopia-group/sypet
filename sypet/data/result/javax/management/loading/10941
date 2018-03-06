@@ -1,0 +1,1 @@
+{"id":10941,"className":"javax.management.loading.MLetObjectInputStream","methodName":"getClassLoader","signature":"\u003cjavax.management.loading.MLetObjectInputStream: java.lang.ClassLoader getClassLoader()\u003e","javadoc":"/** \n * Returns the ClassLoader being used\n */\n","tf":{"freq":{"loader":2,"use":1},"maxFreq":2,"totalTerms":3},"loc":3}

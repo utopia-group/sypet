@@ -1,0 +1,1 @@
+{"id":24273,"className":"javax.print.attribute.URISyntax","methodName":"getURI","signature":"\u003cjavax.print.attribute.URISyntax: java.net.URI getURI()\u003e","javadoc":"/** \n * Returns this URI attribute\u0027s URI value.\n * @return the URI.\n */\n","tf":{"freq":{"attribut":1,"valu":1},"maxFreq":1,"totalTerms":2},"loc":3}

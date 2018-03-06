@@ -1,0 +1,1 @@
+{"id":15715,"className":"javax.swing.MenuElement","methodName":"processKeyEvent","signature":"\u003cjavax.swing.MenuElement: void processKeyEvent(java.awt.event.KeyEvent,javax.swing.MenuElement[],javax.swing.MenuSelectionManager)\u003e","javadoc":"/** \n * Process a key event.\n */\n","tf":{"freq":{"process":2,"event":2,"key":2},"maxFreq":2,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":19681,"className":"java.awt.geom.Point2D$Double","methodName":"getY","signature":"\u003cjava.awt.geom.Point2D$Double: double getY()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","loc":3}

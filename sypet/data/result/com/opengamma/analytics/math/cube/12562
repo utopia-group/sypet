@@ -1,0 +1,1 @@
+{"id":12562,"className":"com.opengamma.analytics.math.cube.FunctionalDoublesCube","methodName":"getValue","signature":"\u003ccom.opengamma.analytics.math.cube.FunctionalDoublesCube: java.lang.Double getValue(java.lang.Double,java.lang.Double,java.lang.Double)\u003e","loc":6}

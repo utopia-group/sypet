@@ -1,0 +1,1 @@
+{"id":14306,"className":"javax.swing.GrayFilter","methodName":"createDisabledImage","signature":"\u003cjavax.swing.GrayFilter: java.awt.Image createDisabledImage(java.awt.Image)\u003e","javadoc":"/** \n * Creates a disabled image\n */\n","tf":{"freq":{"disabl":2,"creat":2,"imag":2},"maxFreq":2,"totalTerms":6},"loc":6}

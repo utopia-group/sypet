@@ -1,0 +1,1 @@
+{"id":11351,"className":"com.opengamma.analytics.math.rootfinding.newton.InverseJacobianDirectionFunction","methodName":"InverseJacobianDirectionFunction","signature":"\u003ccom.opengamma.analytics.math.rootfinding.newton.InverseJacobianDirectionFunction: void InverseJacobianDirectionFunction(com.opengamma.analytics.math.matrix.MatrixAlgebra)\u003e","loc":4}

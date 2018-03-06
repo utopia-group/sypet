@@ -1,0 +1,1 @@
+{"id":19301,"className":"javax.swing.plaf.basic.BasicTextAreaUI","methodName":"BasicTextAreaUI","signature":"\u003cjavax.swing.plaf.basic.BasicTextAreaUI: void BasicTextAreaUI()\u003e","javadoc":"/** \n * Constructs a new BasicTextAreaUI object.\n */\n","tf":{"freq":{"text":2,"area":2,"basic":2,"object":1,"construct":1},"maxFreq":2,"totalTerms":8},"loc":3}

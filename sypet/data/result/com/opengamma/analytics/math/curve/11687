@@ -1,0 +1,1 @@
+{"id":11687,"className":"com.opengamma.analytics.math.curve.NodalDoublesCurve","methodName":"getYValueParameterSensitivity","signature":"\u003ccom.opengamma.analytics.math.curve.NodalDoublesCurve: java.lang.Double[] getYValueParameterSensitivity(java.lang.Double)\u003e","loc":3}

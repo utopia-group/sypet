@@ -1,0 +1,1 @@
+{"id":18255,"className":"javax.swing.plaf.basic.BasicCheckBoxMenuItemUI","methodName":"processMouseEvent","signature":"\u003cjavax.swing.plaf.basic.BasicCheckBoxMenuItemUI: void processMouseEvent(javax.swing.JMenuItem,java.awt.event.MouseEvent,javax.swing.MenuElement[],javax.swing.MenuSelectionManager)\u003e","loc":17}

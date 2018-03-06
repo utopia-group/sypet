@@ -1,0 +1,1 @@
+{"id":10201,"className":"javax.management.BinaryRelQueryExp","methodName":"getLeftValue","signature":"\u003cjavax.management.BinaryRelQueryExp: javax.management.ValueExp getLeftValue()\u003e","javadoc":"/** \n * Returns the left value of the query.\n */\n","tf":{"freq":{"queri":1,"valu":2,"left":2},"maxFreq":2,"totalTerms":5},"loc":3}

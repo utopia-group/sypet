@@ -1,0 +1,1 @@
+{"id":21908,"className":"java.util.Collections$UnmodifiableMap","methodName":"entrySet","signature":"\u003cjava.util.Collections$UnmodifiableMap: java.util.Set\u003cjava.util.Map.Entry\u003cK,V\u003e\u003e entrySet()\u003e","loc":5}

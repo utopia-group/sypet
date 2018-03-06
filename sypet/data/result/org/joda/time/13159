@@ -1,0 +1,1 @@
+{"id":13159,"className":"org.joda.time.MutableDateTime","methodName":"secondOfDay","signature":"\u003corg.joda.time.MutableDateTime: org.joda.time.MutableDateTime$Property secondOfDay()\u003e","javadoc":"/** \n * Get the second of day property\n * @return the second of day property\n */\n","tf":{"freq":{"second":3,"properti":2,"day":3},"maxFreq":3,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":28333,"className":"javax.security.auth.kerberos.KerberosKey","methodName":"getVersionNumber","signature":"\u003cjavax.security.auth.kerberos.KerberosKey: int getVersionNumber()\u003e","javadoc":"/** \n * Returns the key version number.\n * @return the key version number.\n */\n","tf":{"freq":{"number":3,"key":2,"version":3},"maxFreq":3,"totalTerms":8},"loc":5}

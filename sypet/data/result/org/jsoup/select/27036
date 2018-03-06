@@ -1,0 +1,1 @@
+{"id":27036,"className":"org.jsoup.select.StructuralEvaluator$PreviousSibling","methodName":"matches","signature":"\u003corg.jsoup.select.StructuralEvaluator$PreviousSibling: boolean matches(org.jsoup.nodes.Element,org.jsoup.nodes.Element)\u003e","loc":14}

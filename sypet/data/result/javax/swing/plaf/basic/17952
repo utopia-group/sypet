@@ -1,0 +1,1 @@
+{"id":17952,"className":"javax.swing.plaf.basic.BasicSplitPaneUI","methodName":"resetToPreferredSizes","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneUI: void resetToPreferredSizes(javax.swing.JSplitPane)\u003e","javadoc":"/** \n * Messaged to reset the preferred sizes.\n */\n","tf":{"freq":{"messag":1,"reset":2,"prefer":2,"size":2},"maxFreq":2,"totalTerms":7},"loc":7}

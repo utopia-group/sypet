@@ -1,0 +1,1 @@
+{"id":16593,"className":"javax.swing.border.AbstractBorder","methodName":"isBorderOpaque","signature":"\u003cjavax.swing.border.AbstractBorder: boolean isBorderOpaque()\u003e","javadoc":"/** \n * This default implementation returns false.\n * @return false\n */\n","tf":{"freq":{"fals":2,"opaqu":1,"border":1},"maxFreq":2,"totalTerms":4},"loc":1}

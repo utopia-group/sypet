@@ -1,0 +1,1 @@
+{"id":10936,"className":"javax.management.loading.MLetParser","methodName":"scanIdentifier","signature":"\u003cjavax.management.loading.MLetParser: java.lang.String scanIdentifier(java.io.Reader)\u003e","javadoc":"/** \n * Scan identifier\n */\n","tf":{"freq":{"identifi":2,"scan":2},"maxFreq":2,"totalTerms":4},"loc":13}

@@ -1,0 +1,1 @@
+{"id":20183,"className":"org.apache.commons.math3.geometry.spherical.twod.S2Point","methodName":"getSpace","signature":"\u003corg.apache.commons.math3.geometry.spherical.twod.S2Point: org.apache.commons.math3.geometry.Space getSpace()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"space":1},"maxFreq":1,"totalTerms":1},"loc":3}

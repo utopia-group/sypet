@@ -1,0 +1,1 @@
+{"id":12186,"className":"javax.naming.ldap.InitialLdapContext","methodName":"extendedOperation","signature":"\u003cjavax.naming.ldap.InitialLdapContext: javax.naming.ldap.ExtendedResponse extendedOperation(javax.naming.ldap.ExtendedRequest)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":14499,"className":"javax.swing.JToggleButton$ToggleButtonModel","methodName":"isSelected","signature":"\u003cjavax.swing.JToggleButton$ToggleButtonModel: boolean isSelected()\u003e","javadoc":"/** \n * Checks if the button is selected.\n */\n","tf":{"freq":{"check":1,"button":1,"select":2},"maxFreq":2,"totalTerms":4},"loc":7}

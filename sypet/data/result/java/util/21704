@@ -1,0 +1,1 @@
+{"id":21704,"className":"java.util.IllegalFormatPrecisionException","methodName":"getPrecision","signature":"\u003cjava.util.IllegalFormatPrecisionException: int getPrecision()\u003e","javadoc":"/** \n * Returns the precision\n * @return  The precision\n */\n","tf":{"freq":{"precis":3},"maxFreq":3,"totalTerms":3},"loc":3}

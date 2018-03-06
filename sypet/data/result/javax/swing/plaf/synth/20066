@@ -1,0 +1,1 @@
+{"id":20066,"className":"javax.swing.plaf.synth.ImagePainter","methodName":"paintScrollPaneBackground","signature":"\u003cjavax.swing.plaf.synth.ImagePainter: void paintScrollPaneBackground(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":3}

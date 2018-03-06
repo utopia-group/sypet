@@ -1,0 +1,1 @@
+{"id":19159,"className":"java.awt.im.InputContext","methodName":"getInstance","signature":"\u003cjava.awt.im.InputContext: java.awt.im.InputContext getInstance()\u003e","javadoc":"/** \n * Returns a new InputContext instance.\n */\n","tf":{"freq":{"input":1,"context":1,"instanc":2},"maxFreq":2,"totalTerms":4},"loc":3}

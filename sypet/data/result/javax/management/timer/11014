@@ -1,0 +1,1 @@
+{"id":11014,"className":"javax.management.timer.Timer","methodName":"Timer","signature":"\u003cjavax.management.timer.Timer: void Timer()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"timer":1,"constructor":1},"maxFreq":1,"totalTerms":2},"loc":2}

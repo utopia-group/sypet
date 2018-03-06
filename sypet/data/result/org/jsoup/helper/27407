@@ -1,0 +1,1 @@
+{"id":27407,"className":"org.jsoup.helper.DescendableLinkedList$DescendingIterator","methodName":"next","signature":"\u003corg.jsoup.helper.DescendableLinkedList$DescendingIterator: E next()\u003e","javadoc":"/** \n * Get the next element.\n * @return the next element.\n */\n","tf":{"freq":{"element":2,"next":3},"maxFreq":3,"totalTerms":5},"loc":3}

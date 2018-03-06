@@ -1,0 +1,1 @@
+{"id":10682,"className":"com.opengamma.analytics.math.interpolation.InverseMultiquadraticRadialBasisFunction","methodName":"evaluate","signature":"\u003ccom.opengamma.analytics.math.interpolation.InverseMultiquadraticRadialBasisFunction: java.lang.Double evaluate(java.lang.Double)\u003e","loc":3}

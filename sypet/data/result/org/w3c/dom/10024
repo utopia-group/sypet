@@ -1,0 +1,1 @@
+{"id":10024,"className":"org.w3c.dom.Node","methodName":"getNodeType","signature":"\u003corg.w3c.dom.Node: short getNodeType()\u003e","javadoc":"/** \n * A code representing the type of the underlying object, as defined above.\n */\n","tf":{"freq":{"defin":1,"node":1,"repres":1,"object":1,"type":2},"maxFreq":2,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":11863,"className":"org.joda.time.PeriodType","methodName":"getName","signature":"\u003corg.joda.time.PeriodType: java.lang.String getName()\u003e","javadoc":"/** \n * Gets the name of the period type.\n * @return the name\n */\n","tf":{"freq":{"name":3,"type":1,"period":1},"maxFreq":3,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":20319,"className":"java.util.Stack","methodName":"Stack","signature":"\u003cjava.util.Stack: void Stack()\u003e","javadoc":"/** \n * Creates an empty Stack.\n */\n","tf":{"freq":{"creat":1,"stack":2,"empti":1},"maxFreq":2,"totalTerms":4},"loc":2}

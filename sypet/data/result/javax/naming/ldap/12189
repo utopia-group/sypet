@@ -1,0 +1,1 @@
+{"id":12189,"className":"javax.naming.ldap.InitialLdapContext","methodName":"getConnectControls","signature":"\u003cjavax.naming.ldap.InitialLdapContext: javax.naming.ldap.Control[] getConnectControls()\u003e","loc":3}

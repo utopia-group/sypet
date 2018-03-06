@@ -1,0 +1,1 @@
+{"id":10917,"className":"javax.management.monitor.MonitorMBean","methodName":"stop","signature":"\u003cjavax.management.monitor.MonitorMBean: void stop()\u003e","javadoc":"/** \n * Stops the monitor.\n */\n","tf":{"freq":{"stop":2,"monitor":1},"maxFreq":2,"totalTerms":3},"loc":0}

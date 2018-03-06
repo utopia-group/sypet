@@ -1,0 +1,1 @@
+{"id":10286,"className":"org.w3c.dom.html.HTMLBaseElement","methodName":"getHref","signature":"\u003corg.w3c.dom.html.HTMLBaseElement: java.lang.String getHref()\u003e","javadoc":"/** \n * The base URI. See the  href attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"attribut":1,"definit":1,"base":1,"href":2},"maxFreq":2,"totalTerms":5},"loc":0}

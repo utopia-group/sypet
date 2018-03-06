@@ -1,0 +1,1 @@
+{"id":14308,"className":"javax.swing.GrayFilter","methodName":"filterRGB","signature":"\u003cjavax.swing.GrayFilter: int filterRGB(int,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eRGBImageFilter.filterRGB\u003c/code\u003e.\n */\n","tf":{"freq":{"bimag":1,"filter":3},"maxFreq":3,"totalTerms":4},"loc":16}

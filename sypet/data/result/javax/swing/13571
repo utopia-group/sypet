@@ -1,0 +1,1 @@
+{"id":13571,"className":"javax.swing.SpringLayout","methodName":"SpringLayout","signature":"\u003cjavax.swing.SpringLayout: void SpringLayout()\u003e","javadoc":"/** \n * Constructs a new \u003ccode\u003eSpringLayout\u003c/code\u003e.\n */\n","tf":{"freq":{"layout":2,"construct":1,"spring":2},"maxFreq":2,"totalTerms":5},"loc":1}

@@ -1,0 +1,1 @@
+{"id":23131,"className":"java.util.concurrent.LinkedBlockingDeque","methodName":"offer","signature":"\u003cjava.util.concurrent.LinkedBlockingDeque: boolean offer(E)\u003e","javadoc":"/** \n * @throws NullPointerException if the specified element is null\n */\n","tf":{"freq":{"element":1,"except":1,"pointer":1,"offer":1,"specifi":1},"maxFreq":1,"totalTerms":5},"loc":3}

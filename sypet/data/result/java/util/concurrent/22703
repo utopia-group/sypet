@@ -1,0 +1,1 @@
+{"id":22703,"className":"java.util.concurrent.ThreadPoolExecutor","methodName":"isTerminated","signature":"\u003cjava.util.concurrent.ThreadPoolExecutor: boolean isTerminated()\u003e","loc":3}

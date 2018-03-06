@@ -1,0 +1,1 @@
+{"id":11864,"className":"org.joda.time.PeriodType","methodName":"size","signature":"\u003corg.joda.time.PeriodType: int size()\u003e","javadoc":"/** \n * Gets the number of fields in the period type.\n * @return the number of fields\n */\n","tf":{"freq":{"field":2,"number":2,"type":1,"period":1,"size":1},"maxFreq":2,"totalTerms":7},"loc":3}

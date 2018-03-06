@@ -1,0 +1,1 @@
+{"id":23996,"className":"org.apache.commons.math.stat.Frequency","methodName":"addValue","signature":"\u003corg.apache.commons.math.stat.Frequency: void addValue(char)\u003e","javadoc":"/** \n * Adds 1 to the frequency count for v.\n * @param v the value to add.\n */\n","tf":{"freq":{"count":1,"frequenc":1,"valu":2,"add":3},"maxFreq":3,"totalTerms":7},"loc":3}

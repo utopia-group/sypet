@@ -1,0 +1,1 @@
+{"id":19952,"className":"javax.swing.plaf.synth.SynthGraphicsUtils","methodName":"SynthGraphicsUtils","signature":"\u003cjavax.swing.plaf.synth.SynthGraphicsUtils: void SynthGraphicsUtils()\u003e","javadoc":"/** \n * Creates a \u003ccode\u003eSynthGraphicsUtils\u003c/code\u003e.\n */\n","tf":{"freq":{"graphic":2,"creat":1,"synth":2,"util":2},"maxFreq":2,"totalTerms":7},"loc":2}

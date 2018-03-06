@@ -1,0 +1,1 @@
+{"id":21826,"className":"javax.swing.text.TextAction","methodName":"TextAction","signature":"\u003cjavax.swing.text.TextAction: void TextAction(java.lang.String)\u003e","javadoc":"/** \n * Creates a new JTextAction object.\n * @param name the name of the action\n */\n","tf":{"freq":{"text":1,"jtext":1,"creat":1,"name":2,"action":3,"object":1},"maxFreq":3,"totalTerms":9},"loc":3}

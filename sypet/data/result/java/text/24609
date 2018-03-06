@@ -1,0 +1,1 @@
+{"id":24609,"className":"java.text.FieldPosition$Delegate","methodName":"formatted","signature":"\u003cjava.text.FieldPosition$Delegate: void formatted(java.text.Format$Field,java.lang.Object,int,int,java.lang.StringBuffer)\u003e","loc":7}

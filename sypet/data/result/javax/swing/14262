@@ -1,0 +1,1 @@
+{"id":14262,"className":"javax.swing.RepaintManager$PaintManager","methodName":"endPaint","signature":"\u003cjavax.swing.RepaintManager$PaintManager: void endPaint()\u003e","javadoc":"/** \n * Invoked to indicate painting has been completed.\n */\n","tf":{"freq":{"indic":1,"invok":1,"paint":2,"end":1,"complet":1},"maxFreq":2,"totalTerms":6},"loc":2}

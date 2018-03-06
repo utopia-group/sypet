@@ -1,0 +1,1 @@
+{"id":27116,"className":"org.jsoup.nodes.Document","methodName":"body","signature":"\u003corg.jsoup.nodes.Document: org.jsoup.nodes.Element body()\u003e","javadoc":"/** \n * Accessor to the document\u0027s  {@code body} element.\n * @return {@code body}\n */\n","tf":{"freq":{"element":1,"document":1,"bodi":3,"accessor":1},"maxFreq":3,"totalTerms":6},"loc":3}

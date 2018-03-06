@@ -1,0 +1,1 @@
+{"id":28197,"className":"javax.security.auth.callback.LanguageCallback","methodName":"LanguageCallback","signature":"\u003cjavax.security.auth.callback.LanguageCallback: void LanguageCallback()\u003e","javadoc":"/** \n * Construct a \u003ccode\u003eLanguageCallback\u003c/code\u003e.\n */\n","tf":{"freq":{"callback":2,"languag":2,"construct":1},"maxFreq":2,"totalTerms":5},"loc":1}

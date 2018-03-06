@@ -1,0 +1,1 @@
+{"id":18966,"className":"java.awt.font.GlyphMetrics","methodName":"getType","signature":"\u003cjava.awt.font.GlyphMetrics: int getType()\u003e","javadoc":"/** \n * Returns the raw glyph type code.\n * @return the raw glyph type code.\n */\n","tf":{"freq":{"raw":2,"glyph":2,"type":3},"maxFreq":3,"totalTerms":7},"loc":3}

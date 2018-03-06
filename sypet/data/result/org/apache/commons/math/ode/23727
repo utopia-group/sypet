@@ -1,0 +1,1 @@
+{"id":23727,"className":"org.apache.commons.math.ode.MultistepIntegrator$NordsieckInitializer","methodName":"reset","signature":"\u003corg.apache.commons.math.ode.MultistepIntegrator$NordsieckInitializer: void reset()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"reset":1},"maxFreq":1,"totalTerms":1},"loc":3}

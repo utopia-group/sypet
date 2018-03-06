@@ -1,0 +1,1 @@
+{"id":18031,"className":"java.awt.dnd.peer.DragSourceContextPeer","methodName":"getCursor","signature":"\u003cjava.awt.dnd.peer.DragSourceContextPeer: java.awt.Cursor getCursor()\u003e","javadoc":"/** \n * return the current drag cursor\n */\n","tf":{"freq":{"cursor":2,"drag":1,"current":1},"maxFreq":2,"totalTerms":4},"loc":0}

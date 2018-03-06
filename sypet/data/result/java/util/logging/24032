@@ -1,0 +1,1 @@
+{"id":24032,"className":"java.util.logging.Level","methodName":"getName","signature":"\u003cjava.util.logging.Level: java.lang.String getName()\u003e","javadoc":"/** \n * Return the non-localized string name of the Level.\n * @return non-localized name\n */\n","tf":{"freq":{"level":1,"string":1,"name":3,"local":2,"non":2},"maxFreq":3,"totalTerms":9},"loc":3}

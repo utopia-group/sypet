@@ -1,0 +1,1 @@
+{"id":19326,"className":"java.awt.peer.FramePeer","methodName":"setTitle","signature":"\u003cjava.awt.peer.FramePeer: void setTitle(java.lang.String)\u003e","javadoc":"/** \n * Sets the title on the frame.\n * @param title the title to set\n * @see Frame#setTitle(String)\n */\n","tf":{"freq":{"frame":2,"titl":5,"string":1},"maxFreq":5,"totalTerms":8},"loc":0}

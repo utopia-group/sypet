@@ -1,0 +1,1 @@
+{"id":12557,"className":"org.joda.time.DateTimeZone","methodName":"isFixed","signature":"\u003corg.joda.time.DateTimeZone: boolean isFixed()\u003e","javadoc":"/** \n * Returns true if this time zone has no transitions.\n * @return true if no transitions\n */\n","tf":{"freq":{"time":1,"fix":1,"true":2,"transit":2,"zone":1},"maxFreq":2,"totalTerms":7},"loc":0}

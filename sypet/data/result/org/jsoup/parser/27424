@@ -1,0 +1,1 @@
+{"id":27424,"className":"org.jsoup.parser.TokenQueue","methodName":"isEmpty","signature":"\u003corg.jsoup.parser.TokenQueue: boolean isEmpty()\u003e","javadoc":"/** \n * Is the queue empty?\n * @return true if no data left in queue.\n */\n","tf":{"freq":{"queue":2,"data":1,"true":1,"left":1,"empti":2},"maxFreq":2,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":10509,"className":"javax.management.BinaryOpValueExp","methodName":"getLeftValue","signature":"\u003cjavax.management.BinaryOpValueExp: javax.management.ValueExp getLeftValue()\u003e","javadoc":"/** \n * Returns the left value of the value expression.\n */\n","tf":{"freq":{"valu":3,"left":2,"express":1},"maxFreq":3,"totalTerms":6},"loc":3}

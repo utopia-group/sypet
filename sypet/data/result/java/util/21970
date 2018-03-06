@@ -1,0 +1,1 @@
+{"id":21970,"className":"java.util.Collections$SynchronizedList","methodName":"listIterator","signature":"\u003cjava.util.Collections$SynchronizedList: java.util.ListIterator\u003cE\u003e listIterator()\u003e","loc":3}

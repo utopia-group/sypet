@@ -1,0 +1,1 @@
+{"id":22509,"className":"javax.swing.text.rtf.RTFReader$DocumentDestination","methodName":"deliverText","signature":"\u003cjavax.swing.text.rtf.RTFReader$DocumentDestination: void deliverText(java.lang.String,javax.swing.text.AttributeSet)\u003e","loc":11}

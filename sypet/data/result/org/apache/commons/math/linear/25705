@@ -1,0 +1,1 @@
+{"id":25705,"className":"org.apache.commons.math.linear.Array2DRowFieldMatrix","methodName":"getData","signature":"\u003corg.apache.commons.math.linear.Array2DRowFieldMatrix: T[][] getData()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"data":1},"maxFreq":1,"totalTerms":1},"loc":3}

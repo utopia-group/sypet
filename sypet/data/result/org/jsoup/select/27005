@@ -1,0 +1,1 @@
+{"id":27005,"className":"org.jsoup.select.Evaluator$IsOnlyOfType","methodName":"matches","signature":"\u003corg.jsoup.select.Evaluator$IsOnlyOfType: boolean matches(org.jsoup.nodes.Element,org.jsoup.nodes.Element)\u003e","loc":11}

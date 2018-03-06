@@ -1,0 +1,1 @@
+{"id":11223,"className":"com.opengamma.analytics.math.linearalgebra.SVDecompositionColtResult","methodName":"getRank","signature":"\u003ccom.opengamma.analytics.math.linearalgebra.SVDecompositionColtResult: int getRank()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"rank":1},"maxFreq":1,"totalTerms":1},"loc":3}

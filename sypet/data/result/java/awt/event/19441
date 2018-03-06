@@ -1,0 +1,1 @@
+{"id":19441,"className":"java.awt.event.MouseListener","methodName":"mouseReleased","signature":"\u003cjava.awt.event.MouseListener: void mouseReleased(java.awt.event.MouseEvent)\u003e","javadoc":"/** \n * Invoked when a mouse button has been released on a component.\n */\n","tf":{"freq":{"compon":1,"releas":2,"button":1,"invok":1,"mous":2},"maxFreq":2,"totalTerms":7},"loc":0}

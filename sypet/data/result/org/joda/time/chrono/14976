@@ -1,0 +1,1 @@
+{"id":14976,"className":"org.joda.time.chrono.LimitChronology$LimitDurationField","methodName":"getValueAsLong","signature":"\u003corg.joda.time.chrono.LimitChronology$LimitDurationField: long getValueAsLong(long,long)\u003e","loc":4}

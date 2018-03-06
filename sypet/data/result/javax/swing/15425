@@ -1,0 +1,1 @@
+{"id":15425,"className":"javax.swing.DebugGraphics","methodName":"draw3DRect","signature":"\u003cjavax.swing.DebugGraphics: void draw3DRect(int,int,int,int,boolean)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.draw3DRect\u003c/code\u003e.\n */\n","tf":{"freq":{"draw":2,"graphic":1,"drect":2},"maxFreq":2,"totalTerms":5},"loc":30}

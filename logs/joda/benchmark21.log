@@ -1,0 +1,178 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/joda/21/benchmark21.json
+     [java] Benchmark Id: 21
+     [java] Method name: dayOfWeek
+     [java] Packages: [org.joda.time]
+     [java] Libraries: [./lib/joda-time-2.8.2.jar]
+     [java] Source type(s): [java.lang.String, java.lang.String]
+     [java] Target type: java.lang.String
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] Warning: org.joda.convert.ToString is a phantom class!
+     [java] Warning: org.joda.convert.FromString is a phantom class!
+     [java] PetriNet for path length: 1 [places: 29 ; transitions: 405 ; edges: 1138]
+     [java] PetriNet for path length: 2 [places: 124 ; transitions: 2451 ; edges: 6339]
+     [java] PetriNet for path length: 3 [places: 161 ; transitions: 2827 ; edges: 7350]
+     [java] PetriNet for path length: 4 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] PetriNet for path length: 5 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.joda.time.Chronology sypet_var191 = new org.joda.time.Chronology();org.joda.time.MutableDateTime sypet_var192 = org.joda.time.MutableDateTime.parse(sypet_arg1);sypet_var192.setChronology(sypet_var191);return sypet_arg0;}
+     [java] 	                                            ^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type Chronology
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.joda.time.Chronology sypet_var191 = new org.joda.time.Chronology();org.joda.time.MutableDateTime sypet_var192 = org.joda.time.MutableDateTime.parse(sypet_arg0);sypet_var192.setChronology(sypet_var191);return sypet_arg1;}
+     [java] 	                                            ^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type Chronology
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.joda.time.DateTimeField sypet_var196 = new org.joda.time.DateTimeField();org.joda.time.MutableDateTime sypet_var197 = org.joda.time.MutableDateTime.parse(sypet_arg1);sypet_var197.setRounding(sypet_var196);return sypet_arg0;}
+     [java] 	                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type DateTimeField
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.joda.time.DateTimeField sypet_var196 = new org.joda.time.DateTimeField();org.joda.time.MutableDateTime sypet_var197 = org.joda.time.MutableDateTime.parse(sypet_arg0);sypet_var197.setRounding(sypet_var196);return sypet_arg1;}
+     [java] 	                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type DateTimeField
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.joda.time.Chronology sypet_var231 = new org.joda.time.Chronology();org.joda.time.MutableInterval sypet_var232 = org.joda.time.MutableInterval.parse(sypet_arg1);sypet_var232.setChronology(sypet_var231);return sypet_arg0;}
+     [java] 	                                            ^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type Chronology
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.joda.time.Chronology sypet_var231 = new org.joda.time.Chronology();org.joda.time.MutableInterval sypet_var232 = org.joda.time.MutableInterval.parse(sypet_arg0);sypet_var232.setChronology(sypet_var231);return sypet_arg1;}
+     [java] 	                                            ^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type Chronology
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.joda.time.Chronology sypet_var523 = new org.joda.time.Chronology();org.joda.time.DateTimeField sypet_var524 = sypet_var523.weekOfWeekyear();org.joda.time.MutableDateTime sypet_var525 = org.joda.time.MutableDateTime.parse(sypet_arg1);sypet_var525.setRounding(sypet_var524);return sypet_arg0;}
+     [java] 	                                            ^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type Chronology
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.joda.time.Chronology sypet_var523 = new org.joda.time.Chronology();org.joda.time.DateTimeField sypet_var524 = sypet_var523.weekOfWeekyear();org.joda.time.MutableDateTime sypet_var525 = org.joda.time.MutableDateTime.parse(sypet_arg0);sypet_var525.setRounding(sypet_var524);return sypet_arg1;}
+     [java] 	                                            ^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type Chronology
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.joda.time.Chronology sypet_var529 = new org.joda.time.Chronology();org.joda.time.DateTimeField sypet_var530 = sypet_var529.dayOfWeek();org.joda.time.MutableDateTime sypet_var531 = org.joda.time.MutableDateTime.parse(sypet_arg1);sypet_var531.setRounding(sypet_var530);return sypet_arg0;}
+     [java] 	                                            ^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type Chronology
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.joda.time.Chronology sypet_var529 = new org.joda.time.Chronology();org.joda.time.DateTimeField sypet_var530 = sypet_var529.dayOfWeek();org.joda.time.MutableDateTime sypet_var531 = org.joda.time.MutableDateTime.parse(sypet_arg0);sypet_var531.setRounding(sypet_var530);return sypet_arg1;}
+     [java] 	                                            ^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type Chronology
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.YearMonthDay sypet_var577 = new org.joda.time.YearMonthDay();org.joda.time.MutableDateTime sypet_var578 = org.joda.time.MutableDateTime.parse(sypet_arg1);int sypet_var579 = sypet_var577.size();sypet_var578.addWeeks(sypet_var579);return sypet_arg0;}
+     [java] 	              ^^^^^^^^^^^^
+     [java] The type YearMonthDay is deprecated
+     [java] ----------
+     [java] 2. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.YearMonthDay sypet_var577 = new org.joda.time.YearMonthDay();org.joda.time.MutableDateTime sypet_var578 = org.joda.time.MutableDateTime.parse(sypet_arg1);int sypet_var579 = sypet_var577.size();sypet_var578.addWeeks(sypet_var579);return sypet_arg0;}
+     [java] 	                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] The constructor YearMonthDay() is deprecated
+     [java] ----------
+     [java] 3. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.YearMonthDay sypet_var577 = new org.joda.time.YearMonthDay();org.joda.time.MutableDateTime sypet_var578 = org.joda.time.MutableDateTime.parse(sypet_arg1);int sypet_var579 = sypet_var577.size();sypet_var578.addWeeks(sypet_var579);return sypet_arg0;}
+     [java] 	                                                            ^^^^^^^^^^^^
+     [java] The type YearMonthDay is deprecated
+     [java] ----------
+     [java] 4. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.YearMonthDay sypet_var577 = new org.joda.time.YearMonthDay();org.joda.time.MutableDateTime sypet_var578 = org.joda.time.MutableDateTime.parse(sypet_arg1);int sypet_var579 = sypet_var577.size();sypet_var578.addWeeks(sypet_var579);return sypet_arg0;}
+     [java] 	                                                                                                                                                                                                        ^^^^^^
+     [java] The method size() from the type YearMonthDay is deprecated
+     [java] ----------
+     [java] 4 problems (4 warnings)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.YearMonthDay sypet_var577 = new org.joda.time.YearMonthDay();org.joda.time.MutableDateTime sypet_var578 = org.joda.time.MutableDateTime.parse(sypet_arg0);int sypet_var579 = sypet_var577.size();sypet_var578.addWeeks(sypet_var579);return sypet_arg1;}
+     [java] 	              ^^^^^^^^^^^^
+     [java] The type YearMonthDay is deprecated
+     [java] ----------
+     [java] 2. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.YearMonthDay sypet_var577 = new org.joda.time.YearMonthDay();org.joda.time.MutableDateTime sypet_var578 = org.joda.time.MutableDateTime.parse(sypet_arg0);int sypet_var579 = sypet_var577.size();sypet_var578.addWeeks(sypet_var579);return sypet_arg1;}
+     [java] 	                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] The constructor YearMonthDay() is deprecated
+     [java] ----------
+     [java] 3. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.YearMonthDay sypet_var577 = new org.joda.time.YearMonthDay();org.joda.time.MutableDateTime sypet_var578 = org.joda.time.MutableDateTime.parse(sypet_arg0);int sypet_var579 = sypet_var577.size();sypet_var578.addWeeks(sypet_var579);return sypet_arg1;}
+     [java] 	                                                            ^^^^^^^^^^^^
+     [java] The type YearMonthDay is deprecated
+     [java] ----------
+     [java] 4. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.YearMonthDay sypet_var577 = new org.joda.time.YearMonthDay();org.joda.time.MutableDateTime sypet_var578 = org.joda.time.MutableDateTime.parse(sypet_arg0);int sypet_var579 = sypet_var577.size();sypet_var578.addWeeks(sypet_var579);return sypet_arg1;}
+     [java] 	                                                                                                                                                                                                        ^^^^^^
+     [java] The method size() from the type YearMonthDay is deprecated
+     [java] ----------
+     [java] 4 problems (4 warnings)
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 21
+     [java] Sketch Generation Time: 39015.93755000001
+     [java] Sketch Completion Time: 188.57375400000004
+     [java] Compilation Time: 11979.875414
+     [java] Running Test cases Time: 8067.007299999995
+     [java] Synthesis Time: 47271.518604000004
+     [java] Total Time: 59251.394018000006
+     [java] Number of components: 4
+     [java] Number of holes: 6
+     [java] Number of completed programs: 376
+     [java] Number of sketches: 126
+     [java] 
+     [java] Solution:
+     [java]  org.joda.time.format.DateTimeFormatter sypet_var649 = org.joda.time.format.DateTimeFormat.forPattern(sypet_arg1);
+     [java]  org.joda.time.DateTime sypet_var650 = org.joda.time.DateTime.parse(sypet_arg0,sypet_var649);
+     [java]  org.joda.time.DateTime.Property sypet_var651 = sypet_var650.dayOfWeek();
+     [java]  java.lang.String sypet_var652 = sypet_var651.getAsText();
+     [java]  return sypet_var652;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 1 minute 8 seconds

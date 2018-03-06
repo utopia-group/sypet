@@ -1,0 +1,1 @@
+{"id":25654,"className":"org.apache.commons.math.linear.FieldVector","methodName":"getData","signature":"\u003corg.apache.commons.math.linear.FieldVector: T[] getData()\u003e","javadoc":"/** \n * Returns vector entries as a T array.\n * @return T array of entries\n */\n","tf":{"freq":{"entri":2,"vector":1,"data":1,"array":2},"maxFreq":2,"totalTerms":6},"loc":0}

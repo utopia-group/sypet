@@ -1,0 +1,1 @@
+{"id":14009,"className":"javax.swing.SingleSelectionModel","methodName":"clearSelection","signature":"\u003cjavax.swing.SingleSelectionModel: void clearSelection()\u003e","javadoc":"/** \n * Clears the selection (to -1).\n */\n","tf":{"freq":{"clear":2,"select":2},"maxFreq":2,"totalTerms":4},"loc":0}

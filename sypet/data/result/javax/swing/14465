@@ -1,0 +1,1 @@
+{"id":14465,"className":"javax.swing.ActionMap","methodName":"ActionMap","signature":"\u003cjavax.swing.ActionMap: void ActionMap()\u003e","javadoc":"/** \n * Creates an \u003ccode\u003eActionMap\u003c/code\u003e with no parent and no mappings.\n */\n","tf":{"freq":{"creat":1,"map":3,"action":2,"parent":1},"maxFreq":3,"totalTerms":7},"loc":2}

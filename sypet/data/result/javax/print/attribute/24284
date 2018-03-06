@@ -1,0 +1,1 @@
+{"id":24284,"className":"javax.print.attribute.HashDocAttributeSet","methodName":"HashDocAttributeSet","signature":"\u003cjavax.print.attribute.HashDocAttributeSet: void HashDocAttributeSet()\u003e","javadoc":"/** \n * Construct a new, empty hash doc attribute set.\n */\n","tf":{"freq":{"attribut":2,"hash":2,"construct":1,"empti":1},"maxFreq":2,"totalTerms":6},"loc":3}

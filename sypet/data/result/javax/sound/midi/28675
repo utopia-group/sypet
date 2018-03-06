@@ -1,0 +1,1 @@
+{"id":28675,"className":"javax.sound.midi.MidiDevice$Info","methodName":"hashCode","signature":"\u003cjavax.sound.midi.MidiDevice$Info: int hashCode()\u003e","javadoc":"/** \n * Finalizes the hashcode method.\n */\n","tf":{"freq":{"hash":1,"hashcod":1,"method":1},"maxFreq":1,"totalTerms":3},"loc":3}

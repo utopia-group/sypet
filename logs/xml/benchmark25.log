@@ -1,0 +1,61 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/xml/25/benchmark25.json
+     [java] Benchmark Id: 25
+     [java] Method name: getTitle
+     [java] Packages: [org.jsoup]
+     [java] Libraries: [./lib/jsoup-1.8.3.jar]
+     [java] Source type(s): [java.lang.String]
+     [java] Target type: java.lang.String
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] PetriNet for path length: 1 [places: 33 ; transitions: 376 ; edges: 926]
+     [java] PetriNet for path length: 2 [places: 81 ; transitions: 661 ; edges: 1642]
+     [java] PetriNet for path length: 3 [places: 92 ; transitions: 710 ; edges: 1760]
+     [java] PetriNet for path length: 4 [places: 92 ; transitions: 710 ; edges: 1760]
+     [java] PetriNet for path length: 5 [places: 92 ; transitions: 710 ; edges: 1760]
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 25
+     [java] Sketch Generation Time: 1044.790734
+     [java] Sketch Completion Time: 341.24339299999986
+     [java] Compilation Time: 12984.393640999991
+     [java] Running Test cases Time: 8911.151853000007
+     [java] Synthesis Time: 10297.185980000006
+     [java] Total Time: 23281.579620999997
+     [java] Number of components: 3
+     [java] Number of holes: 4
+     [java] Number of completed programs: 553
+     [java] Number of sketches: 277
+     [java] 
+     [java] Solution:
+     [java]  org.jsoup.Connection sypet_var1150 = org.jsoup.Jsoup.connect(sypet_arg0);
+     [java]  org.jsoup.nodes.Document sypet_var1151 = sypet_var1150.get();
+     [java]  java.lang.String sypet_var1152 = sypet_var1151.title();
+     [java]  return sypet_var1152;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 27 seconds

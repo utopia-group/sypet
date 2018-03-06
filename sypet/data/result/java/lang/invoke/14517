@@ -1,0 +1,1 @@
+{"id":14517,"className":"java.lang.invoke.MemberName","methodName":"isConstructor","signature":"\u003cjava.lang.invoke.MemberName: boolean isConstructor()\u003e","javadoc":"/** \n * Query whether this member is a constructor. \n */\n","tf":{"freq":{"member":1,"queri":1,"whether":1,"constructor":2},"maxFreq":2,"totalTerms":5},"loc":3}

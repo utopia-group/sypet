@@ -1,0 +1,1 @@
+{"id":17552,"className":"org.apache.commons.math3.analysis.solvers.LaguerreSolver","methodName":"doSolve","signature":"\u003corg.apache.commons.math3.analysis.solvers.LaguerreSolver: double doSolve()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"solv":1},"maxFreq":1,"totalTerms":1},"loc":38}

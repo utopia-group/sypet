@@ -1,0 +1,1 @@
+{"id":14880,"className":"org.joda.time.chrono.GJYearOfEraDateTimeField","methodName":"getMinimumValue","signature":"\u003corg.joda.time.chrono.GJYearOfEraDateTimeField: int getMinimumValue()\u003e","loc":3}

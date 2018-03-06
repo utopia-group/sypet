@@ -1,0 +1,1 @@
+{"id":10170,"className":"com.opengamma.analytics.math.function.InterpolatedCurveVectorFunction","methodName":"getLengthOfDomain","signature":"\u003ccom.opengamma.analytics.math.function.InterpolatedCurveVectorFunction: int getLengthOfDomain()\u003e","loc":3}

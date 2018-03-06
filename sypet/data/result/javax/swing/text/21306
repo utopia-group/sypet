@@ -1,0 +1,1 @@
+{"id":21306,"className":"javax.swing.text.JTextComponent$MutableCaretEvent","methodName":"focusGained","signature":"\u003cjavax.swing.text.JTextComponent$MutableCaretEvent: void focusGained(java.awt.event.FocusEvent)\u003e","loc":4}

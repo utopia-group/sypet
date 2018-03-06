@@ -1,0 +1,1 @@
+{"id":25588,"className":"javax.imageio.spi.SubRegistry","methodName":"setOrdering","signature":"\u003cjavax.imageio.spi.SubRegistry: boolean setOrdering(java.lang.Object,java.lang.Object)\u003e","loc":3}

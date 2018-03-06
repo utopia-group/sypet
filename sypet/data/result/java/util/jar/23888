@@ -1,0 +1,1 @@
+{"id":23888,"className":"java.util.jar.Attributes","methodName":"Attributes","signature":"\u003cjava.util.jar.Attributes: void Attributes()\u003e","javadoc":"/** \n * Constructs a new, empty Attributes object with default size.\n */\n","tf":{"freq":{"attribut":2,"object":1,"construct":1,"size":1,"empti":1},"maxFreq":2,"totalTerms":6},"loc":3}

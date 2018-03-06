@@ -1,0 +1,1 @@
+{"id":25046,"className":"javax.imageio.ImageTypeSpecifier","methodName":"hashCode","signature":"\u003cjavax.imageio.ImageTypeSpecifier: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code for this ImageTypeSpecifier.\n * @return a hash code for this ImageTypeSpecifier\n */\n","tf":{"freq":{"hash":3,"type":2,"imag":2,"specifi":2},"maxFreq":3,"totalTerms":9},"loc":3}

@@ -1,0 +1,1 @@
+{"id":21376,"className":"javax.swing.text.StyledEditorKit$ItalicAction","methodName":"ItalicAction","signature":"\u003cjavax.swing.text.StyledEditorKit$ItalicAction: void ItalicAction()\u003e","javadoc":"/** \n * Constructs a new ItalicAction.\n */\n","tf":{"freq":{"action":2,"ital":2,"construct":1},"maxFreq":2,"totalTerms":5},"loc":3}

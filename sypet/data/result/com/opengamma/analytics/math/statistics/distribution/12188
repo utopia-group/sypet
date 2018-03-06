@@ -1,0 +1,1 @@
+{"id":12188,"className":"com.opengamma.analytics.math.statistics.distribution.GammaDistribution","methodName":"getPDF","signature":"\u003ccom.opengamma.analytics.math.statistics.distribution.GammaDistribution: double getPDF(java.lang.Double)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","loc":4}

@@ -1,0 +1,1 @@
+{"id":20344,"className":"javax.swing.plaf.synth.ParsedSynthStyle$DelegatingPainter","methodName":"paintFormattedTextFieldBorder","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$DelegatingPainter: void paintFormattedTextFieldBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":4}

@@ -1,0 +1,1 @@
+{"id":10368,"className":"com.opengamma.analytics.math.interpolation.CombinedInterpolatorExtrapolatorFactory","methodName":"getInterpolator","signature":"\u003ccom.opengamma.analytics.math.interpolation.CombinedInterpolatorExtrapolatorFactory: com.opengamma.analytics.math.interpolation.CombinedInterpolatorExtrapolator getInterpolator(java.lang.String)\u003e","loc":4}

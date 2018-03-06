@@ -1,0 +1,1 @@
+{"id":20403,"className":"org.apache.commons.math3.geometry.euclidean.twod.Vector2D","methodName":"distanceInf","signature":"\u003corg.apache.commons.math3.geometry.euclidean.twod.Vector2D: double distanceInf(org.apache.commons.math3.geometry.Vector)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"inf":1,"distanc":1},"maxFreq":1,"totalTerms":2},"loc":6}

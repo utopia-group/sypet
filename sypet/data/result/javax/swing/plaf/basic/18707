@@ -1,0 +1,1 @@
+{"id":18707,"className":"javax.swing.plaf.basic.BasicToolBarUI","methodName":"canDock","signature":"\u003cjavax.swing.plaf.basic.BasicToolBarUI: boolean canDock(java.awt.Component,java.awt.Point)\u003e","loc":3}

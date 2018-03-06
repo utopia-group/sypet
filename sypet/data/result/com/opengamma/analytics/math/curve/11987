@@ -1,0 +1,1 @@
+{"id":11987,"className":"com.opengamma.analytics.math.curve.ConstantDoublesCurve","methodName":"getDyDx","signature":"\u003ccom.opengamma.analytics.math.curve.ConstantDoublesCurve: double getDyDx(double)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":15479,"className":"javax.swing.Box","methodName":"createVerticalGlue","signature":"\u003cjavax.swing.Box: java.awt.Component createVerticalGlue()\u003e","javadoc":"/** \n * Creates a vertical glue component.\n * @return the component\n */\n","tf":{"freq":{"compon":2,"vertic":2,"creat":2,"glue":2},"maxFreq":2,"totalTerms":8},"loc":4}

@@ -1,0 +1,1 @@
+{"id":10029,"className":"javax.management.MBeanAttributeInfo","methodName":"getType","signature":"\u003cjavax.management.MBeanAttributeInfo: java.lang.String getType()\u003e","javadoc":"/** \n * Returns the class name of the attribute.\n * @return the class name.\n */\n","tf":{"freq":{"attribut":1,"name":2,"type":1},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11367,"className":"com.opengamma.analytics.math.performance.SimpleTimer","methodName":"elapsedTime","signature":"\u003ccom.opengamma.analytics.math.performance.SimpleTimer: long elapsedTime()\u003e","loc":7}

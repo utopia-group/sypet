@@ -1,0 +1,1 @@
+{"id":15004,"className":"org.joda.time.chrono.LimitChronology$LimitDateTimeField","methodName":"getMinimumValue","signature":"\u003corg.joda.time.chrono.LimitChronology$LimitDateTimeField: int getMinimumValue(long)\u003e","loc":4}

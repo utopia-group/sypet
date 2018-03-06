@@ -1,0 +1,1 @@
+{"id":17685,"className":"java.awt.datatransfer.MimeType","methodName":"getPrimaryType","signature":"\u003cjava.awt.datatransfer.MimeType: java.lang.String getPrimaryType()\u003e","javadoc":"/** \n * Retrieve the primary type of this object.\n */\n","tf":{"freq":{"retriev":1,"object":1,"type":2,"primari":2},"maxFreq":2,"totalTerms":6},"loc":3}

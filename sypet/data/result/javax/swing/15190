@@ -1,0 +1,1 @@
+{"id":15190,"className":"javax.swing.AbstractButton","methodName":"getActionCommand","signature":"\u003cjavax.swing.AbstractButton: java.lang.String getActionCommand()\u003e","javadoc":"/** \n * Returns the action command for this button.\n * @return the action command for this button\n */\n","tf":{"freq":{"button":2,"command":3,"action":3},"maxFreq":3,"totalTerms":8},"loc":7}

@@ -1,0 +1,1 @@
+{"id":13239,"className":"java.lang.NoSuchFieldException","methodName":"NoSuchFieldException","signature":"\u003cjava.lang.NoSuchFieldException: void NoSuchFieldException()\u003e","javadoc":"/** \n * Constructor.\n */\n","tf":{"freq":{"field":1,"except":1,"constructor":1},"maxFreq":1,"totalTerms":3},"loc":3}

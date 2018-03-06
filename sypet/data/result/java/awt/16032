@@ -1,0 +1,1 @@
+{"id":16032,"className":"","methodName":"calculateSecurityWarningPosition","signature":"\u003c: java.awt.geom.Point2D calculateSecurityWarningPosition(java.awt.Window,double,double,double,double)\u003e","loc":3}

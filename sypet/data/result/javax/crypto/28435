@@ -1,0 +1,1 @@
+{"id":28435,"className":"javax.crypto.Mac","methodName":"getMacLength","signature":"\u003cjavax.crypto.Mac: int getMacLength()\u003e","javadoc":"/** \n * Returns the length of the MAC in bytes.\n * @return the MAC length in bytes.\n */\n","tf":{"freq":{"length":3,"mac":1},"maxFreq":3,"totalTerms":4},"loc":4}

@@ -1,0 +1,1 @@
+{"id":17009,"className":"java.awt.Component$AccessibleAWTComponent","methodName":"getLocale","signature":"\u003cjava.awt.Component$AccessibleAWTComponent: java.util.Locale getLocale()\u003e","javadoc":"/** \n * Returns the locale of this object.\n * @return the locale of this object\n */\n","tf":{"freq":{"object":2,"local":3},"maxFreq":3,"totalTerms":5},"loc":3}

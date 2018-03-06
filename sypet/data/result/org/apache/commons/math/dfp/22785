@@ -1,0 +1,1 @@
+{"id":22785,"className":"org.apache.commons.math.dfp.DfpField","methodName":"getZero","signature":"\u003corg.apache.commons.math.dfp.DfpField: org.apache.commons.math.dfp.Dfp getZero()\u003e","javadoc":"/** \n * Get the constant 0.\n * @return a {@link Dfp} with value 0\n */\n","tf":{"freq":{"constant":1,"link":1,"valu":1,"zero":1,"dfp":1},"maxFreq":1,"totalTerms":5},"loc":3}

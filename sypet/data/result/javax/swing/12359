@@ -1,0 +1,1 @@
+{"id":12359,"className":"javax.swing.JPopupMenu","methodName":"isVisible","signature":"\u003cjavax.swing.JPopupMenu: boolean isVisible()\u003e","javadoc":"/** \n * Returns true if the popup menu is visible (currently being displayed).\n */\n","tf":{"freq":{"popup":1,"visibl":2,"menu":1,"current":1,"true":1,"display":1},"maxFreq":2,"totalTerms":7},"loc":3}

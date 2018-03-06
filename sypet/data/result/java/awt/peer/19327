@@ -1,0 +1,1 @@
+{"id":19327,"className":"java.awt.peer.FramePeer","methodName":"setMenuBar","signature":"\u003cjava.awt.peer.FramePeer: void setMenuBar(java.awt.MenuBar)\u003e","javadoc":"/** \n * Sets the menu bar for the frame.\n * @param mb the menu bar to set\n * @see Frame#setMenuBar(MenuBar)\n */\n","tf":{"freq":{"frame":2,"menu":5,"bar":5},"maxFreq":5,"totalTerms":12},"loc":0}

@@ -1,0 +1,1 @@
+{"id":24888,"className":"java.text.DigitList","methodName":"set","signature":"\u003cjava.text.DigitList: void set(boolean,long)\u003e","javadoc":"/** \n * Utility routine to set the value of the digit list from a long\n */\n","tf":{"freq":{"digit":1,"routin":1,"list":1,"valu":1,"util":1},"maxFreq":1,"totalTerms":5},"loc":3}

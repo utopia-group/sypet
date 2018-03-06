@@ -1,0 +1,1 @@
+{"id":15022,"className":"org.joda.time.chrono.BasicMonthOfYearDateTimeField","methodName":"roundFloor","signature":"\u003corg.joda.time.chrono.BasicMonthOfYearDateTimeField: long roundFloor(long)\u003e","loc":5}

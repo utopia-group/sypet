@@ -1,0 +1,1 @@
+{"id":21035,"className":"javax.swing.event.TreeSelectionEvent","methodName":"getPaths","signature":"\u003cjavax.swing.event.TreeSelectionEvent: javax.swing.tree.TreePath[] getPaths()\u003e","javadoc":"/** \n * Returns the paths that have been added or removed from the selection.\n */\n","tf":{"freq":{"select":1,"remov":1,"path":2,"ad":1},"maxFreq":2,"totalTerms":5},"loc":9}

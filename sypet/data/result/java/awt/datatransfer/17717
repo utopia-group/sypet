@@ -1,0 +1,1 @@
+{"id":17717,"className":"java.awt.datatransfer.StringSelection","methodName":"lostOwnership","signature":"\u003cjava.awt.datatransfer.StringSelection: void lostOwnership(java.awt.datatransfer.Clipboard,java.awt.datatransfer.Transferable)\u003e","loc":2}

@@ -1,0 +1,1 @@
+{"id":26985,"className":"org.jsoup.select.Evaluator$IsLastChild","methodName":"matches","signature":"\u003corg.jsoup.select.Evaluator$IsLastChild: boolean matches(org.jsoup.nodes.Element,org.jsoup.nodes.Element)\u003e","loc":4}

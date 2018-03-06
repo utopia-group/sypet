@@ -1,0 +1,1 @@
+{"id":12062,"className":"java.net.InetSocketAddress","methodName":"getPort","signature":"\u003cjava.net.InetSocketAddress: int getPort()\u003e","javadoc":"/** \n * Gets the port number.\n * @return the port number.\n */\n","tf":{"freq":{"port":3,"number":2},"maxFreq":3,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":10207,"className":"javax.management.NumericValueExp","methodName":"longValue","signature":"\u003cjavax.management.NumericValueExp: long longValue()\u003e","javadoc":"/** \n * Returns a long numeric value\n */\n","tf":{"freq":{"numer":1,"valu":2},"maxFreq":2,"totalTerms":3},"loc":7}

@@ -1,0 +1,1 @@
+{"id":13325,"className":"java.lang.Package","methodName":"hashCode","signature":"\u003cjava.lang.Package: int hashCode()\u003e","javadoc":"/** \n * Return the hash code computed from the package name.\n * @return the hash code computed from the package name.\n */\n","tf":{"freq":{"hash":3,"name":2,"comput":2},"maxFreq":3,"totalTerms":7},"loc":3}

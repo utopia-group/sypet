@@ -1,0 +1,1 @@
+{"id":23701,"className":"java.util.zip.ZipEntry","methodName":"hashCode","signature":"\u003cjava.util.zip.ZipEntry: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code value for this entry.\n */\n","tf":{"freq":{"hash":2,"entri":1,"valu":1},"maxFreq":2,"totalTerms":4},"loc":3}

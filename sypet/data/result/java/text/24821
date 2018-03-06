@@ -1,0 +1,1 @@
+{"id":24821,"className":"java.text.Bidi","methodName":"getBaseLevel","signature":"\u003cjava.text.Bidi: int getBaseLevel()\u003e","javadoc":"/** \n * Return the base level (0 if left-to-right, 1 if right-to-left).\n * @return the base level\n */\n","tf":{"freq":{"level":3,"base":3,"left":2,"right":2},"maxFreq":3,"totalTerms":10},"loc":3}

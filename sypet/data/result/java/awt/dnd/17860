@@ -1,0 +1,1 @@
+{"id":17860,"className":"java.awt.dnd.DropTargetDropEvent","methodName":"getDropAction","signature":"\u003cjava.awt.dnd.DropTargetDropEvent: int getDropAction()\u003e","javadoc":"/** \n * This method returns the user drop action.\n * @return the user drop actions.\n */\n","tf":{"freq":{"drop":3,"action":3,"method":1,"user":2},"maxFreq":3,"totalTerms":9},"loc":1}

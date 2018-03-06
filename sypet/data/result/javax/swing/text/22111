@@ -1,0 +1,1 @@
+{"id":22111,"className":"javax.swing.text.ZoneView$Zone","methodName":"isLoaded","signature":"\u003cjavax.swing.text.ZoneView$Zone: boolean isLoaded()\u003e","javadoc":"/** \n * Determines if the zone is in the loaded state or not.\n */\n","tf":{"freq":{"determin":1,"state":1,"load":2,"zone":1},"maxFreq":2,"totalTerms":5},"loc":3}

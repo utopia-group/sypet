@@ -1,0 +1,1 @@
+{"id":10350,"className":"javax.management.AndQueryExp","methodName":"getLeftExp","signature":"\u003cjavax.management.AndQueryExp: javax.management.QueryExp getLeftExp()\u003e","javadoc":"/** \n * Returns the left query expression.\n */\n","tf":{"freq":{"queri":1,"exp":1,"left":2,"express":1},"maxFreq":2,"totalTerms":5},"loc":3}

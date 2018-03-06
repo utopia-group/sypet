@@ -1,0 +1,85 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/geometry/13/benchmark13.json
+     [java] Benchmark Id: 13
+     [java] Method name: rotate
+     [java] Packages: [java.awt.geom]
+     [java] Libraries: [./lib/rt7.jar]
+     [java] Source type(s): [java.awt.geom.Area, java.awt.geom.Point2D, double]
+     [java] Target type: java.awt.geom.Area
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] Warning: sun.security.ssl.Krb5Helper is a phantom class!
+     [java] Warning: com.oracle.jrockit.jfr.FlightRecorder is a phantom class!
+     [java] Warning: sun.security.ssl.SSLSocketImpl is a phantom class!
+     [java] Warning: javax.crypto.CipherInputStream is a phantom class!
+     [java] Warning: javax.crypto.CipherOutputStream is a phantom class!
+     [java] Warning: sun.nio.cs.ext.EUC_TW$Decoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.EUC_TW$Encoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.DoubleByteEncoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0201$Encoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0201$Decoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0208_Encoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0208_Decoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0212_Decoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0212_Encoder is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DHParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.interfaces.DHPublicKey is a phantom class!
+     [java] Warning: javax.crypto.spec.DHPublicKeySpec is a phantom class!
+     [java] Warning: javax.crypto.interfaces.DHKey is a phantom class!
+     [java] Warning: javax.crypto.spec.PSource is a phantom class!
+     [java] Warning: javax.crypto.spec.PSource$PSpecified is a phantom class!
+     [java] Warning: javax.crypto.spec.OAEPParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.KeyGenerator is a phantom class!
+     [java] PetriNet for path length: 3 [places: 44 ; transitions: 422 ; edges: 953]
+     [java] PetriNet for path length: 4 [places: 44 ; transitions: 422 ; edges: 953]
+     [java] PetriNet for path length: 5 [places: 44 ; transitions: 422 ; edges: 953]
+     [java] PetriNet for path length: 6 [places: 44 ; transitions: 422 ; edges: 953]
+     [java] PetriNet for path length: 7 [places: 44 ; transitions: 422 ; edges: 953]
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 13
+     [java] Sketch Generation Time: 1781.0815599999999
+     [java] Sketch Completion Time: 142.406519
+     [java] Compilation Time: 8916.532943000002
+     [java] Running Test cases Time: 87.79691200000003
+     [java] Synthesis Time: 2011.2849909999998
+     [java] Total Time: 10927.817934000002
+     [java] Number of components: 5
+     [java] Number of holes: 8
+     [java] Number of completed programs: 226
+     [java] Number of sketches: 67
+     [java] 
+     [java] Solution:
+     [java]  double sypet_var426 = sypet_arg1.getY();
+     [java]  double sypet_var427 = sypet_arg1.getX();
+     [java]  java.awt.geom.AffineTransform sypet_var428 = java.awt.geom.AffineTransform.getRotateInstance(sypet_arg2,sypet_var427,sypet_var426);
+     [java]  java.awt.geom.Area sypet_var429 = sypet_arg0.createTransformedArea(sypet_var428);
+     [java]  return sypet_var429;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 19 seconds

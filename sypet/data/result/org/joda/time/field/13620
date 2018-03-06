@@ -1,0 +1,1 @@
+{"id":13620,"className":"org.joda.time.field.UnsupportedDurationField","methodName":"getUnitMillis","signature":"\u003corg.joda.time.field.UnsupportedDurationField: long getUnitMillis()\u003e","javadoc":"/** \n * Always returns zero.\n * @return zero always\n */\n","tf":{"freq":{"unit":1,"alway":2,"milli":1,"zero":2},"maxFreq":2,"totalTerms":6},"loc":3}

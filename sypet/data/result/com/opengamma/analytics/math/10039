@@ -1,0 +1,1 @@
+{"id":10039,"className":"com.opengamma.analytics.math.TrigonometricFunctionUtils","methodName":"asin","signature":"\u003ccom.opengamma.analytics.math.TrigonometricFunctionUtils: com.opengamma.analytics.math.number.ComplexNumber asin(com.opengamma.analytics.math.number.ComplexNumber)\u003e","loc":5}

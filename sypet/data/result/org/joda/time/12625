@@ -1,0 +1,1 @@
+{"id":12625,"className":"org.joda.time.Hours","methodName":"getHours","signature":"\u003corg.joda.time.Hours: int getHours()\u003e","javadoc":"/** \n * Gets the number of hours that this period represents.\n * @return the number of hours in the period\n */\n","tf":{"freq":{"repres":1,"number":2,"hour":3,"period":2},"maxFreq":3,"totalTerms":8},"loc":3}

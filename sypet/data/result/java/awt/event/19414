@@ -1,0 +1,1 @@
+{"id":19414,"className":"java.awt.event.HierarchyBoundsListener","methodName":"ancestorMoved","signature":"\u003cjava.awt.event.HierarchyBoundsListener: void ancestorMoved(java.awt.event.HierarchyEvent)\u003e","javadoc":"/** \n * Called when an ancestor of the source is moved.\n */\n","tf":{"freq":{"call":1,"sourc":1,"ancestor":2,"move":2},"maxFreq":2,"totalTerms":6},"loc":0}

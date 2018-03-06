@@ -1,0 +1,1 @@
+{"id":14495,"className":"java.lang.invoke.MemberName","methodName":"getClassLoader","signature":"\u003cjava.lang.invoke.MemberName: java.lang.ClassLoader getClassLoader()\u003e","javadoc":"/** \n * Utility method producing the class loader of the declaring class. \n */\n","tf":{"freq":{"declar":1,"loader":2,"produc":1,"method":1,"util":1},"maxFreq":2,"totalTerms":6},"loc":3}

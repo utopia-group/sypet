@@ -1,0 +1,1 @@
+{"id":10991,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getMarginBottom","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getMarginBottom()\u003e","javadoc":"/** \n * See the margin-bottom property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"bottom":2,"margin":2,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

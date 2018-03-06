@@ -1,0 +1,1 @@
+{"id":10080,"className":"org.w3c.dom.DOMLocator","methodName":"getUri","signature":"\u003corg.w3c.dom.DOMLocator: java.lang.String getUri()\u003e","javadoc":"/** \n * The URI this locator is pointing to, or \u003ccode\u003enull\u003c/code\u003e if no URI is available.\n */\n","tf":{"freq":{"point":1,"locat":1,"avail":1,"uri":1},"maxFreq":1,"totalTerms":4},"loc":0}

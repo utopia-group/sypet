@@ -1,0 +1,1 @@
+{"id":16934,"className":"java.awt.Component","methodName":"handleEvent","signature":"\u003cjava.awt.Component: boolean handleEvent(java.awt.Event)\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1replaced by processEvent(AWTEvent).\n */\n","tf":{"freq":{"process":1,"deprec":1,"tevent":1,"event":2,"replac":1,"version":1,"handl":1},"maxFreq":2,"totalTerms":8},"loc":37}

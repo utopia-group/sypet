@@ -1,0 +1,1 @@
+{"id":25047,"className":"java.math.MutableBigInteger","methodName":"toString","signature":"\u003cjava.math.MutableBigInteger: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a String representation of this MutableBigInteger in radix 10.\n */\n","tf":{"freq":{"radix":1,"mutabl":1,"string":2,"big":1,"integ":1,"represent":1},"maxFreq":2,"totalTerms":7},"loc":4}

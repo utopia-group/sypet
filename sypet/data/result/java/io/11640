@@ -1,0 +1,1 @@
+{"id":11640,"className":"java.io.FilterReader","methodName":"skip","signature":"\u003cjava.io.FilterReader: long skip(long)\u003e","javadoc":"/** \n * Skips characters.\n * @exception IOException  If an I/O error occurs\n */\n","tf":{"freq":{"except":2,"error":1,"charact":1,"skip":2,"occur":1},"maxFreq":2,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11885,"className":"java.net.InMemoryCookieStore","methodName":"add","signature":"\u003cjava.net.InMemoryCookieStore: void add(java.net.URI,java.net.HttpCookie)\u003e","javadoc":"/** \n * Add one cookie into cookie store.\n */\n","tf":{"freq":{"store":1,"one":1,"cooki":2,"add":2},"maxFreq":2,"totalTerms":6},"loc":26}

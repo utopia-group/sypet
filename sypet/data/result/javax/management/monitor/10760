@@ -1,0 +1,1 @@
+{"id":10760,"className":"javax.management.monitor.StringMonitor","methodName":"StringMonitor","signature":"\u003cjavax.management.monitor.StringMonitor: void StringMonitor()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"monitor":1,"string":1,"constructor":1},"maxFreq":1,"totalTerms":3},"loc":2}

@@ -1,0 +1,1 @@
+{"id":14555,"className":"org.joda.time.convert.NullConverter","methodName":"getSupportedType","signature":"\u003corg.joda.time.convert.NullConverter: java.lang.Class\u003c?\u003e getSupportedType()\u003e","javadoc":"/** \n * Returns null.\n * @return null\n */\n","tf":{"freq":{"support":1,"type":1},"maxFreq":1,"totalTerms":2},"loc":3}

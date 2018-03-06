@@ -1,0 +1,1 @@
+{"id":15285,"className":"javax.swing.JMenu","methodName":"addSeparator","signature":"\u003cjavax.swing.JMenu: void addSeparator()\u003e","javadoc":"/** \n * Appends a new separator to the end of the menu.\n */\n","tf":{"freq":{"append":1,"separ":2,"menu":1,"add":1,"end":1},"maxFreq":2,"totalTerms":6},"loc":4}

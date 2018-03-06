@@ -1,0 +1,1 @@
+{"id":15392,"className":"org.joda.money.format.MoneyAmountStyle","methodName":"hashCode","signature":"\u003corg.joda.money.format.MoneyAmountStyle: int hashCode()\u003e","javadoc":"/** \n * A suitable hash code.\n * @return a hash code\n */\n","tf":{"freq":{"hash":3,"suitabl":1},"maxFreq":3,"totalTerms":4},"loc":12}

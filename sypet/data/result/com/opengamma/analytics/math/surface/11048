@@ -1,0 +1,1 @@
+{"id":11048,"className":"com.opengamma.analytics.math.surface.InterpolatedDoublesSurface","methodName":"getZValue","signature":"\u003ccom.opengamma.analytics.math.surface.InterpolatedDoublesSurface: java.lang.Double getZValue(com.opengamma.analytics.math.surface.Pair)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"zvalu":1},"maxFreq":1,"totalTerms":1},"loc":4}

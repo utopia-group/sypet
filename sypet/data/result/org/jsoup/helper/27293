@@ -1,0 +1,1 @@
+{"id":27293,"className":"org.jsoup.helper.W3CDom","methodName":"asString","signature":"\u003corg.jsoup.helper.W3CDom: java.lang.String asString(org.w3c.dom.Document)\u003e","javadoc":"/** \n * Serialize a W3C document to a String.\n * @param doc Document\n * @return Document as string\n */\n","tf":{"freq":{"document":3,"string":3,"serial":1},"maxFreq":3,"totalTerms":7},"loc":13}

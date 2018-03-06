@@ -1,0 +1,1 @@
+{"id":16003,"className":"java.awt.Window","methodName":"getType","signature":"\u003cjava.awt.Window: java.awt.Type getType()\u003e","javadoc":"/** \n * Returns the type of the window.\n * @see #setType\n * @since 1.7\n */\n","tf":{"freq":{"window":1,"type":3},"maxFreq":3,"totalTerms":4},"loc":5}

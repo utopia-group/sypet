@@ -1,0 +1,1 @@
+{"id":16438,"className":"javax.swing.JTextPane","methodName":"getInputAttributes","signature":"\u003cjavax.swing.JTextPane: javax.swing.text.MutableAttributeSet getInputAttributes()\u003e","javadoc":"/** \n * Gets the input attributes for the pane.\n * @return the attributes\n */\n","tf":{"freq":{"input":2,"attribut":3,"pane":1},"maxFreq":3,"totalTerms":6},"loc":3}

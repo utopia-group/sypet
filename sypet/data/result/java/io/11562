@@ -1,0 +1,1 @@
+{"id":11562,"className":"java.io.FilterWriter","methodName":"write","signature":"\u003cjava.io.FilterWriter: void write(int)\u003e","javadoc":"/** \n * Writes a single character.\n * @exception IOException  If an I/O error occurs\n */\n","tf":{"freq":{"except":2,"error":1,"charact":1,"singl":1,"write":2,"occur":1},"maxFreq":2,"totalTerms":8},"loc":3}

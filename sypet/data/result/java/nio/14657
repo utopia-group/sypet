@@ -1,0 +1,1 @@
+{"id":14657,"className":"java.nio.Buffer","methodName":"capacity","signature":"\u003cjava.nio.Buffer: int capacity()\u003e","javadoc":"/** \n * Returns this buffer\u0027s capacity. \u003c/p\u003e\n * @return  The capacity of this buffer\n */\n","tf":{"freq":{"buffer":2,"capac":3},"maxFreq":3,"totalTerms":5},"loc":3}

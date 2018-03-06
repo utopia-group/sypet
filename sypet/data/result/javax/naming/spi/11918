@@ -1,0 +1,1 @@
+{"id":11918,"className":"javax.naming.spi.ContinuationContext","methodName":"removeFromEnvironment","signature":"\u003cjavax.naming.spi.ContinuationContext: java.lang.Object removeFromEnvironment(java.lang.String)\u003e","loc":4}

@@ -1,0 +1,1 @@
+{"id":26066,"className":"java.security.cert.Extension","methodName":"getId","signature":"\u003cjava.security.cert.Extension: java.lang.String getId()\u003e","javadoc":"/** \n * Gets the extensions\u0027s object identifier.\n * @return the object identifier as a String\n */\n","tf":{"freq":{"extens":1,"string":1,"identifi":2,"object":2},"maxFreq":2,"totalTerms":6},"loc":0}

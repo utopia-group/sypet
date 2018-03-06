@@ -1,0 +1,1 @@
+{"id":12024,"className":"javax.naming.directory.Attribute","methodName":"getID","signature":"\u003cjavax.naming.directory.Attribute: java.lang.String getID()\u003e","javadoc":"/** \n * Retrieves the id of this attribute.\n * @return The id of this attribute. It cannot be null.\n */\n","tf":{"freq":{"attribut":2,"retriev":1},"maxFreq":2,"totalTerms":3},"loc":0}

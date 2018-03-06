@@ -1,0 +1,1 @@
+{"id":21962,"className":"org.apache.commons.math3.exception.MathIllegalNumberException","methodName":"getArgument","signature":"\u003corg.apache.commons.math3.exception.MathIllegalNumberException: java.lang.Number getArgument()\u003e","javadoc":"/** \n * @return the requested value.\n */\n","tf":{"freq":{"argument":1,"request":1,"valu":1},"maxFreq":1,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":19448,"className":"java.awt.event.FocusAdapter","methodName":"focusLost","signature":"\u003cjava.awt.event.FocusAdapter: void focusLost(java.awt.event.FocusEvent)\u003e","javadoc":"/** \n * Invoked when a component loses the keyboard focus.\n */\n","tf":{"freq":{"lose":1,"keyboard":1,"lost":1,"compon":1,"invok":1,"focus":2},"maxFreq":2,"totalTerms":7},"loc":1}

@@ -1,0 +1,1 @@
+{"id":12064,"className":"org.joda.time.DurationFieldType","methodName":"toString","signature":"\u003corg.joda.time.DurationFieldType: java.lang.String toString()\u003e","javadoc":"/** \n * Get a suitable debug string.\n * @return debug string\n */\n","tf":{"freq":{"suitabl":1,"string":3,"debug":2},"maxFreq":3,"totalTerms":6},"loc":3}

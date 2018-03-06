@@ -1,0 +1,1 @@
+{"id":17813,"className":"java.awt.color.ICC_Profile","methodName":"getMajorVersion","signature":"\u003cjava.awt.color.ICC_Profile: int getMajorVersion()\u003e","javadoc":"/** \n * Returns profile major version.\n * @return  The major version of the profile.\n */\n","tf":{"freq":{"profil":2,"major":3,"version":3},"maxFreq":3,"totalTerms":8},"loc":8}

@@ -1,0 +1,1 @@
+{"id":23881,"className":"java.util.jar.Manifest$FastInputStream","methodName":"read","signature":"\u003cjava.util.jar.Manifest$FastInputStream: int read(byte[],int,int)\u003e","loc":19}

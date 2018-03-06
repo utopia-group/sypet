@@ -1,0 +1,1 @@
+{"id":12208,"className":"com.opengamma.analytics.math.statistics.leastsquare.LeastSquareResults","methodName":"LeastSquareResults","signature":"\u003ccom.opengamma.analytics.math.statistics.leastsquare.LeastSquareResults: void LeastSquareResults(double,com.opengamma.analytics.math.matrix.DoubleMatrix1D,com.opengamma.analytics.math.matrix.DoubleMatrix2D)\u003e","loc":3}

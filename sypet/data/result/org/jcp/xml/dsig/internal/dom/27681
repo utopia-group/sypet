@@ -1,0 +1,1 @@
+{"id":27681,"className":"org.jcp.xml.dsig.internal.dom.DOMXMLSignatureFactory","methodName":"newSignedInfo","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMXMLSignatureFactory: javax.xml.crypto.dsig.SignedInfo newSignedInfo(javax.xml.crypto.dsig.CanonicalizationMethod,javax.xml.crypto.dsig.SignatureMethod,java.util.List,java.lang.String)\u003e","loc":3}

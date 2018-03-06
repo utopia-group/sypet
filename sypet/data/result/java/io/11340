@@ -1,0 +1,1 @@
+{"id":11340,"className":"java.io.CharArrayWriter","methodName":"toString","signature":"\u003cjava.io.CharArrayWriter: java.lang.String toString()\u003e","javadoc":"/** \n * Converts input data to a string.\n * @return the string.\n */\n","tf":{"freq":{"input":1,"string":3,"data":1,"convert":1},"maxFreq":3,"totalTerms":6},"loc":5}

@@ -1,0 +1,1 @@
+{"id":23275,"className":"javax.swing.text.html.StyleSheet$CssParser","methodName":"parse","signature":"\u003cjavax.swing.text.html.StyleSheet$CssParser: void parse(java.net.URL,java.io.Reader,boolean,boolean)\u003e","javadoc":"/** \n * Parse the given CSS stream\n */\n","tf":{"freq":{"stream":1,"given":1,"pars":2},"maxFreq":2,"totalTerms":4},"loc":10}

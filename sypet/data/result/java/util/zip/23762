@@ -1,0 +1,1 @@
+{"id":23762,"className":"java.util.zip.Inflater","methodName":"reset","signature":"\u003cjava.util.zip.Inflater: void reset()\u003e","javadoc":"/** \n * Resets inflater so that a new set of input data can be processed.\n */\n","tf":{"freq":{"process":1,"input":1,"data":1,"reset":2,"inflat":1},"maxFreq":2,"totalTerms":6},"loc":10}

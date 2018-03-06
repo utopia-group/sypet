@@ -1,0 +1,1 @@
+{"id":19764,"className":"javax.swing.plaf.metal.MetalTheme","methodName":"getMenuTextFont","signature":"\u003cjavax.swing.plaf.metal.MetalTheme: javax.swing.plaf.FontUIResource getMenuTextFont()\u003e","javadoc":"/** \n * Returns the menu text font.\n * @return the menu text font\n */\n","tf":{"freq":{"text":3,"font":3,"menu":3},"maxFreq":3,"totalTerms":9},"loc":0}

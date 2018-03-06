@@ -1,0 +1,1 @@
+{"id":21121,"className":"java.util.LinkedList","methodName":"addFirst","signature":"\u003cjava.util.LinkedList: void addFirst(E)\u003e","javadoc":"/** \n * Inserts the specified element at the beginning of this list.\n * @param e the element to add\n */\n","tf":{"freq":{"element":2,"list":1,"insert":1,"add":2,"first":1,"begin":1,"specifi":1},"maxFreq":2,"totalTerms":9},"loc":3}

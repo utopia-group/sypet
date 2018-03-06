@@ -1,0 +1,1 @@
+{"id":10930,"className":"com.opengamma.analytics.math.surface.ConstantDoublesSurface","methodName":"size","signature":"\u003ccom.opengamma.analytics.math.surface.ConstantDoublesSurface: int size()\u003e","javadoc":"/** \n * @return The size of the surface (\u003d 1)\n */\n","tf":{"freq":{"surfac":1,"size":2},"maxFreq":2,"totalTerms":3},"loc":3}

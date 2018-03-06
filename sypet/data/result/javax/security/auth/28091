@@ -1,0 +1,1 @@
+{"id":28091,"className":"javax.security.auth.PrivateCredentialPermission$CredOwner","methodName":"implies","signature":"\u003cjavax.security.auth.PrivateCredentialPermission$CredOwner: boolean implies(java.lang.Object)\u003e","loc":21}

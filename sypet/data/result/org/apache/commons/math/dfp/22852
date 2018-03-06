@@ -1,0 +1,1 @@
+{"id":22852,"className":"org.apache.commons.math.dfp.Dfp","methodName":"toString","signature":"\u003corg.apache.commons.math.dfp.Dfp: java.lang.String toString()\u003e","javadoc":"/** \n * Get a string representation of the instance.\n * @return string representation of the instance\n */\n","tf":{"freq":{"string":3,"instanc":2,"represent":2},"maxFreq":3,"totalTerms":7},"loc":17}

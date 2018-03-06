@@ -1,0 +1,1 @@
+{"id":25533,"className":"org.apache.commons.math.linear.RealVector","methodName":"getData","signature":"\u003corg.apache.commons.math.linear.RealVector: double[] getData()\u003e","javadoc":"/** \n * Returns vector entries as a double array.\n * @return double array of entries\n */\n","tf":{"freq":{"entri":2,"vector":1,"data":1,"array":2},"maxFreq":2,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":19418,"className":"java.awt.event.KeyEvent","methodName":"KeyEvent","signature":"\u003cjava.awt.event.KeyEvent: void KeyEvent(java.awt.Component,int,long,int,int)\u003e","javadoc":"/** \n * @deprecated as of JDK1.1\n */\n","tf":{"freq":{"deprec":1,"event":1,"key":1},"maxFreq":1,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11922,"className":"javax.naming.spi.ContinuationContext","methodName":"resolveToClass","signature":"\u003cjavax.naming.spi.ContinuationContext: javax.naming.spi.ResolveResult resolveToClass(java.lang.String,java.lang.Class)\u003e","loc":12}

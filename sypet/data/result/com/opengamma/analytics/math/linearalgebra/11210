@@ -1,0 +1,1 @@
+{"id":11210,"className":"com.opengamma.analytics.math.linearalgebra.QRDecompositionCommonsResult","methodName":"getQ","signature":"\u003ccom.opengamma.analytics.math.linearalgebra.QRDecompositionCommonsResult: com.opengamma.analytics.math.matrix.DoubleMatrix2D getQ()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","loc":3}

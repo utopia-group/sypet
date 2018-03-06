@@ -1,0 +1,1 @@
+{"id":18267,"className":"javax.swing.plaf.basic.BasicComboBoxUI$ListDataHandler","methodName":"intervalRemoved","signature":"\u003cjavax.swing.plaf.basic.BasicComboBoxUI$ListDataHandler: void intervalRemoved(javax.swing.event.ListDataEvent)\u003e","loc":3}

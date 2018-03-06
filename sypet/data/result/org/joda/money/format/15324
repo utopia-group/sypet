@@ -1,0 +1,1 @@
+{"id":15324,"className":"org.joda.money.format.MoneyParseContext","methodName":"getTextLength","signature":"\u003corg.joda.money.format.MoneyParseContext: int getTextLength()\u003e","javadoc":"/** \n * Gets the length of the text being parsed.\n * @return the length of the text being parsed\n */\n","tf":{"freq":{"text":3,"length":3,"pars":2},"maxFreq":3,"totalTerms":8},"loc":3}

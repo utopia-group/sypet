@@ -1,0 +1,1 @@
+{"id":26460,"className":"org.apache.commons.math.linear.AbstractRealVector$EntryImpl","methodName":"EntryImpl","signature":"\u003corg.apache.commons.math.linear.AbstractRealVector$EntryImpl: void EntryImpl()\u003e","javadoc":"/** \n * Simple constructor. \n */\n","tf":{"freq":{"simpl":1,"impl":1,"entri":1,"constructor":1},"maxFreq":1,"totalTerms":4},"loc":3}

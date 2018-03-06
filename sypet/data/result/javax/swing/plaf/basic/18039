@@ -1,0 +1,1 @@
+{"id":18039,"className":"javax.swing.plaf.basic.BasicTableUI$TableTransferHandler","methodName":"getSourceActions","signature":"\u003cjavax.swing.plaf.basic.BasicTableUI$TableTransferHandler: int getSourceActions(javax.swing.JComponent)\u003e","loc":3}

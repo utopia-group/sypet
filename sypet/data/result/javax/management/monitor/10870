@@ -1,0 +1,1 @@
+{"id":10870,"className":"javax.management.monitor.GaugeMonitor","methodName":"stop","signature":"\u003cjavax.management.monitor.GaugeMonitor: void stop()\u003e","javadoc":"/** \n * Stops the gauge monitor.\n */\n","tf":{"freq":{"stop":2,"monitor":1,"gaug":1},"maxFreq":2,"totalTerms":4},"loc":3}

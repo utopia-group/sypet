@@ -1,0 +1,1 @@
+{"id":14484,"className":"java.lang.invoke.MutableCallSite","methodName":"dynamicInvoker","signature":"\u003cjava.lang.invoke.MutableCallSite: java.lang.invoke.MethodHandle dynamicInvoker()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"invok":1,"dynam":1},"maxFreq":1,"totalTerms":2},"loc":3}

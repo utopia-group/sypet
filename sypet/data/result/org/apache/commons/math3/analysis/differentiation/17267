@@ -1,0 +1,1 @@
+{"id":17267,"className":"","methodName":"getOne","signature":"\u003c: org.apache.commons.math3.analysis.differentiation.SparseGradient getOne()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"one":1},"maxFreq":1,"totalTerms":1},"loc":3}

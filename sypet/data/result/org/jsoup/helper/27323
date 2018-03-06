@@ -1,0 +1,1 @@
+{"id":27323,"className":"org.jsoup.helper.HttpConnection","methodName":"maxBodySize","signature":"\u003corg.jsoup.helper.HttpConnection: org.jsoup.Connection maxBodySize(int)\u003e","loc":4}

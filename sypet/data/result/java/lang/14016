@@ -1,0 +1,1 @@
+{"id":14016,"className":"java.lang.InternalError","methodName":"InternalError","signature":"\u003cjava.lang.InternalError: void InternalError()\u003e","javadoc":"/** \n * Constructs an \u003ccode\u003eInternalError\u003c/code\u003e with no detail message.\n */\n","tf":{"freq":{"detail":1,"error":2,"messag":1,"intern":2,"construct":1},"maxFreq":2,"totalTerms":7},"loc":3}

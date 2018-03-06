@@ -1,0 +1,1 @@
+{"id":27423,"className":"org.jsoup.parser.TokenQueue","methodName":"TokenQueue","signature":"\u003corg.jsoup.parser.TokenQueue: void TokenQueue(java.lang.String)\u003e","javadoc":"/** \n * Create a new TokenQueue.\n * @param data string of data to back queue.\n */\n","tf":{"freq":{"queue":3,"creat":1,"token":2,"string":1,"data":2,"back":1},"maxFreq":3,"totalTerms":10},"loc":4}

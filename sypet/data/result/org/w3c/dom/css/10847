@@ -1,0 +1,1 @@
+{"id":10847,"className":"org.w3c.dom.css.Counter","methodName":"getSeparator","signature":"\u003corg.w3c.dom.css.Counter: java.lang.String getSeparator()\u003e","javadoc":"/** \n * This attribute is used for the separator of the nested counters.\n */\n","tf":{"freq":{"attribut":1,"separ":2,"counter":1,"nest":1,"use":1},"maxFreq":2,"totalTerms":6},"loc":0}

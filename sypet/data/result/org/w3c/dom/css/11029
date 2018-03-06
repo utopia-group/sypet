@@ -1,0 +1,1 @@
+{"id":11029,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getPage","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getPage()\u003e","javadoc":"/** \n * See the page property definition in CSS2.\n */\n","tf":{"freq":{"page":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

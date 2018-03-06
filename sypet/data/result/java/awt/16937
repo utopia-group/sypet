@@ -1,0 +1,1 @@
+{"id":16937,"className":"java.awt.Component","methodName":"mouseUp","signature":"\u003cjava.awt.Component: boolean mouseUp(java.awt.Event,int,int)\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by processMouseEvent(MouseEvent).\n */\n","tf":{"freq":{"process":1,"deprec":1,"event":2,"replac":1,"mous":3,"version":1},"maxFreq":3,"totalTerms":9},"loc":3}

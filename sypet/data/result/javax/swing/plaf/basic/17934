@@ -1,0 +1,1 @@
+{"id":17934,"className":"javax.swing.plaf.basic.BasicSplitPaneUI","methodName":"setOrientation","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneUI: void setOrientation(int)\u003e","javadoc":"/** \n * Set the orientation for the JSplitPane.\n */\n","tf":{"freq":{"orient":2,"jsplit":1,"pane":1},"maxFreq":2,"totalTerms":4},"loc":3}

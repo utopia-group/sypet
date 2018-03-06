@@ -1,0 +1,1 @@
+{"id":27683,"className":"org.jcp.xml.dsig.internal.dom.DOMXMLSignatureFactory","methodName":"newManifest","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMXMLSignatureFactory: javax.xml.crypto.dsig.Manifest newManifest(java.util.List)\u003e","loc":3}

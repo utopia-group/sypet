@@ -1,0 +1,1 @@
+{"id":14168,"className":"javax.swing.DelegatingDefaultFocusManager","methodName":"getActiveWindow","signature":"\u003cjavax.swing.DelegatingDefaultFocusManager: java.awt.Window getActiveWindow()\u003e","loc":3}

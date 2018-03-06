@@ -1,0 +1,1 @@
+{"id":25487,"className":"java.security.URIParameter","methodName":"getURI","signature":"\u003cjava.security.URIParameter: java.net.URI getURI()\u003e","javadoc":"/** \n * Returns the URI.\n * @return uri the URI.\n */\n","tf":{"freq":{"uri":1},"maxFreq":1,"totalTerms":1},"loc":3}

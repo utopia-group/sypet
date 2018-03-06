@@ -1,0 +1,1 @@
+{"id":15295,"className":"javax.swing.JMenu","methodName":"remove","signature":"\u003cjavax.swing.JMenu: void remove(java.awt.Component)\u003e","javadoc":"/** \n * Removes the component \u003ccode\u003ec\u003c/code\u003e from this menu.\n * @param c the component to be removed\n */\n","tf":{"freq":{"compon":2,"menu":1,"remov":3},"maxFreq":3,"totalTerms":6},"loc":4}

@@ -1,0 +1,1 @@
+{"id":17331,"className":"java.awt.Choice","methodName":"removeAll","signature":"\u003cjava.awt.Choice: void removeAll()\u003e","javadoc":"/** \n * Removes all items from the choice menu.\n * @see #remove\n * @since     JDK1.1\n */\n","tf":{"freq":{"menu":1,"item":1,"remov":3,"choic":1},"maxFreq":3,"totalTerms":6},"loc":12}

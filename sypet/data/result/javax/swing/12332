@@ -1,0 +1,1 @@
+{"id":12332,"className":"javax.swing.JPopupMenu","methodName":"JPopupMenu","signature":"\u003cjavax.swing.JPopupMenu: void JPopupMenu()\u003e","javadoc":"/** \n * Constructs a \u003ccode\u003eJPopupMenu\u003c/code\u003e without an \"invoker\".\n */\n","tf":{"freq":{"invok":1,"popup":1,"menu":2,"construct":1,"without":1,"jpopup":1},"maxFreq":2,"totalTerms":7},"loc":3}

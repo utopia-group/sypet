@@ -1,0 +1,1 @@
+{"id":19038,"className":"javax.swing.plaf.basic.BasicProgressBarUI","methodName":"getPreferredSize","signature":"\u003cjavax.swing.plaf.basic.BasicProgressBarUI: java.awt.Dimension getPreferredSize(javax.swing.JComponent)\u003e","loc":51}

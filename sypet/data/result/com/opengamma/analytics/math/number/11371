@@ -1,0 +1,1 @@
+{"id":11371,"className":"com.opengamma.analytics.math.number.ComplexNumber","methodName":"getReal","signature":"\u003ccom.opengamma.analytics.math.number.ComplexNumber: double getReal()\u003e","javadoc":"/** \n * @return The real part\n */\n","tf":{"freq":{"real":2,"part":1},"maxFreq":2,"totalTerms":3},"loc":3}

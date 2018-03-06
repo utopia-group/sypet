@@ -1,0 +1,1 @@
+{"id":10943,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getDirection","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getDirection()\u003e","javadoc":"/** \n * See the direction property definition in CSS2.\n */\n","tf":{"freq":{"direct":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

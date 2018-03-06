@@ -1,0 +1,1 @@
+{"id":10407,"className":"javax.management.ListenerNotFoundException","methodName":"ListenerNotFoundException","signature":"\u003cjavax.management.ListenerNotFoundException: void ListenerNotFoundException()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"except":1,"listen":1,"constructor":1,"found":1},"maxFreq":1,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":25195,"className":"org.apache.commons.math.linear.SparseFieldVector","methodName":"mapInv","signature":"\u003corg.apache.commons.math.linear.SparseFieldVector: org.apache.commons.math.linear.FieldVector\u003cT\u003e mapInv()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"map":1,"inv":1},"maxFreq":1,"totalTerms":2},"loc":3}

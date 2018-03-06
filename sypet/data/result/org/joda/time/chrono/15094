@@ -1,0 +1,1 @@
+{"id":15094,"className":"org.joda.time.chrono.ZonedChronology$ZonedDateTimeField","methodName":"getMinimumValue","signature":"\u003corg.joda.time.chrono.ZonedChronology$ZonedDateTimeField: int getMinimumValue(org.joda.time.ReadablePartial)\u003e","loc":3}

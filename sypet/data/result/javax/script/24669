@@ -1,0 +1,1 @@
+{"id":24669,"className":"javax.script.SimpleScriptContext","methodName":"getScopes","signature":"\u003cjavax.script.SimpleScriptContext: java.util.List\u003cjava.lang.Integer\u003e getScopes()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"scope":1},"maxFreq":1,"totalTerms":1},"loc":3}

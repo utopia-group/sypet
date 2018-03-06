@@ -1,0 +1,1 @@
+{"id":24692,"className":"java.text.DateFormat","methodName":"clone","signature":"\u003cjava.text.DateFormat: java.lang.Object clone()\u003e","javadoc":"/** \n * Overrides Cloneable\n */\n","tf":{"freq":{"clone":1,"cloneabl":1},"maxFreq":1,"totalTerms":2},"loc":6}

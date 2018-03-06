@@ -1,0 +1,1 @@
+{"id":17686,"className":"java.awt.datatransfer.MimeType","methodName":"getSubType","signature":"\u003cjava.awt.datatransfer.MimeType: java.lang.String getSubType()\u003e","javadoc":"/** \n * Retrieve the sub type of this object.\n */\n","tf":{"freq":{"sub":2,"retriev":1,"object":1,"type":2},"maxFreq":2,"totalTerms":6},"loc":3}

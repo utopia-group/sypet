@@ -1,0 +1,1 @@
+{"id":11021,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getPaddingTop","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getPaddingTop()\u003e","javadoc":"/** \n * See the padding-top property definition in CSS2.\n */\n","tf":{"freq":{"pad":2,"definit":1,"properti":1,"top":2},"maxFreq":2,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":17348,"className":"javax.swing.undo.StateEdit","methodName":"end","signature":"\u003cjavax.swing.undo.StateEdit: void end()\u003e","javadoc":"/** \n * Gets the post-edit state of the StateEditable object and ends the edit.\n */\n","tf":{"freq":{"post":1,"state":2,"edit":3,"object":1,"end":2},"maxFreq":3,"totalTerms":9},"loc":5}

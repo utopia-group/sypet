@@ -1,0 +1,1 @@
+{"id":24697,"className":"java.text.MergeCollation","methodName":"getPattern","signature":"\u003cjava.text.MergeCollation: java.lang.String getPattern()\u003e","javadoc":"/** \n * recovers current pattern\n */\n","tf":{"freq":{"recov":1,"pattern":2,"current":1},"maxFreq":2,"totalTerms":4},"loc":3}

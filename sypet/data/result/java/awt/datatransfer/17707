@@ -1,0 +1,1 @@
+{"id":17707,"className":"java.awt.datatransfer.MimeTypeParameterList","methodName":"getNames","signature":"\u003cjava.awt.datatransfer.MimeTypeParameterList: java.util.Enumeration getNames()\u003e","javadoc":"/** \n * Retrieve an enumeration of all the names in this list.\n */\n","tf":{"freq":{"retriev":1,"name":2,"list":1},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11544,"className":"com.opengamma.analytics.math.matrix.DoubleMatrix2D","methodName":"getEntry","signature":"\u003ccom.opengamma.analytics.math.matrix.DoubleMatrix2D: java.lang.Double getEntry(int[])\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"entri":1},"maxFreq":1,"totalTerms":1},"loc":6}

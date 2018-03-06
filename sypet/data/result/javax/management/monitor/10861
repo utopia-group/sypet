@@ -1,0 +1,1 @@
+{"id":10861,"className":"javax.management.monitor.GaugeMonitor$GaugeMonitorObservedObject","methodName":"setDerivedGaugeValid","signature":"\u003cjavax.management.monitor.GaugeMonitor$GaugeMonitorObservedObject: void setDerivedGaugeValid(boolean)\u003e","loc":3}

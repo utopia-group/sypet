@@ -1,0 +1,1 @@
+{"id":10002,"className":"com.opengamma.analytics.math.ComplexMathUtils","methodName":"add","signature":"\u003ccom.opengamma.analytics.math.ComplexMathUtils: com.opengamma.analytics.math.number.ComplexNumber add(com.opengamma.analytics.math.number.ComplexNumber[])\u003e","loc":11}

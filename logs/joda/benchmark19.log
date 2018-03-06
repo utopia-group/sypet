@@ -1,0 +1,62 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/joda/19/benchmark19.json
+     [java] Benchmark Id: 19
+     [java] Method name: getDayFromString
+     [java] Packages: [org.joda.time]
+     [java] Libraries: [./lib/joda-time-2.8.2.jar]
+     [java] Source type(s): [java.lang.String, java.lang.String]
+     [java] Target type: int
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] Warning: org.joda.convert.ToString is a phantom class!
+     [java] Warning: org.joda.convert.FromString is a phantom class!
+     [java] PetriNet for path length: 2 [places: 131 ; transitions: 2582 ; edges: 6674]
+     [java] PetriNet for path length: 3 [places: 161 ; transitions: 2827 ; edges: 7350]
+     [java] PetriNet for path length: 4 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] PetriNet for path length: 5 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 19
+     [java] Sketch Generation Time: 695.75004
+     [java] Sketch Completion Time: 7.3784860000000005
+     [java] Compilation Time: 298.445656
+     [java] Running Test cases Time: 44.27544
+     [java] Synthesis Time: 747.403966
+     [java] Total Time: 1045.849622
+     [java] Number of components: 3
+     [java] Number of holes: 5
+     [java] Number of completed programs: 1
+     [java] Number of sketches: 1
+     [java] 
+     [java] Solution:
+     [java]  org.joda.time.format.DateTimeFormatter sypet_var3 = org.joda.time.format.DateTimeFormat.forPattern(sypet_arg1);
+     [java]  org.joda.time.LocalDateTime sypet_var4 = org.joda.time.LocalDateTime.parse(sypet_arg0,sypet_var3);
+     [java]  int sypet_var5 = sypet_var4.getDayOfMonth();
+     [java]  return sypet_var5;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 10 seconds

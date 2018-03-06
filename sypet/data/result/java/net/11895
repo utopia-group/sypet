@@ -1,0 +1,1 @@
+{"id":11895,"className":"java.net.AbstractPlainSocketImpl","methodName":"isConnectionResetPending","signature":"\u003cjava.net.AbstractPlainSocketImpl: boolean isConnectionResetPending()\u003e","loc":5}

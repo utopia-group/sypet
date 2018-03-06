@@ -1,0 +1,1 @@
+{"id":22004,"className":"org.apache.commons.math3.exception.NumberIsTooSmallException","methodName":"getMin","signature":"\u003corg.apache.commons.math3.exception.NumberIsTooSmallException: java.lang.Number getMin()\u003e","javadoc":"/** \n * @return the minimum.\n */\n","tf":{"freq":{"min":1,"minimum":1},"maxFreq":1,"totalTerms":2},"loc":3}

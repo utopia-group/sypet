@@ -1,0 +1,1 @@
+{"id":14793,"className":"javax.swing.JTable$SortManager","methodName":"allChanged","signature":"\u003cjavax.swing.JTable$SortManager: void allChanged()\u003e","javadoc":"/** \n * Invoked when the underlying model has completely changed.\n */\n","tf":{"freq":{"model":1,"invok":1,"chang":2,"complet":1},"maxFreq":2,"totalTerms":5},"loc":5}

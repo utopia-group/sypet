@@ -1,0 +1,1 @@
+{"id":13347,"className":"java.lang.StringBuffer","methodName":"offsetByCodePoints","signature":"\u003cjava.lang.StringBuffer: int offsetByCodePoints(int,int)\u003e","javadoc":"/** \n * @since     1.5\n */\n","tf":{"freq":{"point":1,"offset":1},"maxFreq":1,"totalTerms":2},"loc":3}

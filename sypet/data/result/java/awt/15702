@@ -1,0 +1,1 @@
+{"id":15702,"className":"java.awt.Menu","methodName":"getItemCount","signature":"\u003cjava.awt.Menu: int getItemCount()\u003e","javadoc":"/** \n * Get the number of items in this menu.\n * @return     the number of items in this menu.\n * @since      JDK1.1\n */\n","tf":{"freq":{"count":1,"menu":2,"item":3,"number":2},"maxFreq":3,"totalTerms":8},"loc":3}

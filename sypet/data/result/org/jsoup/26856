@@ -1,0 +1,1 @@
+{"id":26856,"className":"org.jsoup.Connection$Base","methodName":"removeCookie","signature":"\u003corg.jsoup.Connection$Base: T removeCookie(java.lang.String)\u003e","javadoc":"/** \n * Remove a cookie by name\n * @param name name of cookie to remove\n * @return this, for chaining\n */\n","tf":{"freq":{"chain":1,"name":3,"cooki":3,"remov":3},"maxFreq":3,"totalTerms":10},"loc":0}

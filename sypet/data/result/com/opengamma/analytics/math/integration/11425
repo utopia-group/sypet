@@ -1,0 +1,1 @@
+{"id":11425,"className":"com.opengamma.analytics.math.integration.GaussianQuadratureData","methodName":"getAbscissas","signature":"\u003ccom.opengamma.analytics.math.integration.GaussianQuadratureData: double[] getAbscissas()\u003e","javadoc":"/** \n * @return The abscissas\n */\n","tf":{"freq":{"abscissa":2},"maxFreq":2,"totalTerms":2},"loc":3}

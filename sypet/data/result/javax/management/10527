@@ -1,0 +1,1 @@
+{"id":10527,"className":"javax.management.AttributeChangeNotificationFilter","methodName":"disableAllAttributes","signature":"\u003cjavax.management.AttributeChangeNotificationFilter: void disableAllAttributes()\u003e","javadoc":"/** \n * Disables all the attribute names.\n */\n","tf":{"freq":{"attribut":2,"disabl":2,"name":1},"maxFreq":2,"totalTerms":5},"loc":3}

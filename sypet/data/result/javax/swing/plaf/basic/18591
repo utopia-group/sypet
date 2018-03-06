@@ -1,0 +1,1 @@
+{"id":18591,"className":"javax.swing.plaf.basic.BasicHTML$Renderer","methodName":"getElement","signature":"\u003cjavax.swing.plaf.basic.BasicHTML$Renderer: javax.swing.text.Element getElement()\u003e","javadoc":"/** \n * Gets the element that this view is mapped to.\n * @return the view\n */\n","tf":{"freq":{"element":2,"map":1,"view":2},"maxFreq":2,"totalTerms":5},"loc":3}

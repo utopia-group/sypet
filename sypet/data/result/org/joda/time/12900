@@ -1,0 +1,1 @@
+{"id":12900,"className":"org.joda.time.ReadableDateTime","methodName":"getSecondOfDay","signature":"\u003corg.joda.time.ReadableDateTime: int getSecondOfDay()\u003e","javadoc":"/** \n * Get the second of day field value.\n * @return the second of day\n */\n","tf":{"freq":{"field":1,"second":3,"valu":1,"day":3},"maxFreq":3,"totalTerms":8},"loc":0}

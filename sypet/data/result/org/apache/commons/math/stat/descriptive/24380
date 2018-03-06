@@ -1,0 +1,1 @@
+{"id":24380,"className":"org.apache.commons.math.stat.descriptive.AbstractStorelessUnivariateStatistic","methodName":"getResult","signature":"\u003corg.apache.commons.math.stat.descriptive.AbstractStorelessUnivariateStatistic: double getResult()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"result":1},"maxFreq":1,"totalTerms":1},"loc":0}

@@ -1,0 +1,1 @@
+{"id":11297,"className":"java.io.FileSystem","methodName":"listRoots","signature":"\u003cjava.io.FileSystem: java.io.File[] listRoots()\u003e","javadoc":"/** \n * List the available filesystem roots.\n */\n","tf":{"freq":{"root":2,"avail":1,"list":2,"filesystem":1},"maxFreq":2,"totalTerms":6},"loc":0}

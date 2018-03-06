@@ -1,0 +1,1 @@
+{"id":10508,"className":"javax.management.BinaryOpValueExp","methodName":"getOperator","signature":"\u003cjavax.management.BinaryOpValueExp: int getOperator()\u003e","javadoc":"/** \n * Returns the operator of the value expression.\n */\n","tf":{"freq":{"oper":2,"valu":1,"express":1},"maxFreq":2,"totalTerms":4},"loc":3}

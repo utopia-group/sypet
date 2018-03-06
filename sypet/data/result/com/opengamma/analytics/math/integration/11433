@@ -1,0 +1,1 @@
+{"id":11433,"className":"com.opengamma.analytics.math.integration.GaussLaguerreQuadratureIntegrator1D","methodName":"GaussLaguerreQuadratureIntegrator1D","signature":"\u003ccom.opengamma.analytics.math.integration.GaussLaguerreQuadratureIntegrator1D: void GaussLaguerreQuadratureIntegrator1D(int)\u003e","loc":3}

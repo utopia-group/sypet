@@ -1,0 +1,1 @@
+{"id":23919,"className":"java.util.jar.JavaUtilJarAccessImpl","methodName":"getManifestDigests","signature":"\u003cjava.util.jar.JavaUtilJarAccessImpl: java.util.List getManifestDigests(java.util.jar.JarFile)\u003e","loc":3}

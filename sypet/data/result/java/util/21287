@@ -1,0 +1,1 @@
+{"id":21287,"className":"java.util.ArrayDeque","methodName":"getLast","signature":"\u003cjava.util.ArrayDeque: E getLast()\u003e","javadoc":"/** \n * @throws NoSuchElementException {@inheritDoc}\n */\n","tf":{"freq":{"element":1,"except":1,"last":1},"maxFreq":1,"totalTerms":3},"loc":6}

@@ -1,0 +1,1 @@
+{"id":20970,"className":"javax.swing.event.TableModelEvent","methodName":"getType","signature":"\u003cjavax.swing.event.TableModelEvent: int getType()\u003e","javadoc":"/** \n * Returns the type of event - one of: INSERT, UPDATE and DELETE.\n */\n","tf":{"freq":{"event":1,"one":1,"type":2},"maxFreq":2,"totalTerms":4},"loc":1}

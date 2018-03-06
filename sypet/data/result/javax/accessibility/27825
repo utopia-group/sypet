@@ -1,0 +1,1 @@
+{"id":27825,"className":"javax.accessibility.AccessibleTableModelChange","methodName":"getType","signature":"\u003cjavax.accessibility.AccessibleTableModelChange: int getType()\u003e","javadoc":"/** \n * Returns the type of event\n * @see #INSERT\n * @see #UPDATE\n * @see #DELETE\n */\n","tf":{"freq":{"event":1,"type":2},"maxFreq":2,"totalTerms":3},"loc":0}

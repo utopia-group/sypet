@@ -1,0 +1,1 @@
+{"id":14961,"className":"org.joda.time.chrono.BasicChronology$HalfdayField","methodName":"getMaximumTextLength","signature":"\u003corg.joda.time.chrono.BasicChronology$HalfdayField: int getMaximumTextLength(java.util.Locale)\u003e","loc":3}

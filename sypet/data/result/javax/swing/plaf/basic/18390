@@ -1,0 +1,1 @@
+{"id":18390,"className":"javax.swing.plaf.basic.BasicTreeUI$TreeTransferHandler","methodName":"compare","signature":"\u003cjavax.swing.plaf.basic.BasicTreeUI$TreeTransferHandler: int compare(javax.swing.tree.TreePath,javax.swing.tree.TreePath)\u003e","loc":5}

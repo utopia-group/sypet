@@ -1,0 +1,62 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/joda/18/benchmark18.json
+     [java] Benchmark Id: 18
+     [java] Method name: isLeapYear
+     [java] Packages: [org.joda.time]
+     [java] Libraries: [./lib/joda-time-2.8.2.jar]
+     [java] Source type(s): [int]
+     [java] Target type: boolean
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] Warning: org.joda.convert.ToString is a phantom class!
+     [java] Warning: org.joda.convert.FromString is a phantom class!
+     [java] PetriNet for path length: 3 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] PetriNet for path length: 4 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] PetriNet for path length: 5 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 18
+     [java] Sketch Generation Time: 29854.506027000003
+     [java] Sketch Completion Time: 259.2287269999997
+     [java] Compilation Time: 13960.521433000005
+     [java] Running Test cases Time: 5215.023426000002
+     [java] Synthesis Time: 35328.758180000004
+     [java] Total Time: 49289.279613000006
+     [java] Number of components: 4
+     [java] Number of holes: 5
+     [java] Number of completed programs: 613
+     [java] Number of sketches: 306
+     [java] 
+     [java] Solution:
+     [java]  org.joda.time.DateTime sypet_var1314 = org.joda.time.DateTime.now();
+     [java]  org.joda.time.DateTime sypet_var1315 = sypet_var1314.withWeekyear(sypet_arg0);
+     [java]  org.joda.time.DateTime.Property sypet_var1316 = sypet_var1315.year();
+     [java]  boolean sypet_var1317 = sypet_var1316.isLeap();
+     [java]  return sypet_var1317;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 57 seconds

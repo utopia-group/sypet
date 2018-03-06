@@ -1,0 +1,1 @@
+{"id":13147,"className":"javax.swing.JTabbedPane$AccessibleJTabbedPane","methodName":"getAccessibleSelection","signature":"\u003cjavax.swing.JTabbedPane$AccessibleJTabbedPane: javax.accessibility.Accessible getAccessibleSelection(int)\u003e","loc":7}

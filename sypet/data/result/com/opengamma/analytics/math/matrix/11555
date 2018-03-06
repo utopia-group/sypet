@@ -1,0 +1,1 @@
+{"id":11555,"className":"com.opengamma.analytics.math.matrix.ColtMatrixAlgebra","methodName":"getCondition","signature":"\u003ccom.opengamma.analytics.math.matrix.ColtMatrixAlgebra: double getCondition(com.opengamma.analytics.math.matrix.Matrix)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"condit":1},"maxFreq":1,"totalTerms":1},"loc":7}

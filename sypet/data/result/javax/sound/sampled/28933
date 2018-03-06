@@ -1,0 +1,1 @@
+{"id":28933,"className":"javax.sound.sampled.FloatControl","methodName":"getMinimum","signature":"\u003cjavax.sound.sampled.FloatControl: float getMinimum()\u003e","javadoc":"/** \n * Obtains the minimum value permitted.\n * @return the minimum allowable value\n */\n","tf":{"freq":{"obtain":1,"allow":1,"minimum":3,"permit":1,"valu":2},"maxFreq":3,"totalTerms":8},"loc":3}

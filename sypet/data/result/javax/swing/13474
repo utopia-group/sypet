@@ -1,0 +1,1 @@
+{"id":13474,"className":"javax.swing.ToolTipManager","methodName":"getReshowDelay","signature":"\u003cjavax.swing.ToolTipManager: int getReshowDelay()\u003e","javadoc":"/** \n * Returns the reshow delay property.\n * @return reshown delay property\n * @see #setReshowDelay\n */\n","tf":{"freq":{"reshown":1,"properti":2,"delay":4,"reshow":3},"maxFreq":4,"totalTerms":10},"loc":3}

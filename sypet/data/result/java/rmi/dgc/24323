@@ -1,0 +1,1 @@
+{"id":24323,"className":"java.rmi.dgc.VMID","methodName":"hashCode","signature":"\u003cjava.rmi.dgc.VMID: int hashCode()\u003e","javadoc":"/** \n * Compute hash code for this VMID.\n */\n","tf":{"freq":{"hash":2,"comput":1},"maxFreq":2,"totalTerms":3},"loc":3}

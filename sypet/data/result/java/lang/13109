@@ -1,0 +1,1 @@
+{"id":13109,"className":"java.lang.Enum","methodName":"hashCode","signature":"\u003cjava.lang.Enum: int hashCode()\u003e","javadoc":"/** \n * Returns a hash code for this enum constant.\n * @return a hash code for this enum constant.\n */\n","tf":{"freq":{"constant":2,"hash":3},"maxFreq":3,"totalTerms":5},"loc":3}

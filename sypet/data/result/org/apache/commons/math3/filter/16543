@@ -1,0 +1,1 @@
+{"id":16543,"className":"org.apache.commons.math3.filter.DefaultMeasurementModel","methodName":"getMeasurementNoise","signature":"\u003corg.apache.commons.math3.filter.DefaultMeasurementModel: org.apache.commons.math3.linear.RealMatrix getMeasurementNoise()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"nois":1,"measur":1},"maxFreq":1,"totalTerms":2},"loc":3}

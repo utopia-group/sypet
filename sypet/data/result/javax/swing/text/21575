@@ -1,0 +1,1 @@
+{"id":21575,"className":"javax.swing.text.MaskFormatter$AlphaNumericCharacter","methodName":"isValidCharacter","signature":"\u003cjavax.swing.text.MaskFormatter$AlphaNumericCharacter: boolean isValidCharacter(char)\u003e","loc":4}

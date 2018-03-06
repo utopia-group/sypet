@@ -1,0 +1,1 @@
+{"id":11669,"className":"javax.naming.Reference","methodName":"add","signature":"\u003cjavax.naming.Reference: void add(javax.naming.RefAddr)\u003e","javadoc":"/** \n * Adds an address to the end of the list of addresses.\n * @param addr The non-null address to add.\n */\n","tf":{"freq":{"address":3,"addr":1,"list":1,"add":3,"end":1,"non":1},"maxFreq":3,"totalTerms":10},"loc":3}

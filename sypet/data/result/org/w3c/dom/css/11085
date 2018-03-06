@@ -1,0 +1,1 @@
+{"id":11085,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getUnicodeBidi","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getUnicodeBidi()\u003e","javadoc":"/** \n * See the unicode-bidi property definition in CSS2.\n */\n","tf":{"freq":{"bidi":2,"definit":1,"unicod":2,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":16105,"className":"java.awt.GradientPaintContext","methodName":"dispose","signature":"\u003cjava.awt.GradientPaintContext: void dispose()\u003e","javadoc":"/** \n * Release the resources allocated for the operation.\n */\n","tf":{"freq":{"resourc":1,"releas":1,"oper":1,"dispos":1,"alloc":1},"maxFreq":1,"totalTerms":5},"loc":6}

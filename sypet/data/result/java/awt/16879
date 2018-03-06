@@ -1,0 +1,1 @@
+{"id":16879,"className":"java.awt.Component$BltBufferStrategy","methodName":"show","signature":"\u003cjava.awt.Component$BltBufferStrategy: void show()\u003e","javadoc":"/** \n * Makes the next available buffer visible.\n */\n","tf":{"freq":{"buffer":1,"visibl":1,"next":1,"avail":1,"show":1,"make":1},"maxFreq":1,"totalTerms":6},"loc":5}

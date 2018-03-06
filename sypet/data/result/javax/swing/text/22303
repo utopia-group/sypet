@@ -1,0 +1,1 @@
+{"id":22303,"className":"javax.swing.text.AbstractDocument$UndoRedoDocumentEvent","methodName":"getType","signature":"\u003cjavax.swing.text.AbstractDocument$UndoRedoDocumentEvent: javax.swing.event.DocumentEvent$EventType getType()\u003e","loc":3}

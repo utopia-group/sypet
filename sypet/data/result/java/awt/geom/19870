@@ -1,0 +1,1 @@
+{"id":19870,"className":"java.awt.geom.CubicCurve2D$Double","methodName":"getCtrlX1","signature":"\u003cjava.awt.geom.CubicCurve2D$Double: double getCtrlX1()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"ctrl":1},"maxFreq":1,"totalTerms":1},"loc":3}

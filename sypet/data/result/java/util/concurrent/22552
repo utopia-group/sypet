@@ -1,0 +1,1 @@
+{"id":22552,"className":"java.util.concurrent.ConcurrentSkipListSet","methodName":"first","signature":"\u003cjava.util.concurrent.ConcurrentSkipListSet: E first()\u003e","javadoc":"/** \n * @throws NoSuchElementException {@inheritDoc}\n */\n","tf":{"freq":{"element":1,"except":1,"first":1},"maxFreq":1,"totalTerms":3},"loc":3}

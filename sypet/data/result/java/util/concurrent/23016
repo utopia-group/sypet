@@ -1,0 +1,1 @@
+{"id":23016,"className":"java.util.concurrent.CopyOnWriteArrayList","methodName":"CopyOnWriteArrayList","signature":"\u003cjava.util.concurrent.CopyOnWriteArrayList: void CopyOnWriteArrayList()\u003e","javadoc":"/** \n * Creates an empty list.\n */\n","tf":{"freq":{"creat":1,"write":1,"list":2,"copi":1,"empti":1,"array":1},"maxFreq":2,"totalTerms":7},"loc":3}

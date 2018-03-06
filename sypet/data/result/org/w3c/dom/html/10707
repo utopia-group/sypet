@@ -1,0 +1,1 @@
+{"id":10707,"className":"org.w3c.dom.html.HTMLOptionElement","methodName":"getText","signature":"\u003corg.w3c.dom.html.HTMLOptionElement: java.lang.String getText()\u003e","javadoc":"/** \n * The text contained within the option element.\n */\n","tf":{"freq":{"element":1,"text":2,"contain":1,"within":1,"option":1},"maxFreq":2,"totalTerms":6},"loc":0}

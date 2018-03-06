@@ -1,0 +1,1 @@
+{"id":19974,"className":"javax.swing.plaf.synth.SynthInternalFrameUI","methodName":"propertyChange","signature":"\u003cjavax.swing.plaf.synth.SynthInternalFrameUI: void propertyChange(java.beans.PropertyChangeEvent)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"chang":1,"properti":1},"maxFreq":1,"totalTerms":2},"loc":18}

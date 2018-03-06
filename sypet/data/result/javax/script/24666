@@ -1,0 +1,1 @@
+{"id":24666,"className":"javax.script.SimpleScriptContext","methodName":"setErrorWriter","signature":"\u003cjavax.script.SimpleScriptContext: void setErrorWriter(java.io.Writer)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"error":1,"writer":1},"maxFreq":1,"totalTerms":2},"loc":3}

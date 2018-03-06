@@ -1,0 +1,1 @@
+{"id":16561,"className":"org.apache.commons.math3.optimization.InitialGuess","methodName":"getInitialGuess","signature":"\u003corg.apache.commons.math3.optimization.InitialGuess: double[] getInitialGuess()\u003e","javadoc":"/** \n * Gets the initial guess.\n * @return the initial guess.\n */\n","tf":{"freq":{"guess":3,"initi":3},"maxFreq":3,"totalTerms":6},"loc":3}

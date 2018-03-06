@@ -1,0 +1,1 @@
+{"id":14662,"className":"java.nio.Buffer","methodName":"mark","signature":"\u003cjava.nio.Buffer: java.nio.Buffer mark()\u003e","javadoc":"/** \n * Sets this buffer\u0027s mark at its position. \u003c/p\u003e\n * @return  This buffer\n */\n","tf":{"freq":{"buffer":2,"mark":2,"posit":1},"maxFreq":2,"totalTerms":5},"loc":4}

@@ -1,0 +1,1 @@
+{"id":23122,"className":"java.util.concurrent.LinkedBlockingDeque","methodName":"pollFirst","signature":"\u003cjava.util.concurrent.LinkedBlockingDeque: E pollFirst(long,java.util.concurrent.TimeUnit)\u003e","loc":16}

@@ -1,0 +1,1 @@
+{"id":14591,"className":"javax.swing.JSplitPane","methodName":"getDividerSize","signature":"\u003cjavax.swing.JSplitPane: int getDividerSize()\u003e","javadoc":"/** \n * Returns the size of the divider.\n * @return an integer giving the size of the divider in pixels\n */\n","tf":{"freq":{"pixel":1,"give":1,"divid":3,"integ":1,"size":3},"maxFreq":3,"totalTerms":9},"loc":3}

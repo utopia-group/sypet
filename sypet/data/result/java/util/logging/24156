@@ -1,0 +1,1 @@
+{"id":24156,"className":"java.util.logging.LogRecord","methodName":"getLevel","signature":"\u003cjava.util.logging.LogRecord: java.util.logging.Level getLevel()\u003e","javadoc":"/** \n * Get the logging message level, for example Level.SEVERE.\n * @return the logging message level\n */\n","tf":{"freq":{"level":4,"messag":2,"exampl":1,"log":2},"maxFreq":4,"totalTerms":9},"loc":3}

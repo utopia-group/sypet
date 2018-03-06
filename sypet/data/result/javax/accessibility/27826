@@ -1,0 +1,1 @@
+{"id":27826,"className":"javax.accessibility.AccessibleTableModelChange","methodName":"getFirstRow","signature":"\u003cjavax.accessibility.AccessibleTableModelChange: int getFirstRow()\u003e","javadoc":"/** \n * Returns the first row that changed.\n */\n","tf":{"freq":{"chang":1,"first":2,"row":2},"maxFreq":2,"totalTerms":5},"loc":0}

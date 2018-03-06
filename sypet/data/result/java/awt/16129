@@ -1,0 +1,1 @@
+{"id":16129,"className":"java.awt.DefaultKeyboardFocusManager$TypeAheadMarker","methodName":"toString","signature":"\u003cjava.awt.DefaultKeyboardFocusManager$TypeAheadMarker: java.lang.String toString()\u003e","javadoc":"/** \n * Returns string representation of the marker\n */\n","tf":{"freq":{"marker":1,"string":2,"represent":1},"maxFreq":2,"totalTerms":4},"loc":3}

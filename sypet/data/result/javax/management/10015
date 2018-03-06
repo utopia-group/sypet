@@ -1,0 +1,1 @@
+{"id":10015,"className":"javax.management.Notification","methodName":"setSource","signature":"\u003cjavax.management.Notification: void setSource(java.lang.Object)\u003e","javadoc":"/** \n * Sets the source.\n * @param source the new source for this object.\n * @see EventObject#getSource\n */\n","tf":{"freq":{"event":1,"sourc":5,"object":2},"maxFreq":5,"totalTerms":8},"loc":4}

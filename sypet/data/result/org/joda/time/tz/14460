@@ -1,0 +1,1 @@
+{"id":14460,"className":"org.joda.time.tz.CachedDateTimeZone","methodName":"getUncachedZone","signature":"\u003corg.joda.time.tz.CachedDateTimeZone: org.joda.time.DateTimeZone getUncachedZone()\u003e","javadoc":"/** \n * Returns the DateTimeZone being wrapped.\n */\n","tf":{"freq":{"wrap":1,"time":1,"uncach":1,"date":1,"zone":2},"maxFreq":2,"totalTerms":6},"loc":3}

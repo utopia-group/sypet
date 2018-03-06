@@ -1,0 +1,1 @@
+{"id":10818,"className":"org.w3c.dom.css.CSSRule","methodName":"getParentStyleSheet","signature":"\u003corg.w3c.dom.css.CSSRule: org.w3c.dom.css.CSSStyleSheet getParentStyleSheet()\u003e","javadoc":"/** \n * The style sheet that contains this rule.\n */\n","tf":{"freq":{"style":2,"rule":1,"contain":1,"parent":1,"sheet":2},"maxFreq":2,"totalTerms":7},"loc":0}

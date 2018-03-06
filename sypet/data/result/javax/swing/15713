@@ -1,0 +1,1 @@
+{"id":15713,"className":"javax.swing.ButtonGroup","methodName":"getButtonCount","signature":"\u003cjavax.swing.ButtonGroup: int getButtonCount()\u003e","javadoc":"/** \n * Returns the number of buttons in the group.\n * @return the button count\n * @since 1.3\n */\n","tf":{"freq":{"count":2,"button":3,"number":1,"group":1},"maxFreq":3,"totalTerms":7},"loc":7}

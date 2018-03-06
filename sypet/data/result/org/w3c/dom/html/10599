@@ -1,0 +1,1 @@
+{"id":10599,"className":"org.w3c.dom.html.HTMLMapElement","methodName":"getAreas","signature":"\u003corg.w3c.dom.html.HTMLMapElement: org.w3c.dom.html.HTMLCollection getAreas()\u003e","javadoc":"/** \n * The list of areas defined for the image map.\n */\n","tf":{"freq":{"defin":1,"area":2,"map":1,"list":1,"imag":1},"maxFreq":2,"totalTerms":6},"loc":0}

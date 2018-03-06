@@ -1,0 +1,1 @@
+{"id":10110,"className":"javax.management.NotificationFilterSupport","methodName":"disableAllTypes","signature":"\u003cjavax.management.NotificationFilterSupport: void disableAllTypes()\u003e","javadoc":"/** \n * Disables all notification types.\n */\n","tf":{"freq":{"notif":1,"disabl":2,"type":2},"maxFreq":2,"totalTerms":5},"loc":3}

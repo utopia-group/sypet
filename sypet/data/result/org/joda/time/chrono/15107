@@ -1,0 +1,1 @@
+{"id":15107,"className":"org.joda.time.chrono.BasicDayOfYearDateTimeField","methodName":"getMaximumValue","signature":"\u003corg.joda.time.chrono.BasicDayOfYearDateTimeField: int getMaximumValue()\u003e","loc":3}

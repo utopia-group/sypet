@@ -1,0 +1,1 @@
+{"id":10156,"className":"javax.management.MBeanServer","methodName":"isInstanceOf","signature":"\u003cjavax.management.MBeanServer: boolean isInstanceOf(javax.management.ObjectName,java.lang.String)\u003e","loc":0}

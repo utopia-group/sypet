@@ -1,0 +1,1 @@
+{"id":27784,"className":"org.jcp.xml.dsig.internal.dom.DOMXPathFilter2Transform","methodName":"init","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMXPathFilter2Transform: void init(javax.xml.crypto.dsig.spec.TransformParameterSpec)\u003e","loc":9}

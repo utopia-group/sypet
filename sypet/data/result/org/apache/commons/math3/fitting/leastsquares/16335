@@ -1,0 +1,1 @@
+{"id":16335,"className":"","methodName":"converged","signature":"\u003c: boolean converged(int,org.apache.commons.math3.fitting.leastsquares.LeastSquaresProblem$Evaluation,org.apache.commons.math3.fitting.leastsquares.LeastSquaresProblem$Evaluation)\u003e","loc":13}

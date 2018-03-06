@@ -1,0 +1,89 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/xml/26/benchmark26.json
+     [java] Benchmark Id: 26
+     [java] Method name: getDoctypeByString
+     [java] Packages: [org.w3c.dom, javax.xml.parsers, org.xml.sax]
+     [java] Libraries: [./lib/rt7.jar]
+     [java] Source type(s): [java.lang.String]
+     [java] Target type: org.w3c.dom.DocumentType
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] Warning: sun.security.ssl.Krb5Helper is a phantom class!
+     [java] Warning: com.oracle.jrockit.jfr.FlightRecorder is a phantom class!
+     [java] Warning: sun.security.ssl.SSLSocketImpl is a phantom class!
+     [java] Warning: javax.crypto.CipherInputStream is a phantom class!
+     [java] Warning: javax.crypto.CipherOutputStream is a phantom class!
+     [java] Warning: sun.nio.cs.ext.EUC_TW$Decoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.EUC_TW$Encoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.DoubleByteEncoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0201$Encoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0201$Decoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0208_Encoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0208_Decoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0212_Decoder is a phantom class!
+     [java] Warning: sun.nio.cs.ext.JIS_X_0212_Encoder is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DHParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.interfaces.DHPublicKey is a phantom class!
+     [java] Warning: javax.crypto.spec.DHPublicKeySpec is a phantom class!
+     [java] Warning: javax.crypto.interfaces.DHKey is a phantom class!
+     [java] Warning: javax.crypto.spec.PSource is a phantom class!
+     [java] Warning: javax.crypto.spec.PSource$PSpecified is a phantom class!
+     [java] Warning: javax.crypto.spec.OAEPParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.KeyGenerator is a phantom class!
+     [java] PetriNet for path length: 2 [places: 106 ; transitions: 703 ; edges: 1493]
+     [java] PetriNet for path length: 3 [places: 147 ; transitions: 1503 ; edges: 3668]
+     [java] PetriNet for path length: 4 [places: 181 ; transitions: 1740 ; edges: 4331]
+     [java] PetriNet for path length: 5 [places: 181 ; transitions: 1740 ; edges: 4331]
+     [java] PetriNet for path length: 6 [places: 181 ; transitions: 1740 ; edges: 4331]
+     [java] PetriNet for path length: 7 [places: 181 ; transitions: 1740 ; edges: 4331]
+     [java] PetriNet for path length: 8 [places: 181 ; transitions: 1740 ; edges: 4331]
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 26
+     [java] Sketch Generation Time: 780.9789229999999
+     [java] Sketch Completion Time: 22.214638
+     [java] Compilation Time: 731.686375
+     [java] Running Test cases Time: 76.28173100000001
+     [java] Synthesis Time: 879.475292
+     [java] Total Time: 1611.1616669999999
+     [java] Number of components: 6
+     [java] Number of holes: 7
+     [java] Number of completed programs: 17
+     [java] Number of sketches: 9
+     [java] 
+     [java] Solution:
+     [java]  javax.xml.parsers.DocumentBuilderFactory sypet_var53 = javax.xml.parsers.DocumentBuilderFactory.newInstance();
+     [java]  javax.xml.parsers.DocumentBuilder sypet_var54 = sypet_var53.newDocumentBuilder();
+     [java]  java.io.StringReader sypet_var55 = new java.io.StringReader(sypet_arg0);
+     [java]  org.xml.sax.InputSource sypet_var56 = new org.xml.sax.InputSource(sypet_var55);
+     [java]  org.w3c.dom.Document sypet_var57 = sypet_var54.parse(sypet_var56);
+     [java]  org.w3c.dom.DocumentType sypet_var58 = sypet_var57.getDoctype();
+     [java]  return sypet_var58;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 12 seconds

@@ -1,0 +1,1 @@
+{"id":24566,"className":"org.apache.commons.math.stat.descriptive.moment.Mean","methodName":"Mean","signature":"\u003corg.apache.commons.math.stat.descriptive.moment.Mean: void Mean()\u003e","javadoc":"/** \n * Constructs a Mean. \n */\n","tf":{"freq":{"mean":2,"construct":1},"maxFreq":2,"totalTerms":3},"loc":4}

@@ -1,0 +1,1 @@
+{"id":16618,"className":"javax.swing.border.MatteBorder","methodName":"getBorderInsets","signature":"\u003cjavax.swing.border.MatteBorder: java.awt.Insets getBorderInsets()\u003e","javadoc":"/** \n * Returns the insets of the border.\n * @since 1.3\n */\n","tf":{"freq":{"inset":2,"border":2},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":25552,"className":"java.security.Identity","methodName":"hashCode","signature":"\u003cjava.security.Identity: int hashCode()\u003e","javadoc":"/** \n * Returns a hashcode for this identity.\n * @return a hashcode for this identity.\n */\n","tf":{"freq":{"ident":2,"hash":1,"hashcod":2},"maxFreq":2,"totalTerms":5},"loc":3}

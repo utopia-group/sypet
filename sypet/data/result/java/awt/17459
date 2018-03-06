@@ -1,0 +1,1 @@
+{"id":17459,"className":"java.awt.Color","methodName":"getGreen","signature":"\u003cjava.awt.Color: int getGreen()\u003e","javadoc":"/** \n * Returns the green component in the range 0-255 in the default sRGB space.\n * @return the green component.\n * @see #getRGB\n */\n","tf":{"freq":{"compon":2,"rang":1,"green":3,"space":1},"maxFreq":3,"totalTerms":7},"loc":3}

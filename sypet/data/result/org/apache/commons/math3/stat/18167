@@ -1,0 +1,1 @@
+{"id":18167,"className":"org.apache.commons.math3.stat.Frequency","methodName":"Frequency","signature":"\u003corg.apache.commons.math3.stat.Frequency: void Frequency()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"frequenc":1,"constructor":1},"maxFreq":1,"totalTerms":2},"loc":3}

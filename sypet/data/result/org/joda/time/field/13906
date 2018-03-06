@@ -1,0 +1,1 @@
+{"id":13906,"className":"org.joda.time.field.AbstractPartialFieldProperty","methodName":"getField","signature":"\u003corg.joda.time.field.AbstractPartialFieldProperty: org.joda.time.DateTimeField getField()\u003e","javadoc":"/** \n * Gets the field being used.\n * @return the field\n */\n","tf":{"freq":{"field":3,"use":1},"maxFreq":3,"totalTerms":4},"loc":0}

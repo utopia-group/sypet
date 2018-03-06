@@ -1,0 +1,1 @@
+{"id":27679,"className":"org.jcp.xml.dsig.internal.dom.DOMXMLSignatureFactory","methodName":"newReference","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMXMLSignatureFactory: javax.xml.crypto.dsig.Reference newReference(java.lang.String,javax.xml.crypto.dsig.DigestMethod,java.util.List,java.lang.String,java.lang.String,byte[])\u003e","loc":7}

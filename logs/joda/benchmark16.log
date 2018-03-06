@@ -1,0 +1,69 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/joda/16/benchmark16.json
+     [java] Benchmark Id: 16
+     [java] Method name: daysUntilNow
+     [java] Packages: [org.joda.time]
+     [java] Libraries: [./lib/joda-time-2.8.2.jar]
+     [java] Source type(s): [org.joda.time.LocalDate]
+     [java] Target type: int
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] Warning: org.joda.convert.ToString is a phantom class!
+     [java] Warning: org.joda.convert.FromString is a phantom class!
+     [java] PetriNet for path length: 2 [places: 131 ; transitions: 2582 ; edges: 6674]
+     [java] PetriNet for path length: 3 [places: 161 ; transitions: 2827 ; edges: 7350]
+     [java] PetriNet for path length: 4 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.DateTime sypet_var32 = sypet_arg0.toDateTimeAtMidnight();int sypet_var33 = sypet_var32.getDayOfMonth();return sypet_var33;}
+     [java] 	                                                ^^^^^^^^^^^^^^^^^^^^^^
+     [java] The method toDateTimeAtMidnight() from the type LocalDate is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] PetriNet for path length: 5 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 16
+     [java] Sketch Generation Time: 1593.6476429999993
+     [java] Sketch Completion Time: 66.66815400000003
+     [java] Compilation Time: 3887.9307799999997
+     [java] Running Test cases Time: 2890.9609900000005
+     [java] Synthesis Time: 4551.276787
+     [java] Total Time: 8439.207567
+     [java] Number of components: 3
+     [java] Number of holes: 4
+     [java] Number of completed programs: 156
+     [java] Number of sketches: 78
+     [java] 
+     [java] Solution:
+     [java]  org.joda.time.LocalDate sypet_var209 = org.joda.time.LocalDate.now();
+     [java]  org.joda.time.Days sypet_var210 = org.joda.time.Days.daysBetween(sypet_arg0,sypet_var209);
+     [java]  int sypet_var211 = sypet_var210.getDays();
+     [java]  return sypet_var211;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 17 seconds

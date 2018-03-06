@@ -1,0 +1,1 @@
+{"id":23583,"className":"org.apache.commons.math.random.BitsStreamGenerator","methodName":"nextFloat","signature":"\u003corg.apache.commons.math.random.BitsStreamGenerator: float nextFloat()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"next":1},"maxFreq":1,"totalTerms":1},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12047,"className":"java.net.Inet4AddressImpl","methodName":"isReachable","signature":"\u003cjava.net.Inet4AddressImpl: boolean isReachable(java.net.InetAddress,int,java.net.NetworkInterface,int)\u003e","loc":16}

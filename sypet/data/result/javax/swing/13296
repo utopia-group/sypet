@@ -1,0 +1,1 @@
+{"id":13296,"className":"javax.swing.JSlider","methodName":"setFont","signature":"\u003cjavax.swing.JSlider: void setFont(java.awt.Font)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.6\n */\n","tf":{"freq":{"font":1},"maxFreq":1,"totalTerms":1},"loc":4}

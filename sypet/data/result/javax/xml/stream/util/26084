@@ -1,0 +1,1 @@
+{"id":26084,"className":"javax.xml.stream.util.StreamReaderDelegate","methodName":"getEventType","signature":"\u003cjavax.xml.stream.util.StreamReaderDelegate: int getEventType()\u003e","loc":3}

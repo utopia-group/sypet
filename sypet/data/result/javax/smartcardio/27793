@@ -1,0 +1,1 @@
+{"id":27793,"className":"javax.smartcardio.TerminalFactory$NoneCardTerminals","methodName":"list","signature":"\u003cjavax.smartcardio.TerminalFactory$NoneCardTerminals: java.util.List\u003cjavax.smartcardio.CardTerminal\u003e list(javax.smartcardio.CardTerminals$State)\u003e","loc":6}

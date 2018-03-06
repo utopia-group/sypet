@@ -1,0 +1,1 @@
+{"id":27827,"className":"javax.accessibility.AccessibleTableModelChange","methodName":"getLastRow","signature":"\u003cjavax.accessibility.AccessibleTableModelChange: int getLastRow()\u003e","javadoc":"/** \n * Returns the last row that changed.\n */\n","tf":{"freq":{"last":2,"chang":1,"row":2},"maxFreq":2,"totalTerms":5},"loc":0}

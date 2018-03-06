@@ -1,0 +1,1 @@
+{"id":19859,"className":"javax.swing.plaf.metal.MetalBorders$ToolBarBorder","methodName":"getBorderInsets","signature":"\u003cjavax.swing.plaf.metal.MetalBorders$ToolBarBorder: java.awt.Insets getBorderInsets(java.awt.Component,java.awt.Insets)\u003e","loc":34}

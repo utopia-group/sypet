@@ -1,0 +1,1 @@
+{"id":21783,"className":"javax.swing.text.WrappedPlainView$WrappedLine","methodName":"insertUpdate","signature":"\u003cjavax.swing.text.WrappedPlainView$WrappedLine: void insertUpdate(javax.swing.event.DocumentEvent,java.awt.Shape,javax.swing.text.ViewFactory)\u003e","loc":3}

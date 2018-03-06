@@ -1,0 +1,1 @@
+{"id":13788,"className":"javax.swing.JFileChooser","methodName":"getCurrentDirectory","signature":"\u003cjavax.swing.JFileChooser: java.io.File getCurrentDirectory()\u003e","javadoc":"/** \n * Returns the current directory.\n * @return the current directory\n * @see #setCurrentDirectory\n */\n","tf":{"freq":{"directori":4,"current":4},"maxFreq":4,"totalTerms":8},"loc":3}

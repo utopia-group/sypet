@@ -1,0 +1,1 @@
+{"id":24537,"className":"java.text.DecimalFormat","methodName":"setPositivePrefix","signature":"\u003cjava.text.DecimalFormat: void setPositivePrefix(java.lang.String)\u003e","javadoc":"/** \n * Set the positive prefix. \u003cP\u003eExamples: +123, $123, sFr123\n */\n","tf":{"freq":{"prefix":2,"exampl":1,"posit":2},"maxFreq":2,"totalTerms":5},"loc":5}

@@ -1,0 +1,1 @@
+{"id":16666,"className":"javax.swing.tree.FixedHeightLayoutCache$FHTreeStateNode","methodName":"getChildIndex","signature":"\u003cjavax.swing.tree.FixedHeightLayoutCache$FHTreeStateNode: int getChildIndex()\u003e","javadoc":"/** \n * Returns the index of the receiver in the model.\n */\n","tf":{"freq":{"child":1,"model":1,"index":2,"receiv":1},"maxFreq":2,"totalTerms":5},"loc":3}

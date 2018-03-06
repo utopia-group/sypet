@@ -1,0 +1,1 @@
+{"id":11293,"className":"com.opengamma.analytics.math.rootfinding.RealSingleRootFinder","methodName":"getRoot","signature":"\u003ccom.opengamma.analytics.math.rootfinding.RealSingleRootFinder: java.lang.Double getRoot(com.opengamma.analytics.math.function.Function1D,java.lang.Double[])\u003e","loc":5}

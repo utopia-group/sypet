@@ -1,0 +1,1 @@
+{"id":16723,"className":"javax.swing.tree.TreeNode","methodName":"getAllowsChildren","signature":"\u003cjavax.swing.tree.TreeNode: boolean getAllowsChildren()\u003e","javadoc":"/** \n * Returns true if the receiver allows children.\n */\n","tf":{"freq":{"allow":2,"true":1,"children":2,"receiv":1},"maxFreq":2,"totalTerms":6},"loc":0}

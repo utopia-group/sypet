@@ -1,0 +1,1 @@
+{"id":18585,"className":"java.awt.image.DataBuffer","methodName":"getOffsets","signature":"\u003cjava.awt.image.DataBuffer: int[] getOffsets()\u003e","javadoc":"/** \n * Returns the offsets (in array elements) of all the banks.\n * @return the offsets of all banks.\n */\n","tf":{"freq":{"element":1,"bank":2,"offset":3,"array":1},"maxFreq":3,"totalTerms":7},"loc":3}

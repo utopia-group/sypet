@@ -1,0 +1,1 @@
+{"id":13891,"className":"org.joda.time.field.ImpreciseDateTimeField$LinkedDurationField","methodName":"isPrecise","signature":"\u003corg.joda.time.field.ImpreciseDateTimeField$LinkedDurationField: boolean isPrecise()\u003e","loc":3}

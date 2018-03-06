@@ -1,0 +1,1 @@
+{"id":12028,"className":"javax.naming.directory.Attribute","methodName":"clear","signature":"\u003cjavax.naming.directory.Attribute: void clear()\u003e","javadoc":"/** \n * Removes all values from this attribute.\n */\n","tf":{"freq":{"clear":1,"attribut":1,"remov":1,"valu":1},"maxFreq":1,"totalTerms":4},"loc":0}

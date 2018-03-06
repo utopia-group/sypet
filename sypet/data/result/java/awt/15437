@@ -1,0 +1,1 @@
+{"id":15437,"className":"java.awt.Frame","methodName":"setIconImage","signature":"\u003cjava.awt.Frame: void setIconImage(java.awt.Image)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"icon":1,"imag":1},"maxFreq":1,"totalTerms":2},"loc":3}

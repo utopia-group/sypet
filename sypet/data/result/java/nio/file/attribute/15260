@@ -1,0 +1,1 @@
+{"id":15260,"className":"java.nio.file.attribute.FileTime$DaysAndNanos","methodName":"compareTo","signature":"\u003cjava.nio.file.attribute.FileTime$DaysAndNanos: int compareTo(java.nio.file.attribute.FileTime$DaysAndNanos)\u003e","loc":6}

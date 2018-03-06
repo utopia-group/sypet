@@ -1,0 +1,1 @@
+{"id":11807,"className":"org.joda.time.DateTime$Property","methodName":"getDateTime","signature":"\u003corg.joda.time.DateTime$Property: org.joda.time.DateTime getDateTime()\u003e","javadoc":"/** \n * Gets the datetime being used.\n * @return the datetime\n */\n","tf":{"freq":{"time":1,"use":1,"date":1,"datetim":2},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12309,"className":"com.opengamma.analytics.math.statistics.descriptive.robust.SampleMedianAbsoluteDeviationCalculator","methodName":"evaluate","signature":"\u003ccom.opengamma.analytics.math.statistics.descriptive.robust.SampleMedianAbsoluteDeviationCalculator: java.lang.Double evaluate(double[])\u003e","loc":11}

@@ -1,0 +1,1 @@
+{"id":24170,"className":"java.util.logging.LogRecord","methodName":"getMillis","signature":"\u003cjava.util.logging.LogRecord: long getMillis()\u003e","javadoc":"/** \n * Get event time in milliseconds since 1970.\n * @return event time in millis since 1970\n */\n","tf":{"freq":{"time":2,"millisecond":1,"event":2,"milli":2},"maxFreq":2,"totalTerms":7},"loc":3}

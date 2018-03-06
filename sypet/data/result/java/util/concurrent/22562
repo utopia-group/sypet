@@ -1,0 +1,1 @@
+{"id":22562,"className":"java.util.concurrent.ConcurrentLinkedDeque","methodName":"ConcurrentLinkedDeque","signature":"\u003cjava.util.concurrent.ConcurrentLinkedDeque: void ConcurrentLinkedDeque()\u003e","javadoc":"/** \n * Constructs an empty deque.\n */\n","tf":{"freq":{"concurr":1,"link":1,"dequ":2,"construct":1,"empti":1},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":15598,"className":"java.awt.Dialog","methodName":"setShape","signature":"\u003cjava.awt.Dialog: void setShape(java.awt.Shape)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"shape":1},"maxFreq":1,"totalTerms":1},"loc":8}

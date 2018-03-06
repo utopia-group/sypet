@@ -1,0 +1,1 @@
+{"id":22934,"className":"java.util.concurrent.ForkJoinTask","methodName":"isCancelled","signature":"\u003cjava.util.concurrent.ForkJoinTask: boolean isCancelled()\u003e","loc":3}

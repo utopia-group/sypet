@@ -1,0 +1,1 @@
+{"id":13924,"className":"java.lang.Thread","methodName":"getPriority","signature":"\u003cjava.lang.Thread: int getPriority()\u003e","javadoc":"/** \n * Returns this thread\u0027s priority.\n * @return  this thread\u0027s priority.\n * @see #setPriority\n */\n","tf":{"freq":{"prioriti":4,"thread":2},"maxFreq":4,"totalTerms":6},"loc":3}

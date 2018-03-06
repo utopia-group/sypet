@@ -1,0 +1,1 @@
+{"id":11948,"className":"javax.naming.spi.ContinuationDirContext","methodName":"getSchemaClassDefinition","signature":"\u003cjavax.naming.spi.ContinuationDirContext: javax.naming.directory.DirContext getSchemaClassDefinition(java.lang.String)\u003e","loc":4}

@@ -1,0 +1,1 @@
+{"id":15440,"className":"org.apache.commons.math3.RealFieldElement","methodName":"cosh","signature":"\u003corg.apache.commons.math3.RealFieldElement: T cosh()\u003e","javadoc":"/** \n * Hyperbolic cosine operation.\n * @return cosh(this)\n */\n","tf":{"freq":{"cosh":2,"oper":1,"hyperbol":1,"cosin":1},"maxFreq":2,"totalTerms":5},"loc":0}

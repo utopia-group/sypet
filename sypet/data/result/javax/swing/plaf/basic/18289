@@ -1,0 +1,1 @@
+{"id":18289,"className":"javax.swing.plaf.basic.BasicComboBoxUI","methodName":"getAccessibleChild","signature":"\u003cjavax.swing.plaf.basic.BasicComboBoxUI: javax.accessibility.Accessible getAccessibleChild(javax.swing.JComponent,int)\u003e","loc":22}

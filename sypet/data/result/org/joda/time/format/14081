@@ -1,0 +1,1 @@
+{"id":14081,"className":"org.joda.time.format.PeriodFormatterBuilder$RegExAffix","methodName":"getAffixes","signature":"\u003corg.joda.time.format.PeriodFormatterBuilder$RegExAffix: java.lang.String[] getAffixes()\u003e","loc":3}

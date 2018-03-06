@@ -1,0 +1,1 @@
+{"id":23633,"className":"org.apache.commons.math.random.RandomDataImpl","methodName":"RandomDataImpl","signature":"\u003corg.apache.commons.math.random.RandomDataImpl: void RandomDataImpl()\u003e","javadoc":"/** \n * Construct a RandomDataImpl.\n */\n","tf":{"freq":{"impl":2,"data":2,"random":2,"construct":1},"maxFreq":2,"totalTerms":7},"loc":2}

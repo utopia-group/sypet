@@ -1,0 +1,1 @@
+{"id":26858,"className":"org.jsoup.Connection$Request","methodName":"timeout","signature":"\u003corg.jsoup.Connection$Request: int timeout()\u003e","javadoc":"/** \n * Get the request timeout, in milliseconds.\n * @return the timeout in milliseconds.\n */\n","tf":{"freq":{"millisecond":2,"request":1,"timeout":3},"maxFreq":3,"totalTerms":6},"loc":0}

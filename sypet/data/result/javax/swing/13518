@@ -1,0 +1,1 @@
+{"id":13518,"className":"javax.swing.JButton","methodName":"JButton","signature":"\u003cjavax.swing.JButton: void JButton(javax.swing.Icon)\u003e","javadoc":"/** \n * Creates a button with an icon.\n * @param icon  the Icon image to display on the button\n */\n","tf":{"freq":{"icon":3,"creat":1,"button":3,"display":1,"imag":1},"maxFreq":3,"totalTerms":9},"loc":3}

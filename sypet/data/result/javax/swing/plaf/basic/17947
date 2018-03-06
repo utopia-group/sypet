@@ -1,0 +1,1 @@
+{"id":17947,"className":"javax.swing.plaf.basic.BasicSplitPaneUI","methodName":"getDivider","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneUI: javax.swing.plaf.basic.BasicSplitPaneDivider getDivider()\u003e","javadoc":"/** \n * Returns the divider between the top Components.\n */\n","tf":{"freq":{"compon":1,"divid":2,"top":1},"maxFreq":2,"totalTerms":4},"loc":3}

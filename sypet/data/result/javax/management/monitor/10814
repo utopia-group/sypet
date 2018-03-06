@@ -1,0 +1,1 @@
+{"id":10814,"className":"javax.management.monitor.CounterMonitor$CounterMonitorObservedObject","methodName":"setPreviousScanCounter","signature":"\u003cjavax.management.monitor.CounterMonitor$CounterMonitorObservedObject: void setPreviousScanCounter(java.lang.Number)\u003e","loc":3}

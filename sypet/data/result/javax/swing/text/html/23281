@@ -1,0 +1,1 @@
+{"id":23281,"className":"javax.swing.text.html.StyleSheet$CssParser","methodName":"endRule","signature":"\u003cjavax.swing.text.html.StyleSheet$CssParser: void endRule()\u003e","javadoc":"/** \n * Invoked when the end of a rule is encountered.\n */\n","tf":{"freq":{"encount":1,"invok":1,"rule":2,"end":2},"maxFreq":2,"totalTerms":6},"loc":11}

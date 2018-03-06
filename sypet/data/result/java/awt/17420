@@ -1,0 +1,1 @@
+{"id":17420,"className":"java.awt.Cursor","methodName":"getType","signature":"\u003cjava.awt.Cursor: int getType()\u003e","javadoc":"/** \n * Returns the type for this cursor.\n */\n","tf":{"freq":{"cursor":1,"type":2},"maxFreq":2,"totalTerms":3},"loc":3}

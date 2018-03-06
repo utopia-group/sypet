@@ -1,0 +1,1 @@
+{"id":14578,"className":"javax.swing.LegacyGlueFocusTraversalPolicy","methodName":"getFirstComponent","signature":"\u003cjavax.swing.LegacyGlueFocusTraversalPolicy: java.awt.Component getFirstComponent(java.awt.Container)\u003e","loc":9}

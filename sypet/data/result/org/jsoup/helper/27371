@@ -1,0 +1,1 @@
+{"id":27371,"className":"org.jsoup.helper.HttpConnection$Request","methodName":"ignoreHttpErrors","signature":"\u003corg.jsoup.helper.HttpConnection$Request: org.jsoup.Connection$Request ignoreHttpErrors(boolean)\u003e","loc":4}

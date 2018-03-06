@@ -1,0 +1,1 @@
+{"id":21864,"className":"javax.swing.text.AsyncBoxView$ChildState","methodName":"getMinorOffset","signature":"\u003cjavax.swing.text.AsyncBoxView$ChildState: float getMinorOffset()\u003e","javadoc":"/** \n * What is the offset along the minor axis\n */\n","tf":{"freq":{"axi":1,"minor":2,"along":1,"offset":2},"maxFreq":2,"totalTerms":6},"loc":8}

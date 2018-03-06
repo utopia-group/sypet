@@ -1,0 +1,1 @@
+{"id":13088,"className":"javax.swing.JTabbedPane","methodName":"getTabPlacement","signature":"\u003cjavax.swing.JTabbedPane: int getTabPlacement()\u003e","javadoc":"/** \n * Returns the placement of the tabs for this tabbedpane.\n * @see #setTabPlacement\n */\n","tf":{"freq":{"placement":3,"tabbedpan":1,"tab":3},"maxFreq":3,"totalTerms":7},"loc":3}

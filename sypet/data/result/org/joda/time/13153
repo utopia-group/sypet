@@ -1,0 +1,1 @@
+{"id":13153,"className":"org.joda.time.MutableDateTime","methodName":"dayOfYear","signature":"\u003corg.joda.time.MutableDateTime: org.joda.time.MutableDateTime$Property dayOfYear()\u003e","javadoc":"/** \n * Get the day of year property.\n * @return the day of year property\n */\n","tf":{"freq":{"year":3,"properti":2,"day":3},"maxFreq":3,"totalTerms":8},"loc":3}

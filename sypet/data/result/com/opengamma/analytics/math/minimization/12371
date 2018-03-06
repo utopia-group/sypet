@@ -1,0 +1,1 @@
+{"id":12371,"className":"com.opengamma.analytics.math.minimization.LineSearch","methodName":"minimise","signature":"\u003ccom.opengamma.analytics.math.minimization.LineSearch: double minimise(com.opengamma.analytics.math.function.Function1D,com.opengamma.analytics.math.matrix.DoubleMatrix1D,com.opengamma.analytics.math.matrix.DoubleMatrix1D)\u003e","loc":14}

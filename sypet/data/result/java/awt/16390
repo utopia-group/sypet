@@ -1,0 +1,1 @@
+{"id":16390,"className":"","methodName":"shouldNativelyFocusHeavyweight","signature":"\u003c: int shouldNativelyFocusHeavyweight(java.awt.Component,java.awt.Component,boolean,boolean,long,sun.awt.CausedFocusEvent$Cause)\u003e","loc":4}

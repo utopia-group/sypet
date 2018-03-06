@@ -1,0 +1,1 @@
+{"id":10396,"className":"javax.management.ClassAttributeValueExp","methodName":"ClassAttributeValueExp","signature":"\u003cjavax.management.ClassAttributeValueExp: void ClassAttributeValueExp()\u003e","javadoc":"/** \n * Basic Constructor.\n */\n","tf":{"freq":{"exp":1,"attribut":1,"basic":1,"valu":1,"constructor":1},"maxFreq":1,"totalTerms":5},"loc":6}

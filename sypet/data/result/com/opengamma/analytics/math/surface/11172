@@ -1,0 +1,1 @@
+{"id":11172,"className":"com.opengamma.analytics.math.surface.DoublesSurface","methodName":"getXData","signature":"\u003ccom.opengamma.analytics.math.surface.DoublesSurface: java.lang.Double[] getXData()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"xdata":1},"maxFreq":1,"totalTerms":1},"loc":10}

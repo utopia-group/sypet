@@ -1,0 +1,1 @@
+{"id":15063,"className":"java.nio.file.WatchEvent$Kind","methodName":"type","signature":"\u003cjava.nio.file.WatchEvent$Kind: java.lang.Class\u003cT\u003e type()\u003e","javadoc":"/** \n * Returns the type of the  {@link WatchEvent#context context} value.\n */\n","tf":{"freq":{"event":1,"watch":1,"link":1,"context":2,"valu":1,"type":2},"maxFreq":2,"totalTerms":8},"loc":0}

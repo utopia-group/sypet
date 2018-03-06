@@ -1,0 +1,1 @@
+{"id":11250,"className":"javax.management.remote.rmi.RMIConnectorServer","methodName":"isActive","signature":"\u003cjavax.management.remote.rmi.RMIConnectorServer: boolean isActive()\u003e","loc":3}

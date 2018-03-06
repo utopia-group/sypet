@@ -1,0 +1,1 @@
+{"id":10430,"className":"org.w3c.dom.html.HTMLSelectElement","methodName":"getLength","signature":"\u003corg.w3c.dom.html.HTMLSelectElement: int getLength()\u003e","javadoc":"/** \n * The number of options in this \u003ccode\u003eSELECT\u003c/code\u003e .\n */\n","tf":{"freq":{"length":1,"number":1,"option":1},"maxFreq":1,"totalTerms":3},"loc":0}

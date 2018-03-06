@@ -1,0 +1,1 @@
+{"id":18871,"className":"java.awt.image.renderable.ParameterBlock","methodName":"removeParameters","signature":"\u003cjava.awt.image.renderable.ParameterBlock: void removeParameters()\u003e","javadoc":"/** \n * Clears the list of parameters. \n */\n","tf":{"freq":{"clear":1,"paramet":2,"remov":1,"list":1},"maxFreq":2,"totalTerms":5},"loc":3}

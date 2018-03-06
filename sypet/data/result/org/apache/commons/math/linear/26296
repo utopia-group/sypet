@@ -1,0 +1,1 @@
+{"id":26296,"className":"org.apache.commons.math.linear.LUDecompositionImpl","methodName":"getP","signature":"\u003corg.apache.commons.math.linear.LUDecompositionImpl: org.apache.commons.math.linear.RealMatrix getP()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","loc":10}

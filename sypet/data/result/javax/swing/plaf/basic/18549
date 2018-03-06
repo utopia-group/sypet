@@ -1,0 +1,1 @@
+{"id":18549,"className":"javax.swing.plaf.basic.BasicBorders$ToggleButtonBorder","methodName":"getBorderInsets","signature":"\u003cjavax.swing.plaf.basic.BasicBorders$ToggleButtonBorder: java.awt.Insets getBorderInsets(java.awt.Component,java.awt.Insets)\u003e","loc":4}

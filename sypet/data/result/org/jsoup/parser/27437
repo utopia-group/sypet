@@ -1,0 +1,1 @@
+{"id":27437,"className":"org.jsoup.parser.TokenQueue","methodName":"consume","signature":"\u003corg.jsoup.parser.TokenQueue: char consume()\u003e","javadoc":"/** \n * Consume one character off queue.\n * @return first character on queue.\n */\n","tf":{"freq":{"consum":2,"queue":2,"charact":2,"one":1,"first":1},"maxFreq":2,"totalTerms":8},"loc":3}

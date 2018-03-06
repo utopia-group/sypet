@@ -1,0 +1,1 @@
+{"id":20038,"className":"javax.swing.plaf.synth.ImagePainter","methodName":"paintOptionPaneBorder","signature":"\u003cjavax.swing.plaf.synth.ImagePainter: void paintOptionPaneBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":3}

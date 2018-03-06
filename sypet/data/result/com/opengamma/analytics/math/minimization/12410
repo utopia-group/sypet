@@ -1,0 +1,1 @@
+{"id":12410,"className":"com.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer$DataBundle","methodName":"getDeltaX","signature":"\u003ccom.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer$DataBundle: com.opengamma.analytics.math.matrix.DoubleMatrix1D getDeltaX()\u003e","loc":3}

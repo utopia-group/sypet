@@ -1,0 +1,1 @@
+{"id":11857,"className":"java.io.ObjectOutputStream$BlockDataOutputStream","methodName":"writeBoolean","signature":"\u003cjava.io.ObjectOutputStream$BlockDataOutputStream: void writeBoolean(boolean)\u003e","loc":6}

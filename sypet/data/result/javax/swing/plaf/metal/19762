@@ -1,0 +1,1 @@
+{"id":19762,"className":"javax.swing.plaf.metal.MetalTheme","methodName":"getSystemTextFont","signature":"\u003cjavax.swing.plaf.metal.MetalTheme: javax.swing.plaf.FontUIResource getSystemTextFont()\u003e","javadoc":"/** \n * Returns the system text font.\n * @return the system text font\n */\n","tf":{"freq":{"text":3,"system":3,"font":3},"maxFreq":3,"totalTerms":9},"loc":0}

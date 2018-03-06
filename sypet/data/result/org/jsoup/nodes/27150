@@ -1,0 +1,1 @@
+{"id":27150,"className":"org.jsoup.nodes.Attribute","methodName":"setValue","signature":"\u003corg.jsoup.nodes.Attribute: java.lang.String setValue(java.lang.String)\u003e","javadoc":"/** \n * Set the attribute value.\n * @param value the new attribute value; must not be null\n */\n","tf":{"freq":{"attribut":2,"valu":4,"must":1},"maxFreq":4,"totalTerms":7},"loc":6}

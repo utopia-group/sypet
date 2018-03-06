@@ -1,0 +1,1 @@
+{"id":10822,"className":"org.w3c.dom.css.RGBColor","methodName":"getBlue","signature":"\u003corg.w3c.dom.css.RGBColor: org.w3c.dom.css.CSSPrimitiveValue getBlue()\u003e","javadoc":"/** \n * This attribute is used for the blue value of the RGB color.\n */\n","tf":{"freq":{"attribut":1,"color":1,"blue":2,"use":1,"valu":1},"maxFreq":2,"totalTerms":6},"loc":0}

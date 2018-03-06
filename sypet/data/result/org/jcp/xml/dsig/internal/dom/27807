@@ -1,0 +1,1 @@
+{"id":27807,"className":"org.jcp.xml.dsig.internal.dom.DOMBase64Transform","methodName":"init","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMBase64Transform: void init(javax.xml.crypto.dsig.spec.TransformParameterSpec)\u003e","loc":5}

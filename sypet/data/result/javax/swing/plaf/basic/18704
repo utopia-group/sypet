@@ -1,0 +1,1 @@
+{"id":18704,"className":"javax.swing.plaf.basic.BasicToolBarUI","methodName":"setDockingColor","signature":"\u003cjavax.swing.plaf.basic.BasicToolBarUI: void setDockingColor(java.awt.Color)\u003e","javadoc":"/** \n * Sets the color displayed when over a docking area\n */\n","tf":{"freq":{"area":1,"color":2,"display":1,"dock":2},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":13157,"className":"org.joda.time.MutableDateTime","methodName":"minuteOfDay","signature":"\u003corg.joda.time.MutableDateTime: org.joda.time.MutableDateTime$Property minuteOfDay()\u003e","javadoc":"/** \n * Get the minute of day property\n * @return the minute of day property\n */\n","tf":{"freq":{"minut":3,"properti":2,"day":3},"maxFreq":3,"totalTerms":8},"loc":3}

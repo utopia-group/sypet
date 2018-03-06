@@ -1,0 +1,1 @@
+{"id":29055,"className":"javax.sound.sampled.AudioFileFormat$Type","methodName":"equals","signature":"\u003cjavax.sound.sampled.AudioFileFormat$Type: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * Finalizes the equals method\n */\n","tf":{"freq":{"method":1,"equal":2},"maxFreq":2,"totalTerms":3},"loc":9}

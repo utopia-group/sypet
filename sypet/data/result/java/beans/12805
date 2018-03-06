@@ -1,0 +1,1 @@
+{"id":12805,"className":"java.beans.NameGenerator","methodName":"clear","signature":"\u003cjava.beans.NameGenerator: void clear()\u003e","javadoc":"/** \n * Clears the name cache. Should be called to near the end of the encoding cycle.\n */\n","tf":{"freq":{"clear":2,"call":1,"encod":1,"near":1,"name":1,"cycl":1,"cach":1,"end":1},"maxFreq":2,"totalTerms":9},"loc":4}

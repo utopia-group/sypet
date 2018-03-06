@@ -1,0 +1,1 @@
+{"id":21351,"className":"javax.swing.text.StyledEditorKit","methodName":"StyledEditorKit","signature":"\u003cjavax.swing.text.StyledEditorKit: void StyledEditorKit()\u003e","javadoc":"/** \n * Creates a new EditorKit used for styled documents.\n */\n","tf":{"freq":{"document":1,"editor":2,"style":2,"creat":1,"use":1,"kit":2},"maxFreq":2,"totalTerms":9},"loc":4}

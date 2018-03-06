@@ -1,0 +1,1 @@
+{"id":19034,"className":"javax.swing.plaf.basic.BasicProgressBarUI","methodName":"uninstallUI","signature":"\u003cjavax.swing.plaf.basic.BasicProgressBarUI: void uninstallUI(javax.swing.JComponent)\u003e","loc":8}

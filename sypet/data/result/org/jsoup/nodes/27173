@@ -1,0 +1,1 @@
+{"id":27173,"className":"org.jsoup.nodes.Attributes","methodName":"size","signature":"\u003corg.jsoup.nodes.Attributes: int size()\u003e","javadoc":"/** \n * Get the number of attributes in this set.\n * @return size\n */\n","tf":{"freq":{"attribut":1,"number":1,"size":2},"maxFreq":2,"totalTerms":4},"loc":5}

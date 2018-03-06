@@ -1,0 +1,1 @@
+{"id":18957,"className":"java.awt.font.LineMetrics","methodName":"getUnderlineThickness","signature":"\u003cjava.awt.font.LineMetrics: float getUnderlineThickness()\u003e","javadoc":"/** \n * Returns the thickness of the underline.\n * @return the thickness of the underline.\n */\n","tf":{"freq":{"underlin":3,"thick":3},"maxFreq":3,"totalTerms":6},"loc":0}

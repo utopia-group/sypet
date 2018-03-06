@@ -1,0 +1,1 @@
+{"id":11471,"className":"org.xml.sax.helpers.NamespaceSupport","methodName":"NamespaceSupport","signature":"\u003corg.xml.sax.helpers.NamespaceSupport: void NamespaceSupport()\u003e","javadoc":"/** \n * Create a new Namespace support object.\n */\n","tf":{"freq":{"namespac":2,"support":2,"creat":1,"object":1},"maxFreq":2,"totalTerms":6},"loc":3}

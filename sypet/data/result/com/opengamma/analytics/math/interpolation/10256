@@ -1,0 +1,1 @@
+{"id":10256,"className":"com.opengamma.analytics.math.interpolation.NonnegativityPreservingCubicSplineInterpolator","methodName":"getPrimaryMethod","signature":"\u003ccom.opengamma.analytics.math.interpolation.NonnegativityPreservingCubicSplineInterpolator: com.opengamma.analytics.math.interpolation.PiecewisePolynomialInterpolator getPrimaryMethod()\u003e","loc":3}

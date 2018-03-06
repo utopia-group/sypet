@@ -1,0 +1,1 @@
+{"id":14998,"className":"org.joda.time.chrono.LimitChronology$LimitDateTimeField","methodName":"roundFloor","signature":"\u003corg.joda.time.chrono.LimitChronology$LimitDateTimeField: long roundFloor(long)\u003e","loc":6}

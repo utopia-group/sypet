@@ -1,0 +1,1 @@
+{"id":10195,"className":"com.opengamma.analytics.math.function.special.OrthonormalHermitePolynomialFunction","methodName":"getPolynomials","signature":"\u003ccom.opengamma.analytics.math.function.special.OrthonormalHermitePolynomialFunction: com.opengamma.analytics.math.function.DoubleFunction1D[] getPolynomials(int)\u003e","loc":14}

@@ -1,0 +1,1 @@
+{"id":14852,"className":"org.joda.time.chrono.GJChronology$CutoverField","methodName":"getMinimumValue","signature":"\u003corg.joda.time.chrono.GJChronology$CutoverField: int getMinimumValue(long)\u003e","loc":16}

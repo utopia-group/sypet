@@ -1,0 +1,1 @@
+{"id":19020,"className":"java.awt.font.TextHitInfo","methodName":"getCharIndex","signature":"\u003cjava.awt.font.TextHitInfo: int getCharIndex()\u003e","javadoc":"/** \n * Returns the index of the character hit.\n * @return the index of the character hit.\n */\n","tf":{"freq":{"index":3,"hit":2,"charact":2},"maxFreq":3,"totalTerms":7},"loc":3}

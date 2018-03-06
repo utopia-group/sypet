@@ -1,0 +1,1 @@
+{"id":12403,"className":"javax.swing.ImageIcon","methodName":"ImageIcon","signature":"\u003cjavax.swing.ImageIcon: void ImageIcon()\u003e","javadoc":"/** \n * Creates an uninitialized image icon.\n */\n","tf":{"freq":{"icon":2,"uniniti":1,"creat":1,"imag":2},"maxFreq":2,"totalTerms":6},"loc":2}

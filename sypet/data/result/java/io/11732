@@ -1,0 +1,1 @@
+{"id":11732,"className":"java.io.Console","methodName":"flush","signature":"\u003cjava.io.Console: void flush()\u003e","javadoc":"/** \n * Flushes the console and forces any buffered output to be written immediately .\n */\n","tf":{"freq":{"buffer":1,"consol":1,"flush":2,"written":1,"immedi":1,"output":1,"forc":1},"maxFreq":2,"totalTerms":8},"loc":3}

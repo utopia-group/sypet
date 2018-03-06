@@ -1,0 +1,1 @@
+{"id":10155,"className":"com.opengamma.analytics.math.function.InterpolatedVectorFunctionProvider","methodName":"getKnots","signature":"\u003ccom.opengamma.analytics.math.function.InterpolatedVectorFunctionProvider: double[] getKnots()\u003e","javadoc":"/** \n * get the knots\n * @return the knots\n */\n","tf":{"freq":{"knot":3},"maxFreq":3,"totalTerms":3},"loc":3}

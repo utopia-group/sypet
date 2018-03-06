@@ -1,0 +1,1 @@
+{"id":13313,"className":"org.joda.time.DateTimeFieldType$StandardDateTimeFieldType","methodName":"hashCode","signature":"\u003corg.joda.time.DateTimeFieldType$StandardDateTimeFieldType: int hashCode()\u003e","javadoc":"/** \n * @inheritdoc \n */\n","tf":{"freq":{"hash":1,"inheritdoc":1},"maxFreq":1,"totalTerms":2},"loc":3}

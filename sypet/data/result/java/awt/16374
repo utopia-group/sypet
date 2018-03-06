@@ -1,0 +1,1 @@
+{"id":16374,"className":"java.awt.Insets","methodName":"hashCode","signature":"\u003cjava.awt.Insets: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code for this Insets.\n * @return    a hash code for this Insets.\n */\n","tf":{"freq":{"hash":3,"inset":2},"maxFreq":3,"totalTerms":5},"loc":8}

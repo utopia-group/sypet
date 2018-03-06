@@ -1,0 +1,1 @@
+{"id":22127,"className":"javax.swing.text.DefaultHighlighter","methodName":"paint","signature":"\u003cjavax.swing.text.DefaultHighlighter: void paint(java.awt.Graphics)\u003e","javadoc":"/** \n * Renders the highlights.\n * @param g the graphics context\n */\n","tf":{"freq":{"graphic":1,"context":1,"paint":1,"highlight":1,"render":1},"maxFreq":1,"totalTerms":5},"loc":24}

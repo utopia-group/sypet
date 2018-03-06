@@ -1,0 +1,1 @@
+{"id":13310,"className":"org.joda.time.DateTimeFieldType$StandardDateTimeFieldType","methodName":"getDurationType","signature":"\u003corg.joda.time.DateTimeFieldType$StandardDateTimeFieldType: org.joda.time.DurationFieldType getDurationType()\u003e","javadoc":"/** \n * @inheritdoc \n */\n","tf":{"freq":{"durat":1,"type":1,"inheritdoc":1},"maxFreq":1,"totalTerms":3},"loc":3}

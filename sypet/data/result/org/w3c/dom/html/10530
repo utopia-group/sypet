@@ -1,0 +1,1 @@
+{"id":10530,"className":"org.w3c.dom.html.HTMLTableColElement","methodName":"getWidth","signature":"\u003corg.w3c.dom.html.HTMLTableColElement: java.lang.String getWidth()\u003e","javadoc":"/** \n * Default column width. See the  width attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"attribut":1,"definit":1,"width":3,"column":1},"maxFreq":3,"totalTerms":6},"loc":0}

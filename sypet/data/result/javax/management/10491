@@ -1,0 +1,1 @@
+{"id":10491,"className":"javax.management.MBeanServerPermissionCollection","methodName":"elements","signature":"\u003cjavax.management.MBeanServerPermissionCollection: java.util.Enumeration\u003cjava.security.Permission\u003e elements()\u003e","loc":8}

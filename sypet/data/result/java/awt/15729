@@ -1,0 +1,1 @@
+{"id":15729,"className":"java.awt.Adjustable","methodName":"getValue","signature":"\u003cjava.awt.Adjustable: int getValue()\u003e","javadoc":"/** \n * Gets the current value of the adjustable object.\n * @return the current value of the adjustable object\n */\n","tf":{"freq":{"adjust":2,"current":2,"valu":3,"object":2},"maxFreq":3,"totalTerms":9},"loc":0}

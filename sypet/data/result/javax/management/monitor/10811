@@ -1,0 +1,1 @@
+{"id":10811,"className":"javax.management.monitor.CounterMonitor$CounterMonitorObservedObject","methodName":"getThreshold","signature":"\u003cjavax.management.monitor.CounterMonitor$CounterMonitorObservedObject: java.lang.Number getThreshold()\u003e","loc":3}

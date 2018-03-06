@@ -1,0 +1,1 @@
+{"id":22028,"className":"javax.swing.text.TabStop","methodName":"equals","signature":"\u003cjavax.swing.text.TabStop: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * Returns true if the tabs are equal.\n * @return true if the tabs are equal, otherwise false\n */\n","tf":{"freq":{"fals":1,"otherwis":1,"tab":2,"true":2,"equal":3},"maxFreq":3,"totalTerms":9},"loc":12}

@@ -1,0 +1,1 @@
+{"id":23166,"className":"org.apache.commons.math.optimization.linear.SimplexSolver","methodName":"SimplexSolver","signature":"\u003corg.apache.commons.math.optimization.linear.SimplexSolver: void SimplexSolver()\u003e","javadoc":"/** \n * Build a simplex solver with default settings.\n */\n","tf":{"freq":{"solver":2,"simplex":2,"build":1},"maxFreq":2,"totalTerms":5},"loc":3}

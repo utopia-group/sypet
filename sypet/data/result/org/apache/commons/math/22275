@@ -1,0 +1,1 @@
+{"id":22275,"className":"org.apache.commons.math.DimensionMismatchException","methodName":"getDimension2","signature":"\u003corg.apache.commons.math.DimensionMismatchException: int getDimension2()\u003e","javadoc":"/** \n * Get the second dimension\n * @return second dimension\n */\n","tf":{"freq":{"second":2,"dimens":3},"maxFreq":3,"totalTerms":5},"loc":3}

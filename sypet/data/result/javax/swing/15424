@@ -1,0 +1,1 @@
+{"id":15424,"className":"javax.swing.DebugGraphics","methodName":"drawLine","signature":"\u003cjavax.swing.DebugGraphics: void drawLine(int,int,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.drawLine\u003c/code\u003e.\n */\n","tf":{"freq":{"draw":2,"graphic":1,"line":2},"maxFreq":2,"totalTerms":5},"loc":30}

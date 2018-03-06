@@ -1,0 +1,1 @@
+{"id":28349,"className":"javax.security.auth.kerberos.KrbDelegationPermissionCollection","methodName":"KrbDelegationPermissionCollection","signature":"\u003cjavax.security.auth.kerberos.KrbDelegationPermissionCollection: void KrbDelegationPermissionCollection()\u003e","loc":3}

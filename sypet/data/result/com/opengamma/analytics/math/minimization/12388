@@ -1,0 +1,1 @@
+{"id":12388,"className":"com.opengamma.analytics.math.minimization.BroydenFletcherGoldfarbShannoInverseHessianUpdate","methodName":"update","signature":"\u003ccom.opengamma.analytics.math.minimization.BroydenFletcherGoldfarbShannoInverseHessianUpdate: void update(com.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer$DataBundle)\u003e","loc":20}

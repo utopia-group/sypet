@@ -1,0 +1,1 @@
+{"id":26799,"className":"javax.xml.ws.spi.http.HttpExchange","methodName":"getRequestMethod","signature":"\u003cjavax.xml.ws.spi.http.HttpExchange: java.lang.String getRequestMethod()\u003e","javadoc":"/** \n * Get the HTTP request method\n * @return the request method\n */\n","tf":{"freq":{"request":3,"method":3},"maxFreq":3,"totalTerms":6},"loc":0}

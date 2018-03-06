@@ -1,0 +1,1 @@
+{"id":20448,"className":"org.apache.commons.math3.geometry.euclidean.twod.Line","methodName":"getOffset","signature":"\u003corg.apache.commons.math3.geometry.euclidean.twod.Line: double getOffset(org.apache.commons.math3.geometry.Point)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"offset":1},"maxFreq":1,"totalTerms":1},"loc":4}

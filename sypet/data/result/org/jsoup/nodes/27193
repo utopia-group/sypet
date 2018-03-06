@@ -1,0 +1,1 @@
+{"id":27193,"className":"org.jsoup.nodes.Element","methodName":"tagName","signature":"\u003corg.jsoup.nodes.Element: java.lang.String tagName()\u003e","javadoc":"/** \n * Get the name of the tag for this element. E.g.  {@code div}\n * @return the tag name\n */\n","tf":{"freq":{"element":1,"tag":3,"name":3,"div":1},"maxFreq":3,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":20857,"className":"javax.swing.plaf.synth.SynthSplitPaneUI","methodName":"finishedPaintingChildren","signature":"\u003cjavax.swing.plaf.synth.SynthSplitPaneUI: void finishedPaintingChildren(javax.swing.JSplitPane,java.awt.Graphics)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"finish":1,"children":1,"paint":1},"maxFreq":1,"totalTerms":3},"loc":12}

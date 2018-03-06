@@ -1,0 +1,1 @@
+{"id":26632,"className":"org.apache.commons.math.complex.Complex","methodName":"getReal","signature":"\u003corg.apache.commons.math.complex.Complex: double getReal()\u003e","javadoc":"/** \n * Access the real part.\n * @return the real part\n */\n","tf":{"freq":{"real":3,"part":2,"access":1},"maxFreq":3,"totalTerms":6},"loc":3}

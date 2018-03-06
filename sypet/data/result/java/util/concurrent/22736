@@ -1,0 +1,1 @@
+{"id":22736,"className":"java.util.concurrent.CopyOnWriteArraySet","methodName":"CopyOnWriteArraySet","signature":"\u003cjava.util.concurrent.CopyOnWriteArraySet: void CopyOnWriteArraySet()\u003e","javadoc":"/** \n * Creates an empty set.\n */\n","tf":{"freq":{"creat":1,"write":1,"copi":1,"empti":1,"array":1},"maxFreq":1,"totalTerms":5},"loc":3}

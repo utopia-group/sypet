@@ -1,0 +1,1 @@
+{"id":23770,"className":"java.util.zip.Adler32","methodName":"Adler32","signature":"\u003cjava.util.zip.Adler32: void Adler32()\u003e","javadoc":"/** \n * Creates a new Adler32 object.\n */\n","tf":{"freq":{"creat":1,"object":1,"adler":2},"maxFreq":2,"totalTerms":4},"loc":2}

@@ -1,0 +1,1 @@
+{"id":13517,"className":"javax.swing.JButton","methodName":"JButton","signature":"\u003cjavax.swing.JButton: void JButton()\u003e","javadoc":"/** \n * Creates a button with no set text or icon.\n */\n","tf":{"freq":{"icon":1,"text":1,"creat":1,"button":2},"maxFreq":2,"totalTerms":5},"loc":3}

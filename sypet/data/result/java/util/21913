@@ -1,0 +1,1 @@
+{"id":21913,"className":"java.util.Collections.UnmodifiableMap$UnmodifiableEntrySet","methodName":"iterator","signature":"\u003cjava.util.Collections.UnmodifiableMap$UnmodifiableEntrySet: java.util.Iterator\u003cjava.util.Map.Entry\u003cK,V\u003e\u003e iterator()\u003e","loc":15}

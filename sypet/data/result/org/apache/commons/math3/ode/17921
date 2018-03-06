@@ -1,0 +1,1 @@
+{"id":17921,"className":"org.apache.commons.math3.ode.ContinuousOutputModel","methodName":"getFinalTime","signature":"\u003corg.apache.commons.math3.ode.ContinuousOutputModel: double getFinalTime()\u003e","javadoc":"/** \n * Get the final integration time.\n * @return final integration time\n */\n","tf":{"freq":{"time":3,"integr":2},"maxFreq":3,"totalTerms":5},"loc":3}

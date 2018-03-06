@@ -1,0 +1,1 @@
+{"id":24806,"className":"java.text.ParsePosition","methodName":"ParsePosition","signature":"\u003cjava.text.ParsePosition: void ParsePosition(int)\u003e","javadoc":"/** \n * Create a new ParsePosition with the given initial index.\n */\n","tf":{"freq":{"index":1,"given":1,"creat":1,"initi":1,"posit":2,"pars":2},"maxFreq":2,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12430,"className":"org.joda.time.LocalDateTime","methodName":"getMinuteOfHour","signature":"\u003corg.joda.time.LocalDateTime: int getMinuteOfHour()\u003e","javadoc":"/** \n * Get the minute of hour field value.\n * @return the minute of hour\n */\n","tf":{"freq":{"field":1,"minut":3,"valu":1,"hour":3},"maxFreq":3,"totalTerms":8},"loc":3}

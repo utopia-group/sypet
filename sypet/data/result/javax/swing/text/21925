@@ -1,0 +1,1 @@
+{"id":21925,"className":"javax.swing.text.DefaultCaret$DefaultFilterBypass","methodName":"setDot","signature":"\u003cjavax.swing.text.DefaultCaret$DefaultFilterBypass: void setDot(int,javax.swing.text.Position$Bias)\u003e","loc":3}

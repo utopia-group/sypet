@@ -1,0 +1,1 @@
+{"id":21330,"className":"javax.swing.text.Position$Bias","methodName":"toString","signature":"\u003cjavax.swing.text.Position$Bias: java.lang.String toString()\u003e","javadoc":"/** \n * string representation\n */\n","tf":{"freq":{"string":2,"represent":1},"maxFreq":2,"totalTerms":3},"loc":3}

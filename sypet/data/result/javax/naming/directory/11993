@@ -1,0 +1,1 @@
+{"id":11993,"className":"javax.naming.directory.InitialDirContext","methodName":"search","signature":"\u003cjavax.naming.directory.InitialDirContext: javax.naming.NamingEnumeration\u003cjavax.naming.directory.SearchResult\u003e search(java.lang.String,java.lang.String,javax.naming.directory.SearchControls)\u003e","loc":3}

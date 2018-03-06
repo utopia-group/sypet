@@ -1,0 +1,1 @@
+{"id":10204,"className":"com.opengamma.analytics.math.function.special.LegendrePolynomialFunction","methodName":"getPolynomials","signature":"\u003ccom.opengamma.analytics.math.function.special.LegendrePolynomialFunction: com.opengamma.analytics.math.function.DoubleFunction1D[] getPolynomials(int)\u003e","loc":14}

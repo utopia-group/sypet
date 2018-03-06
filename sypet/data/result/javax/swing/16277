@@ -1,0 +1,1 @@
+{"id":16277,"className":"javax.swing.JMenuBar","methodName":"getMenuCount","signature":"\u003cjavax.swing.JMenuBar: int getMenuCount()\u003e","javadoc":"/** \n * Returns the number of items in the menu bar.\n * @return the number of items in the menu bar\n */\n","tf":{"freq":{"count":1,"item":2,"menu":3,"number":2,"bar":2},"maxFreq":3,"totalTerms":10},"loc":3}

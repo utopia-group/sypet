@@ -1,0 +1,1 @@
+{"id":19904,"className":"javax.swing.plaf.synth.SynthLookAndFeel","methodName":"initialize","signature":"\u003cjavax.swing.plaf.synth.SynthLookAndFeel: void initialize()\u003e","javadoc":"/** \n * Called by UIManager when this look and feel is installed.\n */\n","tf":{"freq":{"look":1,"feel":1,"call":1,"manag":1,"instal":1,"initi":1},"maxFreq":1,"totalTerms":6},"loc":7}

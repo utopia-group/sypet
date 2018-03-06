@@ -1,0 +1,1 @@
+{"id":28276,"className":"javax.security.auth.kerberos.KeyImpl","methodName":"getKeyType","signature":"\u003cjavax.security.auth.kerberos.KeyImpl: int getKeyType()\u003e","javadoc":"/** \n * Returns the keyType for this key as defined in the Kerberos Spec.\n */\n","tf":{"freq":{"spec":1,"defin":1,"kerbero":1,"type":2,"key":3},"maxFreq":3,"totalTerms":8},"loc":5}

@@ -1,0 +1,1 @@
+{"id":10865,"className":"javax.management.monitor.GaugeMonitor$GaugeMonitorObservedObject","methodName":"setPreviousScanGauge","signature":"\u003cjavax.management.monitor.GaugeMonitor$GaugeMonitorObservedObject: void setPreviousScanGauge(java.lang.Number)\u003e","loc":3}

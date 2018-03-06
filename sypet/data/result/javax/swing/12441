@@ -1,0 +1,1 @@
+{"id":12441,"className":"javax.swing.DesktopManager","methodName":"setBoundsForFrame","signature":"\u003cjavax.swing.DesktopManager: void setBoundsForFrame(javax.swing.JComponent,int,int,int,int)\u003e","javadoc":"/** \n * This is a primitive reshape method.\n */\n","tf":{"freq":{"primit":1,"frame":1,"method":1,"reshap":1,"bound":1},"maxFreq":1,"totalTerms":5},"loc":0}

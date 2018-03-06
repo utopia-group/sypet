@@ -1,0 +1,1 @@
+{"id":27775,"className":"javax.smartcardio.CommandAPDU","methodName":"getINS","signature":"\u003cjavax.smartcardio.CommandAPDU: int getINS()\u003e","javadoc":"/** \n * Returns the value of the instruction byte INS.\n * @return the value of the instruction byte INS.\n */\n","tf":{"freq":{"instruct":2,"valu":2},"maxFreq":2,"totalTerms":4},"loc":3}

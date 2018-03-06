@@ -1,0 +1,1 @@
+{"id":18034,"className":"java.awt.dnd.peer.DropTargetContextPeer","methodName":"setTargetActions","signature":"\u003cjava.awt.dnd.peer.DropTargetContextPeer: void setTargetActions(int)\u003e","javadoc":"/** \n * update the peer\u0027s notion of the Target\u0027s actions\n */\n","tf":{"freq":{"peer":1,"notion":1,"updat":1,"action":2,"target":2},"maxFreq":2,"totalTerms":7},"loc":0}

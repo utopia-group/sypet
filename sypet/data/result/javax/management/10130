@@ -1,0 +1,1 @@
+{"id":10130,"className":"javax.management.BadStringOperationException","methodName":"toString","signature":"\u003cjavax.management.BadStringOperationException: java.lang.String toString()\u003e","javadoc":"/** \n * Returns the string representing the object.\n */\n","tf":{"freq":{"repres":1,"string":2,"object":1},"maxFreq":2,"totalTerms":4},"loc":3}

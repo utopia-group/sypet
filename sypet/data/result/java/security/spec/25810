@@ -1,0 +1,1 @@
+{"id":25810,"className":"java.security.spec.RSAOtherPrimeInfo","methodName":"getExponent","signature":"\u003cjava.security.spec.RSAOtherPrimeInfo: java.math.BigInteger getExponent()\u003e","javadoc":"/** \n * Returns the prime\u0027s exponent.\n * @return the primeExponent.\n */\n","tf":{"freq":{"prime":2,"expon":3},"maxFreq":3,"totalTerms":5},"loc":3}

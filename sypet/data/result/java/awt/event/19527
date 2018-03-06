@@ -1,0 +1,1 @@
+{"id":19527,"className":"java.awt.event.InputEvent","methodName":"isMetaDown","signature":"\u003cjava.awt.event.InputEvent: boolean isMetaDown()\u003e","javadoc":"/** \n * Returns whether or not the Meta modifier is down on this event.\n */\n","tf":{"freq":{"event":1,"modifi":1,"whether":1,"meta":2},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":15686,"className":"javax.swing.DefaultRowSorter","methodName":"modelStructureChanged","signature":"\u003cjavax.swing.DefaultRowSorter: void modelStructureChanged()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"model":1,"structur":1,"chang":1},"maxFreq":1,"totalTerms":3},"loc":4}

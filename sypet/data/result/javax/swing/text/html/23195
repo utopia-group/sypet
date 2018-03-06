@@ -1,0 +1,1 @@
+{"id":23195,"className":"javax.swing.text.html.Map","methodName":"getName","signature":"\u003cjavax.swing.text.html.Map: java.lang.String getName()\u003e","javadoc":"/** \n * Returns the name of the Map.\n */\n","tf":{"freq":{"name":2,"map":1},"maxFreq":2,"totalTerms":3},"loc":3}

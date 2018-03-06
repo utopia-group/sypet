@@ -1,0 +1,1 @@
+{"id":19344,"className":"javax.swing.plaf.metal.MetalFileChooserUI","methodName":"rescanCurrentDirectory","signature":"\u003cjavax.swing.plaf.metal.MetalFileChooserUI: void rescanCurrentDirectory(javax.swing.JFileChooser)\u003e","loc":3}

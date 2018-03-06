@@ -1,0 +1,1 @@
+{"id":10973,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getLetterSpacing","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getLetterSpacing()\u003e","javadoc":"/** \n * See the letter-spacing property definition in CSS2.\n */\n","tf":{"freq":{"letter":2,"definit":1,"properti":1,"space":2},"maxFreq":2,"totalTerms":6},"loc":0}

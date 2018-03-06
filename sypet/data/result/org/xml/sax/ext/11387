@@ -1,0 +1,1 @@
+{"id":11387,"className":"org.xml.sax.ext.DefaultHandler2","methodName":"DefaultHandler2","signature":"\u003corg.xml.sax.ext.DefaultHandler2: void DefaultHandler2()\u003e","javadoc":"/** \n * Constructs a handler which ignores all parsing events. \n */\n","tf":{"freq":{"ignor":1,"event":1,"construct":1,"pars":1,"handler":2},"maxFreq":2,"totalTerms":6},"loc":1}

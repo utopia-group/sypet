@@ -1,0 +1,1 @@
+{"id":16065,"className":"javax.swing.JCheckBox","methodName":"JCheckBox","signature":"\u003cjavax.swing.JCheckBox: void JCheckBox()\u003e","javadoc":"/** \n * Creates an initially unselected check box button with no text, no icon.\n */\n","tf":{"freq":{"icon":1,"text":1,"unselect":1,"check":2,"button":1,"creat":1,"box":2,"initi":1},"maxFreq":2,"totalTerms":10},"loc":3}

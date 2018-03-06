@@ -1,0 +1,1 @@
+{"id":14263,"className":"java.lang.reflect.Constructor","methodName":"getAnnotation","signature":"\u003cjava.lang.reflect.Constructor: T getAnnotation(java.lang.Class)\u003e","javadoc":"/** \n * @throws NullPointerException {@inheritDoc}\n * @since 1.5\n */\n","tf":{"freq":{"except":1,"annot":1,"pointer":1},"maxFreq":1,"totalTerms":3},"loc":6}

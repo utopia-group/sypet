@@ -1,0 +1,1 @@
+{"id":11338,"className":"com.opengamma.analytics.math.rootfinding.newton.NewtonVectorRootFinder$DataBundle","methodName":"getDeltaX","signature":"\u003ccom.opengamma.analytics.math.rootfinding.newton.NewtonVectorRootFinder$DataBundle: com.opengamma.analytics.math.matrix.DoubleMatrix1D getDeltaX()\u003e","loc":3}

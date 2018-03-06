@@ -1,0 +1,1 @@
+{"id":25908,"className":"org.apache.commons.math.linear.AbstractRealMatrix","methodName":"multiply","signature":"\u003corg.apache.commons.math.linear.AbstractRealMatrix: org.apache.commons.math.linear.RealMatrix multiply(org.apache.commons.math.linear.RealMatrix)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"multipli":1},"maxFreq":1,"totalTerms":1},"loc":22}

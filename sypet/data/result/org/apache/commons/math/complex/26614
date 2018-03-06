@@ -1,0 +1,1 @@
+{"id":26614,"className":"org.apache.commons.math.complex.ComplexFormat","methodName":"getRealFormat","signature":"\u003corg.apache.commons.math.complex.ComplexFormat: java.text.NumberFormat getRealFormat()\u003e","javadoc":"/** \n * Access the realFormat.\n * @return the realFormat.\n */\n","tf":{"freq":{"real":3,"format":3,"access":1},"maxFreq":3,"totalTerms":7},"loc":3}

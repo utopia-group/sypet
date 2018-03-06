@@ -1,0 +1,1 @@
+{"id":21068,"className":"javax.swing.event.TableColumnModelEvent","methodName":"getFromIndex","signature":"\u003cjavax.swing.event.TableColumnModelEvent: int getFromIndex()\u003e","javadoc":"/** \n * Returns the fromIndex.  Valid for removed or moved events \n */\n","tf":{"freq":{"valid":1,"index":2,"event":1,"remov":1,"move":1},"maxFreq":2,"totalTerms":6},"loc":1}

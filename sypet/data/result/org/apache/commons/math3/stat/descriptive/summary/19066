@@ -1,0 +1,1 @@
+{"id":19066,"className":"org.apache.commons.math3.stat.descriptive.summary.SumOfSquares","methodName":"clear","signature":"\u003corg.apache.commons.math3.stat.descriptive.summary.SumOfSquares: void clear()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"clear":1},"maxFreq":1,"totalTerms":1},"loc":4}

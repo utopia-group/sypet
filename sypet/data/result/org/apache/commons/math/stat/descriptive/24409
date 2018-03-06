@@ -1,0 +1,1 @@
+{"id":24409,"className":"org.apache.commons.math.stat.descriptive.SynchronizedSummaryStatistics","methodName":"getGeometricMean","signature":"\u003corg.apache.commons.math.stat.descriptive.SynchronizedSummaryStatistics: double getGeometricMean()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"mean":1,"geometr":1},"maxFreq":1,"totalTerms":2},"loc":3}

@@ -1,0 +1,1 @@
+{"id":27550,"className":"org.ietf.jgss.GSSCredential","methodName":"hashCode","signature":"\u003corg.ietf.jgss.GSSCredential: int hashCode()\u003e","javadoc":"/** \n * Returns a hashcode value for this GSSCredential.\n * @return a hashCode value\n */\n","tf":{"freq":{"hash":2,"hashcod":1,"valu":2,"scredenti":1},"maxFreq":2,"totalTerms":6},"loc":0}

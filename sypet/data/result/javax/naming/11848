@@ -1,0 +1,1 @@
+{"id":11848,"className":"javax.naming.NameImpl","methodName":"endsWith","signature":"\u003cjavax.naming.NameImpl: boolean endsWith(int,java.util.Enumeration)\u003e","loc":31}

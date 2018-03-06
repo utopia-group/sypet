@@ -1,0 +1,1 @@
+{"id":19464,"className":"org.apache.commons.math3.util.FastMath","methodName":"atan","signature":"\u003corg.apache.commons.math3.util.FastMath: double atan(double)\u003e","javadoc":"/** \n * Arctangent function\n * @param x a number\n * @return atan(x)\n */\n","tf":{"freq":{"atan":2,"arctang":1,"number":1,"function":1},"maxFreq":2,"totalTerms":5},"loc":3}

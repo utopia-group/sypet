@@ -1,0 +1,1 @@
+{"id":15964,"className":"java.awt.Window","methodName":"getOwnedWindows","signature":"\u003cjava.awt.Window: java.awt.Window[] getOwnedWindows()\u003e","javadoc":"/** \n * Return an array containing all the windows this window currently owns.\n * @since 1.2\n */\n","tf":{"freq":{"window":3,"contain":1,"current":1,"array":1},"maxFreq":3,"totalTerms":6},"loc":3}

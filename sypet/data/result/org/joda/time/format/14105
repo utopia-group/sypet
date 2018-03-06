@@ -1,0 +1,1 @@
+{"id":14105,"className":"org.joda.time.format.PeriodFormatterBuilder$Composite","methodName":"calculatePrintedLength","signature":"\u003corg.joda.time.format.PeriodFormatterBuilder$Composite: int calculatePrintedLength(org.joda.time.ReadablePeriod,java.util.Locale)\u003e","loc":8}

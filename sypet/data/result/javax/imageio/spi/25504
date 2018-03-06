@@ -1,0 +1,1 @@
+{"id":25504,"className":"javax.imageio.spi.PartiallyOrderedSet","methodName":"PartiallyOrderedSet","signature":"\u003cjavax.imageio.spi.PartiallyOrderedSet: void PartiallyOrderedSet()\u003e","javadoc":"/** \n * Constructs a \u003ccode\u003ePartiallyOrderedSet\u003c/code\u003e.\n */\n","tf":{"freq":{"order":2,"construct":1,"partial":2},"maxFreq":2,"totalTerms":5},"loc":1}

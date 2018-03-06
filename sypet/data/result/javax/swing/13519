@@ -1,0 +1,1 @@
+{"id":13519,"className":"javax.swing.JButton","methodName":"JButton","signature":"\u003cjavax.swing.JButton: void JButton(java.lang.String)\u003e","javadoc":"/** \n * Creates a button with text.\n * @param text  the text of the button\n */\n","tf":{"freq":{"text":3,"creat":1,"button":3},"maxFreq":3,"totalTerms":7},"loc":3}

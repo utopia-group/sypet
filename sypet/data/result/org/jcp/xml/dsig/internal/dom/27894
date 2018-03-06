@@ -1,0 +1,1 @@
+{"id":27894,"className":"org.jcp.xml.dsig.internal.dom.DOMKeyInfoFactory","methodName":"newPGPData","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMKeyInfoFactory: javax.xml.crypto.dsig.keyinfo.PGPData newPGPData(byte[])\u003e","loc":3}

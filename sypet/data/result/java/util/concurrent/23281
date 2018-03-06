@@ -1,0 +1,1 @@
+{"id":23281,"className":"java.util.concurrent.LinkedTransferQueue","methodName":"hasWaitingConsumer","signature":"\u003cjava.util.concurrent.LinkedTransferQueue: boolean hasWaitingConsumer()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":12799,"className":"javax.swing.JTree$DynamicUtilTreeNode","methodName":"children","signature":"\u003cjavax.swing.JTree$DynamicUtilTreeNode: java.util.Enumeration children()\u003e","javadoc":"/** \n * Subclassed to load the children, if necessary.\n */\n","tf":{"freq":{"subclass":1,"children":2,"load":1,"necessari":1},"maxFreq":2,"totalTerms":5},"loc":5}

@@ -1,0 +1,1 @@
+{"id":17814,"className":"java.awt.color.ICC_Profile","methodName":"getMinorVersion","signature":"\u003cjava.awt.color.ICC_Profile: int getMinorVersion()\u003e","javadoc":"/** \n * Returns profile minor version.\n * @return The minor version of the profile.\n */\n","tf":{"freq":{"minor":3,"profil":2,"version":3},"maxFreq":3,"totalTerms":8},"loc":8}

@@ -1,0 +1,1 @@
+{"id":14269,"className":"org.joda.time.format.PeriodFormatter","methodName":"isParser","signature":"\u003corg.joda.time.format.PeriodFormatter: boolean isParser()\u003e","javadoc":"/** \n * Is this formatter capable of parsing.\n * @return true if this is a parser\n */\n","tf":{"freq":{"true":1,"capabl":1,"pars":1,"parser":2,"formatt":1},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":26529,"className":"javax.xml.bind.helpers.AbstractUnmarshallerImpl","methodName":"setAdapter","signature":"\u003cjavax.xml.bind.helpers.AbstractUnmarshallerImpl: void setAdapter(java.lang.Class,A)\u003e","loc":3}

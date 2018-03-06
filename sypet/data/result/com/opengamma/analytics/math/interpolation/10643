@@ -1,0 +1,1 @@
+{"id":10643,"className":"com.opengamma.analytics.math.interpolation.NaturalSplineInterpolator","methodName":"interpolateWithSensitivity","signature":"\u003ccom.opengamma.analytics.math.interpolation.NaturalSplineInterpolator: com.opengamma.analytics.math.interpolation.PiecewisePolynomialResultsWithSensitivity interpolateWithSensitivity(double[],double[])\u003e","loc":45}

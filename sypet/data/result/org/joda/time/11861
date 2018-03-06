@@ -1,0 +1,1 @@
+{"id":11861,"className":"org.joda.time.PeriodType","methodName":"millis","signature":"\u003corg.joda.time.PeriodType: org.joda.time.PeriodType millis()\u003e","javadoc":"/** \n * Gets a type that defines just the millis field.\n * @return the period type\n */\n","tf":{"freq":{"field":1,"just":1,"defin":1,"milli":2,"period":1,"type":2},"maxFreq":2,"totalTerms":8},"loc":12}

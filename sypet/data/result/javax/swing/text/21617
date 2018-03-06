@@ -1,0 +1,1 @@
+{"id":21617,"className":"javax.swing.text.AbstractWriter","methodName":"getStartOffset","signature":"\u003cjavax.swing.text.AbstractWriter: int getStartOffset()\u003e","javadoc":"/** \n * Returns the first offset to be output.\n * @since 1.3\n */\n","tf":{"freq":{"start":1,"output":1,"offset":2,"first":1},"maxFreq":2,"totalTerms":5},"loc":3}

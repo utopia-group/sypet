@@ -1,0 +1,1 @@
+{"id":18050,"className":"javax.swing.plaf.basic.BasicArrowButton","methodName":"getDirection","signature":"\u003cjavax.swing.plaf.basic.BasicArrowButton: int getDirection()\u003e","javadoc":"/** \n * Returns the direction of the arrow.\n */\n","tf":{"freq":{"direct":2,"arrow":1},"maxFreq":2,"totalTerms":3},"loc":3}

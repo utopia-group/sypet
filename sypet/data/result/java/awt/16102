@@ -1,0 +1,1 @@
+{"id":16102,"className":"java.awt.BasicStroke","methodName":"hashCode","signature":"\u003cjava.awt.BasicStroke: int hashCode()\u003e","javadoc":"/** \n * Returns the hashcode for this stroke.\n * @return      a hash code for this stroke.\n */\n","tf":{"freq":{"stroke":2,"hash":2,"hashcod":1},"maxFreq":2,"totalTerms":5},"loc":13}

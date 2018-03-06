@@ -1,0 +1,1 @@
+{"id":19271,"className":"java.awt.peer.ComponentPeer","methodName":"setFont","signature":"\u003cjava.awt.peer.ComponentPeer: void setFont(java.awt.Font)\u003e","javadoc":"/** \n * Sets the font of this component.\n * @param f the font of this component\n * @see Component#setFont(Font)\n */\n","tf":{"freq":{"compon":3,"font":5},"maxFreq":5,"totalTerms":8},"loc":0}

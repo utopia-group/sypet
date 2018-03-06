@@ -1,0 +1,1 @@
+{"id":22882,"className":"java.util.concurrent.Executors$DelegatedExecutorService","methodName":"invokeAny","signature":"\u003cjava.util.concurrent.Executors$DelegatedExecutorService: T invokeAny(java.util.Collection)\u003e","loc":3}

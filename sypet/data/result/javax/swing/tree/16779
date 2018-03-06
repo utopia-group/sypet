@@ -1,0 +1,1 @@
+{"id":16779,"className":"javax.swing.tree.DefaultTreeSelectionModel","methodName":"getSelectionPaths","signature":"\u003cjavax.swing.tree.DefaultTreeSelectionModel: javax.swing.tree.TreePath[] getSelectionPaths()\u003e","javadoc":"/** \n * Returns the selection.\n * @return the selection\n */\n","tf":{"freq":{"select":3,"path":1},"maxFreq":3,"totalTerms":4},"loc":10}

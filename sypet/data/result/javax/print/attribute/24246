@@ -1,0 +1,1 @@
+{"id":24246,"className":"javax.print.attribute.IntegerSyntax","methodName":"getValue","signature":"\u003cjavax.print.attribute.IntegerSyntax: int getValue()\u003e","javadoc":"/** \n * Returns this integer attribute\u0027s integer value.\n * @return the integer value\n */\n","tf":{"freq":{"attribut":1,"valu":3,"integ":3},"maxFreq":3,"totalTerms":7},"loc":3}

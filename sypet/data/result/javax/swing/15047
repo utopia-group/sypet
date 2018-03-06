@@ -1,0 +1,1 @@
+{"id":15047,"className":"javax.swing.JTextArea","methodName":"getColumns","signature":"\u003cjavax.swing.JTextArea: int getColumns()\u003e","javadoc":"/** \n * Returns the number of columns in the TextArea.\n * @return number of columns \u003e\u003d 0\n */\n","tf":{"freq":{"text":1,"area":1,"column":3,"number":2},"maxFreq":3,"totalTerms":7},"loc":3}

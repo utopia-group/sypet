@@ -1,0 +1,1 @@
+{"id":17375,"className":"java.awt.BufferCapabilities","methodName":"clone","signature":"\u003cjava.awt.BufferCapabilities: java.lang.Object clone()\u003e","javadoc":"/** \n * @return a copy of this BufferCapabilities object.\n */\n","tf":{"freq":{"buffer":1,"clone":1,"capabl":1,"object":1,"copi":1},"maxFreq":1,"totalTerms":5},"loc":8}

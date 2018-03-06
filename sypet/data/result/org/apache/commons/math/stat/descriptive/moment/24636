@@ -1,0 +1,1 @@
+{"id":24636,"className":"org.apache.commons.math.stat.descriptive.moment.SemiVariance","methodName":"copy","signature":"\u003corg.apache.commons.math.stat.descriptive.moment.SemiVariance: org.apache.commons.math.stat.descriptive.moment.SemiVariance copy()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"copi":1},"maxFreq":1,"totalTerms":1},"loc":5}

@@ -1,0 +1,1 @@
+{"id":24580,"className":"org.apache.commons.math.stat.descriptive.moment.VectorialMean","methodName":"getResult","signature":"\u003corg.apache.commons.math.stat.descriptive.moment.VectorialMean: double[] getResult()\u003e","javadoc":"/** \n * Get the mean vector.\n * @return mean vector\n */\n","tf":{"freq":{"result":1,"vector":2,"mean":2},"maxFreq":2,"totalTerms":5},"loc":7}

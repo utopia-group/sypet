@@ -1,0 +1,1 @@
+{"id":20847,"className":"javax.swing.plaf.synth.SynthScrollPaneUI$ViewportViewFocusHandler","methodName":"focusGained","signature":"\u003cjavax.swing.plaf.synth.SynthScrollPaneUI$ViewportViewFocusHandler: void focusGained(java.awt.event.FocusEvent)\u003e","loc":4}

@@ -1,0 +1,1 @@
+{"id":22118,"className":"org.apache.commons.math3.complex.Quaternion","methodName":"getNorm","signature":"\u003corg.apache.commons.math3.complex.Quaternion: double getNorm()\u003e","javadoc":"/** \n * Computes the norm of the quaternion.\n * @return the norm.\n */\n","tf":{"freq":{"norm":3,"quaternion":1,"comput":1},"maxFreq":3,"totalTerms":5},"loc":6}

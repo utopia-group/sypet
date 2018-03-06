@@ -1,0 +1,1 @@
+{"id":14560,"className":"javax.swing.SwingWorker","methodName":"isCancelled","signature":"\u003cjavax.swing.SwingWorker: boolean isCancelled()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"cancel":1},"maxFreq":1,"totalTerms":1},"loc":3}

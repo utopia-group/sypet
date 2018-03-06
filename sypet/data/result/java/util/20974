@@ -1,0 +1,1 @@
+{"id":20974,"className":"java.util.TreeMap","methodName":"size","signature":"\u003cjava.util.TreeMap: int size()\u003e","javadoc":"/** \n * Returns the number of key-value mappings in this map.\n * @return the number of key-value mappings in this map\n */\n","tf":{"freq":{"map":4,"valu":2,"number":2,"key":2,"size":1},"maxFreq":4,"totalTerms":11},"loc":3}

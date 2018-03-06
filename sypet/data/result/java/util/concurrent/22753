@@ -1,0 +1,1 @@
+{"id":22753,"className":"java.util.concurrent.Exchanger","methodName":"Exchanger","signature":"\u003cjava.util.concurrent.Exchanger: void Exchanger()\u003e","javadoc":"/** \n * Creates a new Exchanger.\n */\n","tf":{"freq":{"creat":1,"exchang":2},"maxFreq":2,"totalTerms":3},"loc":2}

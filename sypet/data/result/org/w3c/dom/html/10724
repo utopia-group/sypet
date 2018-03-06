@@ -1,0 +1,1 @@
+{"id":10724,"className":"org.w3c.dom.html.HTMLMetaElement","methodName":"getName","signature":"\u003corg.w3c.dom.html.HTMLMetaElement: java.lang.String getName()\u003e","javadoc":"/** \n * Meta information name. See the  name attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"inform":1,"attribut":1,"definit":1,"name":3,"meta":1},"maxFreq":3,"totalTerms":7},"loc":0}

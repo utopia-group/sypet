@@ -1,0 +1,1 @@
+{"id":24757,"className":"java.text.CharacterIteratorFieldDelegate","methodName":"formatted","signature":"\u003cjava.text.CharacterIteratorFieldDelegate: void formatted(int,java.text.Format$Field,java.lang.Object,int,int,java.lang.StringBuffer)\u003e","loc":3}

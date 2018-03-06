@@ -1,0 +1,1 @@
+{"id":27746,"className":"javax.smartcardio.ResponseAPDU","methodName":"hashCode","signature":"\u003cjavax.smartcardio.ResponseAPDU: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code value for this response APDU.\n * @return the hash code value for this response APDU.\n */\n","tf":{"freq":{"respons":2,"hash":3,"valu":2},"maxFreq":3,"totalTerms":7},"loc":3}

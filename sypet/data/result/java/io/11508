@@ -1,0 +1,1 @@
+{"id":11508,"className":"java.io.StringWriter","methodName":"getBuffer","signature":"\u003cjava.io.StringWriter: java.lang.StringBuffer getBuffer()\u003e","javadoc":"/** \n * Return the string buffer itself.\n * @return StringBuffer holding the current buffer value.\n */\n","tf":{"freq":{"buffer":4,"hold":1,"string":2,"current":1,"valu":1},"maxFreq":4,"totalTerms":9},"loc":3}

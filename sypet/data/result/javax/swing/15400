@@ -1,0 +1,1 @@
+{"id":15400,"className":"javax.swing.DebugGraphics","methodName":"flashTime","signature":"\u003cjavax.swing.DebugGraphics: int flashTime()\u003e","javadoc":"/** \n * Returns the time delay of drawing operation flashing.\n * @see #setFlashTime\n */\n","tf":{"freq":{"draw":1,"flash":3,"time":3,"oper":1,"delay":1},"maxFreq":3,"totalTerms":9},"loc":3}

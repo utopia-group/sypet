@@ -1,0 +1,1 @@
+{"id":15403,"className":"javax.swing.DebugGraphics","methodName":"setLogStream","signature":"\u003cjavax.swing.DebugGraphics: void setLogStream(java.io.PrintStream)\u003e","javadoc":"/** \n * Sets the stream to which the DebugGraphics logs drawing operations.\n */\n","tf":{"freq":{"draw":1,"graphic":1,"stream":2,"oper":1,"debug":1,"log":2},"maxFreq":2,"totalTerms":8},"loc":3}

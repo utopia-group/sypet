@@ -1,0 +1,1 @@
+{"id":10165,"className":"com.opengamma.analytics.math.function.ParameterizedCurveVectorFunction","methodName":"getLengthOfRange","signature":"\u003ccom.opengamma.analytics.math.function.ParameterizedCurveVectorFunction: int getLengthOfRange()\u003e","loc":3}

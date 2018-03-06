@@ -1,0 +1,1 @@
+{"id":21456,"className":"java.util.Properties","methodName":"Properties","signature":"\u003cjava.util.Properties: void Properties()\u003e","javadoc":"/** \n * Creates an empty property list with no default values.\n */\n","tf":{"freq":{"creat":1,"valu":1,"list":1,"properti":2,"empti":1},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":24089,"className":"java.util.logging.Logger","methodName":"getFilter","signature":"\u003cjava.util.logging.Logger: java.util.logging.Filter getFilter()\u003e","javadoc":"/** \n * Get the current filter for this Logger.\n * @return  a filter object (may be null)\n */\n","tf":{"freq":{"may":1,"logger":1,"current":1,"object":1,"filter":3},"maxFreq":3,"totalTerms":7},"loc":3}

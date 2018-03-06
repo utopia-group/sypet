@@ -1,0 +1,1 @@
+{"id":15451,"className":"javax.swing.JLayeredPane","methodName":"removeAll","signature":"\u003cjavax.swing.JLayeredPane: void removeAll()\u003e","javadoc":"/** \n * Removes all the components from this container.\n * @since 1.5\n */\n","tf":{"freq":{"compon":1,"contain":1,"remov":2},"maxFreq":2,"totalTerms":4},"loc":11}

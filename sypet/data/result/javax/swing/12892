@@ -1,0 +1,1 @@
+{"id":12892,"className":"javax.swing.JLayer","methodName":"remove","signature":"\u003cjavax.swing.JLayer: void remove(java.awt.Component)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"remov":1},"maxFreq":1,"totalTerms":1},"loc":11}

@@ -1,0 +1,1 @@
+{"id":20594,"className":"javax.swing.plaf.synth.SynthTableUI","methodName":"paintBorder","signature":"\u003cjavax.swing.plaf.synth.SynthTableUI: void paintBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"paint":1,"border":1},"maxFreq":1,"totalTerms":2},"loc":3}

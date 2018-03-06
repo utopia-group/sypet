@@ -1,0 +1,1 @@
+{"id":15333,"className":"org.joda.money.format.MoneyParseContext","methodName":"getAmount","signature":"\u003corg.joda.money.format.MoneyParseContext: java.math.BigDecimal getAmount()\u003e","javadoc":"/** \n * Gets the parsed amount.\n * @return the parsed amount, null if not parsed yet\n */\n","tf":{"freq":{"amount":3,"pars":3,"yet":1},"maxFreq":3,"totalTerms":7},"loc":3}

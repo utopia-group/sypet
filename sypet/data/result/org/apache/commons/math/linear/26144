@@ -1,0 +1,1 @@
+{"id":26144,"className":"org.apache.commons.math.linear.RealMatrixImpl","methodName":"createMatrix","signature":"\u003corg.apache.commons.math.linear.RealMatrixImpl: org.apache.commons.math.linear.RealMatrix createMatrix(int,int)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"creat":1,"matrix":1},"maxFreq":1,"totalTerms":2},"loc":3}

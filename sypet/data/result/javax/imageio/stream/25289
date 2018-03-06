@@ -1,0 +1,1 @@
+{"id":25289,"className":"javax.imageio.stream.ImageInputStreamImpl","methodName":"readBytes","signature":"\u003cjavax.imageio.stream.ImageInputStreamImpl: void readBytes(javax.imageio.stream.IIOByteBuffer,int)\u003e","loc":15}

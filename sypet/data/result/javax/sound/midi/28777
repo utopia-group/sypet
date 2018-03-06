@@ -1,0 +1,1 @@
+{"id":28777,"className":"javax.sound.midi.MidiEvent","methodName":"getTick","signature":"\u003cjavax.sound.midi.MidiEvent: long getTick()\u003e","javadoc":"/** \n * Obtains the time-stamp for the event, in MIDI ticks\n * @return the time-stamp for the event, in MIDI ticks\n */\n","tf":{"freq":{"stamp":2,"tick":3,"time":2,"obtain":1,"event":2},"maxFreq":3,"totalTerms":10},"loc":3}

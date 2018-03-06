@@ -1,0 +1,1 @@
+{"id":26841,"className":"org.jsoup.Connection","methodName":"response","signature":"\u003corg.jsoup.Connection: org.jsoup.Connection$Response response()\u003e","javadoc":"/** \n * Get the response, once the request has been executed\n * @return response\n */\n","tf":{"freq":{"respons":3,"request":1,"execut":1},"maxFreq":3,"totalTerms":5},"loc":0}

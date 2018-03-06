@@ -1,0 +1,1 @@
+{"id":11901,"className":"javax.naming.spi.ContinuationContext","methodName":"rename","signature":"\u003cjavax.naming.spi.ContinuationContext: void rename(javax.naming.Name,javax.naming.Name)\u003e","loc":4}

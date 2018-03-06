@@ -1,0 +1,1 @@
+{"id":13551,"className":"org.joda.time.field.OffsetDateTimeField","methodName":"getOffset","signature":"\u003corg.joda.time.field.OffsetDateTimeField: int getOffset()\u003e","javadoc":"/** \n * Returns the offset added to the field values.\n * @return the offset\n */\n","tf":{"freq":{"field":1,"ad":1,"valu":1,"offset":3},"maxFreq":3,"totalTerms":6},"loc":3}

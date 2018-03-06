@@ -1,0 +1,1 @@
+{"id":23356,"className":"javax.swing.text.html.parser.Element","methodName":"isEmpty","signature":"\u003cjavax.swing.text.html.parser.Element: boolean isEmpty()\u003e","javadoc":"/** \n * Check if empty\n */\n","tf":{"freq":{"check":1,"empti":2},"maxFreq":2,"totalTerms":3},"loc":3}

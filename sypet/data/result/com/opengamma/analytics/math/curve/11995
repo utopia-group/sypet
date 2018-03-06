@@ -1,0 +1,1 @@
+{"id":11995,"className":"com.opengamma.analytics.math.curve.ConstantDoublesCurve","methodName":"clone","signature":"\u003ccom.opengamma.analytics.math.curve.ConstantDoublesCurve: com.opengamma.analytics.math.curve.ConstantDoublesCurve clone()\u003e","loc":3}

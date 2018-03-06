@@ -1,0 +1,1 @@
+{"id":26282,"className":"org.apache.commons.math.linear.SingularValueDecompositionImpl","methodName":"getNorm","signature":"\u003corg.apache.commons.math.linear.SingularValueDecompositionImpl: double getNorm()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"norm":1},"maxFreq":1,"totalTerms":1},"loc":3}

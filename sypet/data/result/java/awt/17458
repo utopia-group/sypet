@@ -1,0 +1,1 @@
+{"id":17458,"className":"java.awt.Color","methodName":"getRed","signature":"\u003cjava.awt.Color: int getRed()\u003e","javadoc":"/** \n * Returns the red component in the range 0-255 in the default sRGB space.\n * @return the red component.\n * @see #getRGB\n */\n","tf":{"freq":{"red":3,"compon":2,"rang":1,"space":1},"maxFreq":3,"totalTerms":7},"loc":3}

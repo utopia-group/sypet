@@ -1,0 +1,1 @@
+{"id":25888,"className":"java.security.cert.X509CRL","methodName":"hashCode","signature":"\u003cjava.security.cert.X509CRL: int hashCode()\u003e","javadoc":"/** \n * Returns a hashcode value for this CRL from its encoded form.\n * @return the hashcode value.\n */\n","tf":{"freq":{"encod":1,"form":1,"hash":1,"hashcod":2,"valu":2},"maxFreq":2,"totalTerms":7},"loc":12}

@@ -1,0 +1,1 @@
+{"id":13566,"className":"org.joda.time.field.ScaledDurationField","methodName":"getScalar","signature":"\u003corg.joda.time.field.ScaledDurationField: int getScalar()\u003e","javadoc":"/** \n * Returns the scalar applied, in the field\u0027s units.\n * @return the scalar\n */\n","tf":{"freq":{"field":1,"unit":1,"appli":1,"scalar":3},"maxFreq":3,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":14643,"className":"org.joda.time.chrono.AssembledChronology","methodName":"minuteOfHour","signature":"\u003corg.joda.time.chrono.AssembledChronology: org.joda.time.DateTimeField minuteOfHour()\u003e","loc":3}

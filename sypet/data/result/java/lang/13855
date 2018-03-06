@@ -1,0 +1,1 @@
+{"id":13855,"className":"java.lang.LinkageError","methodName":"LinkageError","signature":"\u003cjava.lang.LinkageError: void LinkageError()\u003e","javadoc":"/** \n * Constructs a  {@code LinkageError} with no detail message.\n */\n","tf":{"freq":{"detail":1,"error":2,"messag":1,"linkag":2,"construct":1},"maxFreq":2,"totalTerms":7},"loc":3}

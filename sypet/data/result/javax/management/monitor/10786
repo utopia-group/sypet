@@ -1,0 +1,1 @@
+{"id":10786,"className":"javax.management.monitor.Monitor","methodName":"start","signature":"\u003cjavax.management.monitor.Monitor: void start()\u003e","javadoc":"/** \n * Starts the monitor.\n */\n","tf":{"freq":{"monitor":1,"start":2},"maxFreq":2,"totalTerms":3},"loc":0}

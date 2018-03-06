@@ -1,0 +1,1 @@
+{"id":23432,"className":"org.apache.commons.math.analysis.solvers.BisectionSolver","methodName":"BisectionSolver","signature":"\u003corg.apache.commons.math.analysis.solvers.BisectionSolver: void BisectionSolver()\u003e","javadoc":"/** \n * Construct a solver.\n */\n","tf":{"freq":{"solver":2,"bisect":1,"construct":1},"maxFreq":2,"totalTerms":4},"loc":3}

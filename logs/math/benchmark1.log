@@ -1,0 +1,103 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/math/1/benchmark1.json
+     [java] Benchmark Id: 1
+     [java] Method name: invert
+     [java] Packages: [org.apache.commons.math3.linear]
+     [java] Libraries: [./lib/commons-math3-3.5.jar]
+     [java] Source type(s): [org.apache.commons.math3.linear.RealMatrix]
+     [java] Target type: org.apache.commons.math3.linear.RealMatrix
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] PetriNet for path length: 1 [places: 25 ; transitions: 328 ; edges: 799]
+     [java] PetriNet for path length: 2 [places: 64 ; transitions: 837 ; edges: 2177]
+     [java] PetriNet for path length: 3 [places: 82 ; transitions: 1087 ; edges: 2903]
+     [java] PetriNet for path length: 4 [places: 85 ; transitions: 1107 ; edges: 2958]
+     [java] PetriNet for path length: 5 [places: 88 ; transitions: 1118 ; edges: 2983]
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var292 = new org.apache.commons.math3.linear.RealVector();double sypet_var293 = sypet_var292.getMaxValue();org.apache.commons.math3.linear.RealMatrix sypet_var294 = org.apache.commons.math3.linear.MatrixUtils.inverse(sypet_arg0,sypet_var293);return sypet_var294;}
+     [java] 	                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var296 = new org.apache.commons.math3.linear.RealVector();double sypet_var297 = sypet_var296.getLInfNorm();org.apache.commons.math3.linear.RealMatrix sypet_var298 = org.apache.commons.math3.linear.MatrixUtils.inverse(sypet_arg0,sypet_var297);return sypet_var298;}
+     [java] 	                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var300 = new org.apache.commons.math3.linear.RealVector();double sypet_var301 = sypet_var300.getL1Norm();org.apache.commons.math3.linear.RealMatrix sypet_var302 = org.apache.commons.math3.linear.MatrixUtils.inverse(sypet_arg0,sypet_var301);return sypet_var302;}
+     [java] 	                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var304 = new org.apache.commons.math3.linear.RealVector();double sypet_var305 = sypet_var304.getMinValue();org.apache.commons.math3.linear.RealMatrix sypet_var306 = org.apache.commons.math3.linear.MatrixUtils.inverse(sypet_arg0,sypet_var305);return sypet_var306;}
+     [java] 	                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var308 = new org.apache.commons.math3.linear.RealVector();double sypet_var309 = sypet_var308.getNorm();org.apache.commons.math3.linear.RealMatrix sypet_var310 = org.apache.commons.math3.linear.MatrixUtils.inverse(sypet_arg0,sypet_var309);return sypet_var310;}
+     [java] 	                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealMatrix sypet_var316 = org.apache.commons.math3.linear.MatrixUtils.inverse(sypet_arg0);org.apache.commons.math3.linear.RealVector sypet_var317 = new org.apache.commons.math3.linear.RealVector();sypet_var317.unitize();return sypet_var316;}
+     [java] 	                                                                                                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 1
+     [java] Sketch Generation Time: 1319.6959749999992
+     [java] Sketch Completion Time: 214.42909100000008
+     [java] Compilation Time: 13020.719151999994
+     [java] Running Test cases Time: 5247.934012
+     [java] Synthesis Time: 6782.059077999998
+     [java] Total Time: 19802.778229999993
+     [java] Number of components: 3
+     [java] Number of holes: 4
+     [java] Number of completed programs: 509
+     [java] Number of sketches: 255
+     [java] 
+     [java] Solution:
+     [java]  org.apache.commons.math3.linear.SingularValueDecomposition sypet_var1059 = new org.apache.commons.math3.linear.SingularValueDecomposition(sypet_arg0);
+     [java]  org.apache.commons.math3.linear.DecompositionSolver sypet_var1060 = sypet_var1059.getSolver();
+     [java]  org.apache.commons.math3.linear.RealMatrix sypet_var1061 = sypet_var1060.getInverse();
+     [java]  return sypet_var1061;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 29 seconds

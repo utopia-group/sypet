@@ -1,0 +1,1 @@
+{"id":18090,"className":"javax.swing.plaf.basic.BasicFileChooserUI","methodName":"ensureFileIsVisible","signature":"\u003cjavax.swing.plaf.basic.BasicFileChooserUI: void ensureFileIsVisible(javax.swing.JFileChooser,java.io.File)\u003e","loc":2}

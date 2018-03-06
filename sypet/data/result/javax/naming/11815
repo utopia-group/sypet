@@ -1,0 +1,1 @@
+{"id":11815,"className":"javax.naming.InitialContext","methodName":"getEnvironment","signature":"\u003cjavax.naming.InitialContext: java.util.Hashtable\u003c?,?\u003e getEnvironment()\u003e","loc":3}

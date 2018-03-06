@@ -1,0 +1,1 @@
+{"id":28776,"className":"javax.sound.midi.MidiEvent","methodName":"setTick","signature":"\u003cjavax.sound.midi.MidiEvent: void setTick(long)\u003e","javadoc":"/** \n * Sets the time-stamp for the event, in MIDI ticks\n * @param tick the new time-stamp, in MIDI ticks\n */\n","tf":{"freq":{"stamp":2,"tick":4,"time":2,"event":1},"maxFreq":4,"totalTerms":9},"loc":3}

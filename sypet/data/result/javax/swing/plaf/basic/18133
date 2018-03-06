@@ -1,0 +1,1 @@
+{"id":18133,"className":"javax.swing.plaf.basic.BasicFileChooserUI$BasicFileView","methodName":"getDescription","signature":"\u003cjavax.swing.plaf.basic.BasicFileChooserUI$BasicFileView: java.lang.String getDescription(java.io.File)\u003e","loc":3}

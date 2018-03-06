@@ -1,0 +1,1 @@
+{"id":15326,"className":"org.joda.money.format.MoneyParseContext","methodName":"getIndex","signature":"\u003corg.joda.money.format.MoneyParseContext: int getIndex()\u003e","javadoc":"/** \n * Gets the current parse position index.\n * @return the current parse position index\n */\n","tf":{"freq":{"index":3,"current":2,"posit":2,"pars":2},"maxFreq":3,"totalTerms":9},"loc":3}

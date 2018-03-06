@@ -1,0 +1,1 @@
+{"id":15908,"className":"javax.swing.GroupLayout$ParallelGroup","methodName":"addComponent","signature":"\u003cjavax.swing.GroupLayout$ParallelGroup: javax.swing.GroupLayout$ParallelGroup addComponent(java.awt.Component,int,int,int)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"compon":1,"add":1},"maxFreq":1,"totalTerms":2},"loc":3}

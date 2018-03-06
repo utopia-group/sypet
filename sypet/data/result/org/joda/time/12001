@@ -1,0 +1,1 @@
+{"id":12001,"className":"org.joda.time.TimeOfDay","methodName":"getHourOfDay","signature":"\u003corg.joda.time.TimeOfDay: int getHourOfDay()\u003e","javadoc":"/** \n * Get the hour of day (0-23) field value.\n * @return the hour of day\n */\n","tf":{"freq":{"field":1,"valu":1,"day":3,"hour":3},"maxFreq":3,"totalTerms":8},"loc":3}

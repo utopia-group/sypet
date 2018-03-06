@@ -1,0 +1,1 @@
+{"id":15111,"className":"org.joda.time.chrono.BasicDayOfYearDateTimeField","methodName":"isLeap","signature":"\u003corg.joda.time.chrono.BasicDayOfYearDateTimeField: boolean isLeap(long)\u003e","loc":3}

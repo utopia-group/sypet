@@ -1,0 +1,1 @@
+{"id":14731,"className":"java.nio.charset.Charset","methodName":"toString","signature":"\u003cjava.nio.charset.Charset: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a string describing this charset. \u003c/p\u003e\n * @return  A string describing this charset\n */\n","tf":{"freq":{"string":3,"charset":2,"describ":2},"maxFreq":3,"totalTerms":7},"loc":3}

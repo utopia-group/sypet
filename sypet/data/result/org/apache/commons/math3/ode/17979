@@ -1,0 +1,1 @@
+{"id":17979,"className":"org.apache.commons.math3.ode.ParameterizedWrapper","methodName":"getDimension","signature":"\u003corg.apache.commons.math3.ode.ParameterizedWrapper: int getDimension()\u003e","javadoc":"/** \n * Get the dimension of the underlying FODE.\n * @return dimension of the underlying FODE\n */\n","tf":{"freq":{"dimens":3},"maxFreq":3,"totalTerms":3},"loc":3}

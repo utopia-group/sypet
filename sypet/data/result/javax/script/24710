@@ -1,0 +1,1 @@
+{"id":24710,"className":"javax.script.SimpleBindings","methodName":"size","signature":"\u003cjavax.script.SimpleBindings: int size()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"size":1},"maxFreq":1,"totalTerms":1},"loc":3}

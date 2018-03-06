@@ -1,0 +1,1 @@
+{"id":21982,"className":"javax.swing.text.StyleContext$FontKey","methodName":"hashCode","signature":"\u003cjavax.swing.text.StyleContext$FontKey: int hashCode()\u003e","javadoc":"/** \n * Returns a hashcode for this font.\n * @return     a hashcode value for this font.\n */\n","tf":{"freq":{"hash":1,"font":2,"hashcod":2,"valu":1},"maxFreq":2,"totalTerms":6},"loc":4}

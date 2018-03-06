@@ -1,0 +1,1 @@
+{"id":22322,"className":"java.util.TreeSet","methodName":"size","signature":"\u003cjava.util.TreeSet: int size()\u003e","javadoc":"/** \n * Returns the number of elements in this set (its cardinality).\n * @return the number of elements in this set (its cardinality)\n */\n","tf":{"freq":{"cardin":2,"element":2,"number":2,"size":1},"maxFreq":2,"totalTerms":7},"loc":3}

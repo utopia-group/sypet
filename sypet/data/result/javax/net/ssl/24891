@@ -1,0 +1,1 @@
+{"id":24891,"className":"javax.net.ssl.SSLParameters","methodName":"setProtocols","signature":"\u003cjavax.net.ssl.SSLParameters: void setProtocols(java.lang.String[])\u003e","javadoc":"/** \n * Sets the array of protocols.\n * @param protocols the array of protocols (or null)\n */\n","tf":{"freq":{"protocol":4,"array":2},"maxFreq":4,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":19181,"className":"java.awt.im.InputMethodHighlight","methodName":"isSelected","signature":"\u003cjava.awt.im.InputMethodHighlight: boolean isSelected()\u003e","javadoc":"/** \n * Returns whether the text range is selected.\n */\n","tf":{"freq":{"text":1,"rang":1,"select":2,"whether":1},"maxFreq":2,"totalTerms":5},"loc":3}

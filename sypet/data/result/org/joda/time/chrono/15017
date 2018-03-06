@@ -1,0 +1,1 @@
+{"id":15017,"className":"org.joda.time.chrono.BasicMonthOfYearDateTimeField","methodName":"isLeap","signature":"\u003corg.joda.time.chrono.BasicMonthOfYearDateTimeField: boolean isLeap(long)\u003e","loc":7}

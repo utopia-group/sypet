@@ -1,0 +1,1 @@
+{"id":20488,"className":"javax.swing.plaf.synth.SynthDesktopPaneUI$SynthDesktopManager","methodName":"setBoundsForFrame","signature":"\u003cjavax.swing.plaf.synth.SynthDesktopPaneUI$SynthDesktopManager: void setBoundsForFrame(javax.swing.JComponent,int,int,int,int)\u003e","loc":6}

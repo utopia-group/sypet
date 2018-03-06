@@ -1,0 +1,1 @@
+{"id":20467,"className":"java.util.BitSet","methodName":"clear","signature":"\u003cjava.util.BitSet: void clear()\u003e","javadoc":"/** \n * Sets all of the bits in this BitSet to  {@code false}.\n * @since 1.4\n */\n","tf":{"freq":{"fals":1,"clear":1,"bit":2},"maxFreq":2,"totalTerms":4},"loc":4}

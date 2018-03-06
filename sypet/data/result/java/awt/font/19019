@@ -1,0 +1,1 @@
+{"id":19019,"className":"java.awt.font.TextLine","methodName":"getAdvanceBetween","signature":"\u003cjava.awt.font.TextLine: float getAdvanceBetween(sun.font.TextLineComponent[],int,int)\u003e","loc":23}

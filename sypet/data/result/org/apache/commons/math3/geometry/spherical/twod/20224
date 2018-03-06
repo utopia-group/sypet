@@ -1,0 +1,1 @@
+{"id":20224,"className":"org.apache.commons.math3.geometry.spherical.twod.PropertiesComputer","methodName":"getArea","signature":"\u003corg.apache.commons.math3.geometry.spherical.twod.PropertiesComputer: double getArea()\u003e","javadoc":"/** \n * Get the area.\n * @return area\n */\n","tf":{"freq":{"area":3},"maxFreq":3,"totalTerms":3},"loc":3}

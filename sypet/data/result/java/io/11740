@@ -1,0 +1,1 @@
+{"id":11740,"className":"java.io.CharConversionException","methodName":"CharConversionException","signature":"\u003cjava.io.CharConversionException: void CharConversionException()\u003e","javadoc":"/** \n * This provides no detailed message.\n */\n","tf":{"freq":{"detail":1,"except":1,"messag":1,"convers":1,"provid":1},"maxFreq":1,"totalTerms":5},"loc":2}

@@ -1,0 +1,1 @@
+{"id":24733,"className":"org.apache.commons.math.stat.descriptive.summary.SumOfSquares","methodName":"copy","signature":"\u003corg.apache.commons.math.stat.descriptive.summary.SumOfSquares: org.apache.commons.math.stat.descriptive.summary.SumOfSquares copy()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"copi":1},"maxFreq":1,"totalTerms":1},"loc":5}

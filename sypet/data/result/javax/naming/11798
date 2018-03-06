@@ -1,0 +1,1 @@
+{"id":11798,"className":"javax.naming.InitialContext","methodName":"rename","signature":"\u003cjavax.naming.InitialContext: void rename(javax.naming.Name,javax.naming.Name)\u003e","loc":3}

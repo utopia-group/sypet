@@ -1,0 +1,1 @@
+{"id":16455,"className":"org.apache.commons.math3.dfp.Dfp","methodName":"classify","signature":"\u003corg.apache.commons.math3.dfp.Dfp: int classify()\u003e","javadoc":"/** \n * Returns the type - one of FINITE, INFINITE, SNAN, QNAN.\n * @return type of the number\n */\n","tf":{"freq":{"one":1,"number":1,"type":2,"classifi":1},"maxFreq":2,"totalTerms":5},"loc":3}

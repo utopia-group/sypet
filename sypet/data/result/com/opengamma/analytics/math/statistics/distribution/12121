@@ -1,0 +1,1 @@
+{"id":12121,"className":"com.opengamma.analytics.math.statistics.distribution.ChiSquareDistribution","methodName":"nextRandom","signature":"\u003ccom.opengamma.analytics.math.statistics.distribution.ChiSquareDistribution: double nextRandom()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"next":1,"random":1},"maxFreq":1,"totalTerms":2},"loc":3}

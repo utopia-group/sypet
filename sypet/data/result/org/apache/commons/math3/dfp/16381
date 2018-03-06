@@ -1,0 +1,1 @@
+{"id":16381,"className":"org.apache.commons.math3.dfp.DfpField","methodName":"getTwo","signature":"\u003corg.apache.commons.math3.dfp.DfpField: org.apache.commons.math3.dfp.Dfp getTwo()\u003e","javadoc":"/** \n * Get the constant 2.\n * @return a {@link Dfp} with value 2\n */\n","tf":{"freq":{"two":1,"constant":1,"link":1,"valu":1,"dfp":1},"maxFreq":1,"totalTerms":5},"loc":3}

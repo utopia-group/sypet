@@ -1,0 +1,1 @@
+{"id":25417,"className":"javax.imageio.stream.ImageOutputStreamImpl","methodName":"writeFloat","signature":"\u003cjavax.imageio.stream.ImageOutputStreamImpl: void writeFloat(float)\u003e","loc":3}

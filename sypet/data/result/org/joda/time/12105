@@ -1,0 +1,1 @@
+{"id":12105,"className":"org.joda.time.DateTimeField","methodName":"getType","signature":"\u003corg.joda.time.DateTimeField: org.joda.time.DateTimeFieldType getType()\u003e","javadoc":"/** \n * Get the type of the field.\n * @return field type\n */\n","tf":{"freq":{"field":2,"type":3},"maxFreq":3,"totalTerms":5},"loc":0}

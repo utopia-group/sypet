@@ -1,0 +1,1 @@
+{"id":11457,"className":"java.io.ObjectStreamField","methodName":"getOffset","signature":"\u003cjava.io.ObjectStreamField: int getOffset()\u003e","javadoc":"/** \n * Offset of field within instance data.\n * @return  the offset of this field\n * @see #setOffset\n */\n","tf":{"freq":{"field":2,"data":1,"within":1,"offset":4,"instanc":1},"maxFreq":4,"totalTerms":9},"loc":3}

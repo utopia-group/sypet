@@ -1,0 +1,1 @@
+{"id":10818,"className":"javax.management.monitor.CounterMonitor$CounterMonitorObservedObject","methodName":"setDerivedGaugeExceeded","signature":"\u003cjavax.management.monitor.CounterMonitor$CounterMonitorObservedObject: void setDerivedGaugeExceeded(java.lang.Number)\u003e","loc":3}

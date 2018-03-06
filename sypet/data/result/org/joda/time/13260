@@ -1,0 +1,1 @@
+{"id":13260,"className":"org.joda.time.ReadablePeriod","methodName":"size","signature":"\u003corg.joda.time.ReadablePeriod: int size()\u003e","javadoc":"/** \n * Gets the number of fields that this period supports.\n * @return the number of fields supported\n */\n","tf":{"freq":{"field":2,"support":2,"number":2,"period":1,"size":1},"maxFreq":2,"totalTerms":8},"loc":0}

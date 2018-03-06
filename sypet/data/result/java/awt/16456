@@ -1,0 +1,1 @@
+{"id":16456,"className":"java.awt.BorderLayout","methodName":"getVgap","signature":"\u003cjava.awt.BorderLayout: int getVgap()\u003e","javadoc":"/** \n * Returns the vertical gap between components.\n * @since   JDK1.1\n */\n","tf":{"freq":{"compon":1,"vertic":1,"vgap":1,"gap":1},"maxFreq":1,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":24267,"className":"java.util.prefs.AbstractPreferences","methodName":"toString","signature":"\u003cjava.util.prefs.AbstractPreferences: java.lang.String toString()\u003e","javadoc":"/** \n * Returns the absolute path name of this preferences node.\n */\n","tf":{"freq":{"node":1,"name":1,"string":1,"path":1,"absolut":1,"prefer":1},"maxFreq":1,"totalTerms":6},"loc":4}

@@ -1,0 +1,1 @@
+{"id":17101,"className":"java.awt.JobAttributes","methodName":"hashCode","signature":"\u003cjava.awt.JobAttributes: int hashCode()\u003e","javadoc":"/** \n * Returns a hash code value for this JobAttributes.\n * @return  the hash code.\n */\n","tf":{"freq":{"attribut":1,"hash":3,"job":1,"valu":1},"maxFreq":3,"totalTerms":6},"loc":23}

@@ -1,0 +1,1 @@
+{"id":10795,"className":"org.w3c.dom.traversal.TreeWalker","methodName":"getFilter","signature":"\u003corg.w3c.dom.traversal.TreeWalker: org.w3c.dom.traversal.NodeFilter getFilter()\u003e","javadoc":"/** \n * The filter used to screen nodes.\n */\n","tf":{"freq":{"screen":1,"node":1,"use":1,"filter":2},"maxFreq":2,"totalTerms":5},"loc":0}

@@ -1,0 +1,1 @@
+{"id":10366,"className":"org.w3c.dom.html.HTMLAnchorElement","methodName":"getRev","signature":"\u003corg.w3c.dom.html.HTMLAnchorElement: java.lang.String getRev()\u003e","javadoc":"/** \n * Reverse link type. See the  rev attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"revers":1,"rev":2,"attribut":1,"definit":1,"link":1,"type":1},"maxFreq":2,"totalTerms":7},"loc":0}

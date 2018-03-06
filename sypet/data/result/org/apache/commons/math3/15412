@@ -1,0 +1,1 @@
+{"id":15412,"className":"org.apache.commons.math3.RealFieldElement","methodName":"abs","signature":"\u003corg.apache.commons.math3.RealFieldElement: T abs()\u003e","javadoc":"/** \n * absolute value.\n * @return abs(this)\n */\n","tf":{"freq":{"valu":1,"absolut":1,"ab":2},"maxFreq":2,"totalTerms":4},"loc":0}

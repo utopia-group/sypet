@@ -1,0 +1,1 @@
+{"id":21620,"className":"java.util.Observable","methodName":"deleteObservers","signature":"\u003cjava.util.Observable: void deleteObservers()\u003e","javadoc":"/** \n * Clears the observer list so that this object no longer has any observers.\n */\n","tf":{"freq":{"clear":1,"observ":3,"delet":1,"longer":1,"list":1,"object":1},"maxFreq":3,"totalTerms":8},"loc":3}

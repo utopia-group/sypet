@@ -1,0 +1,1 @@
+{"id":11341,"className":"org.xml.sax.SAXNotRecognizedException","methodName":"SAXNotRecognizedException","signature":"\u003corg.xml.sax.SAXNotRecognizedException: void SAXNotRecognizedException()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"except":1,"recogn":1,"constructor":1},"maxFreq":1,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":13683,"className":"org.joda.time.field.DelegatedDateTimeField","methodName":"isLenient","signature":"\u003corg.joda.time.field.DelegatedDateTimeField: boolean isLenient()\u003e","loc":3}

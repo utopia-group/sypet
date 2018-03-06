@@ -1,0 +1,1 @@
+{"id":18135,"className":"javax.swing.plaf.basic.BasicFileChooserUI$BasicFileView","methodName":"getCachedIcon","signature":"\u003cjavax.swing.plaf.basic.BasicFileChooserUI$BasicFileView: javax.swing.Icon getCachedIcon(java.io.File)\u003e","loc":3}

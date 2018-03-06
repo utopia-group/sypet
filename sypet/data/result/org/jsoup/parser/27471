@@ -1,0 +1,1 @@
+{"id":27471,"className":"org.jsoup.parser.Tag","methodName":"isBlock","signature":"\u003corg.jsoup.parser.Tag: boolean isBlock()\u003e","javadoc":"/** \n * Gets if this is a block tag.\n * @return if block tag\n */\n","tf":{"freq":{"tag":2,"block":3},"maxFreq":3,"totalTerms":5},"loc":3}

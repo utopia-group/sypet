@@ -1,0 +1,1 @@
+{"id":18335,"className":"javax.swing.plaf.basic.BasicTreeUI","methodName":"setPreferredMinSize","signature":"\u003cjavax.swing.plaf.basic.BasicTreeUI: void setPreferredMinSize(java.awt.Dimension)\u003e","javadoc":"/** \n * Sets the preferred minimum size.\n */\n","tf":{"freq":{"min":1,"minimum":1,"prefer":2,"size":2},"maxFreq":2,"totalTerms":6},"loc":3}

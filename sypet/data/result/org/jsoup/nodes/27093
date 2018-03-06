@@ -1,0 +1,1 @@
+{"id":27093,"className":"org.jsoup.nodes.Node","methodName":"nextSibling","signature":"\u003corg.jsoup.nodes.Node: org.jsoup.nodes.Node nextSibling()\u003e","javadoc":"/** \n * Get this node\u0027s next sibling.\n * @return next sibling, or null if this is the last sibling\n */\n","tf":{"freq":{"node":1,"last":1,"sibl":4,"next":3},"maxFreq":4,"totalTerms":9},"loc":11}

@@ -1,0 +1,1 @@
+{"id":25468,"className":"java.security.PermissionsEnumerator","methodName":"nextElement","signature":"\u003cjava.security.PermissionsEnumerator: java.security.Permission nextElement()\u003e","loc":12}

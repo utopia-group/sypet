@@ -1,0 +1,1 @@
+{"id":25798,"className":"java.security.spec.RSAKeyGenParameterSpec","methodName":"getKeysize","signature":"\u003cjava.security.spec.RSAKeyGenParameterSpec: int getKeysize()\u003e","javadoc":"/** \n * Returns the keysize.\n * @return the keysize.\n */\n","tf":{"freq":{"keysiz":3},"maxFreq":3,"totalTerms":3},"loc":3}

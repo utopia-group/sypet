@@ -1,0 +1,1 @@
+{"id":13165,"className":"org.joda.time.MutableDateTime$Property","methodName":"getField","signature":"\u003corg.joda.time.MutableDateTime$Property: org.joda.time.DateTimeField getField()\u003e","javadoc":"/** \n * Gets the field being used.\n * @return the field\n */\n","tf":{"freq":{"field":3,"use":1},"maxFreq":3,"totalTerms":4},"loc":3}

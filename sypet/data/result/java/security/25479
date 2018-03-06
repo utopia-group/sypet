@@ -1,0 +1,1 @@
+{"id":25479,"className":"java.security.CodeSigner","methodName":"getSignerCertPath","signature":"\u003cjava.security.CodeSigner: java.security.cert.CertPath getSignerCertPath()\u003e","javadoc":"/** \n * Returns the signer\u0027s certificate path.\n * @return A certificate path.\n */\n","tf":{"freq":{"certif":2,"cert":1,"signer":2,"path":3},"maxFreq":3,"totalTerms":8},"loc":3}

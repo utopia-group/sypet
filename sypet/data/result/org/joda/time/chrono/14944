@@ -1,0 +1,1 @@
+{"id":14944,"className":"org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField","methodName":"remainder","signature":"\u003corg.joda.time.chrono.BasicWeekOfWeekyearDateTimeField: long remainder(long)\u003e","loc":3}

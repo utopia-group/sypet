@@ -1,0 +1,1 @@
+{"id":11312,"className":"com.opengamma.analytics.math.rootfinding.CubicRealRootFinder","methodName":"getRoots","signature":"\u003ccom.opengamma.analytics.math.rootfinding.CubicRealRootFinder: java.lang.Double[] getRoots(com.opengamma.analytics.math.function.RealPolynomialFunction1D)\u003e","loc":16}

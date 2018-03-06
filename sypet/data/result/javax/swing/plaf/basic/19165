@@ -1,0 +1,1 @@
+{"id":19165,"className":"javax.swing.plaf.basic.BasicInternalFrameUI","methodName":"uninstallUI","signature":"\u003cjavax.swing.plaf.basic.BasicInternalFrameUI: void uninstallUI(javax.swing.JComponent)\u003e","loc":15}

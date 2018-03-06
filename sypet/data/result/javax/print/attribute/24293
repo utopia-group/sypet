@@ -1,0 +1,1 @@
+{"id":24293,"className":"javax.print.attribute.EnumSyntax","methodName":"toString","signature":"\u003cjavax.print.attribute.EnumSyntax: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a string value corresponding to this enumeration value.\n */\n","tf":{"freq":{"correspond":1,"string":2,"valu":2},"maxFreq":2,"totalTerms":5},"loc":9}

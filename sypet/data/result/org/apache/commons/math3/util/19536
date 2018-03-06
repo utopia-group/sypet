@@ -1,0 +1,1 @@
+{"id":19536,"className":"org.apache.commons.math3.util.BigReal","methodName":"setScale","signature":"\u003corg.apache.commons.math3.util.BigReal: void setScale(int)\u003e","javadoc":"/** \n * Sets the scale for division operations.\n * @param scale scale for division operations\n * @since 2.1\n */\n","tf":{"freq":{"scale":4,"oper":2,"divis":2},"maxFreq":4,"totalTerms":8},"loc":3}

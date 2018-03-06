@@ -1,0 +1,1 @@
+{"id":27111,"className":"javax.xml.parsers.FactoryConfigurationError","methodName":"getCause","signature":"\u003cjavax.xml.parsers.FactoryConfigurationError: java.lang.Throwable getCause()\u003e","javadoc":"/** \n * use the exception chaining mechanism of JDK1.4\n */\n","tf":{"freq":{"except":1,"caus":1,"chain":1,"mechan":1,"use":1},"maxFreq":1,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":10710,"className":"com.opengamma.analytics.math.interpolation.data.Interpolator1DQuadraticSplineDataBundle","methodName":"getLowerBoundKey","signature":"\u003ccom.opengamma.analytics.math.interpolation.data.Interpolator1DQuadraticSplineDataBundle: java.lang.Double getLowerBoundKey(java.lang.Double)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":15673,"className":"javax.swing.DefaultRowSorter","methodName":"getMaxSortKeys","signature":"\u003cjavax.swing.DefaultRowSorter: int getMaxSortKeys()\u003e","javadoc":"/** \n * Returns the maximum number of sort keys.\n * @return the maximum number of sort keys\n */\n","tf":{"freq":{"sort":3,"max":1,"maximum":2,"number":2,"key":3},"maxFreq":3,"totalTerms":11},"loc":3}

@@ -1,0 +1,148 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/math/6/benchmark6.json
+     [java] Benchmark Id: 6
+     [java] Method name: solveLinear
+     [java] Packages: [org.apache.commons.math3.linear]
+     [java] Libraries: [./lib/commons-math3-3.5.jar, ./lib/commons-lang-2.6.jar]
+     [java] Source type(s): [double[][], double[]]
+     [java] Target type: double[]
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] PetriNet for path length: 3 [places: 83 ; transitions: 1090 ; edges: 2910]
+     [java] PetriNet for path length: 4 [places: 88 ; transitions: 1118 ; edges: 2983]
+     [java] PetriNet for path length: 5 [places: 91 ; transitions: 1130 ; edges: 3013]
+     [java] PetriNet for path length: 6 [places: 91 ; transitions: 1130 ; edges: 3013]
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var3055 = new org.apache.commons.math3.linear.RealVector();boolean sypet_var3056 = sypet_var3055.isInfinite();org.apache.commons.math3.linear.Array2DRowRealMatrix sypet_var3057 = new org.apache.commons.math3.linear.Array2DRowRealMatrix(sypet_arg0,sypet_var3056);double[] sypet_var3058 = sypet_var3057.preMultiply(sypet_arg1);return sypet_var3058;}
+     [java] 	                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealLinearOperator sypet_var3211 = new org.apache.commons.math3.linear.RealLinearOperator();boolean sypet_var3212 = sypet_var3211.isTransposable();org.apache.commons.math3.linear.Array2DRowRealMatrix sypet_var3213 = new org.apache.commons.math3.linear.Array2DRowRealMatrix(sypet_arg0,sypet_var3212);double[] sypet_var3214 = sypet_var3213.preMultiply(sypet_arg1);return sypet_var3214;}
+     [java] 	                                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealLinearOperator
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealLinearOperator sypet_var3217 = new org.apache.commons.math3.linear.RealLinearOperator();boolean sypet_var3218 = sypet_var3217.isTransposable();org.apache.commons.math3.linear.Array2DRowRealMatrix sypet_var3219 = new org.apache.commons.math3.linear.Array2DRowRealMatrix(sypet_arg0,sypet_var3218);double[] sypet_var3220 = sypet_var3219.operate(sypet_arg1);return sypet_var3220;}
+     [java] 	                                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealLinearOperator
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var3247 = new org.apache.commons.math3.linear.RealVector();boolean sypet_var3248 = sypet_var3247.isNaN();org.apache.commons.math3.linear.Array2DRowRealMatrix sypet_var3249 = new org.apache.commons.math3.linear.Array2DRowRealMatrix(sypet_arg0,sypet_var3248);double[] sypet_var3250 = sypet_var3249.preMultiply(sypet_arg1);return sypet_var3250;}
+     [java] 	                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var3253 = new org.apache.commons.math3.linear.RealVector();boolean sypet_var3254 = sypet_var3253.isInfinite();org.apache.commons.math3.linear.Array2DRowRealMatrix sypet_var3255 = new org.apache.commons.math3.linear.Array2DRowRealMatrix(sypet_arg0,sypet_var3254);double[] sypet_var3256 = sypet_var3255.operate(sypet_arg1);return sypet_var3256;}
+     [java] 	                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var3259 = new org.apache.commons.math3.linear.RealVector();boolean sypet_var3260 = sypet_var3259.isNaN();org.apache.commons.math3.linear.Array2DRowRealMatrix sypet_var3261 = new org.apache.commons.math3.linear.Array2DRowRealMatrix(sypet_arg0,sypet_var3260);double[] sypet_var3262 = sypet_var3261.operate(sypet_arg1);return sypet_var3262;}
+     [java] 	                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var4170 = new org.apache.commons.math3.linear.RealVector();org.apache.commons.math3.linear.Array2DRowRealMatrix sypet_var4171 = new org.apache.commons.math3.linear.Array2DRowRealMatrix(sypet_arg0);double[] sypet_var4172 = sypet_var4171.operate(sypet_arg1);sypet_var4170.unitize();return sypet_var4172;}
+     [java] 	                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var4176 = new org.apache.commons.math3.linear.RealVector();org.apache.commons.math3.linear.RealMatrix sypet_var4177 = org.apache.commons.math3.linear.MatrixUtils.createRealMatrix(sypet_arg0);double[] sypet_var4178 = sypet_var4177.preMultiply(sypet_arg1);sypet_var4176.unitize();return sypet_var4178;}
+     [java] 	                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var4182 = new org.apache.commons.math3.linear.RealVector();org.apache.commons.math3.linear.RealMatrix sypet_var4183 = org.apache.commons.math3.linear.MatrixUtils.createRealMatrix(sypet_arg0);double[] sypet_var4184 = sypet_var4183.operate(sypet_arg1);sypet_var4182.unitize();return sypet_var4184;}
+     [java] 	                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var4188 = new org.apache.commons.math3.linear.RealVector();org.apache.commons.math3.linear.Array2DRowRealMatrix sypet_var4189 = new org.apache.commons.math3.linear.Array2DRowRealMatrix(sypet_arg0);double[] sypet_var4190 = sypet_var4189.preMultiply(sypet_arg1);sypet_var4188.unitize();return sypet_var4190;}
+     [java] 	                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var4194 = new org.apache.commons.math3.linear.RealVector();org.apache.commons.math3.linear.BlockRealMatrix sypet_var4195 = new org.apache.commons.math3.linear.BlockRealMatrix(sypet_arg0);double[] sypet_var4196 = sypet_var4195.preMultiply(sypet_arg1);sypet_var4194.unitize();return sypet_var4196;}
+     [java] 	                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	org.apache.commons.math3.linear.RealVector sypet_var4200 = new org.apache.commons.math3.linear.RealVector();org.apache.commons.math3.linear.BlockRealMatrix sypet_var4201 = new org.apache.commons.math3.linear.BlockRealMatrix(sypet_arg0);double[] sypet_var4202 = sypet_var4201.operate(sypet_arg1);sypet_var4200.unitize();return sypet_var4202;}
+     [java] 	                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type RealVector
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] PetriNet for path length: 7 [places: 91 ; transitions: 1130 ; edges: 3013]
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 6
+     [java] Sketch Generation Time: 13541.903929000002
+     [java] Sketch Completion Time: 742.2127399999998
+     [java] Compilation Time: 39955.92865300004
+     [java] Running Test cases Time: 13975.151209999993
+     [java] Synthesis Time: 28259.267878999995
+     [java] Total Time: 68215.19653200003
+     [java] Number of components: 6
+     [java] Number of holes: 8
+     [java] Number of completed programs: 1605
+     [java] Number of sketches: 790
+     [java] 
+     [java] Solution:
+     [java]  org.apache.commons.math3.linear.RealMatrix sypet_var5042 = org.apache.commons.math3.linear.MatrixUtils.createRealMatrix(sypet_arg0);
+     [java]  org.apache.commons.math3.linear.LUDecomposition sypet_var5043 = new org.apache.commons.math3.linear.LUDecomposition(sypet_var5042);
+     [java]  org.apache.commons.math3.linear.DecompositionSolver sypet_var5044 = sypet_var5043.getSolver();
+     [java]  org.apache.commons.math3.linear.RealVector sypet_var5045 = org.apache.commons.math3.linear.MatrixUtils.createRealVector(sypet_arg1);
+     [java]  org.apache.commons.math3.linear.RealVector sypet_var5046 = sypet_var5044.solve(sypet_var5045);
+     [java]  double[] sypet_var5047 = sypet_var5046.toArray();
+     [java]  return sypet_var5047;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 1 minute 17 seconds

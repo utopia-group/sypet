@@ -1,0 +1,1 @@
+{"id":13235,"className":"javax.swing.JTextField","methodName":"getScrollOffset","signature":"\u003cjavax.swing.JTextField: int getScrollOffset()\u003e","javadoc":"/** \n * Gets the scroll offset, in pixels.\n * @return the offset \u003e\u003d 0\n */\n","tf":{"freq":{"pixel":1,"scroll":2,"offset":3},"maxFreq":3,"totalTerms":6},"loc":3}

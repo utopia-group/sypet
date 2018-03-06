@@ -1,0 +1,1 @@
+{"id":25794,"className":"java.security.spec.DSAPrivateKeySpec","methodName":"getP","signature":"\u003cjava.security.spec.DSAPrivateKeySpec: java.math.BigInteger getP()\u003e","javadoc":"/** \n * Returns the prime \u003ccode\u003ep\u003c/code\u003e.\n * @return the prime \u003ccode\u003ep\u003c/code\u003e.\n */\n","tf":{"freq":{"prime":2},"maxFreq":2,"totalTerms":2},"loc":3}

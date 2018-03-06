@@ -1,0 +1,1 @@
+{"id":19761,"className":"javax.swing.plaf.metal.MetalTheme","methodName":"getControlTextFont","signature":"\u003cjavax.swing.plaf.metal.MetalTheme: javax.swing.plaf.FontUIResource getControlTextFont()\u003e","javadoc":"/** \n * Returns the control text font.\n * @return the control text font\n */\n","tf":{"freq":{"control":3,"text":3,"font":3},"maxFreq":3,"totalTerms":9},"loc":0}

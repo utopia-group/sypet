@@ -1,0 +1,1 @@
+{"id":26814,"className":"org.jsoup.Connection","methodName":"hasBody","signature":"\u003corg.jsoup.Connection: boolean hasBody()\u003e","javadoc":"/** \n * Check if this HTTP method has/needs a request body\n * @return if body needed\n */\n","tf":{"freq":{"need":2,"bodi":3,"check":1,"request":1,"method":1},"maxFreq":3,"totalTerms":8},"loc":3}

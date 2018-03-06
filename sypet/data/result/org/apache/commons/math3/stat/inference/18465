@@ -1,0 +1,1 @@
+{"id":18465,"className":"org.apache.commons.math3.stat.inference.OneWayAnova","methodName":"OneWayAnova","signature":"\u003corg.apache.commons.math3.stat.inference.OneWayAnova: void OneWayAnova()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"anova":1,"one":1,"way":1,"constructor":1},"maxFreq":1,"totalTerms":4},"loc":2}

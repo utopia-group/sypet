@@ -1,0 +1,1 @@
+{"id":14487,"className":"java.lang.invoke.FilterOneArgument","methodName":"make","signature":"\u003cjava.lang.invoke.FilterOneArgument: java.lang.invoke.MethodHandle make(java.lang.invoke.MethodHandle,java.lang.invoke.MethodHandle)\u003e","loc":5}

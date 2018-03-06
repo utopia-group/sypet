@@ -1,0 +1,1 @@
+{"id":16940,"className":"org.apache.commons.math3.analysis.function.Power","methodName":"Power","signature":"\u003corg.apache.commons.math3.analysis.function.Power: void Power(double)\u003e","javadoc":"/** \n * @param p Power.\n */\n","tf":{"freq":{"power":2},"maxFreq":2,"totalTerms":2},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12518,"className":"java.beans.FeatureDescriptor","methodName":"FeatureDescriptor","signature":"\u003cjava.beans.FeatureDescriptor: void FeatureDescriptor()\u003e","javadoc":"/** \n * Constructs a \u003ccode\u003eFeatureDescriptor\u003c/code\u003e.\n */\n","tf":{"freq":{"descriptor":2,"featur":2,"construct":1},"maxFreq":2,"totalTerms":5},"loc":2}

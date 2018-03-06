@@ -1,0 +1,1 @@
+{"id":12449,"className":"javax.swing.DefaultListSelectionModel","methodName":"isSelectionEmpty","signature":"\u003cjavax.swing.DefaultListSelectionModel: boolean isSelectionEmpty()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"select":1,"empti":1},"maxFreq":1,"totalTerms":2},"loc":3}

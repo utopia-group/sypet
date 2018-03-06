@@ -1,0 +1,1 @@
+{"id":15750,"className":"org.apache.commons.math3.distribution.NakagamiDistribution","methodName":"getNumericalVariance","signature":"\u003corg.apache.commons.math3.distribution.NakagamiDistribution: double getNumericalVariance()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"varianc":1,"numer":1},"maxFreq":1,"totalTerms":2},"loc":4}

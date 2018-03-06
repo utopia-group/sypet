@@ -1,0 +1,1 @@
+{"id":23342,"className":"javax.swing.text.html.parser.ContentModel","methodName":"first","signature":"\u003cjavax.swing.text.html.parser.ContentModel: javax.swing.text.html.parser.Element first()\u003e","javadoc":"/** \n * Return the element that must be next.\n */\n","tf":{"freq":{"element":1,"next":1,"first":1,"must":1},"maxFreq":1,"totalTerms":4},"loc":16}

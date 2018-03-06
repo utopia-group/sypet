@@ -1,0 +1,1 @@
+{"id":24564,"className":"org.apache.commons.math.stat.descriptive.moment.Kurtosis","methodName":"copy","signature":"\u003corg.apache.commons.math.stat.descriptive.moment.Kurtosis: org.apache.commons.math.stat.descriptive.moment.Kurtosis copy()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"copi":1},"maxFreq":1,"totalTerms":1},"loc":5}

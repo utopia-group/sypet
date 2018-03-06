@@ -1,0 +1,1 @@
+{"id":22468,"className":"org.apache.commons.math.distribution.WeibullDistribution","methodName":"getShape","signature":"\u003corg.apache.commons.math.distribution.WeibullDistribution: double getShape()\u003e","javadoc":"/** \n * Access the shape parameter.\n * @return the shape parameter.\n */\n","tf":{"freq":{"paramet":2,"shape":3,"access":1},"maxFreq":3,"totalTerms":6},"loc":0}

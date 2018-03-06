@@ -1,0 +1,1 @@
+{"id":18169,"className":"javax.swing.plaf.basic.BasicLabelUI","methodName":"getMinimumSize","signature":"\u003cjavax.swing.plaf.basic.BasicLabelUI: java.awt.Dimension getMinimumSize(javax.swing.JComponent)\u003e","javadoc":"/** \n * @return getPreferredSize(c)\n */\n","tf":{"freq":{"minimum":1,"prefer":1,"size":2},"maxFreq":2,"totalTerms":4},"loc":8}

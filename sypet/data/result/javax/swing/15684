@@ -1,0 +1,1 @@
+{"id":15684,"className":"javax.swing.DefaultRowSorter","methodName":"getViewRowCount","signature":"\u003cjavax.swing.DefaultRowSorter: int getViewRowCount()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"count":1,"view":1,"row":1},"maxFreq":1,"totalTerms":3},"loc":7}

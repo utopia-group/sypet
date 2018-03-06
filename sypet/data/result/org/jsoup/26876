@@ -1,0 +1,1 @@
+{"id":26876,"className":"org.jsoup.Connection$Response","methodName":"statusCode","signature":"\u003corg.jsoup.Connection$Response: int statusCode()\u003e","javadoc":"/** \n * Get the status code of the response.\n * @return status code\n */\n","tf":{"freq":{"respons":1,"status":3},"maxFreq":3,"totalTerms":4},"loc":0}

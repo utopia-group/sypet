@@ -1,0 +1,1 @@
+{"id":15436,"className":"org.apache.commons.math3.RealFieldElement","methodName":"acos","signature":"\u003corg.apache.commons.math3.RealFieldElement: T acos()\u003e","javadoc":"/** \n * Arc cosine operation.\n * @return acos(this)\n */\n","tf":{"freq":{"aco":2,"oper":1,"arc":1,"cosin":1},"maxFreq":2,"totalTerms":5},"loc":0}

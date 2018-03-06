@@ -1,0 +1,1 @@
+{"id":16106,"className":"java.awt.GradientPaintContext","methodName":"getColorModel","signature":"\u003cjava.awt.GradientPaintContext: java.awt.image.ColorModel getColorModel()\u003e","javadoc":"/** \n * Return the ColorModel of the output.\n */\n","tf":{"freq":{"model":2,"color":2,"output":1},"maxFreq":2,"totalTerms":5},"loc":3}

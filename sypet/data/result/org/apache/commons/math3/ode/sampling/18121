@@ -1,0 +1,1 @@
+{"id":18121,"className":"org.apache.commons.math3.ode.sampling.StepNormalizer","methodName":"init","signature":"\u003corg.apache.commons.math3.ode.sampling.StepNormalizer: void init(double,double[],double)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"init":1},"maxFreq":1,"totalTerms":1},"loc":12}

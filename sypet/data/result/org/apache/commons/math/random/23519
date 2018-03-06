@@ -1,0 +1,1 @@
+{"id":23519,"className":"org.apache.commons.math.random.RandomAdaptor","methodName":"setSeed","signature":"\u003corg.apache.commons.math.random.RandomAdaptor: void setSeed(long)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"seed":1},"maxFreq":1,"totalTerms":1},"loc":5}

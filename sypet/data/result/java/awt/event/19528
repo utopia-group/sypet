@@ -1,0 +1,1 @@
+{"id":19528,"className":"java.awt.event.InputEvent","methodName":"isAltDown","signature":"\u003cjava.awt.event.InputEvent: boolean isAltDown()\u003e","javadoc":"/** \n * Returns whether or not the Alt modifier is down on this event.\n */\n","tf":{"freq":{"event":1,"alt":2,"modifi":1,"whether":1},"maxFreq":2,"totalTerms":5},"loc":3}

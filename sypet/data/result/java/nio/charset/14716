@@ -1,0 +1,1 @@
+{"id":14716,"className":"java.nio.charset.Charset","methodName":"name","signature":"\u003cjava.nio.charset.Charset: java.lang.String name()\u003e","javadoc":"/** \n * Returns this charset\u0027s canonical name. \u003c/p\u003e\n * @return  The canonical name of this charset\n */\n","tf":{"freq":{"canon":2,"name":3,"charset":2},"maxFreq":3,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":13086,"className":"javax.swing.JTabbedPane","methodName":"getModel","signature":"\u003cjavax.swing.JTabbedPane: javax.swing.SingleSelectionModel getModel()\u003e","javadoc":"/** \n * Returns the model associated with this tabbedpane.\n * @see #setModel\n */\n","tf":{"freq":{"model":3,"associ":1,"tabbedpan":1},"maxFreq":3,"totalTerms":5},"loc":3}

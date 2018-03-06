@@ -1,0 +1,1 @@
+{"id":20708,"className":"org.apache.commons.math3.geometry.euclidean.threed.Vector3D","methodName":"normalize","signature":"\u003corg.apache.commons.math3.geometry.euclidean.threed.Vector3D: org.apache.commons.math3.geometry.euclidean.threed.Vector3D normalize()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"normal":1},"maxFreq":1,"totalTerms":1},"loc":7}

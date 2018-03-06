@@ -1,0 +1,1 @@
+{"id":25144,"className":"java.math.BigInteger","methodName":"negate","signature":"\u003cjava.math.BigInteger: java.math.BigInteger negate()\u003e","javadoc":"/** \n * Returns a BigInteger whose value is  {@code (-this)}.\n * @return {@code -this}\n */\n","tf":{"freq":{"whose":1,"valu":1,"negat":1,"big":1,"integ":1},"maxFreq":1,"totalTerms":5},"loc":3}

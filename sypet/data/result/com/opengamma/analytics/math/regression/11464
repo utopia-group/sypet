@@ -1,0 +1,1 @@
+{"id":11464,"className":"com.opengamma.analytics.math.regression.NamedVariableLeastSquaresRegressionResult","methodName":"getPredictedValue","signature":"\u003ccom.opengamma.analytics.math.regression.NamedVariableLeastSquaresRegressionResult: java.lang.Double getPredictedValue(java.util.Map)\u003e","loc":32}

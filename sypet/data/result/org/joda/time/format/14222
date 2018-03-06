@@ -1,0 +1,1 @@
+{"id":14222,"className":"org.joda.time.format.DateTimeFormatterBuilder$UnpaddedNumber","methodName":"estimatePrintedLength","signature":"\u003corg.joda.time.format.DateTimeFormatterBuilder$UnpaddedNumber: int estimatePrintedLength()\u003e","loc":3}

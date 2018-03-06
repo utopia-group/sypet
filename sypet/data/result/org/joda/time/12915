@@ -1,0 +1,1 @@
+{"id":12915,"className":"org.joda.time.Years","methodName":"getYears","signature":"\u003corg.joda.time.Years: int getYears()\u003e","javadoc":"/** \n * Gets the number of years that this period represents.\n * @return the number of years in the period\n */\n","tf":{"freq":{"repres":1,"number":2,"year":3,"period":2},"maxFreq":3,"totalTerms":8},"loc":3}

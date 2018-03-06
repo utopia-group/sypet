@@ -1,0 +1,1 @@
+{"id":12286,"className":"org.joda.time.MutablePeriod","methodName":"MutablePeriod","signature":"\u003corg.joda.time.MutablePeriod: void MutablePeriod()\u003e","javadoc":"/** \n * Creates a zero-length period using the standard period type.\n */\n","tf":{"freq":{"standard":1,"creat":1,"mutabl":1,"length":1,"use":1,"type":1,"zero":1,"period":3},"maxFreq":3,"totalTerms":10},"loc":3}

@@ -1,0 +1,1 @@
+{"id":22243,"className":"org.apache.commons.math3.fraction.Fraction","methodName":"getDenominator","signature":"\u003corg.apache.commons.math3.fraction.Fraction: int getDenominator()\u003e","javadoc":"/** \n * Access the denominator.\n * @return the denominator.\n */\n","tf":{"freq":{"denomin":3,"access":1},"maxFreq":3,"totalTerms":4},"loc":3}

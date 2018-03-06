@@ -1,0 +1,1 @@
+{"id":12586,"className":"com.opengamma.analytics.math.cube.Cube","methodName":"Cube","signature":"\u003ccom.opengamma.analytics.math.cube.Cube: void Cube()\u003e","javadoc":"/** \n * Constructs a cube with an automatically-generated name\n */\n","tf":{"freq":{"name":1,"generat":1,"construct":1,"cube":2,"automat":1},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11017,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getOverflow","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getOverflow()\u003e","javadoc":"/** \n * See the overflow property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"overflow":2,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

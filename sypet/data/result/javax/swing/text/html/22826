@@ -1,0 +1,1 @@
+{"id":22826,"className":"javax.swing.text.html.ImageView","methodName":"getLoadsSynchronously","signature":"\u003cjavax.swing.text.html.ImageView: boolean getLoadsSynchronously()\u003e","javadoc":"/** \n * Returns true if the image should be loaded when first asked for.\n */\n","tf":{"freq":{"true":1,"load":2,"ask":1,"imag":1,"first":1},"maxFreq":2,"totalTerms":6},"loc":3}

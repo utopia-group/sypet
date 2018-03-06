@@ -1,0 +1,1 @@
+{"id":23127,"className":"java.util.concurrent.LinkedBlockingDeque","methodName":"peekLast","signature":"\u003cjava.util.concurrent.LinkedBlockingDeque: E peekLast()\u003e","loc":9}

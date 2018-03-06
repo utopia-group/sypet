@@ -1,0 +1,1 @@
+{"id":22730,"className":"java.util.concurrent.ThreadPoolExecutor$AbortPolicy","methodName":"AbortPolicy","signature":"\u003cjava.util.concurrent.ThreadPoolExecutor$AbortPolicy: void AbortPolicy()\u003e","javadoc":"/** \n * Creates an  {@code AbortPolicy}.\n */\n","tf":{"freq":{"creat":1,"polici":2,"abort":2},"maxFreq":2,"totalTerms":5},"loc":1}

@@ -1,0 +1,1 @@
+{"id":19281,"className":"javax.swing.plaf.basic.BasicSplitPaneDivider","methodName":"paint","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneDivider: void paint(java.awt.Graphics)\u003e","javadoc":"/** \n * Paints the divider.\n */\n","tf":{"freq":{"divid":1,"paint":2},"maxFreq":2,"totalTerms":3},"loc":12}

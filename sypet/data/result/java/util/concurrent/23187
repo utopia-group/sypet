@@ -1,0 +1,1 @@
+{"id":23187,"className":"java.util.concurrent.SynchronousQueue","methodName":"toArray","signature":"\u003cjava.util.concurrent.SynchronousQueue: java.lang.Object[] toArray()\u003e","javadoc":"/** \n * Returns a zero-length array.\n * @return a zero-length array\n */\n","tf":{"freq":{"length":2,"zero":2,"array":3},"maxFreq":3,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":13738,"className":"org.joda.time.field.PreciseDurationField","methodName":"getDifferenceAsLong","signature":"\u003corg.joda.time.field.PreciseDurationField: long getDifferenceAsLong(long,long)\u003e","loc":4}

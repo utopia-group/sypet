@@ -1,0 +1,1 @@
+{"id":19384,"className":"org.apache.commons.math3.util.Decimal64","methodName":"log","signature":"\u003corg.apache.commons.math3.util.Decimal64: org.apache.commons.math3.util.Decimal64 log()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 3.2\n */\n","tf":{"freq":{"log":1},"maxFreq":1,"totalTerms":1},"loc":3}

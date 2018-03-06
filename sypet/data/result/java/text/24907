@@ -1,0 +1,1 @@
+{"id":24907,"className":"java.text.Collator","methodName":"hashCode","signature":"\u003cjava.text.Collator: int hashCode()\u003e","javadoc":"/** \n * Generates the hash code for this Collator.\n */\n","tf":{"freq":{"collat":1,"hash":2,"generat":1},"maxFreq":2,"totalTerms":4},"loc":0}

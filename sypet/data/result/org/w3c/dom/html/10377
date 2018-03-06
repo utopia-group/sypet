@@ -1,0 +1,1 @@
+{"id":10377,"className":"org.w3c.dom.html.HTMLAnchorElement","methodName":"focus","signature":"\u003corg.w3c.dom.html.HTMLAnchorElement: void focus()\u003e","javadoc":"/** \n * Gives keyboard focus to this element.\n */\n","tf":{"freq":{"element":1,"keyboard":1,"give":1,"focus":2},"maxFreq":2,"totalTerms":5},"loc":0}

@@ -1,0 +1,1 @@
+{"id":13908,"className":"org.joda.time.field.AbstractPartialFieldProperty","methodName":"getName","signature":"\u003corg.joda.time.field.AbstractPartialFieldProperty: java.lang.String getName()\u003e","javadoc":"/** \n * Gets the name of the field.\n * @return the field name\n */\n","tf":{"freq":{"field":2,"name":3},"maxFreq":3,"totalTerms":5},"loc":3}

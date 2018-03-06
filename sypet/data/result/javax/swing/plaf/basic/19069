@@ -1,0 +1,1 @@
+{"id":19069,"className":"javax.swing.plaf.basic.BasicPopupMenuUI$BasicPopupMenuListener","methodName":"popupMenuCanceled","signature":"\u003cjavax.swing.plaf.basic.BasicPopupMenuUI$BasicPopupMenuListener: void popupMenuCanceled(javax.swing.event.PopupMenuEvent)\u003e","loc":2}

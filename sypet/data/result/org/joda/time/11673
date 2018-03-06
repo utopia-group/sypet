@@ -1,0 +1,1 @@
+{"id":11673,"className":"org.joda.time.MutableInterval","methodName":"MutableInterval","signature":"\u003corg.joda.time.MutableInterval: void MutableInterval()\u003e","javadoc":"/** \n * Constructs a zero length time interval from 1970-01-01 to 1970-01-01.\n */\n","tf":{"freq":{"interv":2,"time":1,"mutabl":1,"length":1,"construct":1,"zero":1},"maxFreq":2,"totalTerms":7},"loc":3}

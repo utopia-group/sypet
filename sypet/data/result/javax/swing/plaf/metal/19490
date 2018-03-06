@@ -1,0 +1,1 @@
+{"id":19490,"className":"javax.swing.plaf.metal.MetalLookAndFeel$MetalLayoutStyle","methodName":"getPreferredGap","signature":"\u003cjavax.swing.plaf.metal.MetalLookAndFeel$MetalLayoutStyle: int getPreferredGap(javax.swing.JComponent,javax.swing.JComponent,javax.swing.LayoutStyle$ComponentPlacement,int,java.awt.Container)\u003e","loc":68}

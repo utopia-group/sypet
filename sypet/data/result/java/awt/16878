@@ -1,0 +1,1 @@
+{"id":16878,"className":"java.awt.Component$BltBufferStrategy","methodName":"getDrawGraphics","signature":"\u003cjava.awt.Component$BltBufferStrategy: java.awt.Graphics getDrawGraphics()\u003e","javadoc":"/** \n * @return the draw graphics\n */\n","tf":{"freq":{"draw":2,"graphic":2},"maxFreq":2,"totalTerms":4},"loc":12}

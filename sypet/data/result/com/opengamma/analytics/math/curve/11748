@@ -1,0 +1,1 @@
+{"id":11748,"className":"com.opengamma.analytics.math.curve.InterpolatedCurveBuildingFunction","methodName":"InterpolatedCurveBuildingFunction","signature":"\u003ccom.opengamma.analytics.math.curve.InterpolatedCurveBuildingFunction: void InterpolatedCurveBuildingFunction(java.util.LinkedHashMap,java.util.LinkedHashMap)\u003e","loc":13}

@@ -1,0 +1,1 @@
+{"id":28775,"className":"javax.sound.midi.MidiEvent","methodName":"getMessage","signature":"\u003cjavax.sound.midi.MidiEvent: javax.sound.midi.MidiMessage getMessage()\u003e","javadoc":"/** \n * Obtains the MIDI message contained in the event.\n * @return the MIDI message\n */\n","tf":{"freq":{"obtain":1,"event":1,"messag":3,"contain":1},"maxFreq":3,"totalTerms":6},"loc":3}

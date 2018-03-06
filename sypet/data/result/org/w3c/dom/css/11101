@@ -1,0 +1,1 @@
+{"id":11101,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getWordSpacing","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getWordSpacing()\u003e","javadoc":"/** \n * See the word-spacing property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"word":2,"properti":1,"space":2},"maxFreq":2,"totalTerms":6},"loc":0}

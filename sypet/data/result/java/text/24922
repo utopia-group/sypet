@@ -1,0 +1,1 @@
+{"id":24922,"className":"java.text.ChoiceFormat","methodName":"hashCode","signature":"\u003cjava.text.ChoiceFormat: int hashCode()\u003e","javadoc":"/** \n * Generates a hash code for the message format object.\n */\n","tf":{"freq":{"hash":2,"messag":1,"generat":1,"object":1,"format":1},"maxFreq":2,"totalTerms":6},"loc":8}

@@ -1,0 +1,1 @@
+{"id":12118,"className":"com.opengamma.analytics.math.statistics.distribution.ChiSquareDistribution","methodName":"getCDF","signature":"\u003ccom.opengamma.analytics.math.statistics.distribution.ChiSquareDistribution: double getCDF(java.lang.Double)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","loc":4}

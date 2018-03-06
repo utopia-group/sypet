@@ -1,0 +1,1 @@
+{"id":13037,"className":"javax.swing.JSpinner$DisabledAction","methodName":"addPropertyChangeListener","signature":"\u003cjavax.swing.JSpinner$DisabledAction: void addPropertyChangeListener(java.beans.PropertyChangeListener)\u003e","loc":2}

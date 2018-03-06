@@ -1,0 +1,1 @@
+{"id":15255,"className":"org.joda.money.Money","methodName":"isPositive","signature":"\u003corg.joda.money.Money: boolean isPositive()\u003e","javadoc":"/** \n * Checks if the amount is greater than zero.\n * @return true if the amount is greater than zero\n */\n","tf":{"freq":{"amount":2,"greater":2,"check":1,"true":1,"zero":2,"posit":1},"maxFreq":2,"totalTerms":9},"loc":3}

@@ -1,0 +1,1 @@
+{"id":27427,"className":"org.jsoup.parser.TokenQueue","methodName":"addFirst","signature":"\u003corg.jsoup.parser.TokenQueue: void addFirst(java.lang.String)\u003e","javadoc":"/** \n * Add a string to the start of the queue.\n * @param seq string to add.\n */\n","tf":{"freq":{"queue":1,"start":1,"string":2,"seq":1,"add":3,"first":1},"maxFreq":3,"totalTerms":9},"loc":5}

@@ -1,0 +1,1 @@
+{"id":15408,"className":"javax.swing.DebugGraphics","methodName":"getColor","signature":"\u003cjavax.swing.DebugGraphics: java.awt.Color getColor()\u003e","javadoc":"/** \n * Returns the Color used for text drawing operations.\n * @see #setColor\n */\n","tf":{"freq":{"draw":1,"text":1,"oper":1,"color":3,"use":1},"maxFreq":3,"totalTerms":7},"loc":3}

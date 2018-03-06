@@ -1,0 +1,1 @@
+{"id":22695,"className":"javax.swing.text.html.CSSBorder","methodName":"getBorderInsets","signature":"\u003cjavax.swing.text.html.CSSBorder: java.awt.Insets getBorderInsets(java.awt.Component,java.awt.Insets)\u003e","loc":5}

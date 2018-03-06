@@ -1,0 +1,1 @@
+{"id":22923,"className":"java.util.concurrent.ForkJoinPool$ManagedBlocker","methodName":"isReleasable","signature":"\u003cjava.util.concurrent.ForkJoinPool$ManagedBlocker: boolean isReleasable()\u003e","javadoc":"/** \n * Returns  {@code true} if blocking is unnecessary.\n */\n","tf":{"freq":{"releas":1,"unnecessari":1,"block":1,"true":1},"maxFreq":1,"totalTerms":4},"loc":0}

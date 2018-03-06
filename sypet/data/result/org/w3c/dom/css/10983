@@ -1,0 +1,1 @@
+{"id":10983,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getListStyleType","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getListStyleType()\u003e","javadoc":"/** \n * See the list-style-type property definition in CSS2.\n */\n","tf":{"freq":{"style":2,"definit":1,"list":2,"properti":1,"type":2},"maxFreq":2,"totalTerms":8},"loc":0}

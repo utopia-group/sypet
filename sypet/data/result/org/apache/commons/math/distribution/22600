@@ -1,0 +1,1 @@
+{"id":22600,"className":"org.apache.commons.math.distribution.BetaDistribution","methodName":"getBeta","signature":"\u003corg.apache.commons.math.distribution.BetaDistribution: double getBeta()\u003e","javadoc":"/** \n * Access the shape parameter, beta\n * @return beta.\n */\n","tf":{"freq":{"paramet":1,"shape":1,"access":1,"beta":3},"maxFreq":3,"totalTerms":6},"loc":0}

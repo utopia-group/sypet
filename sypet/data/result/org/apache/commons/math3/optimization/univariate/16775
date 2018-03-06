@@ -1,0 +1,1 @@
+{"id":16775,"className":"org.apache.commons.math3.optimization.univariate.UnivariateMultiStartOptimizer","methodName":"getEvaluations","signature":"\u003corg.apache.commons.math3.optimization.univariate.UnivariateMultiStartOptimizer: int getEvaluations()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"evalu":1},"maxFreq":1,"totalTerms":1},"loc":3}

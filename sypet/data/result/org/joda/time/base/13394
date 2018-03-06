@@ -1,0 +1,1 @@
+{"id":13394,"className":"org.joda.time.base.AbstractDateTime","methodName":"getMinuteOfDay","signature":"\u003corg.joda.time.base.AbstractDateTime: int getMinuteOfDay()\u003e","javadoc":"/** \n * Get the minute of day field value.\n * @return the minute of day\n */\n","tf":{"freq":{"field":1,"minut":3,"valu":1,"day":3},"maxFreq":3,"totalTerms":8},"loc":3}

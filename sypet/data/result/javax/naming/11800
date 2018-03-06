@@ -1,0 +1,1 @@
+{"id":11800,"className":"javax.naming.InitialContext","methodName":"list","signature":"\u003cjavax.naming.InitialContext: javax.naming.NamingEnumeration\u003cjavax.naming.NameClassPair\u003e list(javax.naming.Name)\u003e","loc":3}

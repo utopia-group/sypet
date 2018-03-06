@@ -1,0 +1,1 @@
+{"id":15597,"className":"java.awt.Dialog","methodName":"setOpacity","signature":"\u003cjava.awt.Dialog: void setOpacity(float)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"opac":1},"maxFreq":1,"totalTerms":1},"loc":8}

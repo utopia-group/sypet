@@ -1,0 +1,1 @@
+{"id":26816,"className":"javax.xml.ws.http.HTTPException","methodName":"getStatusCode","signature":"\u003cjavax.xml.ws.http.HTTPException: int getStatusCode()\u003e","javadoc":"/** \n * Gets the HTTP status code.\n * @return HTTP status code\n */\n","tf":{"freq":{"status":3},"maxFreq":3,"totalTerms":3},"loc":3}

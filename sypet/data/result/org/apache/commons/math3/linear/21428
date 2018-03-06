@@ -1,0 +1,1 @@
+{"id":21428,"className":"org.apache.commons.math3.linear.DefaultIterativeLinearSolverEvent","methodName":"getSolution","signature":"\u003corg.apache.commons.math3.linear.DefaultIterativeLinearSolverEvent: org.apache.commons.math3.linear.RealVector getSolution()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"solut":1},"maxFreq":1,"totalTerms":1},"loc":3}

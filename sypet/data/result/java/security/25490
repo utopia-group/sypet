@@ -1,0 +1,1 @@
+{"id":25490,"className":"java.security.Principal","methodName":"hashCode","signature":"\u003cjava.security.Principal: int hashCode()\u003e","javadoc":"/** \n * Returns a hashcode for this principal.\n * @return a hashcode for this principal.\n */\n","tf":{"freq":{"hash":1,"hashcod":2,"princip":2},"maxFreq":2,"totalTerms":5},"loc":0}

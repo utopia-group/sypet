@@ -1,0 +1,1 @@
+{"id":18941,"className":"org.apache.commons.math3.stat.descriptive.moment.Skewness","methodName":"Skewness","signature":"\u003corg.apache.commons.math3.stat.descriptive.moment.Skewness: void Skewness()\u003e","javadoc":"/** \n * Constructs a Skewness\n */\n","tf":{"freq":{"construct":1,"skew":2},"maxFreq":2,"totalTerms":3},"loc":4}

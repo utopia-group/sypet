@@ -1,0 +1,1 @@
+{"id":15328,"className":"org.joda.money.format.MoneyParseContext","methodName":"getErrorIndex","signature":"\u003corg.joda.money.format.MoneyParseContext: int getErrorIndex()\u003e","javadoc":"/** \n * Gets the error index.\n * @return the error index, negative if no error\n */\n","tf":{"freq":{"index":3,"error":4,"negat":1},"maxFreq":4,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":23868,"className":"java.util.jar.Manifest","methodName":"Manifest","signature":"\u003cjava.util.jar.Manifest: void Manifest()\u003e","javadoc":"/** \n * Constructs a new, empty Manifest.\n */\n","tf":{"freq":{"manifest":2,"construct":1,"empti":1},"maxFreq":2,"totalTerms":4},"loc":2}

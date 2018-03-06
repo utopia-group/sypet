@@ -1,0 +1,1 @@
+{"id":11049,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getPosition","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getPosition()\u003e","javadoc":"/** \n * See the position property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"properti":1,"posit":2},"maxFreq":2,"totalTerms":4},"loc":0}

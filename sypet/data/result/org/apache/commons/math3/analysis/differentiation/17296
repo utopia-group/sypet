@@ -1,0 +1,1 @@
+{"id":17296,"className":"org.apache.commons.math3.analysis.differentiation.SparseGradient","methodName":"sin","signature":"\u003corg.apache.commons.math3.analysis.differentiation.SparseGradient: org.apache.commons.math3.analysis.differentiation.SparseGradient sin()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"sin":1},"maxFreq":1,"totalTerms":1},"loc":3}

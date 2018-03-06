@@ -1,0 +1,1 @@
+{"id":20817,"className":"javax.swing.plaf.synth.SynthListUI$SynthListCellRenderer","methodName":"getListCellRendererComponent","signature":"\u003cjavax.swing.plaf.synth.SynthListUI$SynthListCellRenderer: java.awt.Component getListCellRendererComponent(javax.swing.JList,java.lang.Object,int,boolean,boolean)\u003e","loc":14}

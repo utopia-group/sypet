@@ -1,0 +1,1 @@
+{"id":25702,"className":"java.security.interfaces.DSAParams","methodName":"getG","signature":"\u003cjava.security.interfaces.DSAParams: java.math.BigInteger getG()\u003e","javadoc":"/** \n * Returns the base, \u003ccode\u003eg\u003c/code\u003e.\n * @return the base, \u003ccode\u003eg\u003c/code\u003e.\n */\n","tf":{"freq":{"base":2},"maxFreq":2,"totalTerms":2},"loc":0}

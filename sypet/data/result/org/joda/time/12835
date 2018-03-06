@@ -1,0 +1,1 @@
+{"id":12835,"className":"org.joda.time.DateMidnight$Property","methodName":"getDateMidnight","signature":"\u003corg.joda.time.DateMidnight$Property: org.joda.time.DateMidnight getDateMidnight()\u003e","javadoc":"/** \n * Gets the datetime being used.\n * @return the datetime\n */\n","tf":{"freq":{"midnight":1,"use":1,"date":1,"datetim":2},"maxFreq":2,"totalTerms":5},"loc":3}

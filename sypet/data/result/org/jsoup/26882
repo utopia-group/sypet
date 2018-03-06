@@ -1,0 +1,1 @@
+{"id":26882,"className":"org.jsoup.Connection$Response","methodName":"bodyAsBytes","signature":"\u003corg.jsoup.Connection$Response: byte[] bodyAsBytes()\u003e","javadoc":"/** \n * Get the body of the response as an array of bytes.\n * @return body bytes\n */\n","tf":{"freq":{"bodi":3,"respons":1,"array":1},"maxFreq":3,"totalTerms":5},"loc":0}

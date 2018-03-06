@@ -1,0 +1,1 @@
+{"id":23764,"className":"java.util.zip.CRC32","methodName":"CRC32","signature":"\u003cjava.util.zip.CRC32: void CRC32()\u003e","javadoc":"/** \n * Creates a new CRC32 object.\n */\n","tf":{"freq":{"creat":1,"object":1},"maxFreq":1,"totalTerms":2},"loc":2}

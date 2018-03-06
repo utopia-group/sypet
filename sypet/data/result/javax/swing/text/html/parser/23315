@@ -1,0 +1,1 @@
+{"id":23315,"className":"javax.swing.text.html.parser.AttributeList","methodName":"toString","signature":"\u003cjavax.swing.text.html.parser.AttributeList: java.lang.String toString()\u003e","javadoc":"/** \n * @return string representation\n */\n","tf":{"freq":{"string":2,"represent":1},"maxFreq":2,"totalTerms":3},"loc":3}

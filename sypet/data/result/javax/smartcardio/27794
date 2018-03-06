@@ -1,0 +1,1 @@
+{"id":27794,"className":"javax.smartcardio.TerminalFactory$NoneCardTerminals","methodName":"waitForChange","signature":"\u003cjavax.smartcardio.TerminalFactory$NoneCardTerminals: boolean waitForChange(long)\u003e","loc":3}

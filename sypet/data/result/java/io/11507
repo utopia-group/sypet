@@ -1,0 +1,1 @@
+{"id":11507,"className":"java.io.StringWriter","methodName":"toString","signature":"\u003cjava.io.StringWriter: java.lang.String toString()\u003e","javadoc":"/** \n * Return the buffer\u0027s current value as a string.\n */\n","tf":{"freq":{"buffer":1,"string":2,"current":1,"valu":1},"maxFreq":2,"totalTerms":5},"loc":3}

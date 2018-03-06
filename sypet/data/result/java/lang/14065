@@ -1,0 +1,1 @@
+{"id":14065,"className":"java.lang.Iterable","methodName":"iterator","signature":"\u003cjava.lang.Iterable: java.util.Iterator\u003cT\u003e iterator()\u003e","javadoc":"/** \n * Returns an iterator over a set of elements of type T.\n * @return an Iterator.\n */\n","tf":{"freq":{"element":1,"type":1,"iter":3},"maxFreq":3,"totalTerms":5},"loc":0}

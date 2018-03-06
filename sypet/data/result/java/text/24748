@@ -1,0 +1,1 @@
+{"id":24748,"className":"java.text.StringCharacterIterator","methodName":"next","signature":"\u003cjava.text.StringCharacterIterator: char next()\u003e","javadoc":"/** \n * Implements CharacterIterator.next() for String.\n * @see CharacterIterator#next\n */\n","tf":{"freq":{"charact":2,"string":1,"next":3,"iter":2},"maxFreq":3,"totalTerms":8},"loc":10}

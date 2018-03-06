@@ -1,0 +1,1 @@
+{"id":23768,"className":"java.util.zip.CRC32","methodName":"reset","signature":"\u003cjava.util.zip.CRC32: void reset()\u003e","javadoc":"/** \n * Resets CRC-32 to initial value.\n */\n","tf":{"freq":{"reset":2,"valu":1,"initi":1},"maxFreq":2,"totalTerms":4},"loc":3}

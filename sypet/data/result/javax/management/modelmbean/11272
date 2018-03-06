@@ -1,0 +1,1 @@
+{"id":11272,"className":"javax.management.modelmbean.ModelMBeanInfo","methodName":"clone","signature":"\u003cjavax.management.modelmbean.ModelMBeanInfo: java.lang.Object clone()\u003e","javadoc":"/** \n * Creates and returns a copy of this object.\n */\n","tf":{"freq":{"clone":1,"creat":1,"object":1,"copi":1},"maxFreq":1,"totalTerms":4},"loc":0}

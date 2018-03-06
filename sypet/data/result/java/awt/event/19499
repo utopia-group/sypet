@@ -1,0 +1,1 @@
+{"id":19499,"className":"java.awt.event.AdjustmentEvent","methodName":"getValue","signature":"\u003cjava.awt.event.AdjustmentEvent: int getValue()\u003e","javadoc":"/** \n * Returns the current value in the adjustment event.\n * @return the current value in the adjustment event\n */\n","tf":{"freq":{"event":2,"adjust":2,"current":2,"valu":3},"maxFreq":3,"totalTerms":9},"loc":3}

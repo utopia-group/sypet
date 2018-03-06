@@ -1,0 +1,1 @@
+{"id":13149,"className":"org.joda.time.MutableDateTime","methodName":"year","signature":"\u003corg.joda.time.MutableDateTime: org.joda.time.MutableDateTime$Property year()\u003e","javadoc":"/** \n * Get the year property.\n * @return the year property\n */\n","tf":{"freq":{"year":3,"properti":2},"maxFreq":3,"totalTerms":5},"loc":3}

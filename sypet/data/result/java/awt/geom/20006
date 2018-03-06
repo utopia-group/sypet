@@ -1,0 +1,1 @@
+{"id":20006,"className":"java.awt.geom.RoundRectangle2D$Double","methodName":"getArcHeight","signature":"\u003cjava.awt.geom.RoundRectangle2D$Double: double getArcHeight()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"height":1,"arc":1},"maxFreq":1,"totalTerms":2},"loc":3}

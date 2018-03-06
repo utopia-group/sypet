@@ -1,0 +1,1 @@
+{"id":16261,"className":"javax.swing.JFrame","methodName":"getGraphics","signature":"\u003cjavax.swing.JFrame: java.awt.Graphics getGraphics()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.6\n */\n","tf":{"freq":{"graphic":1},"maxFreq":1,"totalTerms":1},"loc":4}

@@ -1,0 +1,1 @@
+{"id":22126,"className":"javax.swing.text.DefaultHighlighter","methodName":"DefaultHighlighter","signature":"\u003cjavax.swing.text.DefaultHighlighter: void DefaultHighlighter()\u003e","javadoc":"/** \n * Creates a new DefaultHighlighther object.\n */\n","tf":{"freq":{"highlighth":1,"creat":1,"object":1,"highlight":1},"maxFreq":1,"totalTerms":4},"loc":3}

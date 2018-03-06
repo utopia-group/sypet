@@ -1,0 +1,1 @@
+{"id":27690,"className":"org.jcp.xml.dsig.internal.dom.DOMXMLSignatureFactory","methodName":"newDigestMethod","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMXMLSignatureFactory: javax.xml.crypto.dsig.DigestMethod newDigestMethod(java.lang.String,javax.xml.crypto.dsig.spec.DigestMethodParameterSpec)\u003e","loc":16}

@@ -1,0 +1,1 @@
+{"id":24543,"className":"java.text.DecimalFormat","methodName":"setNegativeSuffix","signature":"\u003cjava.text.DecimalFormat: void setNegativeSuffix(java.lang.String)\u003e","javadoc":"/** \n * Set the negative suffix. \u003cP\u003eExamples: 123%\n */\n","tf":{"freq":{"exampl":1,"negat":2,"suffix":2},"maxFreq":2,"totalTerms":5},"loc":4}

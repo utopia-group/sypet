@@ -1,0 +1,1 @@
+{"id":22268,"className":"java.util.Builder","methodName":"clear","signature":"\u003cjava.util.Builder: java.util.Builder clear()\u003e","javadoc":"/** \n * Resets the builder to its initial, empty state.\n * @return This builder.\n */\n","tf":{"freq":{"clear":1,"state":1,"builder":2,"reset":1,"initi":1,"empti":1},"maxFreq":2,"totalTerms":7},"loc":4}

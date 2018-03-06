@@ -1,0 +1,1 @@
+{"id":21972,"className":"java.util.Collections$SynchronizedList","methodName":"subList","signature":"\u003cjava.util.Collections$SynchronizedList: java.util.List\u003cE\u003e subList(int,int)\u003e","loc":6}

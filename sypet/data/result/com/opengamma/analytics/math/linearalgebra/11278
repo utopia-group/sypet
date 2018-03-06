@@ -1,0 +1,1 @@
+{"id":11278,"className":"com.opengamma.analytics.math.linearalgebra.CholeskyDecompositionOpenGammaResult","methodName":"getDeterminant","signature":"\u003ccom.opengamma.analytics.math.linearalgebra.CholeskyDecompositionOpenGammaResult: double getDeterminant()\u003e","loc":3}

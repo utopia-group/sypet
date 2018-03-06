@@ -1,0 +1,1 @@
+{"id":25541,"className":"java.security.Identity","methodName":"getScope","signature":"\u003cjava.security.Identity: java.security.IdentityScope getScope()\u003e","javadoc":"/** \n * Returns this identity\u0027s scope.\n * @return the scope of this identity.\n */\n","tf":{"freq":{"scope":3,"ident":2},"maxFreq":3,"totalTerms":5},"loc":3}

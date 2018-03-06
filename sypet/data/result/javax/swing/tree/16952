@@ -1,0 +1,1 @@
+{"id":16952,"className":"javax.swing.tree.VariableHeightLayoutCache","methodName":"getPreferredHeight","signature":"\u003cjavax.swing.tree.VariableHeightLayoutCache: int getPreferredHeight()\u003e","javadoc":"/** \n * Returns the preferred height.\n * @return the preferred height\n */\n","tf":{"freq":{"height":3,"prefer":3},"maxFreq":3,"totalTerms":6},"loc":11}

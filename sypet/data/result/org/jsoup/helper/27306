@@ -1,0 +1,1 @@
+{"id":27306,"className":"org.jsoup.helper.Validate","methodName":"notNull","signature":"\u003corg.jsoup.helper.Validate: void notNull(java.lang.Object)\u003e","javadoc":"/** \n * Validates that the object is not null\n * @param obj object to test\n */\n","tf":{"freq":{"valid":1,"test":1,"obj":1,"object":2},"maxFreq":2,"totalTerms":5},"loc":4}

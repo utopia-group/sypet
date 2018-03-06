@@ -1,0 +1,1 @@
+{"id":10013,"className":"com.opengamma.analytics.math.ComplexMathUtils","methodName":"mod","signature":"\u003ccom.opengamma.analytics.math.ComplexMathUtils: double mod(com.opengamma.analytics.math.number.ComplexNumber)\u003e","loc":4}

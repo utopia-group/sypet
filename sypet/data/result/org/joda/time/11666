@@ -1,0 +1,1 @@
+{"id":11666,"className":"org.joda.time.Instant","methodName":"getMillis","signature":"\u003corg.joda.time.Instant: long getMillis()\u003e","javadoc":"/** \n * Gets the milliseconds of the instant.\n * @return the number of milliseconds since 1970-01-01T00:00:00Z\n */\n","tf":{"freq":{"millisecond":2,"milli":1,"number":1,"instant":1},"maxFreq":2,"totalTerms":5},"loc":3}

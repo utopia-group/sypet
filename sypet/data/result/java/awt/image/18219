@@ -1,0 +1,1 @@
+{"id":18219,"className":"java.awt.image.Kernel","methodName":"getYOrigin","signature":"\u003cjava.awt.image.Kernel: int getYOrigin()\u003e","javadoc":"/** \n * Returns the Y origin of this \u003ccode\u003eKernel\u003c/code\u003e.\n * @return the Y origin.\n */\n","tf":{"freq":{"origin":2,"yorigin":1,"kernel":1},"maxFreq":2,"totalTerms":4},"loc":3}

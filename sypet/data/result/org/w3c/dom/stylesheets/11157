@@ -1,0 +1,1 @@
+{"id":11157,"className":"org.w3c.dom.stylesheets.LinkStyle","methodName":"getSheet","signature":"\u003corg.w3c.dom.stylesheets.LinkStyle: org.w3c.dom.stylesheets.StyleSheet getSheet()\u003e","javadoc":"/** \n * The style sheet.\n */\n","tf":{"freq":{"style":1,"sheet":2},"maxFreq":2,"totalTerms":3},"loc":0}

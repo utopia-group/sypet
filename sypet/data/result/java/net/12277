@@ -1,0 +1,1 @@
+{"id":12277,"className":"java.net.PasswordAuthentication","methodName":"getUserName","signature":"\u003cjava.net.PasswordAuthentication: java.lang.String getUserName()\u003e","javadoc":"/** \n * Returns the user name.\n * @return the user name\n */\n","tf":{"freq":{"name":3,"user":3},"maxFreq":3,"totalTerms":6},"loc":3}

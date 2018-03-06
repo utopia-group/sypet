@@ -1,0 +1,1 @@
+{"id":10826,"className":"org.w3c.dom.css.Rect","methodName":"getLeft","signature":"\u003corg.w3c.dom.css.Rect: org.w3c.dom.css.CSSPrimitiveValue getLeft()\u003e","javadoc":"/** \n * This attribute is used for the left of the rect.\n */\n","tf":{"freq":{"attribut":1,"use":1,"left":2,"rect":1},"maxFreq":2,"totalTerms":5},"loc":0}

@@ -1,0 +1,1 @@
+{"id":21928,"className":"javax.swing.text.StyleContext","methodName":"StyleContext","signature":"\u003cjavax.swing.text.StyleContext: void StyleContext()\u003e","javadoc":"/** \n * Creates a new StyleContext object.\n */\n","tf":{"freq":{"style":2,"creat":1,"context":2,"object":1},"maxFreq":2,"totalTerms":6},"loc":4}

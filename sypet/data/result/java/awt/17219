@@ -1,0 +1,1 @@
+{"id":17219,"className":"java.awt.TextComponent","methodName":"selectAll","signature":"\u003cjava.awt.TextComponent: void selectAll()\u003e","javadoc":"/** \n * Selects all the text in this text component.\n * @see java.awt.TextComponent#select\n */\n","tf":{"freq":{"awt":1,"text":3,"compon":2,"select":3,"java":1},"maxFreq":3,"totalTerms":10},"loc":9}

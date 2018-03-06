@@ -1,0 +1,1 @@
+{"id":18552,"className":"javax.swing.plaf.basic.BasicBorders$RadioButtonBorder","methodName":"getBorderInsets","signature":"\u003cjavax.swing.plaf.basic.BasicBorders$RadioButtonBorder: java.awt.Insets getBorderInsets(java.awt.Component,java.awt.Insets)\u003e","loc":4}

@@ -1,0 +1,1 @@
+{"id":15523,"className":"javax.swing.JComboBox","methodName":"setPopupVisible","signature":"\u003cjavax.swing.JComboBox: void setPopupVisible(boolean)\u003e","javadoc":"/** \n * Sets the visibility of the popup.\n */\n","tf":{"freq":{"visibl":2,"popup":2},"maxFreq":2,"totalTerms":4},"loc":3}

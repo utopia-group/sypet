@@ -1,0 +1,1 @@
+{"id":25947,"className":"javax.xml.stream.FactoryConfigurationError","methodName":"getException","signature":"\u003cjavax.xml.stream.FactoryConfigurationError: java.lang.Exception getException()\u003e","javadoc":"/** \n * Return the nested exception (if any)\n * @return the nested exception or null\n */\n","tf":{"freq":{"except":3,"nest":2},"maxFreq":3,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":21773,"className":"org.apache.commons.math3.linear.BlockRealMatrix","methodName":"getFrobeniusNorm","signature":"\u003corg.apache.commons.math3.linear.BlockRealMatrix: double getFrobeniusNorm()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"norm":1,"frobenius":1},"maxFreq":1,"totalTerms":2},"loc":9}

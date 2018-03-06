@@ -1,0 +1,1 @@
+{"id":19068,"className":"javax.swing.plaf.basic.BasicPopupMenuUI","methodName":"isPopupTrigger","signature":"\u003cjavax.swing.plaf.basic.BasicPopupMenuUI: boolean isPopupTrigger(java.awt.event.MouseEvent)\u003e","loc":4}

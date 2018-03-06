@@ -1,0 +1,1 @@
+{"id":17064,"className":"java.awt.AWTEvent","methodName":"toString","signature":"\u003cjava.awt.AWTEvent: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a String representation of this object.\n */\n","tf":{"freq":{"string":2,"object":1,"represent":1},"maxFreq":2,"totalTerms":4},"loc":10}

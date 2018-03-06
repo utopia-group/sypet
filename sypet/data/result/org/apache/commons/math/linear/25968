@@ -1,0 +1,1 @@
+{"id":25968,"className":"org.apache.commons.math.linear.AbstractRealMatrix","methodName":"solve","signature":"\u003corg.apache.commons.math.linear.AbstractRealMatrix: double[] solve(double[])\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"solv":1},"maxFreq":1,"totalTerms":1},"loc":6}

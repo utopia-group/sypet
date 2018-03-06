@@ -1,0 +1,1 @@
+{"id":11932,"className":"javax.naming.spi.ContinuationDirContext","methodName":"bind","signature":"\u003cjavax.naming.spi.ContinuationDirContext: void bind(javax.naming.Name,java.lang.Object,javax.naming.directory.Attributes)\u003e","loc":4}

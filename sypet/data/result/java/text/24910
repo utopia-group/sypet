@@ -1,0 +1,1 @@
+{"id":24910,"className":"java.text.ChoiceFormat","methodName":"toPattern","signature":"\u003cjava.text.ChoiceFormat: java.lang.String toPattern()\u003e","javadoc":"/** \n * Gets the pattern.\n */\n","tf":{"freq":{"pattern":2},"maxFreq":2,"totalTerms":2},"loc":46}

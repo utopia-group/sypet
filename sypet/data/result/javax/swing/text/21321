@@ -1,0 +1,1 @@
+{"id":21321,"className":"javax.swing.text.JTextComponent$InputMethodRequestsHandler","methodName":"getSelectedText","signature":"\u003cjavax.swing.text.JTextComponent$InputMethodRequestsHandler: java.text.AttributedCharacterIterator getSelectedText(java.text.AttributedCharacterIterator.Attribute[])\u003e","loc":8}

@@ -1,0 +1,1 @@
+{"id":12745,"className":"org.joda.time.Days","methodName":"getDays","signature":"\u003corg.joda.time.Days: int getDays()\u003e","javadoc":"/** \n * Gets the number of days that this period represents.\n * @return the number of days in the period\n */\n","tf":{"freq":{"repres":1,"number":2,"day":3,"period":2},"maxFreq":3,"totalTerms":8},"loc":3}

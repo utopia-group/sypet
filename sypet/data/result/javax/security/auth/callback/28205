@@ -1,0 +1,1 @@
+{"id":28205,"className":"javax.security.auth.callback.ChoiceCallback","methodName":"getChoices","signature":"\u003cjavax.security.auth.callback.ChoiceCallback: java.lang.String[] getChoices()\u003e","javadoc":"/** \n * Get the list of choices. \u003cp\u003e\n * @return the list of choices.\n */\n","tf":{"freq":{"choic":3,"list":2},"maxFreq":3,"totalTerms":5},"loc":3}

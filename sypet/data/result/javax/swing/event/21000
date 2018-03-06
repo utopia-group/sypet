@@ -1,0 +1,1 @@
+{"id":21000,"className":"javax.swing.event.HyperlinkEvent","methodName":"getURL","signature":"\u003cjavax.swing.event.HyperlinkEvent: java.net.URL getURL()\u003e","javadoc":"/** \n * Gets the URL that the link refers to.\n * @return the URL\n */\n","tf":{"freq":{"refer":1,"link":1},"maxFreq":1,"totalTerms":2},"loc":3}

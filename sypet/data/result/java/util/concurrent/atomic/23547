@@ -1,0 +1,1 @@
+{"id":23547,"className":"java.util.concurrent.atomic.AtomicIntegerArray","methodName":"length","signature":"\u003cjava.util.concurrent.atomic.AtomicIntegerArray: int length()\u003e","javadoc":"/** \n * Returns the length of the array.\n * @return the length of the array\n */\n","tf":{"freq":{"length":3,"array":2},"maxFreq":3,"totalTerms":5},"loc":3}

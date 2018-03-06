@@ -1,0 +1,1 @@
+{"id":11146,"className":"javax.management.remote.rmi.RMIConnectionImpl","methodName":"isInstanceOf","signature":"\u003cjavax.management.remote.rmi.RMIConnectionImpl: boolean isInstanceOf(javax.management.ObjectName,java.lang.String,javax.security.auth.Subject)\u003e","loc":26}

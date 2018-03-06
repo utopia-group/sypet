@@ -1,0 +1,1 @@
+{"id":16216,"className":"javax.swing.Timer","methodName":"isRunning","signature":"\u003cjavax.swing.Timer: boolean isRunning()\u003e","javadoc":"/** \n * Returns \u003ccode\u003etrue\u003c/code\u003e if the \u003ccode\u003eTimer\u003c/code\u003e is running.\n * @see #start\n */\n","tf":{"freq":{"start":1,"timer":1,"true":1,"run":2},"maxFreq":2,"totalTerms":5},"loc":3}

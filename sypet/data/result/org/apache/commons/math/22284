@@ -1,0 +1,1 @@
+{"id":22284,"className":"org.apache.commons.math.ConvergingAlgorithmImpl","methodName":"getMaximalIterationCount","signature":"\u003corg.apache.commons.math.ConvergingAlgorithmImpl: int getMaximalIterationCount()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"maxim":1,"count":1,"iter":1},"maxFreq":1,"totalTerms":3},"loc":3}

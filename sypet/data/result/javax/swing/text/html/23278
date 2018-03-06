@@ -1,0 +1,1 @@
+{"id":23278,"className":"javax.swing.text.html.StyleSheet$CssParser","methodName":"startRule","signature":"\u003cjavax.swing.text.html.StyleSheet$CssParser: void startRule()\u003e","javadoc":"/** \n * Invoked when the start of a rule is encountered.\n */\n","tf":{"freq":{"start":2,"encount":1,"invok":1,"rule":2},"maxFreq":2,"totalTerms":6},"loc":6}

@@ -1,0 +1,1 @@
+{"id":20380,"className":"javax.swing.plaf.synth.ParsedSynthStyle$DelegatingPainter","methodName":"paintScrollBarBorder","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$DelegatingPainter: void paintScrollBarBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":4}

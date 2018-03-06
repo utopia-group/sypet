@@ -1,0 +1,1 @@
+{"id":15706,"className":"javax.swing.ButtonGroup","methodName":"add","signature":"\u003cjavax.swing.ButtonGroup: void add(javax.swing.AbstractButton)\u003e","javadoc":"/** \n * Adds the button to the group.\n * @param b the button to be added\n */\n","tf":{"freq":{"button":2,"ad":1,"group":1,"add":2},"maxFreq":2,"totalTerms":6},"loc":16}

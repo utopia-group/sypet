@@ -1,0 +1,1 @@
+{"id":24286,"className":"java.rmi.RemoteException","methodName":"RemoteException","signature":"\u003cjava.rmi.RemoteException: void RemoteException()\u003e","javadoc":"/** \n * Constructs a \u003ccode\u003eRemoteException\u003c/code\u003e.\n */\n","tf":{"freq":{"except":2,"remot":2,"construct":1},"maxFreq":2,"totalTerms":5},"loc":3}

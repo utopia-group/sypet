@@ -1,0 +1,1 @@
+{"id":12592,"className":"com.opengamma.analytics.math.cube.Cube","methodName":"getValues","signature":"\u003ccom.opengamma.analytics.math.cube.Cube: V[] getValues()\u003e","javadoc":"/** \n * @return The values of this cube\n */\n","tf":{"freq":{"valu":2,"cube":1},"maxFreq":2,"totalTerms":3},"loc":0}

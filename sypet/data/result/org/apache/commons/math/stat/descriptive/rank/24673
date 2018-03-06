@@ -1,0 +1,1 @@
+{"id":24673,"className":"org.apache.commons.math.stat.descriptive.rank.Min","methodName":"Min","signature":"\u003corg.apache.commons.math.stat.descriptive.rank.Min: void Min()\u003e","javadoc":"/** \n * Create a Min instance\n */\n","tf":{"freq":{"min":2,"creat":1,"instanc":1},"maxFreq":2,"totalTerms":4},"loc":4}

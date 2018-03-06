@@ -1,0 +1,1 @@
+{"id":14985,"className":"java.nio.channels.spi.AbstractSelectableChannel","methodName":"keyFor","signature":"\u003cjava.nio.channels.spi.AbstractSelectableChannel: java.nio.channels.SelectionKey keyFor(java.nio.channels.Selector)\u003e","loc":3}

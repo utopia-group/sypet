@@ -1,0 +1,1 @@
+{"id":21473,"className":"org.apache.commons.math3.linear.OpenMapRealVector","methodName":"getLInfDistance","signature":"\u003corg.apache.commons.math3.linear.OpenMapRealVector: double getLInfDistance(org.apache.commons.math3.linear.RealVector)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"distanc":1,"linf":1},"maxFreq":1,"totalTerms":2},"loc":8}

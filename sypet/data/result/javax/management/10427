@@ -1,0 +1,1 @@
+{"id":10427,"className":"javax.management.MBeanServerBuilder","methodName":"MBeanServerBuilder","signature":"\u003cjavax.management.MBeanServerBuilder: void MBeanServerBuilder()\u003e","javadoc":"/** \n * Public default constructor.\n */\n","tf":{"freq":{"bean":1,"builder":1,"server":1,"constructor":1},"maxFreq":1,"totalTerms":4},"loc":2}

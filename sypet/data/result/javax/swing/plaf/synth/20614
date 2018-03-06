@@ -1,0 +1,1 @@
+{"id":20614,"className":"javax.swing.plaf.synth.SynthLabelUI","methodName":"getMaximumSize","signature":"\u003cjavax.swing.plaf.synth.SynthLabelUI: java.awt.Dimension getMaximumSize(javax.swing.JComponent)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"maximum":1,"size":1},"maxFreq":1,"totalTerms":2},"loc":16}

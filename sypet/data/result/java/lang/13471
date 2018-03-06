@@ -1,0 +1,1 @@
+{"id":13471,"className":"java.lang.UnknownError","methodName":"UnknownError","signature":"\u003cjava.lang.UnknownError: void UnknownError()\u003e","javadoc":"/** \n * Constructs an \u003ccode\u003eUnknownError\u003c/code\u003e with no detail message.\n */\n","tf":{"freq":{"detail":1,"error":2,"messag":1,"construct":1,"unknown":2},"maxFreq":2,"totalTerms":7},"loc":3}

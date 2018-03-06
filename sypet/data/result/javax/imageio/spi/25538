@@ -1,0 +1,1 @@
+{"id":25538,"className":"javax.imageio.spi.DigraphNode","methodName":"getData","signature":"\u003cjavax.imageio.spi.DigraphNode: java.lang.Object getData()\u003e","javadoc":"/** \n * Returns the \u003ccode\u003eObject\u003c/code\u003e referenced by this node. \n */\n","tf":{"freq":{"referenc":1,"node":1,"data":1,"object":1},"maxFreq":1,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":18059,"className":"javax.swing.plaf.basic.BasicEditorPaneUI","methodName":"BasicEditorPaneUI","signature":"\u003cjavax.swing.plaf.basic.BasicEditorPaneUI: void BasicEditorPaneUI()\u003e","javadoc":"/** \n * Creates a new BasicEditorPaneUI.\n */\n","tf":{"freq":{"editor":2,"creat":1,"basic":2,"pane":2},"maxFreq":2,"totalTerms":7},"loc":3}

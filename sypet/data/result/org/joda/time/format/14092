@@ -1,0 +1,1 @@
+{"id":14092,"className":"org.joda.time.format.PeriodFormatterBuilder$FieldFormatter","methodName":"printTo","signature":"\u003corg.joda.time.format.PeriodFormatterBuilder$FieldFormatter: void printTo(java.io.Writer,org.joda.time.ReadablePeriod,java.util.Locale)\u003e","loc":30}

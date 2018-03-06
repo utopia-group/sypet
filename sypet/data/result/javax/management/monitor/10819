@@ -1,0 +1,1 @@
+{"id":10819,"className":"javax.management.monitor.CounterMonitor$CounterMonitorObservedObject","methodName":"getDerivedGaugeValid","signature":"\u003cjavax.management.monitor.CounterMonitor$CounterMonitorObservedObject: boolean getDerivedGaugeValid()\u003e","loc":3}

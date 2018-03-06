@@ -1,0 +1,1 @@
+{"id":24129,"className":"javax.print.MimeType","methodName":"getMediaSubtype","signature":"\u003cjavax.print.MimeType: java.lang.String getMediaSubtype()\u003e","javadoc":"/** \n * Returns this MIME type object\u0027s media subtype.\n */\n","tf":{"freq":{"object":1,"subtyp":2,"type":1,"media":2},"maxFreq":2,"totalTerms":6},"loc":3}

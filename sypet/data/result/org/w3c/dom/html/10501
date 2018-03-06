@@ -1,0 +1,1 @@
+{"id":10501,"className":"org.w3c.dom.html.HTMLIFrameElement","methodName":"getWidth","signature":"\u003corg.w3c.dom.html.HTMLIFrameElement: java.lang.String getWidth()\u003e","javadoc":"/** \n * Frame width. See the  width attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"attribut":1,"frame":1,"definit":1,"width":3},"maxFreq":3,"totalTerms":6},"loc":0}

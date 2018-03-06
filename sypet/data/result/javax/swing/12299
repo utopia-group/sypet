@@ -1,0 +1,1 @@
+{"id":12299,"className":"javax.swing.BufferStrategyPaintManager","methodName":"copyArea","signature":"\u003cjavax.swing.BufferStrategyPaintManager: void copyArea(javax.swing.JComponent,java.awt.Graphics,int,int,int,int,int,int,boolean)\u003e","loc":38}

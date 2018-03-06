@@ -1,0 +1,1 @@
+{"id":18221,"className":"java.awt.image.Kernel","methodName":"getHeight","signature":"\u003cjava.awt.image.Kernel: int getHeight()\u003e","javadoc":"/** \n * Returns the height of this \u003ccode\u003eKernel\u003c/code\u003e.\n * @return the height of this \u003ccode\u003eKernel\u003c/code\u003e.\n */\n","tf":{"freq":{"height":3,"kernel":2},"maxFreq":3,"totalTerms":5},"loc":3}

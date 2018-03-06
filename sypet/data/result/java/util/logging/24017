@@ -1,0 +1,1 @@
+{"id":24017,"className":"java.util.logging.Handler","methodName":"flush","signature":"\u003cjava.util.logging.Handler: void flush()\u003e","javadoc":"/** \n * Flush any buffered output.\n */\n","tf":{"freq":{"buffer":1,"flush":2,"output":1},"maxFreq":2,"totalTerms":4},"loc":0}

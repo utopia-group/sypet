@@ -1,0 +1,1 @@
+{"id":15963,"className":"java.awt.Window","methodName":"getOwner","signature":"\u003cjava.awt.Window: java.awt.Window getOwner()\u003e","javadoc":"/** \n * Returns the owner of this window.\n * @since 1.2\n */\n","tf":{"freq":{"window":1,"owner":2},"maxFreq":2,"totalTerms":3},"loc":3}

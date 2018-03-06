@@ -1,0 +1,1 @@
+{"id":21791,"className":"javax.swing.text.GapVector","methodName":"GapVector","signature":"\u003cjavax.swing.text.GapVector: void GapVector()\u003e","javadoc":"/** \n * Creates a new GapVector object.  Initial size defaults to 10.\n */\n","tf":{"freq":{"creat":1,"vector":2,"initi":1,"object":1,"size":1,"gap":2},"maxFreq":2,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":22728,"className":"java.util.concurrent.ThreadPoolExecutor$CallerRunsPolicy","methodName":"CallerRunsPolicy","signature":"\u003cjava.util.concurrent.ThreadPoolExecutor$CallerRunsPolicy: void CallerRunsPolicy()\u003e","javadoc":"/** \n * Creates a  {@code CallerRunsPolicy}.\n */\n","tf":{"freq":{"caller":2,"creat":1,"polici":2,"run":2},"maxFreq":2,"totalTerms":7},"loc":1}

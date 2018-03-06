@@ -1,0 +1,1 @@
+{"id":20096,"className":"java.awt.geom.Line2D$Double","methodName":"Double","signature":"\u003cjava.awt.geom.Line2D$Double: void Double()\u003e","javadoc":"/** \n * Constructs and initializes a Line with coordinates (0, 0) -\u003e (0, 0).\n * @since 1.2\n */\n","tf":{"freq":{"coordin":1,"line":1,"initi":1,"construct":1},"maxFreq":1,"totalTerms":4},"loc":2}

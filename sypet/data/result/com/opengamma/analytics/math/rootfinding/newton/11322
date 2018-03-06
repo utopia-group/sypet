@@ -1,0 +1,1 @@
+{"id":11322,"className":"com.opengamma.analytics.math.rootfinding.newton.ShermanMorrisonMatrixUpdateFunction","methodName":"ShermanMorrisonMatrixUpdateFunction","signature":"\u003ccom.opengamma.analytics.math.rootfinding.newton.ShermanMorrisonMatrixUpdateFunction: void ShermanMorrisonMatrixUpdateFunction(com.opengamma.analytics.math.matrix.MatrixAlgebra)\u003e","loc":4}

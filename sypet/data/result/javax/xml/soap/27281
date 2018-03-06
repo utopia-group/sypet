@@ -1,0 +1,1 @@
+{"id":27281,"className":"javax.xml.soap.AttachmentPart","methodName":"removeAllMimeHeaders","signature":"\u003cjavax.xml.soap.AttachmentPart: void removeAllMimeHeaders()\u003e","javadoc":"/** \n * Removes all the MIME header entries.\n */\n","tf":{"freq":{"entri":1,"remov":2,"mime":1,"header":2},"maxFreq":2,"totalTerms":6},"loc":0}

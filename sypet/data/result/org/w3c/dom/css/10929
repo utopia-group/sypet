@@ -1,0 +1,1 @@
+{"id":10929,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getContent","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getContent()\u003e","javadoc":"/** \n * See the content property definition in CSS2.\n */\n","tf":{"freq":{"content":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

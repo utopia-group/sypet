@@ -1,0 +1,1 @@
+{"id":22343,"className":"javax.swing.text.Segment","methodName":"getBeginIndex","signature":"\u003cjavax.swing.text.Segment: int getBeginIndex()\u003e","javadoc":"/** \n * Returns the start index of the text.\n * @return the index at which the text begins.\n * @since 1.3\n */\n","tf":{"freq":{"text":2,"index":3,"start":1,"begin":2},"maxFreq":3,"totalTerms":8},"loc":3}

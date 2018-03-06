@@ -1,0 +1,1 @@
+{"id":13791,"className":"javax.swing.JFileChooser","methodName":"rescanCurrentDirectory","signature":"\u003cjavax.swing.JFileChooser: void rescanCurrentDirectory()\u003e","javadoc":"/** \n * Tells the UI to rescan its files list from the current directory.\n */\n","tf":{"freq":{"directori":2,"file":1,"current":2,"list":1,"tell":1,"rescan":2},"maxFreq":2,"totalTerms":9},"loc":3}

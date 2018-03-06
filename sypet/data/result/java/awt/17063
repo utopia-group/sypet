@@ -1,0 +1,1 @@
+{"id":17063,"className":"java.awt.AWTEvent","methodName":"getID","signature":"\u003cjava.awt.AWTEvent: int getID()\u003e","javadoc":"/** \n * Returns the event type.\n */\n","tf":{"freq":{"event":1,"type":1},"maxFreq":1,"totalTerms":2},"loc":3}

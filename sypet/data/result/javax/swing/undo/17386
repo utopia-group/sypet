@@ -1,0 +1,1 @@
+{"id":17386,"className":"javax.swing.undo.UndoableEdit","methodName":"redo","signature":"\u003cjavax.swing.undo.UndoableEdit: void redo()\u003e","javadoc":"/** \n * Re-applies the edit.\n * @throws CannotRedoException if this edit can not be redone\n */\n","tf":{"freq":{"except":1,"appli":1,"redo":2,"edit":2,"redon":1},"maxFreq":2,"totalTerms":7},"loc":0}

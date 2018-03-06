@@ -1,0 +1,1 @@
+{"id":23679,"className":"","methodName":"compare","signature":"\u003c: int compare(org.apache.commons.math.ode.events.EventState,org.apache.commons.math.ode.events.EventState)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"compar":1},"maxFreq":1,"totalTerms":1},"loc":3}

@@ -1,0 +1,1 @@
+{"id":10526,"className":"com.opengamma.analytics.math.interpolation.MonotoneConvexSplineInterpolator","methodName":"interpolate","signature":"\u003ccom.opengamma.analytics.math.interpolation.MonotoneConvexSplineInterpolator: com.opengamma.analytics.math.matrix.DoubleMatrix2D interpolate(double[],double[],double[][])\u003e","loc":34}

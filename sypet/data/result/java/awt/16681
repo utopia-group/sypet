@@ -1,0 +1,1 @@
+{"id":16681,"className":"java.awt.Polygon","methodName":"Polygon","signature":"\u003cjava.awt.Polygon: void Polygon()\u003e","javadoc":"/** \n * Creates an empty polygon.\n * @since 1.0\n */\n","tf":{"freq":{"polygon":2,"creat":1,"empti":1},"maxFreq":2,"totalTerms":4},"loc":4}

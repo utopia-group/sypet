@@ -1,0 +1,1 @@
+{"id":20025,"className":"java.awt.geom.ArcIterator","methodName":"isDone","signature":"\u003cjava.awt.geom.ArcIterator: boolean isDone()\u003e","javadoc":"/** \n * Tests if there are more points to read.\n * @return true if there are more points to read\n */\n","tf":{"freq":{"point":2,"test":1,"done":1,"true":1,"read":2},"maxFreq":2,"totalTerms":7},"loc":3}

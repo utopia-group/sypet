@@ -1,0 +1,1 @@
+{"id":26835,"className":"javax.xml.ws.soap.AddressingFeature","methodName":"getID","signature":"\u003cjavax.xml.ws.soap.AddressingFeature: java.lang.String getID()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","loc":3}

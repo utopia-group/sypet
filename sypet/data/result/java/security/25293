@@ -1,0 +1,1 @@
+{"id":25293,"className":"java.security.CodeSource","methodName":"getLocation","signature":"\u003cjava.security.CodeSource: java.net.URL getLocation()\u003e","javadoc":"/** \n * Returns the location associated with this CodeSource.\n * @return the location (URL).\n */\n","tf":{"freq":{"locat":3,"associ":1,"sourc":1},"maxFreq":3,"totalTerms":5},"loc":5}

@@ -1,0 +1,1 @@
+{"id":10021,"className":"com.opengamma.analytics.math.ComplexMathUtils","methodName":"pow","signature":"\u003ccom.opengamma.analytics.math.ComplexMathUtils: com.opengamma.analytics.math.number.ComplexNumber pow(com.opengamma.analytics.math.number.ComplexNumber,double)\u003e","loc":6}

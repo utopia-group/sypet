@@ -1,0 +1,1 @@
+{"id":27743,"className":"javax.smartcardio.ResponseAPDU","methodName":"getBytes","signature":"\u003cjavax.smartcardio.ResponseAPDU: byte[] getBytes()\u003e","javadoc":"/** \n * Returns a copy of the bytes in this APDU.\n * @return a copy of the bytes in this APDU.\n */\n","tf":{"freq":{"copi":2},"maxFreq":2,"totalTerms":2},"loc":3}

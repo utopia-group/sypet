@@ -1,0 +1,1 @@
+{"id":16559,"className":"javax.swing.border.BevelBorder","methodName":"isBorderOpaque","signature":"\u003cjavax.swing.border.BevelBorder: boolean isBorderOpaque()\u003e","javadoc":"/** \n * Returns whether or not the border is opaque.\n */\n","tf":{"freq":{"opaqu":2,"border":2,"whether":1},"maxFreq":2,"totalTerms":5},"loc":1}

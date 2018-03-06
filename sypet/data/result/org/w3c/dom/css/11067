@@ -1,0 +1,1 @@
+{"id":11067,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getSpeechRate","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getSpeechRate()\u003e","javadoc":"/** \n * See the speech-rate property definition in CSS2.\n */\n","tf":{"freq":{"speech":2,"rate":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

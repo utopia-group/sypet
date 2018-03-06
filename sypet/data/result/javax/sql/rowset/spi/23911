@@ -1,0 +1,1 @@
+{"id":23911,"className":"javax.sql.rowset.spi.SyncProvider","methodName":"SyncProvider","signature":"\u003cjavax.sql.rowset.spi.SyncProvider: void SyncProvider()\u003e","javadoc":"/** \n * Creates a default \u003ccode\u003eSyncProvider\u003c/code\u003e object.\n */\n","tf":{"freq":{"creat":1,"sync":2,"object":1,"provid":2},"maxFreq":2,"totalTerms":6},"loc":2}

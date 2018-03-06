@@ -1,0 +1,1 @@
+{"id":13320,"className":"java.lang.Package","methodName":"isSealed","signature":"\u003cjava.lang.Package: boolean isSealed()\u003e","javadoc":"/** \n * Returns true if this package is sealed.\n * @return true if the package is sealed, false otherwise\n */\n","tf":{"freq":{"otherwis":1,"fals":1,"seal":3,"true":2},"maxFreq":3,"totalTerms":7},"loc":3}

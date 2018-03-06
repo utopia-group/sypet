@@ -1,0 +1,1 @@
+{"id":19758,"className":"java.awt.geom.Path2D$Double","methodName":"curveTo","signature":"\u003cjava.awt.geom.Path2D$Double: void curveTo(double,double,double,double,double,double)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.6\n */\n","tf":{"freq":{"curv":1},"maxFreq":1,"totalTerms":1},"loc":10}

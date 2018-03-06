@@ -1,0 +1,1 @@
+{"id":14781,"className":"org.joda.time.chrono.BasicWeekyearDateTimeField","methodName":"getLeapAmount","signature":"\u003corg.joda.time.chrono.BasicWeekyearDateTimeField: int getLeapAmount(long)\u003e","loc":3}

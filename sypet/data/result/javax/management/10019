@@ -1,0 +1,1 @@
+{"id":10019,"className":"javax.management.Notification","methodName":"getTimeStamp","signature":"\u003cjavax.management.Notification: long getTimeStamp()\u003e","javadoc":"/** \n * Get the notification timestamp.\n * @return The notification timestamp.\n * @see #setTimeStamp\n */\n","tf":{"freq":{"timestamp":2,"notif":2,"stamp":2,"time":2},"maxFreq":2,"totalTerms":8},"loc":3}

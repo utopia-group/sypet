@@ -1,0 +1,1 @@
+{"id":22406,"className":"java.util.concurrent.ConcurrentSkipListMap","methodName":"clear","signature":"\u003cjava.util.concurrent.ConcurrentSkipListMap: void clear()\u003e","javadoc":"/** \n * Removes all of the mappings from this map.\n */\n","tf":{"freq":{"clear":1,"map":2,"remov":1},"maxFreq":2,"totalTerms":4},"loc":3}

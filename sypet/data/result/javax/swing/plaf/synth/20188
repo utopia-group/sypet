@@ -1,0 +1,1 @@
+{"id":20188,"className":"javax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter","methodName":"paintArrowButtonForeground","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter: void paintArrowButtonForeground(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int,int)\u003e","loc":6}

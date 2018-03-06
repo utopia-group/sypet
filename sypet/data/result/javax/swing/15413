@@ -1,0 +1,1 @@
+{"id":15413,"className":"javax.swing.DebugGraphics","methodName":"setXORMode","signature":"\u003cjavax.swing.DebugGraphics: void setXORMode(java.awt.Color)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.setXORMode\u003c/code\u003e.\n */\n","tf":{"freq":{"graphic":1,"rmode":2},"maxFreq":2,"totalTerms":3},"loc":6}

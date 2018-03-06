@@ -1,0 +1,1 @@
+{"id":25026,"className":"javax.imageio.ImageTypeSpecifier$Banded","methodName":"Banded","signature":"\u003cjavax.imageio.ImageTypeSpecifier$Banded: void Banded(java.awt.color.ColorSpace,int[],int[],int,boolean,boolean)\u003e","loc":52}

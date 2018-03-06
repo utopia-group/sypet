@@ -1,0 +1,1 @@
+{"id":13139,"className":"javax.swing.JTabbedPane$AccessibleJTabbedPane","methodName":"AccessibleJTabbedPane","signature":"\u003cjavax.swing.JTabbedPane$AccessibleJTabbedPane: void AccessibleJTabbedPane()\u003e","javadoc":"/** \n * Constructs an AccessibleJTabbedPane\n */\n","tf":{"freq":{"jtab":2,"construct":1,"access":2,"pane":2},"maxFreq":2,"totalTerms":7},"loc":4}

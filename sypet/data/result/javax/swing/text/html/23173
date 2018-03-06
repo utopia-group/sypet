@@ -1,0 +1,1 @@
+{"id":23173,"className":"javax.swing.text.html.HTMLFrameHyperlinkEvent","methodName":"getTarget","signature":"\u003cjavax.swing.text.html.HTMLFrameHyperlinkEvent: java.lang.String getTarget()\u003e","javadoc":"/** \n * returns the target for the link.\n */\n","tf":{"freq":{"link":1,"target":2},"maxFreq":2,"totalTerms":3},"loc":3}

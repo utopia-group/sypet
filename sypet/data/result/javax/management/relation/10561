@@ -1,0 +1,1 @@
+{"id":10561,"className":"javax.management.relation.RoleInfo","methodName":"getDescription","signature":"\u003cjavax.management.relation.RoleInfo: java.lang.String getDescription()\u003e","javadoc":"/** \n * Returns description text for the role.\n * @return the description of the role.\n */\n","tf":{"freq":{"text":1,"descript":3,"role":2},"maxFreq":3,"totalTerms":6},"loc":3}

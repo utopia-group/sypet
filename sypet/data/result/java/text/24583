@@ -1,0 +1,1 @@
+{"id":24583,"className":"java.text.BreakIterator","methodName":"getText","signature":"\u003cjava.text.BreakIterator: java.text.CharacterIterator getText()\u003e","javadoc":"/** \n * Get the text being scanned\n * @return the text being scanned\n */\n","tf":{"freq":{"text":3,"scan":2},"maxFreq":3,"totalTerms":5},"loc":0}

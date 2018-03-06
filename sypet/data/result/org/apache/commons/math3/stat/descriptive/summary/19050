@@ -1,0 +1,1 @@
+{"id":19050,"className":"org.apache.commons.math3.stat.descriptive.summary.Product","methodName":"Product","signature":"\u003corg.apache.commons.math3.stat.descriptive.summary.Product: void Product()\u003e","javadoc":"/** \n * Create a Product instance\n */\n","tf":{"freq":{"product":2,"creat":1,"instanc":1},"maxFreq":2,"totalTerms":4},"loc":4}

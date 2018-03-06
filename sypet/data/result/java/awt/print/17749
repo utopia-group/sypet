@@ -1,0 +1,1 @@
+{"id":17749,"className":"java.awt.print.Paper","methodName":"Paper","signature":"\u003cjava.awt.print.Paper: void Paper()\u003e","javadoc":"/** \n * Creates a letter sized piece of paper with one inch margins.\n */\n","tf":{"freq":{"inch":1,"letter":1,"creat":1,"paper":2,"one":1,"margin":1,"piec":1,"size":1},"maxFreq":2,"totalTerms":9},"loc":7}

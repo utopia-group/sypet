@@ -1,0 +1,1 @@
+{"id":13330,"className":"java.lang.Package","methodName":"getDeclaredAnnotations","signature":"\u003cjava.lang.Package: java.lang.annotation.Annotation[] getDeclaredAnnotations()\u003e","javadoc":"/** \n * @since 1.5\n */\n","tf":{"freq":{"declar":1,"annot":1},"maxFreq":1,"totalTerms":2},"loc":3}

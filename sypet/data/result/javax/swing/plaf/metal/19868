@@ -1,0 +1,1 @@
+{"id":19868,"className":"javax.swing.plaf.metal.MetalBorders$TableHeaderBorder","methodName":"paintBorder","signature":"\u003cjavax.swing.plaf.metal.MetalBorders$TableHeaderBorder: void paintBorder(java.awt.Component,java.awt.Graphics,int,int,int,int)\u003e","loc":12}

@@ -1,0 +1,1 @@
+{"id":25704,"className":"java.security.interfaces.RSAMultiPrimePrivateCrtKey","methodName":"getPublicExponent","signature":"\u003cjava.security.interfaces.RSAMultiPrimePrivateCrtKey: java.math.BigInteger getPublicExponent()\u003e","javadoc":"/** \n * Returns the public exponent.\n * @return the public exponent.\n */\n","tf":{"freq":{"expon":3},"maxFreq":3,"totalTerms":3},"loc":0}

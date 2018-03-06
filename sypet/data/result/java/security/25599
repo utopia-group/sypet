@@ -1,0 +1,1 @@
+{"id":25599,"className":"java.security.Policy$PolicyDelegate","methodName":"implies","signature":"\u003cjava.security.Policy$PolicyDelegate: boolean implies(java.security.ProtectionDomain,java.security.Permission)\u003e","loc":3}

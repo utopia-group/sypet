@@ -1,0 +1,1 @@
+{"id":21204,"className":"","methodName":"setEntry","signature":"\u003c: void setEntry(int,double)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @throws MathUnsupportedOperationException in allcircumstances.\n */\n","tf":{"freq":{"math":1,"except":1,"unsupport":1,"oper":1,"entri":1,"allcircumst":1},"maxFreq":1,"totalTerms":6},"loc":3}

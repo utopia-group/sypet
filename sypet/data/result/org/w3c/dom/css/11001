@@ -1,0 +1,1 @@
+{"id":11001,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getMaxWidth","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getMaxWidth()\u003e","javadoc":"/** \n * See the max-width property definition in CSS2.\n */\n","tf":{"freq":{"max":2,"definit":1,"width":2,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

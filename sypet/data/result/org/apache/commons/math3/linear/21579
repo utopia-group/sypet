@@ -1,0 +1,1 @@
+{"id":21579,"className":"org.apache.commons.math3.linear.RealMatrixFormat","methodName":"getRowSuffix","signature":"\u003corg.apache.commons.math3.linear.RealMatrixFormat: java.lang.String getRowSuffix()\u003e","javadoc":"/** \n * Get the format suffix.\n * @return format suffix.\n */\n","tf":{"freq":{"format":2,"suffix":3,"row":1},"maxFreq":3,"totalTerms":6},"loc":3}

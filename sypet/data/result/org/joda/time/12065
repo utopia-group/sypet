@@ -1,0 +1,1 @@
+{"id":12065,"className":"org.joda.time.DurationFieldType$StandardDurationFieldType","methodName":"equals","signature":"\u003corg.joda.time.DurationFieldType$StandardDurationFieldType: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * @inheritdoc \n */\n","tf":{"freq":{"equal":1,"inheritdoc":1},"maxFreq":1,"totalTerms":2},"loc":9}

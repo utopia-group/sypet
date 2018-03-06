@@ -1,0 +1,1 @@
+{"id":19698,"className":"javax.swing.plaf.metal.MetalSplitPaneUI","methodName":"createDefaultDivider","signature":"\u003cjavax.swing.plaf.metal.MetalSplitPaneUI: javax.swing.plaf.basic.BasicSplitPaneDivider createDefaultDivider()\u003e","javadoc":"/** \n * Creates the default divider.\n */\n","tf":{"freq":{"creat":2,"divid":2},"maxFreq":2,"totalTerms":4},"loc":3}

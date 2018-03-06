@@ -1,0 +1,1 @@
+{"id":22145,"className":"javax.swing.text.DefaultHighlighter$SafeDamager","methodName":"run","signature":"\u003cjavax.swing.text.DefaultHighlighter$SafeDamager: void run()\u003e","javadoc":"/** \n * Executes range(s) damage and cleans range queue.\n */\n","tf":{"freq":{"damag":1,"queue":1,"clean":1,"rang":2,"execut":1,"run":1},"maxFreq":2,"totalTerms":7},"loc":20}

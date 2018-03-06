@@ -1,0 +1,1 @@
+{"id":10762,"className":"javax.management.monitor.StringMonitor","methodName":"stop","signature":"\u003cjavax.management.monitor.StringMonitor: void stop()\u003e","javadoc":"/** \n * Stops the string monitor.\n */\n","tf":{"freq":{"stop":2,"monitor":1,"string":1},"maxFreq":2,"totalTerms":4},"loc":3}

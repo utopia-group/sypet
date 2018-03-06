@@ -1,0 +1,1 @@
+{"id":17450,"className":"java.awt.PageAttributes","methodName":"toString","signature":"\u003cjava.awt.PageAttributes: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a string representation of this PageAttributes.\n * @return  the string representation.\n */\n","tf":{"freq":{"attribut":1,"page":1,"string":3,"represent":2},"maxFreq":3,"totalTerms":7},"loc":8}

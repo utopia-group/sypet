@@ -1,0 +1,1 @@
+{"id":17308,"className":"org.apache.commons.math3.analysis.differentiation.SparseGradient","methodName":"atanh","signature":"\u003corg.apache.commons.math3.analysis.differentiation.SparseGradient: org.apache.commons.math3.analysis.differentiation.SparseGradient atanh()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"atanh":1},"maxFreq":1,"totalTerms":1},"loc":3}

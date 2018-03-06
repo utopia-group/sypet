@@ -1,0 +1,1 @@
+{"id":28556,"className":"javax.crypto.spec.RC5ParameterSpec","methodName":"getRounds","signature":"\u003cjavax.crypto.spec.RC5ParameterSpec: int getRounds()\u003e","javadoc":"/** \n * Returns the number of rounds.\n * @return the number of rounds.\n */\n","tf":{"freq":{"number":2,"round":3},"maxFreq":3,"totalTerms":5},"loc":3}

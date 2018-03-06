@@ -1,0 +1,1 @@
+{"id":14582,"className":"org.joda.time.convert.CalendarConverter","methodName":"getSupportedType","signature":"\u003corg.joda.time.convert.CalendarConverter: java.lang.Class\u003c?\u003e getSupportedType()\u003e","javadoc":"/** \n * Returns Calendar.class.\n * @return Calendar.class\n */\n","tf":{"freq":{"support":1,"type":1,"calendar":2},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":14976,"className":"java.nio.channels.spi.SelectorProvider","methodName":"openPipe","signature":"\u003cjava.nio.channels.spi.SelectorProvider: java.nio.channels.Pipe openPipe()\u003e","javadoc":"/** \n * Opens a pipe. \u003c/p\u003e\n * @return  The new pipe\n */\n","tf":{"freq":{"open":2,"pipe":3},"maxFreq":3,"totalTerms":5},"loc":0}

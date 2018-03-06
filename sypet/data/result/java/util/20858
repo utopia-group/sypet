@@ -1,0 +1,1 @@
+{"id":20858,"className":"java.util.Date","methodName":"clone","signature":"\u003cjava.util.Date: java.lang.Object clone()\u003e","javadoc":"/** \n * Return a copy of this object.\n */\n","tf":{"freq":{"clone":1,"object":1,"copi":1},"maxFreq":1,"totalTerms":3},"loc":10}

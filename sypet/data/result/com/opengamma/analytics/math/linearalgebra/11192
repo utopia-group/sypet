@@ -1,0 +1,1 @@
+{"id":11192,"className":"com.opengamma.analytics.math.linearalgebra.TridiagonalMatrix","methodName":"getEntry","signature":"\u003ccom.opengamma.analytics.math.linearalgebra.TridiagonalMatrix: java.lang.Double getEntry(int[])\u003e","loc":17}

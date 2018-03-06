@@ -1,0 +1,1 @@
+{"id":24157,"className":"javax.print.FlavorException","methodName":"getUnsupportedFlavors","signature":"\u003cjavax.print.FlavorException: javax.print.DocFlavor[] getUnsupportedFlavors()\u003e","javadoc":"/** \n * Returns the unsupported flavors.\n * @return the unsupported doc flavors.\n */\n","tf":{"freq":{"unsupport":3,"flavor":3},"maxFreq":3,"totalTerms":6},"loc":0}

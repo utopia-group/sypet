@@ -1,0 +1,1 @@
+{"id":20772,"className":"java.util.Vector","methodName":"hashCode","signature":"\u003cjava.util.Vector: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code value for this Vector.\n */\n","tf":{"freq":{"hash":2,"vector":1,"valu":1},"maxFreq":2,"totalTerms":4},"loc":3}

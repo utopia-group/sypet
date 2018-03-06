@@ -1,0 +1,1 @@
+{"id":10002,"className":"org.w3c.dom.DOMError","methodName":"getMessage","signature":"\u003corg.w3c.dom.DOMError: java.lang.String getMessage()\u003e","javadoc":"/** \n * An implementation specific string describing the error that occurred.\n */\n","tf":{"freq":{"specif":1,"error":1,"messag":1,"string":1,"describ":1,"occur":1},"maxFreq":1,"totalTerms":6},"loc":0}

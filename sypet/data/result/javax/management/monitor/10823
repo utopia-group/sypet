@@ -1,0 +1,1 @@
+{"id":10823,"className":"javax.management.monitor.CounterMonitor$CounterMonitorObservedObject","methodName":"getType","signature":"\u003cjavax.management.monitor.CounterMonitor$CounterMonitorObservedObject: javax.management.monitor.Monitor$NumericalType getType()\u003e","loc":3}

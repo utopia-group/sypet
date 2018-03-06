@@ -1,0 +1,1 @@
+{"id":19387,"className":"javax.swing.plaf.metal.BumpBuffer","methodName":"BumpBuffer","signature":"\u003cjavax.swing.plaf.metal.BumpBuffer: void BumpBuffer(java.awt.GraphicsConfiguration,java.awt.Color,java.awt.Color,java.awt.Color)\u003e","loc":8}

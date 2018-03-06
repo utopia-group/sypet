@@ -1,0 +1,1 @@
+{"id":12308,"className":"javax.swing.BufferStrategyPaintManager$BufferInfo","methodName":"getContentsLostDuringExpose","signature":"\u003cjavax.swing.BufferStrategyPaintManager$BufferInfo: boolean getContentsLostDuringExpose()\u003e","loc":3}

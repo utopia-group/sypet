@@ -1,0 +1,1 @@
+{"id":24894,"className":"org.apache.commons.math.util.MultidimensionalCounter$Iterator","methodName":"hasNext","signature":"\u003corg.apache.commons.math.util.MultidimensionalCounter$Iterator: boolean hasNext()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"next":1},"maxFreq":1,"totalTerms":1},"loc":8}

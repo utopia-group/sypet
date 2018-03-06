@@ -1,0 +1,1 @@
+{"id":25976,"className":"org.apache.commons.math.linear.EigenDecompositionImpl","methodName":"getV","signature":"\u003corg.apache.commons.math.linear.EigenDecompositionImpl: org.apache.commons.math.linear.RealMatrix getV()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","loc":13}

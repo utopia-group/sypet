@@ -1,0 +1,1 @@
+{"id":21114,"className":"javax.swing.text.GlyphView","methodName":"isSuperscript","signature":"\u003cjavax.swing.text.GlyphView: boolean isSuperscript()\u003e","javadoc":"/** \n * Determine if the glyphs should be rendered as subscript.\n */\n","tf":{"freq":{"superscript":1,"subscript":1,"glyph":1,"determin":1,"render":1},"maxFreq":1,"totalTerms":5},"loc":4}

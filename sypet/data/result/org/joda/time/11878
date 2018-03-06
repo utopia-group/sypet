@@ -1,0 +1,1 @@
+{"id":11878,"className":"org.joda.time.PeriodType","methodName":"hashCode","signature":"\u003corg.joda.time.PeriodType: int hashCode()\u003e","javadoc":"/** \n * Returns a hashcode based on the field types.\n * @return a suitable hashcode\n */\n","tf":{"freq":{"field":1,"hash":1,"suitabl":1,"base":1,"hashcod":2,"type":1},"maxFreq":2,"totalTerms":7},"loc":7}

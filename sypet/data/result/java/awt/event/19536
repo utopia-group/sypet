@@ -1,0 +1,1 @@
+{"id":19536,"className":"java.awt.event.AWTEventListener","methodName":"eventDispatched","signature":"\u003cjava.awt.event.AWTEventListener: void eventDispatched(java.awt.AWTEvent)\u003e","javadoc":"/** \n * Invoked when an event is dispatched in the AWT.\n */\n","tf":{"freq":{"invok":1,"event":2,"dispatch":2},"maxFreq":2,"totalTerms":5},"loc":0}

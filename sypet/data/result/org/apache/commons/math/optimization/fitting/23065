@@ -1,0 +1,1 @@
+{"id":23065,"className":"org.apache.commons.math.optimization.fitting.HarmonicFunction","methodName":"getPhase","signature":"\u003corg.apache.commons.math.optimization.fitting.HarmonicFunction: double getPhase()\u003e","javadoc":"/** \n * Get the phase \u0026phi;.\n * @return phase \u0026phi;\n */\n","tf":{"freq":{"phase":3,"phi":2},"maxFreq":3,"totalTerms":5},"loc":3}

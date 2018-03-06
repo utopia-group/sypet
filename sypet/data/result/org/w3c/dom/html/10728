@@ -1,0 +1,1 @@
+{"id":10728,"className":"org.w3c.dom.html.HTMLElement","methodName":"getId","signature":"\u003corg.w3c.dom.html.HTMLElement: java.lang.String getId()\u003e","javadoc":"/** \n * The element\u0027s identifier. See the  id attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"element":1,"attribut":1,"definit":1,"identifi":1},"maxFreq":1,"totalTerms":4},"loc":0}

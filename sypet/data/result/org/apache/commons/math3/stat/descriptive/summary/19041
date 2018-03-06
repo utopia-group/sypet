@@ -1,0 +1,1 @@
+{"id":19041,"className":"org.apache.commons.math3.stat.descriptive.summary.SumOfLogs","methodName":"SumOfLogs","signature":"\u003corg.apache.commons.math3.stat.descriptive.summary.SumOfLogs: void SumOfLogs()\u003e","javadoc":"/** \n * Create a SumOfLogs instance\n */\n","tf":{"freq":{"creat":1,"sum":2,"log":2,"instanc":1},"maxFreq":2,"totalTerms":6},"loc":4}

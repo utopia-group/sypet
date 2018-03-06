@@ -1,0 +1,1 @@
+{"id":24839,"className":"java.text.DecimalFormatSymbols","methodName":"getZeroDigit","signature":"\u003cjava.text.DecimalFormatSymbols: char getZeroDigit()\u003e","javadoc":"/** \n * Gets the character used for zero. Different for Arabic, etc.\n */\n","tf":{"freq":{"digit":1,"differ":1,"arab":1,"charact":1,"etc":1,"use":1,"zero":2},"maxFreq":2,"totalTerms":8},"loc":3}

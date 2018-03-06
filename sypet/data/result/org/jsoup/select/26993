@@ -1,0 +1,1 @@
+{"id":26993,"className":"org.jsoup.select.Evaluator$CssNthEvaluator","methodName":"matches","signature":"\u003corg.jsoup.select.Evaluator$CssNthEvaluator: boolean matches(org.jsoup.nodes.Element,org.jsoup.nodes.Element)\u003e","loc":9}

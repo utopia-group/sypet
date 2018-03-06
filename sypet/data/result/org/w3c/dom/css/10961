@@ -1,0 +1,1 @@
+{"id":10961,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getFontStretch","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getFontStretch()\u003e","javadoc":"/** \n * See the font-stretch property definition in CSS2.\n */\n","tf":{"freq":{"font":2,"definit":1,"stretch":2,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

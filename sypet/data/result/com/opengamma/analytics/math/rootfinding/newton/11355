@@ -1,0 +1,1 @@
+{"id":11355,"className":"com.opengamma.analytics.math.rootfinding.newton.ShermanMorrisonVectorRootFinder","methodName":"ShermanMorrisonVectorRootFinder","signature":"\u003ccom.opengamma.analytics.math.rootfinding.newton.ShermanMorrisonVectorRootFinder: void ShermanMorrisonVectorRootFinder(double,double,int,com.opengamma.analytics.math.linearalgebra.Decomposition)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":13495,"className":"java.lang.Long","methodName":"doubleValue","signature":"\u003cjava.lang.Long: double doubleValue()\u003e","javadoc":"/** \n * Returns the value of this  {@code Long} as a{@code double}.\n */\n","tf":{"freq":{"valu":2},"maxFreq":2,"totalTerms":2},"loc":3}

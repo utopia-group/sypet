@@ -1,0 +1,1 @@
+{"id":23630,"className":"org.apache.commons.math.random.EmpiricalDistribution","methodName":"getBinCount","signature":"\u003corg.apache.commons.math.random.EmpiricalDistribution: int getBinCount()\u003e","javadoc":"/** \n * Returns the number of bins.\n * @return the number of bins\n */\n","tf":{"freq":{"count":1,"number":2,"bin":3},"maxFreq":3,"totalTerms":6},"loc":0}

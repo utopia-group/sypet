@@ -1,0 +1,1 @@
+{"id":12206,"className":"java.net.SocketOption","methodName":"type","signature":"\u003cjava.net.SocketOption: java.lang.Class\u003cT\u003e type()\u003e","javadoc":"/** \n * Returns the type of the socket option value.\n */\n","tf":{"freq":{"socket":1,"valu":1,"type":2,"option":1},"maxFreq":2,"totalTerms":5},"loc":0}

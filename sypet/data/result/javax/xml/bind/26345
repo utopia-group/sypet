@@ -1,0 +1,1 @@
+{"id":26345,"className":"javax.xml.bind.DatatypeConverterImpl","methodName":"parseUnsignedShort","signature":"\u003cjavax.xml.bind.DatatypeConverterImpl: int parseUnsignedShort(java.lang.String)\u003e","loc":3}

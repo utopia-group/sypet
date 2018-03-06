@@ -1,0 +1,1 @@
+{"id":24977,"className":"java.text.RuleBasedBreakIterator","methodName":"current","signature":"\u003cjava.text.RuleBasedBreakIterator: int current()\u003e","javadoc":"/** \n * Returns the current iteration position.\n * @return The current iteration position.\n */\n","tf":{"freq":{"current":3,"iter":2,"posit":2},"maxFreq":3,"totalTerms":7},"loc":3}

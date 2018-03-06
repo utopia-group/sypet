@@ -1,0 +1,1 @@
+{"id":24682,"className":"org.apache.commons.math.stat.descriptive.rank.Max","methodName":"Max","signature":"\u003corg.apache.commons.math.stat.descriptive.rank.Max: void Max()\u003e","javadoc":"/** \n * Create a Max instance\n */\n","tf":{"freq":{"max":2,"creat":1,"instanc":1},"maxFreq":2,"totalTerms":4},"loc":4}

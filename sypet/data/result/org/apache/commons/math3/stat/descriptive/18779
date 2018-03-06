@@ -1,0 +1,1 @@
+{"id":18779,"className":"org.apache.commons.math3.stat.descriptive.StatisticalSummaryValues","methodName":"getMin","signature":"\u003corg.apache.commons.math3.stat.descriptive.StatisticalSummaryValues: double getMin()\u003e","javadoc":"/** \n * @return Returns the min.\n */\n","tf":{"freq":{"min":2},"maxFreq":2,"totalTerms":2},"loc":3}

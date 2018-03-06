@@ -1,0 +1,1 @@
+{"id":13314,"className":"org.joda.time.DateTimeFieldType$StandardDateTimeFieldType","methodName":"getField","signature":"\u003corg.joda.time.DateTimeFieldType$StandardDateTimeFieldType: org.joda.time.DateTimeField getField(org.joda.time.Chronology)\u003e","javadoc":"/** \n * @inheritdoc \n */\n","tf":{"freq":{"field":1,"inheritdoc":1},"maxFreq":1,"totalTerms":2},"loc":55}

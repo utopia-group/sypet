@@ -1,0 +1,1 @@
+{"id":12426,"className":"javax.swing.ImageIcon$AccessibleImageIcon","methodName":"getAccessibleIconWidth","signature":"\u003cjavax.swing.ImageIcon$AccessibleImageIcon: int getAccessibleIconWidth()\u003e","javadoc":"/** \n * Gets the width of the icon.\n * @return the width of the icon\n */\n","tf":{"freq":{"icon":3,"width":3,"access":1},"maxFreq":3,"totalTerms":7},"loc":3}

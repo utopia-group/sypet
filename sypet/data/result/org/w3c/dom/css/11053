@@ -1,0 +1,1 @@
+{"id":11053,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getRichness","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getRichness()\u003e","javadoc":"/** \n * See the richness property definition in CSS2.\n */\n","tf":{"freq":{"rich":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

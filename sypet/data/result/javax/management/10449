@@ -1,0 +1,1 @@
+{"id":10449,"className":"javax.management.MBeanFeatureInfo","methodName":"getName","signature":"\u003cjavax.management.MBeanFeatureInfo: java.lang.String getName()\u003e","javadoc":"/** \n * Returns the name of the feature.\n * @return the name of the feature.\n */\n","tf":{"freq":{"name":3,"featur":2},"maxFreq":3,"totalTerms":5},"loc":3}

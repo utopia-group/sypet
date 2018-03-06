@@ -1,0 +1,1 @@
+{"id":26843,"className":"org.jsoup.Connection$Base","methodName":"url","signature":"\u003corg.jsoup.Connection$Base: java.net.URL url()\u003e","javadoc":"/** \n * Get the URL\n * @return URL\n */\n","tf":{"freq":{"url":1},"maxFreq":1,"totalTerms":1},"loc":0}

@@ -1,0 +1,1 @@
+{"id":15304,"className":"javax.swing.JMenu","methodName":"removeMenuListener","signature":"\u003cjavax.swing.JMenu: void removeMenuListener(javax.swing.event.MenuListener)\u003e","javadoc":"/** \n * Removes a listener for menu events.\n * @param l the listener to be removed\n */\n","tf":{"freq":{"event":1,"menu":2,"remov":3,"listen":3},"maxFreq":3,"totalTerms":9},"loc":3}

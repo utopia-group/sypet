@@ -1,0 +1,1 @@
+{"id":13946,"className":"org.joda.time.field.DecoratedDateTimeField","methodName":"getDurationField","signature":"\u003corg.joda.time.field.DecoratedDateTimeField: org.joda.time.DurationField getDurationField()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":21811,"className":"javax.swing.text.SimpleAttributeSet","methodName":"clone","signature":"\u003cjavax.swing.text.SimpleAttributeSet: java.lang.Object clone()\u003e","javadoc":"/** \n * Clones a set of attributes.\n * @return the new set of attributes\n */\n","tf":{"freq":{"clone":2,"attribut":2},"maxFreq":2,"totalTerms":4},"loc":10}

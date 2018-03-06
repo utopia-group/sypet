@@ -1,0 +1,1 @@
+{"id":19313,"className":"javax.swing.plaf.metal.MetalComboBoxIcon","methodName":"getIconWidth","signature":"\u003cjavax.swing.plaf.metal.MetalComboBoxIcon: int getIconWidth()\u003e","javadoc":"/** \n * Created a stub to satisfy the interface.\n */\n","tf":{"freq":{"icon":1,"creat":1,"stub":1,"satisfi":1,"width":1},"maxFreq":1,"totalTerms":5},"loc":1}

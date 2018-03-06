@@ -1,0 +1,1 @@
+{"id":14008,"className":"java.lang.Double","methodName":"doubleValue","signature":"\u003cjava.lang.Double: double doubleValue()\u003e","javadoc":"/** \n * Returns the  {@code double} value of this{@code Double} object.\n * @return the {@code double} value represented by this object\n */\n","tf":{"freq":{"repres":1,"valu":3,"object":2},"maxFreq":3,"totalTerms":6},"loc":3}

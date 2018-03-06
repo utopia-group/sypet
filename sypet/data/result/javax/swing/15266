@@ -1,0 +1,1 @@
+{"id":15266,"className":"javax.swing.JMenu","methodName":"JMenu","signature":"\u003cjavax.swing.JMenu: void JMenu()\u003e","javadoc":"/** \n * Constructs a new \u003ccode\u003eJMenu\u003c/code\u003e with no text.\n */\n","tf":{"freq":{"text":1,"jmenu":1,"menu":1,"construct":1},"maxFreq":1,"totalTerms":4},"loc":3}

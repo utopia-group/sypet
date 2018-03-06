@@ -1,0 +1,1 @@
+{"id":15249,"className":"java.nio.file.attribute.AttributeView","methodName":"name","signature":"\u003cjava.nio.file.attribute.AttributeView: java.lang.String name()\u003e","javadoc":"/** \n * Returns the name of the attribute view.\n */\n","tf":{"freq":{"attribut":1,"name":2,"view":1},"maxFreq":2,"totalTerms":4},"loc":0}

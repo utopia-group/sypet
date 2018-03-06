@@ -1,0 +1,1 @@
+{"id":24171,"className":"java.util.logging.LogRecord","methodName":"setMillis","signature":"\u003cjava.util.logging.LogRecord: void setMillis(long)\u003e","javadoc":"/** \n * Set event time.\n * @param millis event time in millis since 1970\n */\n","tf":{"freq":{"time":2,"event":2,"milli":3},"maxFreq":3,"totalTerms":7},"loc":3}

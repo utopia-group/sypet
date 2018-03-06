@@ -1,0 +1,1 @@
+{"id":24519,"className":"java.text.PatternEntry","methodName":"appendQuotedExtension","signature":"\u003cjava.text.PatternEntry: void appendQuotedExtension(java.lang.StringBuffer)\u003e","javadoc":"/** \n * Gets the current extension, quoted\n */\n","tf":{"freq":{"append":1,"extens":2,"current":1,"quot":2},"maxFreq":2,"totalTerms":6},"loc":3}

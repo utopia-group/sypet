@@ -1,0 +1,1 @@
+{"id":16697,"className":"java.awt.Polygon","methodName":"contains","signature":"\u003cjava.awt.Polygon: boolean contains(double,double,double,double)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"contain":1},"maxFreq":1,"totalTerms":1},"loc":8}

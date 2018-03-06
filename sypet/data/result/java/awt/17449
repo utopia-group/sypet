@@ -1,0 +1,1 @@
+{"id":17449,"className":"java.awt.PageAttributes","methodName":"hashCode","signature":"\u003cjava.awt.PageAttributes: int hashCode()\u003e","javadoc":"/** \n * Returns a hash code value for this PageAttributes.\n * @return  the hash code.\n */\n","tf":{"freq":{"attribut":1,"page":1,"hash":3,"valu":1},"maxFreq":3,"totalTerms":6},"loc":10}

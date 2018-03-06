@@ -1,0 +1,1 @@
+{"id":11474,"className":"com.opengamma.analytics.math.random.NormalRandomNumberGenerator","methodName":"getVectors","signature":"\u003ccom.opengamma.analytics.math.random.NormalRandomNumberGenerator: java.util.List\u003cdouble[]\u003e getVectors(int,int)\u003e","loc":18}

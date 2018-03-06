@@ -1,0 +1,1 @@
+{"id":12530,"className":"com.opengamma.analytics.math.cube.InterpolatedDoublesCube","methodName":"getInterpolator","signature":"\u003ccom.opengamma.analytics.math.cube.InterpolatedDoublesCube: com.opengamma.analytics.math.interpolation.InterpolatorND getInterpolator()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":25741,"className":"org.apache.commons.math.linear.BigMatrixImpl","methodName":"BigMatrixImpl","signature":"\u003corg.apache.commons.math.linear.BigMatrixImpl: void BigMatrixImpl()\u003e","javadoc":"/** \n * Creates a matrix with no data\n */\n","tf":{"freq":{"impl":1,"creat":1,"matrix":2,"data":1,"big":1},"maxFreq":2,"totalTerms":6},"loc":2}

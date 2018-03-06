@@ -1,0 +1,1 @@
+{"id":15329,"className":"javax.swing.JToolTip","methodName":"JToolTip","signature":"\u003cjavax.swing.JToolTip: void JToolTip()\u003e","javadoc":"/** \n * Creates a tool tip. \n */\n","tf":{"freq":{"creat":1,"tool":2,"tip":2},"maxFreq":2,"totalTerms":5},"loc":4}

@@ -1,0 +1,1 @@
+{"id":14553,"className":"java.lang.invoke.SwitchPoint","methodName":"SwitchPoint","signature":"\u003cjava.lang.invoke.SwitchPoint: void SwitchPoint()\u003e","javadoc":"/** \n * Creates a new switch point.\n */\n","tf":{"freq":{"point":2,"creat":1},"maxFreq":2,"totalTerms":3},"loc":4}

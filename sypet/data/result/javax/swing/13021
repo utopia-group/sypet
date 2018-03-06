@@ -1,0 +1,1 @@
+{"id":13021,"className":"javax.swing.JSpinner$NumberEditorFormatter","methodName":"setMaximum","signature":"\u003cjavax.swing.JSpinner$NumberEditorFormatter: void setMaximum(java.lang.Comparable)\u003e","loc":3}

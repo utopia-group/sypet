@@ -1,0 +1,1 @@
+{"id":10757,"className":"javax.management.monitor.StringMonitor$StringMonitorObservedObject","methodName":"StringMonitorObservedObject","signature":"\u003cjavax.management.monitor.StringMonitor$StringMonitorObservedObject: void StringMonitorObservedObject(javax.management.ObjectName)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":25985,"className":"org.apache.commons.math.linear.EigenDecompositionImpl","methodName":"getSolver","signature":"\u003corg.apache.commons.math.linear.EigenDecompositionImpl: org.apache.commons.math.linear.DecompositionSolver getSolver()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"solver":1},"maxFreq":1,"totalTerms":1},"loc":3}

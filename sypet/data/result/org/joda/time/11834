@@ -1,0 +1,1 @@
+{"id":11834,"className":"org.joda.time.Seconds","methodName":"getSeconds","signature":"\u003corg.joda.time.Seconds: int getSeconds()\u003e","javadoc":"/** \n * Gets the number of seconds that this period represents.\n * @return the number of seconds in the period\n */\n","tf":{"freq":{"second":3,"repres":1,"number":2,"period":2},"maxFreq":3,"totalTerms":8},"loc":3}

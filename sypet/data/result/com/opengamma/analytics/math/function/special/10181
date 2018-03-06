@@ -1,0 +1,1 @@
+{"id":10181,"className":"com.opengamma.analytics.math.function.special.KroneckerDeltaFunction","methodName":"evaluate","signature":"\u003ccom.opengamma.analytics.math.function.special.KroneckerDeltaFunction: java.lang.Integer evaluate(java.lang.Integer,java.lang.Integer)\u003e","loc":5}

@@ -1,0 +1,1 @@
+{"id":24930,"className":"java.text.DateFormatSymbols","methodName":"getEras","signature":"\u003cjava.text.DateFormatSymbols: java.lang.String[] getEras()\u003e","javadoc":"/** \n * Gets era strings. For example: \"AD\" and \"BC\".\n * @return the era strings.\n */\n","tf":{"freq":{"string":2,"exampl":1,"era":3},"maxFreq":3,"totalTerms":6},"loc":3}

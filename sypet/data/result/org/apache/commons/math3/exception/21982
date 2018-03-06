@@ -1,0 +1,1 @@
+{"id":21982,"className":"org.apache.commons.math3.exception.NumberIsTooLargeException","methodName":"getMax","signature":"\u003corg.apache.commons.math3.exception.NumberIsTooLargeException: java.lang.Number getMax()\u003e","javadoc":"/** \n * @return the maximum.\n */\n","tf":{"freq":{"max":1,"maximum":1},"maxFreq":1,"totalTerms":2},"loc":3}

@@ -1,0 +1,1 @@
+{"id":19014,"className":"javax.swing.plaf.basic.BasicTabbedPaneUI$FocusHandler","methodName":"focusGained","signature":"\u003cjavax.swing.plaf.basic.BasicTabbedPaneUI$FocusHandler: void focusGained(java.awt.event.FocusEvent)\u003e","loc":3}

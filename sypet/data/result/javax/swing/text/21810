@@ -1,0 +1,1 @@
+{"id":21810,"className":"javax.swing.text.SimpleAttributeSet","methodName":"setResolveParent","signature":"\u003cjavax.swing.text.SimpleAttributeSet: void setResolveParent(javax.swing.text.AttributeSet)\u003e","javadoc":"/** \n * Sets the resolving parent.\n * @param parent the parent\n */\n","tf":{"freq":{"parent":4,"resolv":2},"maxFreq":4,"totalTerms":6},"loc":3}

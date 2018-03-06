@@ -1,0 +1,1 @@
+{"id":21878,"className":"javax.swing.text.DefaultCaret","methodName":"DefaultCaret","signature":"\u003cjavax.swing.text.DefaultCaret: void DefaultCaret()\u003e","javadoc":"/** \n * Constructs a default caret.\n */\n","tf":{"freq":{"caret":2,"construct":1},"maxFreq":2,"totalTerms":3},"loc":2}

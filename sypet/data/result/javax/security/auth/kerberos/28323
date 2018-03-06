@@ -1,0 +1,1 @@
+{"id":28323,"className":"javax.security.auth.kerberos.KerberosTicket","methodName":"isCurrent","signature":"\u003cjavax.security.auth.kerberos.KerberosTicket: boolean isCurrent()\u003e","javadoc":"/** \n * Determines if this ticket is still current.  \n */\n","tf":{"freq":{"ticket":1,"determin":1,"current":2,"still":1},"maxFreq":2,"totalTerms":5},"loc":3}

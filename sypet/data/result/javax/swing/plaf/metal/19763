@@ -1,0 +1,1 @@
+{"id":19763,"className":"javax.swing.plaf.metal.MetalTheme","methodName":"getUserTextFont","signature":"\u003cjavax.swing.plaf.metal.MetalTheme: javax.swing.plaf.FontUIResource getUserTextFont()\u003e","javadoc":"/** \n * Returns the user text font.\n * @return the user text font\n */\n","tf":{"freq":{"text":3,"font":3,"user":3},"maxFreq":3,"totalTerms":9},"loc":0}

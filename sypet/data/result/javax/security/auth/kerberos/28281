@@ -1,0 +1,1 @@
+{"id":28281,"className":"javax.security.auth.kerberos.KeyImpl","methodName":"isDestroyed","signature":"\u003cjavax.security.auth.kerberos.KeyImpl: boolean isDestroyed()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":14508,"className":"java.lang.invoke.MemberName","methodName":"isProtected","signature":"\u003cjava.lang.invoke.MemberName: boolean isProtected()\u003e","javadoc":"/** \n * Utility method to query the modifier flags of this member. \n */\n","tf":{"freq":{"member":1,"queri":1,"flag":1,"modifi":1,"method":1,"util":1},"maxFreq":1,"totalTerms":6},"loc":3}

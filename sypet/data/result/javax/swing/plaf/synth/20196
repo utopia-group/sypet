@@ -1,0 +1,1 @@
+{"id":20196,"className":"javax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter","methodName":"paintColorChooserBorder","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter: void paintColorChooserBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":5}

@@ -1,0 +1,1 @@
+{"id":20212,"className":"javax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter","methodName":"paintInternalFrameBorder","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter: void paintInternalFrameBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":5}

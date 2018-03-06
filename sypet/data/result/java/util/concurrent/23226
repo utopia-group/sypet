@@ -1,0 +1,1 @@
+{"id":23226,"className":"java.util.concurrent.ExecutorCompletionService","methodName":"poll","signature":"\u003cjava.util.concurrent.ExecutorCompletionService: java.util.concurrent.Future\u003cV\u003e poll(long,java.util.concurrent.TimeUnit)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":21594,"className":"org.apache.commons.math3.linear.RealVectorFormat","methodName":"getPrefix","signature":"\u003corg.apache.commons.math3.linear.RealVectorFormat: java.lang.String getPrefix()\u003e","javadoc":"/** \n * Get the format prefix.\n * @return format prefix.\n */\n","tf":{"freq":{"prefix":3,"format":2},"maxFreq":3,"totalTerms":5},"loc":3}

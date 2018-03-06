@@ -1,0 +1,1 @@
+{"id":24934,"className":"javax.net.ssl.SSLSocketFactory","methodName":"SSLSocketFactory","signature":"\u003cjavax.net.ssl.SSLSocketFactory: void SSLSocketFactory()\u003e","javadoc":"/** \n * Constructor is used only by subclasses.\n */\n","tf":{"freq":{"factori":1,"subclass":1,"use":1,"socket":1,"constructor":1},"maxFreq":1,"totalTerms":5},"loc":2}

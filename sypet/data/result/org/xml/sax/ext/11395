@@ -1,0 +1,1 @@
+{"id":11395,"className":"org.xml.sax.ext.DefaultHandler2","methodName":"attributeDecl","signature":"\u003corg.xml.sax.ext.DefaultHandler2: void attributeDecl(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)\u003e","loc":1}

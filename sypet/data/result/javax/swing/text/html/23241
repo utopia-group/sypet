@@ -1,0 +1,1 @@
+{"id":23241,"className":"javax.swing.text.html.StyleSheet","methodName":"getFont","signature":"\u003cjavax.swing.text.html.StyleSheet: java.awt.Font getFont(javax.swing.text.AttributeSet)\u003e","javadoc":"/** \n * Fetches the font to use for the given set of attributes.\n */\n","tf":{"freq":{"fetch":1,"attribut":1,"given":1,"font":2,"use":1},"maxFreq":2,"totalTerms":6},"loc":3}

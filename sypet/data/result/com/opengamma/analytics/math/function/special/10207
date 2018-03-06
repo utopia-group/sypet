@@ -1,0 +1,1 @@
+{"id":10207,"className":"com.opengamma.analytics.math.function.special.ChebyshevPolynomialOfFirstKindFunction","methodName":"getPolynomialsAndFirstDerivative","signature":"\u003ccom.opengamma.analytics.math.function.special.ChebyshevPolynomialOfFirstKindFunction: com.opengamma.analytics.math.function.special.Pair[] getPolynomialsAndFirstDerivative(int)\u003e","loc":3}

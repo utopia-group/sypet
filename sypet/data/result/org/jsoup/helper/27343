@@ -1,0 +1,1 @@
+{"id":27343,"className":"org.jsoup.helper.HttpConnection","methodName":"request","signature":"\u003corg.jsoup.helper.HttpConnection: org.jsoup.Connection request(org.jsoup.Connection$Request)\u003e","loc":4}

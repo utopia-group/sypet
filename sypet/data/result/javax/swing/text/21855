@@ -1,0 +1,1 @@
+{"id":21855,"className":"javax.swing.text.AsyncBoxView$ChildLocator","methodName":"ChildLocator","signature":"\u003cjavax.swing.text.AsyncBoxView$ChildLocator: void ChildLocator()\u003e","javadoc":"/** \n * construct a child locator.\n */\n","tf":{"freq":{"child":2,"locat":2,"construct":1},"maxFreq":2,"totalTerms":5},"loc":4}

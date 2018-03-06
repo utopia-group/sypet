@@ -1,0 +1,1 @@
+{"id":24080,"className":"javax.print.PrintException","methodName":"PrintException","signature":"\u003cjavax.print.PrintException: void PrintException()\u003e","javadoc":"/** \n * Construct a print exception with no detail message.\n */\n","tf":{"freq":{"detail":1,"except":2,"messag":1,"construct":1,"print":2},"maxFreq":2,"totalTerms":7},"loc":3}

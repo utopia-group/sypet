@@ -1,0 +1,1 @@
+{"id":19541,"className":"java.awt.event.InputMethodEvent","methodName":"getCommittedCharacterCount","signature":"\u003cjava.awt.event.InputMethodEvent: int getCommittedCharacterCount()\u003e","javadoc":"/** \n * Gets the number of committed characters in the text.\n */\n","tf":{"freq":{"text":1,"count":1,"charact":2,"commit":2,"number":1},"maxFreq":2,"totalTerms":7},"loc":3}

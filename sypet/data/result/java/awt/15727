@@ -1,0 +1,1 @@
+{"id":15727,"className":"java.awt.Adjustable","methodName":"getVisibleAmount","signature":"\u003cjava.awt.Adjustable: int getVisibleAmount()\u003e","javadoc":"/** \n * Gets the length of the proportional indicator.\n * @return the length of the proportional indicator\n */\n","tf":{"freq":{"amount":1,"indic":2,"visibl":1,"proport":2,"length":2},"maxFreq":2,"totalTerms":8},"loc":0}

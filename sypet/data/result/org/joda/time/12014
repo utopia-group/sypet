@@ -1,0 +1,1 @@
+{"id":12014,"className":"org.joda.time.TimeOfDay$Property","methodName":"getField","signature":"\u003corg.joda.time.TimeOfDay$Property: org.joda.time.DateTimeField getField()\u003e","javadoc":"/** \n * Gets the field that this property uses.\n * @return the field\n */\n","tf":{"freq":{"field":3,"use":1,"properti":1},"maxFreq":3,"totalTerms":5},"loc":3}

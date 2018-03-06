@@ -1,0 +1,1 @@
+{"id":20177,"className":"java.awt.geom.Rectangle2D$Double","methodName":"outcode","signature":"\u003cjava.awt.geom.Rectangle2D$Double: int outcode(double,double)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"outcod":1},"maxFreq":1,"totalTerms":1},"loc":18}

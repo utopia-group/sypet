@@ -1,0 +1,1 @@
+{"id":18771,"className":"java.awt.image.LookupTable","methodName":"getOffset","signature":"\u003cjava.awt.image.LookupTable: int getOffset()\u003e","javadoc":"/** \n * Returns the offset.\n * @return the offset of this \u003ccode\u003eLookupTable\u003c/code\u003e.\n */\n","tf":{"freq":{"tabl":1,"offset":3,"lookup":1},"maxFreq":3,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":19330,"className":"java.awt.peer.FramePeer","methodName":"getState","signature":"\u003cjava.awt.peer.FramePeer: int getState()\u003e","javadoc":"/** \n * Returns the current state of the frame.\n * @return the current state of the frame\n * @see Frame#getExtendedState()\n */\n","tf":{"freq":{"frame":3,"current":2,"state":4},"maxFreq":4,"totalTerms":9},"loc":0}

@@ -1,0 +1,1 @@
+{"id":12332,"className":"com.opengamma.analytics.math.minimization.QuasiNewtonInverseHessianUpdate","methodName":"update","signature":"\u003ccom.opengamma.analytics.math.minimization.QuasiNewtonInverseHessianUpdate: void update(com.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer$DataBundle)\u003e","loc":0}

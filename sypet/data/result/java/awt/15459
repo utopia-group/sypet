@@ -1,0 +1,1 @@
+{"id":15459,"className":"java.awt.Frame","methodName":"getCursorType","signature":"\u003cjava.awt.Frame: int getCursorType()\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by \u003ccode\u003eComponent.getCursor()\u003c/code\u003e.\n */\n","tf":{"freq":{"deprec":1,"cursor":2,"compon":1,"replac":1,"type":1,"version":1},"maxFreq":2,"totalTerms":7},"loc":3}

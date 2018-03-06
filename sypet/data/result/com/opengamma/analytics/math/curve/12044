@@ -1,0 +1,1 @@
+{"id":12044,"className":"com.opengamma.analytics.math.curve.InterpolatedDoublesCurve","methodName":"getInterpolator","signature":"\u003ccom.opengamma.analytics.math.curve.InterpolatedDoublesCurve: com.opengamma.analytics.math.interpolation.Interpolator1D getInterpolator()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":23157,"className":"javax.swing.text.html.HTML$UnknownTag","methodName":"hashCode","signature":"\u003cjavax.swing.text.html.HTML$UnknownTag: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code which corresponds to the string for this tag.\n */\n","tf":{"freq":{"hash":2,"tag":1,"correspond":1,"string":1},"maxFreq":2,"totalTerms":5},"loc":3}

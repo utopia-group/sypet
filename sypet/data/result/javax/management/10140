@@ -1,0 +1,1 @@
+{"id":10140,"className":"javax.management.MBeanServer","methodName":"isRegistered","signature":"\u003cjavax.management.MBeanServer: boolean isRegistered(javax.management.ObjectName)\u003e","javadoc":"/** \n * @throws RuntimeOperationsException {@inheritDoc}\n */\n","tf":{"freq":{"except":1,"oper":1,"runtim":1,"regist":1},"maxFreq":1,"totalTerms":4},"loc":0}

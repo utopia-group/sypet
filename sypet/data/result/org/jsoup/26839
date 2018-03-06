@@ -1,0 +1,1 @@
+{"id":26839,"className":"org.jsoup.Connection","methodName":"request","signature":"\u003corg.jsoup.Connection: org.jsoup.Connection$Request request()\u003e","javadoc":"/** \n * Get the request object associated with this connection\n * @return request\n */\n","tf":{"freq":{"connect":1,"associ":1,"request":3,"object":1},"maxFreq":3,"totalTerms":6},"loc":0}

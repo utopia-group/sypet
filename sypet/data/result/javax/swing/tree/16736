@@ -1,0 +1,1 @@
+{"id":16736,"className":"javax.swing.tree.DefaultTreeCellRenderer","methodName":"getLeafIcon","signature":"\u003cjavax.swing.tree.DefaultTreeCellRenderer: javax.swing.Icon getLeafIcon()\u003e","javadoc":"/** \n * Returns the icon used to represent leaf nodes.\n */\n","tf":{"freq":{"icon":2,"node":1,"repres":1,"use":1,"leaf":2},"maxFreq":2,"totalTerms":7},"loc":3}

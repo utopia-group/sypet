@@ -1,0 +1,1 @@
+{"id":25781,"className":"org.apache.commons.math.linear.BigMatrixImpl","methodName":"isSingular","signature":"\u003corg.apache.commons.math.linear.BigMatrixImpl: boolean isSingular()\u003e","javadoc":"/** \n * Is this a singular matrix?\n * @return true if the matrix is singular\n */\n","tf":{"freq":{"matrix":2,"true":1,"singular":3},"maxFreq":3,"totalTerms":6},"loc":12}

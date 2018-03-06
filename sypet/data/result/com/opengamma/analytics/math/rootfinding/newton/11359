@@ -1,0 +1,1 @@
+{"id":11359,"className":"com.opengamma.analytics.math.rootfinding.newton.BroydenVectorRootFinder","methodName":"BroydenVectorRootFinder","signature":"\u003ccom.opengamma.analytics.math.rootfinding.newton.BroydenVectorRootFinder: void BroydenVectorRootFinder(double,double,int)\u003e","loc":3}

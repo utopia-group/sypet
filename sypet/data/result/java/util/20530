@@ -1,0 +1,1 @@
+{"id":20530,"className":"java.util.Hashtable","methodName":"size","signature":"\u003cjava.util.Hashtable: int size()\u003e","javadoc":"/** \n * Returns the number of keys in this hashtable.\n * @return  the number of keys in this hashtable.\n */\n","tf":{"freq":{"hashtabl":2,"number":2,"key":2,"size":1},"maxFreq":2,"totalTerms":7},"loc":3}

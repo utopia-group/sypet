@@ -1,0 +1,1 @@
+{"id":22132,"className":"javax.swing.text.DefaultHighlighter","methodName":"removeAllHighlights","signature":"\u003cjavax.swing.text.DefaultHighlighter: void removeAllHighlights()\u003e","javadoc":"/** \n * Removes all highlights.\n */\n","tf":{"freq":{"remov":2,"highlight":2},"maxFreq":2,"totalTerms":4},"loc":60}

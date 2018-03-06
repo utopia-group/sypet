@@ -1,0 +1,1 @@
+{"id":26076,"className":"javax.xml.stream.util.StreamReaderDelegate","methodName":"getAttributeNamespace","signature":"\u003cjavax.xml.stream.util.StreamReaderDelegate: java.lang.String getAttributeNamespace(int)\u003e","loc":3}

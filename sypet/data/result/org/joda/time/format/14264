@@ -1,0 +1,1 @@
+{"id":14264,"className":"org.joda.time.format.MatchingParser","methodName":"estimateParsedLength","signature":"\u003corg.joda.time.format.MatchingParser: int estimateParsedLength()\u003e","loc":3}

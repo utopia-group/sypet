@@ -1,0 +1,1 @@
+{"id":11637,"className":"java.io.NotSerializableException","methodName":"NotSerializableException","signature":"\u003cjava.io.NotSerializableException: void NotSerializableException()\u003e","javadoc":"/** \n * Constructs a NotSerializableException object.\n */\n","tf":{"freq":{"except":2,"serializ":2,"object":1,"construct":1},"maxFreq":2,"totalTerms":6},"loc":3}

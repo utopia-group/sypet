@@ -1,0 +1,1 @@
+{"id":16950,"className":"javax.swing.tree.VariableHeightLayoutCache","methodName":"getRowCount","signature":"\u003cjavax.swing.tree.VariableHeightLayoutCache: int getRowCount()\u003e","javadoc":"/** \n * Returns the number of visible rows.\n * @return the number of visible rows\n */\n","tf":{"freq":{"count":1,"visibl":2,"number":2,"row":3},"maxFreq":3,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":14870,"className":"org.joda.time.chrono.GJChronology$LinkedDurationField","methodName":"getDifferenceAsLong","signature":"\u003corg.joda.time.chrono.GJChronology$LinkedDurationField: long getDifferenceAsLong(long,long)\u003e","loc":3}

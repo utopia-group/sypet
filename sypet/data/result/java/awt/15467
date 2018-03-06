@@ -1,0 +1,1 @@
+{"id":15467,"className":"java.awt.MenuBar","methodName":"getHelpMenu","signature":"\u003cjava.awt.MenuBar: java.awt.Menu getHelpMenu()\u003e","javadoc":"/** \n * Gets the help menu on the menu bar.\n * @return    the help menu on this menu bar.\n */\n","tf":{"freq":{"help":3,"menu":5,"bar":2},"maxFreq":5,"totalTerms":10},"loc":3}

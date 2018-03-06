@@ -1,0 +1,1 @@
+{"id":24552,"className":"java.text.DecimalFormat","methodName":"clone","signature":"\u003cjava.text.DecimalFormat: java.lang.Object clone()\u003e","javadoc":"/** \n * Standard override; no change in semantics.\n */\n","tf":{"freq":{"clone":1,"standard":1,"semant":1,"chang":1},"maxFreq":1,"totalTerms":4},"loc":10}

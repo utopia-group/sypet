@@ -1,0 +1,1 @@
+{"id":11789,"className":"javax.naming.InitialContext","methodName":"lookup","signature":"\u003cjavax.naming.InitialContext: java.lang.Object lookup(java.lang.String)\u003e","loc":3}

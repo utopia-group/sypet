@@ -1,0 +1,1 @@
+{"id":19010,"className":"javax.swing.plaf.basic.BasicTabbedPaneUI$Handler","methodName":"componentRemoved","signature":"\u003cjavax.swing.plaf.basic.BasicTabbedPaneUI$Handler: void componentRemoved(java.awt.event.ContainerEvent)\u003e","loc":26}

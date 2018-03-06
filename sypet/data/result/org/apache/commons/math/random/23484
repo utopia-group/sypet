@@ -1,0 +1,1 @@
+{"id":23484,"className":"org.apache.commons.math.random.ValueServer","methodName":"getMu","signature":"\u003corg.apache.commons.math.random.ValueServer: double getMu()\u003e","javadoc":"/** \n * Getter for property mu.\n * @return Value of property mu.\n */\n","tf":{"freq":{"getter":1,"valu":1,"properti":2},"maxFreq":2,"totalTerms":4},"loc":3}

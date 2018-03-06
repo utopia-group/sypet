@@ -1,0 +1,1 @@
+{"id":12426,"className":"org.joda.time.LocalDateTime","methodName":"getDayOfYear","signature":"\u003corg.joda.time.LocalDateTime: int getDayOfYear()\u003e","javadoc":"/** \n * Get the day of year field value.\n * @return the day of year\n */\n","tf":{"freq":{"field":1,"valu":1,"year":3,"day":3},"maxFreq":3,"totalTerms":8},"loc":3}

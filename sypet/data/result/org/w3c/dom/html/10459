@@ -1,0 +1,1 @@
+{"id":10459,"className":"org.w3c.dom.html.HTMLImageElement","methodName":"getName","signature":"\u003corg.w3c.dom.html.HTMLImageElement: java.lang.String getName()\u003e","javadoc":"/** \n * The name of the element (for backwards compatibility).\n */\n","tf":{"freq":{"element":1,"backward":1,"name":2,"compat":1},"maxFreq":2,"totalTerms":5},"loc":0}

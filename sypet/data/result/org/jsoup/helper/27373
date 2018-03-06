@@ -1,0 +1,1 @@
+{"id":27373,"className":"org.jsoup.helper.HttpConnection$Request","methodName":"ignoreContentType","signature":"\u003corg.jsoup.helper.HttpConnection$Request: org.jsoup.Connection$Request ignoreContentType(boolean)\u003e","loc":4}

@@ -1,0 +1,1 @@
+{"id":21304,"className":"javax.swing.text.JTextComponent$MutableCaretEvent","methodName":"getMark","signature":"\u003cjavax.swing.text.JTextComponent$MutableCaretEvent: int getMark()\u003e","loc":3}

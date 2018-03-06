@@ -1,0 +1,1 @@
+{"id":16376,"className":"java.awt.Insets","methodName":"clone","signature":"\u003cjava.awt.Insets: java.lang.Object clone()\u003e","javadoc":"/** \n * Create a copy of this object.\n * @return     a copy of this \u003ccode\u003eInsets\u003c/code\u003e object.\n */\n","tf":{"freq":{"clone":1,"creat":1,"inset":1,"object":2,"copi":2},"maxFreq":2,"totalTerms":7},"loc":8}

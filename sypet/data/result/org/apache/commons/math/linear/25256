@@ -1,0 +1,1 @@
+{"id":25256,"className":"org.apache.commons.math.linear.AbstractFieldMatrix","methodName":"getTrace","signature":"\u003corg.apache.commons.math.linear.AbstractFieldMatrix: T getTrace()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"trace":1},"maxFreq":1,"totalTerms":1},"loc":12}

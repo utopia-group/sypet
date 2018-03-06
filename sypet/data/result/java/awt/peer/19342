@@ -1,0 +1,1 @@
+{"id":19342,"className":"java.awt.peer.RobotPeer","methodName":"dispose","signature":"\u003cjava.awt.peer.RobotPeer: void dispose()\u003e","javadoc":"/** \n * Disposes the robot peer when it is not needed anymore.\n */\n","tf":{"freq":{"need":1,"peer":1,"dispos":2,"robot":1,"anymor":1},"maxFreq":2,"totalTerms":6},"loc":0}

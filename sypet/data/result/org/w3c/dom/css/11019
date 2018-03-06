@@ -1,0 +1,1 @@
+{"id":11019,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getPadding","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getPadding()\u003e","javadoc":"/** \n * See the padding property definition in CSS2.\n */\n","tf":{"freq":{"pad":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

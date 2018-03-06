@@ -1,0 +1,1 @@
+{"id":20888,"className":"org.apache.commons.math3.linear.AbstractFieldMatrix","methodName":"operate","signature":"\u003corg.apache.commons.math3.linear.AbstractFieldMatrix: T[] operate(T[])\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"oper":1},"maxFreq":1,"totalTerms":1},"loc":19}

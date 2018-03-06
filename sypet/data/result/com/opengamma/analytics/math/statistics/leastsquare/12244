@@ -1,0 +1,1 @@
+{"id":12244,"className":"com.opengamma.analytics.math.statistics.leastsquare.LeastSquareResultsWithTransform","methodName":"getModelParameters","signature":"\u003ccom.opengamma.analytics.math.statistics.leastsquare.LeastSquareResultsWithTransform: com.opengamma.analytics.math.matrix.DoubleMatrix1D getModelParameters()\u003e","loc":3}

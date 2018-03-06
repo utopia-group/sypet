@@ -1,0 +1,1 @@
+{"id":22063,"className":"java.util.Collections$CheckedMap","methodName":"entrySet","signature":"\u003cjava.util.Collections$CheckedMap: java.util.Set\u003cjava.util.Map.Entry\u003cK,V\u003e\u003e entrySet()\u003e","loc":5}

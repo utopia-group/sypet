@@ -1,0 +1,1 @@
+{"id":23700,"className":"java.util.zip.ZipEntry","methodName":"toString","signature":"\u003cjava.util.zip.ZipEntry: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a string representation of the ZIP entry.\n */\n","tf":{"freq":{"entri":1,"string":2,"represent":1},"maxFreq":2,"totalTerms":4},"loc":3}

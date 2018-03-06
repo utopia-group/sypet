@@ -1,0 +1,1 @@
+{"id":22336,"className":"java.util.TreeSet","methodName":"first","signature":"\u003cjava.util.TreeSet: E first()\u003e","javadoc":"/** \n * @throws NoSuchElementException {@inheritDoc}\n */\n","tf":{"freq":{"element":1,"except":1,"first":1},"maxFreq":1,"totalTerms":3},"loc":3}

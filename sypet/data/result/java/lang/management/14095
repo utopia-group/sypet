@@ -1,0 +1,1 @@
+{"id":14095,"className":"java.lang.management.MemoryUsage","methodName":"getUsed","signature":"\u003cjava.lang.management.MemoryUsage: long getUsed()\u003e","javadoc":"/** \n * Returns the amount of used memory in bytes.\n * @return the amount of used memory in bytes.\n */\n","tf":{"freq":{"amount":2,"memori":2,"use":3},"maxFreq":3,"totalTerms":7},"loc":3}

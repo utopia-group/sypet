@@ -1,0 +1,1 @@
+{"id":24536,"className":"java.text.DecimalFormat","methodName":"getPositivePrefix","signature":"\u003cjava.text.DecimalFormat: java.lang.String getPositivePrefix()\u003e","javadoc":"/** \n * Get the positive prefix. \u003cP\u003eExamples: +123, $123, sFr123\n */\n","tf":{"freq":{"prefix":2,"exampl":1,"posit":2},"maxFreq":2,"totalTerms":5},"loc":3}

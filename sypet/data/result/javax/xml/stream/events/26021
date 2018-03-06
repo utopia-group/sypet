@@ -1,0 +1,1 @@
+{"id":26021,"className":"javax.xml.stream.events.StartDocument","methodName":"getSystemId","signature":"\u003cjavax.xml.stream.events.StartDocument: java.lang.String getSystemId()\u003e","javadoc":"/** \n * Returns the system ID of the XML data\n * @return the system ID, defaults to \"\"\n */\n","tf":{"freq":{"system":3,"data":1},"maxFreq":3,"totalTerms":4},"loc":0}

@@ -1,0 +1,1 @@
+{"id":25764,"className":"java.security.spec.RSAPrivateKeySpec","methodName":"getPrivateExponent","signature":"\u003cjava.security.spec.RSAPrivateKeySpec: java.math.BigInteger getPrivateExponent()\u003e","javadoc":"/** \n * Returns the private exponent.\n * @return the private exponent\n */\n","tf":{"freq":{"expon":3},"maxFreq":3,"totalTerms":3},"loc":3}

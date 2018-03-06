@@ -1,0 +1,1 @@
+{"id":14994,"className":"org.joda.time.chrono.LimitChronology$LimitDateTimeField","methodName":"getRangeDurationField","signature":"\u003corg.joda.time.chrono.LimitChronology$LimitDateTimeField: org.joda.time.DurationField getRangeDurationField()\u003e","loc":3}

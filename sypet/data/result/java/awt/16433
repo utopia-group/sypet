@@ -1,0 +1,1 @@
+{"id":16433,"className":"java.awt.KeyboardFocusManager","methodName":"focusNextComponent","signature":"\u003cjava.awt.KeyboardFocusManager: void focusNextComponent()\u003e","javadoc":"/** \n * Focuses the Component after the current focus owner.\n */\n","tf":{"freq":{"compon":2,"next":1,"owner":1,"current":1,"focus":3},"maxFreq":3,"totalTerms":8},"loc":6}

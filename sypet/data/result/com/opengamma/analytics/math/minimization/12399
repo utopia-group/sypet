@@ -1,0 +1,1 @@
+{"id":12399,"className":"com.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer","methodName":"QuasiNewtonVectorMinimizer","signature":"\u003ccom.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer: void QuasiNewtonVectorMinimizer(double,double,int)\u003e","loc":3}

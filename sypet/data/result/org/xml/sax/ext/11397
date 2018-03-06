@@ -1,0 +1,1 @@
+{"id":11397,"className":"org.xml.sax.ext.DefaultHandler2","methodName":"externalEntityDecl","signature":"\u003corg.xml.sax.ext.DefaultHandler2: void externalEntityDecl(java.lang.String,java.lang.String,java.lang.String)\u003e","loc":1}

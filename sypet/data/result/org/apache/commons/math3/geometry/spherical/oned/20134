@@ -1,0 +1,1 @@
+{"id":20134,"className":"org.apache.commons.math3.geometry.spherical.oned.S1Point","methodName":"isNaN","signature":"\u003corg.apache.commons.math3.geometry.spherical.oned.S1Point: boolean isNaN()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","loc":3}

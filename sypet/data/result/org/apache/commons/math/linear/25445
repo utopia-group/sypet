@@ -1,0 +1,1 @@
+{"id":25445,"className":"org.apache.commons.math.linear.OpenMapRealMatrix","methodName":"add","signature":"\u003corg.apache.commons.math.linear.OpenMapRealMatrix: org.apache.commons.math.linear.OpenMapRealMatrix add(org.apache.commons.math.linear.RealMatrix)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"add":1},"maxFreq":1,"totalTerms":1},"loc":7}

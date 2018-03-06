@@ -1,0 +1,1 @@
+{"id":14239,"className":"org.joda.time.format.DateTimeFormatterBuilder$Fraction","methodName":"estimatePrintedLength","signature":"\u003corg.joda.time.format.DateTimeFormatterBuilder$Fraction: int estimatePrintedLength()\u003e","loc":3}

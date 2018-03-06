@@ -1,0 +1,1 @@
+{"id":19223,"className":"org.apache.commons.math3.util.Incrementor","methodName":"getCount","signature":"\u003corg.apache.commons.math3.util.Incrementor: int getCount()\u003e","javadoc":"/** \n * Gets the current count.\n * @return the current count.\n */\n","tf":{"freq":{"count":3,"current":2},"maxFreq":3,"totalTerms":5},"loc":3}

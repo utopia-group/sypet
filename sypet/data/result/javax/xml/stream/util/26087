@@ -1,0 +1,1 @@
+{"id":26087,"className":"javax.xml.stream.util.StreamReaderDelegate","methodName":"getTextCharacters","signature":"\u003cjavax.xml.stream.util.StreamReaderDelegate: char[] getTextCharacters()\u003e","loc":3}

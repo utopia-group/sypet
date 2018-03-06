@@ -1,0 +1,1 @@
+{"id":11298,"className":"java.io.FileSystem","methodName":"getSpace","signature":"\u003cjava.io.FileSystem: long getSpace(java.io.File,int)\u003e","loc":0}

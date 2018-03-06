@@ -1,0 +1,1 @@
+{"id":19304,"className":"java.awt.peer.TextFieldPeer","methodName":"setEchoChar","signature":"\u003cjava.awt.peer.TextFieldPeer: void setEchoChar(char)\u003e","javadoc":"/** \n * Sets the echo character.\n * @param echoChar the echo character to set\n * @see TextField#getEchoChar()\n */\n","tf":{"freq":{"field":1,"text":1,"charact":2,"echo":5},"maxFreq":5,"totalTerms":9},"loc":0}

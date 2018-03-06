@@ -1,0 +1,1 @@
+{"id":15105,"className":"org.joda.time.chrono.BasicDayOfYearDateTimeField","methodName":"getRangeDurationField","signature":"\u003corg.joda.time.chrono.BasicDayOfYearDateTimeField: org.joda.time.DurationField getRangeDurationField()\u003e","loc":3}

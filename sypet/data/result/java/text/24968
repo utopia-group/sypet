@@ -1,0 +1,1 @@
+{"id":24968,"className":"java.text.RuleBasedBreakIterator","methodName":"hashCode","signature":"\u003cjava.text.RuleBasedBreakIterator: int hashCode()\u003e","javadoc":"/** \n * Compute a hashcode for this BreakIterator\n * @return A hash code\n */\n","tf":{"freq":{"hash":2,"hashcod":1,"comput":1,"iter":1},"maxFreq":2,"totalTerms":5},"loc":3}

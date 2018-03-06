@@ -1,0 +1,1 @@
+{"id":16128,"className":"java.awt.PrintGraphics","methodName":"getPrintJob","signature":"\u003cjava.awt.PrintGraphics: java.awt.PrintJob getPrintJob()\u003e","javadoc":"/** \n * Returns the PrintJob object from which this PrintGraphics object originated.\n */\n","tf":{"freq":{"graphic":1,"origin":1,"job":2,"object":2,"print":3},"maxFreq":3,"totalTerms":9},"loc":0}

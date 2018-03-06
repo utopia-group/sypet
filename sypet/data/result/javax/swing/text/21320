@@ -1,0 +1,1 @@
+{"id":21320,"className":"javax.swing.text.JTextComponent$InputMethodRequestsHandler","methodName":"getTextLocation","signature":"\u003cjavax.swing.text.JTextComponent$InputMethodRequestsHandler: java.awt.Rectangle getTextLocation(java.awt.font.TextHitInfo)\u003e","loc":18}

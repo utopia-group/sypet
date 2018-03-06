@@ -1,0 +1,1 @@
+{"id":21041,"className":"javax.swing.event.TreeSelectionEvent","methodName":"getNewLeadSelectionPath","signature":"\u003cjavax.swing.event.TreeSelectionEvent: javax.swing.tree.TreePath getNewLeadSelectionPath()\u003e","javadoc":"/** \n * Returns the current lead path.\n */\n","tf":{"freq":{"select":1,"current":1,"path":2,"lead":2},"maxFreq":2,"totalTerms":6},"loc":3}

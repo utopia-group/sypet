@@ -1,0 +1,1 @@
+{"id":26137,"className":"javax.xml.bind.WhiteSpaceProcessor","methodName":"isWhiteSpace","signature":"\u003cjavax.xml.bind.WhiteSpaceProcessor: boolean isWhiteSpace(char)\u003e","javadoc":"/** \n * returns true if the specified char is a white space character. \n */\n","tf":{"freq":{"charact":1,"white":2,"true":1,"space":2,"specifi":1},"maxFreq":2,"totalTerms":7},"loc":8}

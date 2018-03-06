@@ -1,0 +1,1 @@
+{"id":27443,"className":"org.jsoup.parser.TokenQueue","methodName":"chompToIgnoreCase","signature":"\u003corg.jsoup.parser.TokenQueue: java.lang.String chompToIgnoreCase(java.lang.String)\u003e","loc":5}

@@ -1,0 +1,1 @@
+{"id":16378,"className":"javax.swing.JToolBar","methodName":"getUI","signature":"\u003cjavax.swing.JToolBar: javax.swing.plaf.ToolBarUI getUI()\u003e","javadoc":"/** \n * Returns the tool bar\u0027s current UI.\n * @see #setUI\n */\n","tf":{"freq":{"tool":1,"current":1,"bar":1},"maxFreq":1,"totalTerms":3},"loc":3}

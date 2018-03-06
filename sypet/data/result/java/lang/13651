@@ -1,0 +1,1 @@
+{"id":13651,"className":"java.lang.Integer","methodName":"doubleValue","signature":"\u003cjava.lang.Integer: double doubleValue()\u003e","javadoc":"/** \n * Returns the value of this  {@code Integer} as a{@code double}.\n */\n","tf":{"freq":{"valu":2,"integ":1},"maxFreq":2,"totalTerms":3},"loc":3}

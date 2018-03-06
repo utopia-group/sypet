@@ -1,0 +1,1 @@
+{"id":13583,"className":"org.joda.time.field.DividedDateTimeField","methodName":"getMaximumValue","signature":"\u003corg.joda.time.field.DividedDateTimeField: int getMaximumValue()\u003e","javadoc":"/** \n * Get the maximum value for the field.\n * @return the maximum value\n */\n","tf":{"freq":{"field":1,"maximum":3,"valu":3},"maxFreq":3,"totalTerms":7},"loc":3}

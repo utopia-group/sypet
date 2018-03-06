@@ -1,0 +1,1 @@
+{"id":26739,"className":"javax.xml.ws.EndpointReference","methodName":"toString","signature":"\u003cjavax.xml.ws.EndpointReference: java.lang.String toString()\u003e","javadoc":"/** \n * Displays EPR infoset for debugging convenience.\n */\n","tf":{"freq":{"string":1,"display":1,"debug":1,"infoset":1,"conveni":1},"maxFreq":1,"totalTerms":5},"loc":5}

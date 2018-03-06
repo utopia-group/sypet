@@ -1,0 +1,1 @@
+{"id":22323,"className":"javax.swing.text.FlowView","methodName":"setParent","signature":"\u003cjavax.swing.text.FlowView: void setParent(javax.swing.text.View)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"parent":1},"maxFreq":1,"totalTerms":1},"loc":7}

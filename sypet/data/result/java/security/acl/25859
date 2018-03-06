@@ -1,0 +1,1 @@
+{"id":25859,"className":"java.security.acl.AclEntry","methodName":"clone","signature":"\u003cjava.security.acl.AclEntry: java.lang.Object clone()\u003e","javadoc":"/** \n * Clones this ACL entry.\n * @return a clone of this ACL entry.\n */\n","tf":{"freq":{"clone":3,"entri":2},"maxFreq":3,"totalTerms":5},"loc":0}

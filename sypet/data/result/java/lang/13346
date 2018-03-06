@@ -1,0 +1,1 @@
+{"id":13346,"className":"java.lang.StringBuffer","methodName":"codePointCount","signature":"\u003cjava.lang.StringBuffer: int codePointCount(int,int)\u003e","javadoc":"/** \n * @since     1.5\n */\n","tf":{"freq":{"point":1,"count":1},"maxFreq":1,"totalTerms":2},"loc":3}

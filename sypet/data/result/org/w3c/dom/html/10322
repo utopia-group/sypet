@@ -1,0 +1,1 @@
+{"id":10322,"className":"org.w3c.dom.html.HTMLScriptElement","methodName":"getText","signature":"\u003corg.w3c.dom.html.HTMLScriptElement: java.lang.String getText()\u003e","javadoc":"/** \n * The script content of the element.\n */\n","tf":{"freq":{"content":1,"element":1,"text":1,"script":1},"maxFreq":1,"totalTerms":4},"loc":0}

@@ -1,0 +1,1 @@
+{"id":18525,"className":"java.awt.image.SampleModel","methodName":"getSampleSize","signature":"\u003cjava.awt.image.SampleModel: int[] getSampleSize()\u003e","javadoc":"/** \n * Returns the size in bits of samples for all bands.\n * @return the size of samples for all bands.\n */\n","tf":{"freq":{"bit":1,"band":2,"sampl":3,"size":3},"maxFreq":3,"totalTerms":9},"loc":0}

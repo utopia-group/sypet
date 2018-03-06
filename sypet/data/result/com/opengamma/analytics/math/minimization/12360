@@ -1,0 +1,1 @@
+{"id":12360,"className":"com.opengamma.analytics.math.minimization.GoldenSectionMinimizer1D","methodName":"minimize","signature":"\u003ccom.opengamma.analytics.math.minimization.GoldenSectionMinimizer1D: double minimize(com.opengamma.analytics.math.function.Function1D,double,double,double)\u003e","loc":3}

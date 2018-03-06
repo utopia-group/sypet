@@ -1,0 +1,1 @@
+{"id":19168,"className":"javax.swing.plaf.basic.BasicInternalFrameUI","methodName":"getPreferredSize","signature":"\u003cjavax.swing.plaf.basic.BasicInternalFrameUI: java.awt.Dimension getPreferredSize(javax.swing.JComponent)\u003e","loc":5}

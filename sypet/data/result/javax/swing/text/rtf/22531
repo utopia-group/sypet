@@ -1,0 +1,1 @@
+{"id":22531,"className":"javax.swing.text.rtf.AbstractFilter","methodName":"write","signature":"\u003cjavax.swing.text.rtf.AbstractFilter: void write(int)\u003e","javadoc":"/** \n * Implements the abstract method of OutputStream, of which this class is a subclass.\n */\n","tf":{"freq":{"stream":1,"subclass":1,"write":1,"method":1,"output":1},"maxFreq":1,"totalTerms":5},"loc":11}

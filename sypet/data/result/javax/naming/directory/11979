@@ -1,0 +1,1 @@
+{"id":11979,"className":"javax.naming.directory.InitialDirContext","methodName":"bind","signature":"\u003cjavax.naming.directory.InitialDirContext: void bind(java.lang.String,java.lang.Object,javax.naming.directory.Attributes)\u003e","loc":3}

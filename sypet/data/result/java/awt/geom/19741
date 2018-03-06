@@ -1,0 +1,1 @@
+{"id":19741,"className":"java.awt.geom.Path2D$Float","methodName":"append","signature":"\u003cjava.awt.geom.Path2D$Float: void append(java.awt.geom.PathIterator,boolean)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.6\n */\n","tf":{"freq":{"append":1},"maxFreq":1,"totalTerms":1},"loc":37}

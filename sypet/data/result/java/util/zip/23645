@@ -1,0 +1,1 @@
+{"id":23645,"className":"java.util.zip.Deflater","methodName":"getAdler","signature":"\u003cjava.util.zip.Deflater: int getAdler()\u003e","javadoc":"/** \n * Returns the ADLER-32 value of the uncompressed data.\n * @return the ADLER-32 value of the uncompressed data\n */\n","tf":{"freq":{"data":2,"valu":2,"uncompress":2,"adler":1},"maxFreq":2,"totalTerms":7},"loc":6}

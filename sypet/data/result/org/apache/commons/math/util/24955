@@ -1,0 +1,1 @@
+{"id":24955,"className":"org.apache.commons.math.util.FastMath","methodName":"log1p","signature":"\u003corg.apache.commons.math.util.FastMath: double log1p(double)\u003e","javadoc":"/** \n * Compute log(1 + x).\n * @param x a number\n * @return log(1 + x)\n */\n","tf":{"freq":{"comput":1,"number":1,"log":3},"maxFreq":3,"totalTerms":5},"loc":37}

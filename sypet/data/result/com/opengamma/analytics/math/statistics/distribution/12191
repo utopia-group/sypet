@@ -1,0 +1,1 @@
+{"id":12191,"className":"com.opengamma.analytics.math.statistics.distribution.GammaDistribution","methodName":"getTheta","signature":"\u003ccom.opengamma.analytics.math.statistics.distribution.GammaDistribution: double getTheta()\u003e","javadoc":"/** \n * @return The location parameter\n */\n","tf":{"freq":{"locat":1,"theta":1,"paramet":1},"maxFreq":1,"totalTerms":3},"loc":3}

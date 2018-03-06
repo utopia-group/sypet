@@ -1,0 +1,1 @@
+{"id":18489,"className":"javax.swing.plaf.basic.BasicTextUI$TextTransferHandler","methodName":"importData","signature":"\u003cjavax.swing.plaf.basic.BasicTextUI$TextTransferHandler: boolean importData(javax.swing.TransferHandler$TransferSupport)\u003e","loc":21}

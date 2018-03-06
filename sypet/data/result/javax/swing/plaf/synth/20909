@@ -1,0 +1,1 @@
+{"id":20909,"className":"javax.swing.plaf.synth.SynthParser","methodName":"fatalError","signature":"\u003cjavax.swing.plaf.synth.SynthParser: void fatalError(org.xml.sax.SAXParseException)\u003e","loc":6}

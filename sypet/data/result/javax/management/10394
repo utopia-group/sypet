@@ -1,0 +1,1 @@
+{"id":10394,"className":"javax.management.InstanceNotFoundException","methodName":"InstanceNotFoundException","signature":"\u003cjavax.management.InstanceNotFoundException: void InstanceNotFoundException()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"except":1,"constructor":1,"found":1,"instanc":1},"maxFreq":1,"totalTerms":4},"loc":3}

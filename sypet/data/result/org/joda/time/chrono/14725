@@ -1,0 +1,1 @@
+{"id":14725,"className":"org.joda.time.chrono.GregorianChronology","methodName":"withUTC","signature":"\u003corg.joda.time.chrono.GregorianChronology: org.joda.time.Chronology withUTC()\u003e","javadoc":"/** \n * Gets the Chronology in the UTC time zone.\n * @return the chronology in UTC\n */\n","tf":{"freq":{"time":1,"chronolog":2,"zone":1},"maxFreq":2,"totalTerms":4},"loc":3}

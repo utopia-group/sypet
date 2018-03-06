@@ -1,0 +1,1 @@
+{"id":13354,"className":"java.lang.StringBuffer","methodName":"append","signature":"\u003cjava.lang.StringBuffer: java.lang.StringBuffer append(java.lang.CharSequence,int,int)\u003e","javadoc":"/** \n * @throws IndexOutOfBoundsException {@inheritDoc}\n * @since      1.5\n */\n","tf":{"freq":{"append":1,"except":1,"index":1,"bound":1},"maxFreq":1,"totalTerms":4},"loc":4}

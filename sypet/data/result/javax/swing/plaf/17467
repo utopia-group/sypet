@@ -1,0 +1,1 @@
+{"id":17467,"className":"javax.swing.plaf.SplitPaneUI","methodName":"getDividerLocation","signature":"\u003cjavax.swing.plaf.SplitPaneUI: int getDividerLocation(javax.swing.JSplitPane)\u003e","javadoc":"/** \n * Returns the location of the divider.\n */\n","tf":{"freq":{"locat":2,"divid":2},"maxFreq":2,"totalTerms":4},"loc":0}

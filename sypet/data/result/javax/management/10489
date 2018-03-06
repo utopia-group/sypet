@@ -1,0 +1,1 @@
+{"id":10489,"className":"javax.management.MBeanServerPermissionCollection","methodName":"add","signature":"\u003cjavax.management.MBeanServerPermissionCollection: void add(java.security.Permission)\u003e","loc":16}

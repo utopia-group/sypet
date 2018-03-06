@@ -1,0 +1,1 @@
+{"id":15434,"className":"org.apache.commons.math3.RealFieldElement","methodName":"sin","signature":"\u003corg.apache.commons.math3.RealFieldElement: T sin()\u003e","javadoc":"/** \n * Sine operation.\n * @return sin(this)\n */\n","tf":{"freq":{"oper":1,"sine":1,"sin":2},"maxFreq":2,"totalTerms":4},"loc":0}

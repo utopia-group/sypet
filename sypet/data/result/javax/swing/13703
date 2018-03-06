@@ -1,0 +1,1 @@
+{"id":13703,"className":"javax.swing.JRadioButton","methodName":"JRadioButton","signature":"\u003cjavax.swing.JRadioButton: void JRadioButton()\u003e","javadoc":"/** \n * Creates an initially unselected radio button with no set text.\n */\n","tf":{"freq":{"text":1,"unselect":1,"creat":1,"button":2,"radio":2,"initi":1},"maxFreq":2,"totalTerms":8},"loc":3}

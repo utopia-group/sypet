@@ -1,0 +1,1 @@
+{"id":15444,"className":"javax.swing.DebugGraphics","methodName":"copyArea","signature":"\u003cjavax.swing.DebugGraphics: void copyArea(int,int,int,int,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.copyArea\u003c/code\u003e.\n */\n","tf":{"freq":{"graphic":1,"area":2,"copi":2},"maxFreq":2,"totalTerms":5},"loc":9}

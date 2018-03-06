@@ -1,0 +1,1 @@
+{"id":21793,"className":"javax.swing.text.SimpleAttributeSet","methodName":"SimpleAttributeSet","signature":"\u003cjavax.swing.text.SimpleAttributeSet: void SimpleAttributeSet()\u003e","javadoc":"/** \n * Creates a new attribute set.\n */\n","tf":{"freq":{"attribut":2,"simpl":1,"creat":1},"maxFreq":2,"totalTerms":4},"loc":2}

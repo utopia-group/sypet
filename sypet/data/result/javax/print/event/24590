@@ -1,0 +1,1 @@
+{"id":24590,"className":"javax.print.event.PrintEvent","methodName":"toString","signature":"\u003cjavax.print.event.PrintEvent: java.lang.String toString()\u003e","javadoc":"/** \n * @return a message describing the event\n */\n","tf":{"freq":{"event":1,"messag":1,"string":1,"describ":1},"maxFreq":1,"totalTerms":4},"loc":3}

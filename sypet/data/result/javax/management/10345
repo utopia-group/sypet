@@ -1,0 +1,1 @@
+{"id":10345,"className":"javax.management.InQueryExp","methodName":"getExplicitValues","signature":"\u003cjavax.management.InQueryExp: javax.management.ValueExp[] getExplicitValues()\u003e","javadoc":"/** \n * Returns the array of values of the query.\n */\n","tf":{"freq":{"queri":1,"explicit":1,"valu":2,"array":1},"maxFreq":2,"totalTerms":5},"loc":3}

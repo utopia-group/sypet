@@ -1,0 +1,1 @@
+{"id":10949,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getEmptyCells","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getEmptyCells()\u003e","javadoc":"/** \n * See the empty-cells property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"cell":2,"properti":1,"empti":2},"maxFreq":2,"totalTerms":6},"loc":0}

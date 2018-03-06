@@ -1,0 +1,1 @@
+{"id":16021,"className":"javax.swing.TransferHandler$DragHandler","methodName":"dragDropEnd","signature":"\u003cjavax.swing.TransferHandler$DragHandler: void dragDropEnd(java.awt.dnd.DragSourceDropEvent)\u003e","javadoc":"/** \n * as the operation completes\n */\n","tf":{"freq":{"oper":1,"drop":1,"drag":1,"end":1,"complet":1},"maxFreq":1,"totalTerms":5},"loc":10}

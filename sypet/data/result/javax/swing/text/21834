@@ -1,0 +1,1 @@
+{"id":21834,"className":"javax.swing.text.AsyncBoxView","methodName":"getBottomInset","signature":"\u003cjavax.swing.text.AsyncBoxView: float getBottomInset()\u003e","javadoc":"/** \n * Get the bottom part of the margin around the view.\n */\n","tf":{"freq":{"inset":1,"bottom":2,"margin":1,"view":1,"part":1,"around":1},"maxFreq":2,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":14605,"className":"javax.swing.JSplitPane","methodName":"getOrientation","signature":"\u003cjavax.swing.JSplitPane: int getOrientation()\u003e","javadoc":"/** \n * Returns the orientation.\n * @return an integer giving the orientation\n * @see #setOrientation\n */\n","tf":{"freq":{"orient":4,"give":1,"integ":1},"maxFreq":4,"totalTerms":6},"loc":3}

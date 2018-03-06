@@ -1,0 +1,1 @@
+{"id":16455,"className":"java.awt.BorderLayout","methodName":"setHgap","signature":"\u003cjava.awt.BorderLayout: void setHgap(int)\u003e","javadoc":"/** \n * Sets the horizontal gap between components.\n * @param hgap the horizontal gap between components\n * @since   JDK1.1\n */\n","tf":{"freq":{"compon":2,"horizont":2,"hgap":2,"gap":2},"maxFreq":2,"totalTerms":8},"loc":3}

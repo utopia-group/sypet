@@ -1,0 +1,1 @@
+{"id":21197,"className":"","methodName":"getDistance","signature":"\u003c: double getDistance(org.apache.commons.math3.linear.RealVector)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"distanc":1},"maxFreq":1,"totalTerms":1},"loc":3}

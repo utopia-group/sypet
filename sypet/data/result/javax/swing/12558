@@ -1,0 +1,1 @@
+{"id":12558,"className":"javax.swing.JLabel","methodName":"getText","signature":"\u003cjavax.swing.JLabel: java.lang.String getText()\u003e","javadoc":"/** \n * Returns the text string that the label displays.\n * @return a String\n * @see #setText\n */\n","tf":{"freq":{"text":3,"string":2,"display":1,"label":1},"maxFreq":3,"totalTerms":7},"loc":3}

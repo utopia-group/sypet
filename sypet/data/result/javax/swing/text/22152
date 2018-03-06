@@ -1,0 +1,1 @@
+{"id":22152,"className":"javax.swing.text.Element","methodName":"getDocument","signature":"\u003cjavax.swing.text.Element: javax.swing.text.Document getDocument()\u003e","javadoc":"/** \n * Fetches the document associated with this element.\n * @return the document\n */\n","tf":{"freq":{"element":1,"fetch":1,"document":3,"associ":1},"maxFreq":3,"totalTerms":6},"loc":0}

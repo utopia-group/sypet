@@ -1,0 +1,1 @@
+{"id":24719,"className":"org.apache.commons.math.stat.descriptive.summary.Product","methodName":"getN","signature":"\u003corg.apache.commons.math.stat.descriptive.summary.Product: long getN()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","loc":3}

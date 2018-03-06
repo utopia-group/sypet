@@ -1,0 +1,1 @@
+{"id":20905,"className":"javax.swing.plaf.synth.SynthParser","methodName":"ignorableWhitespace","signature":"\u003cjavax.swing.plaf.synth.SynthParser: void ignorableWhitespace(char[],int,int)\u003e","loc":5}

@@ -1,0 +1,1 @@
+{"id":26371,"className":"org.apache.commons.math.linear.AbstractRealVector","methodName":"mapAdd","signature":"\u003corg.apache.commons.math.linear.AbstractRealVector: org.apache.commons.math.linear.RealVector mapAdd(double)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"map":1,"add":1},"maxFreq":1,"totalTerms":2},"loc":3}

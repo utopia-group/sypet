@@ -1,0 +1,1 @@
+{"id":25235,"className":"org.apache.commons.math.linear.AbstractFieldMatrix","methodName":"getRowMatrix","signature":"\u003corg.apache.commons.math.linear.AbstractFieldMatrix: org.apache.commons.math.linear.FieldMatrix\u003cT\u003e getRowMatrix(int)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"matrix":1,"row":1},"maxFreq":1,"totalTerms":2},"loc":12}

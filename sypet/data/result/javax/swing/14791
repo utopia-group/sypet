@@ -1,0 +1,1 @@
+{"id":14791,"className":"javax.swing.JTable$SortManager","methodName":"dispose","signature":"\u003cjavax.swing.JTable$SortManager: void dispose()\u003e","javadoc":"/** \n * Disposes any resources used by this SortManager.\n */\n","tf":{"freq":{"resourc":1,"sort":1,"manag":1,"use":1,"dispos":2},"maxFreq":2,"totalTerms":6},"loc":5}

@@ -1,0 +1,1 @@
+{"id":16231,"className":"org.apache.commons.math3.fitting.WeightedObservedPoint","methodName":"getX","signature":"\u003corg.apache.commons.math3.fitting.WeightedObservedPoint: double getX()\u003e","javadoc":"/** \n * Gets the abscissa of the point.\n * @return the abscissa of the point.\n */\n","tf":{"freq":{"point":2,"abscissa":2},"maxFreq":2,"totalTerms":4},"loc":3}

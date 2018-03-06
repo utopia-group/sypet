@@ -1,0 +1,1 @@
+{"id":18586,"className":"java.awt.image.DataBuffer","methodName":"getNumBanks","signature":"\u003cjava.awt.image.DataBuffer: int getNumBanks()\u003e","javadoc":"/** \n * Returns the number of banks in this DataBuffer.\n * @return the number of banks.\n */\n","tf":{"freq":{"buffer":1,"num":1,"data":1,"number":2,"bank":3},"maxFreq":3,"totalTerms":8},"loc":3}

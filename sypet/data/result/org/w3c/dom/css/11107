@@ -1,0 +1,1 @@
+{"id":11107,"className":"org.w3c.dom.css.CSSStyleRule","methodName":"getStyle","signature":"\u003corg.w3c.dom.css.CSSStyleRule: org.w3c.dom.css.CSSStyleDeclaration getStyle()\u003e","javadoc":"/** \n * The declaration-block of this rule set.\n */\n","tf":{"freq":{"declar":1,"style":1,"rule":1,"block":1},"maxFreq":1,"totalTerms":4},"loc":0}

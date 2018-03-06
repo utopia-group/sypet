@@ -1,0 +1,1 @@
+{"id":14949,"className":"java.nio.channels.Channels$WritableByteChannelImpl","methodName":"write","signature":"\u003cjava.nio.channels.Channels$WritableByteChannelImpl: int write(java.nio.ByteBuffer)\u003e","loc":21}

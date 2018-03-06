@@ -1,0 +1,1 @@
+{"id":24691,"className":"java.text.DateFormat","methodName":"equals","signature":"\u003cjava.text.DateFormat: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * Overrides equals\n */\n","tf":{"freq":{"equal":2},"maxFreq":2,"totalTerms":2},"loc":11}

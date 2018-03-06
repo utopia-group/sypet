@@ -1,0 +1,1 @@
+{"id":26117,"className":"javax.xml.bind.JAXBElement","methodName":"getName","signature":"\u003cjavax.xml.bind.JAXBElement: javax.xml.namespace.QName getName()\u003e","javadoc":"/** \n * Returns the xml element tag name.\n */\n","tf":{"freq":{"element":1,"tag":1,"name":2,"xml":1},"maxFreq":2,"totalTerms":5},"loc":3}

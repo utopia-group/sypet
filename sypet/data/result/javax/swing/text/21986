@@ -1,0 +1,1 @@
+{"id":21986,"className":"javax.swing.text.StyleContext$NamedStyle","methodName":"NamedStyle","signature":"\u003cjavax.swing.text.StyleContext$NamedStyle: void NamedStyle()\u003e","javadoc":"/** \n * Creates a new named style, with a null name and parent.\n */\n","tf":{"freq":{"style":2,"creat":1,"name":3,"parent":1},"maxFreq":3,"totalTerms":7},"loc":3}

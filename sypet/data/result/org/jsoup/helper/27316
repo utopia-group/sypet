@@ -1,0 +1,1 @@
+{"id":27316,"className":"org.jsoup.helper.Validate","methodName":"fail","signature":"\u003corg.jsoup.helper.Validate: void fail(java.lang.String)\u003e","javadoc":"/** \n * Cause a failure.\n * @param msg message to output.\n */\n","tf":{"freq":{"caus":1,"fail":1,"failur":1,"messag":1,"output":1,"msg":1},"maxFreq":1,"totalTerms":6},"loc":3}

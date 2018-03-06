@@ -1,0 +1,1 @@
+{"id":23907,"className":"java.util.jar.Attributes","methodName":"hashCode","signature":"\u003cjava.util.jar.Attributes: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code value for this Map.\n */\n","tf":{"freq":{"hash":2,"map":1,"valu":1},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":13477,"className":"org.joda.time.base.AbstractInstant","methodName":"toInstant","signature":"\u003corg.joda.time.base.AbstractInstant: org.joda.time.Instant toInstant()\u003e","javadoc":"/** \n * Get this object as an Instant.\n * @return an Instant using the same millis\n */\n","tf":{"freq":{"milli":1,"use":1,"object":1,"instant":3},"maxFreq":3,"totalTerms":6},"loc":3}

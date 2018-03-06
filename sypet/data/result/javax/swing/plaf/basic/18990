@@ -1,0 +1,1 @@
+{"id":18990,"className":"javax.swing.plaf.basic.BasicTabbedPaneUI$ScrollableTabSupport","methodName":"stateChanged","signature":"\u003cjavax.swing.plaf.basic.BasicTabbedPaneUI$ScrollableTabSupport: void stateChanged(javax.swing.event.ChangeEvent)\u003e","loc":3}

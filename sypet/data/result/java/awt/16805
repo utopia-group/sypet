@@ -1,0 +1,1 @@
+{"id":16805,"className":"java.awt.Component","methodName":"move","signature":"\u003cjava.awt.Component: void move(int,int)\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by \u003ccode\u003esetLocation(int, int)\u003c/code\u003e.\n */\n","tf":{"freq":{"locat":1,"deprec":1,"replac":1,"move":1,"version":1},"maxFreq":1,"totalTerms":5},"loc":6}

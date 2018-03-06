@@ -1,0 +1,1 @@
+{"id":17932,"className":"javax.swing.plaf.basic.BasicSplitPaneUI","methodName":"uninstallUI","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneUI: void uninstallUI(javax.swing.JComponent)\u003e","javadoc":"/** \n * Uninstalls the UI.\n */\n","tf":{"freq":{"uninstal":2},"maxFreq":2,"totalTerms":2},"loc":8}

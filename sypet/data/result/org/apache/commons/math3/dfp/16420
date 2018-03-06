@@ -1,0 +1,1 @@
+{"id":16420,"className":"org.apache.commons.math3.dfp.Dfp","methodName":"getOne","signature":"\u003corg.apache.commons.math3.dfp.Dfp: org.apache.commons.math3.dfp.Dfp getOne()\u003e","javadoc":"/** \n * Get the constant 1.\n * @return a Dfp with value one\n */\n","tf":{"freq":{"constant":1,"one":2,"valu":1,"dfp":1},"maxFreq":2,"totalTerms":5},"loc":3}

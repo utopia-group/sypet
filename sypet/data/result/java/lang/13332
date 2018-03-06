@@ -1,0 +1,1 @@
+{"id":13332,"className":"java.lang.OutOfMemoryError","methodName":"OutOfMemoryError","signature":"\u003cjava.lang.OutOfMemoryError: void OutOfMemoryError()\u003e","javadoc":"/** \n * Constructs an  {@code OutOfMemoryError} with no detail message.\n */\n","tf":{"freq":{"detail":1,"memori":2,"error":2,"messag":1,"construct":1},"maxFreq":2,"totalTerms":7},"loc":3}

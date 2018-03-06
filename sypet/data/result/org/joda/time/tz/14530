@@ -1,0 +1,1 @@
+{"id":14530,"className":"org.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone","methodName":"writeTo","signature":"\u003corg.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone: void writeTo(java.io.DataOutput)\u003e","loc":51}

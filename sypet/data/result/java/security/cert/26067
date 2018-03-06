@@ -1,0 +1,1 @@
+{"id":26067,"className":"java.security.cert.Extension","methodName":"isCritical","signature":"\u003cjava.security.cert.Extension: boolean isCritical()\u003e","javadoc":"/** \n * Gets the extension\u0027s criticality setting.\n * @return true if this is a critical extension.\n */\n","tf":{"freq":{"extens":2,"true":1,"critic":3},"maxFreq":3,"totalTerms":6},"loc":0}

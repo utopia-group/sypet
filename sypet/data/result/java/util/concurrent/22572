@@ -1,0 +1,1 @@
+{"id":22572,"className":"java.util.concurrent.ConcurrentLinkedDeque","methodName":"pollFirst","signature":"\u003cjava.util.concurrent.ConcurrentLinkedDeque: E pollFirst()\u003e","loc":10}

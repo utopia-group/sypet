@@ -1,0 +1,1 @@
+{"id":12148,"className":"com.opengamma.analytics.math.statistics.distribution.StudentTTwoTailedCriticalValueCalculator","methodName":"StudentTTwoTailedCriticalValueCalculator","signature":"\u003ccom.opengamma.analytics.math.statistics.distribution.StudentTTwoTailedCriticalValueCalculator: void StudentTTwoTailedCriticalValueCalculator(double)\u003e","loc":4}

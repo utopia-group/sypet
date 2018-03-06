@@ -1,0 +1,1 @@
+{"id":18999,"className":"org.apache.commons.math3.stat.descriptive.rank.Min","methodName":"increment","signature":"\u003corg.apache.commons.math3.stat.descriptive.rank.Min: void increment(double)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"increment":1},"maxFreq":1,"totalTerms":1},"loc":6}

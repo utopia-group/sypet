@@ -1,0 +1,1 @@
+{"id":24909,"className":"java.text.ChoiceFormat","methodName":"applyPattern","signature":"\u003cjava.text.ChoiceFormat: void applyPattern(java.lang.String)\u003e","javadoc":"/** \n * Sets the pattern.\n * @param newPattern See the class description.\n */\n","tf":{"freq":{"appli":1,"pattern":3,"descript":1},"maxFreq":3,"totalTerms":5},"loc":79}

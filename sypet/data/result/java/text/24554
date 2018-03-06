@@ -1,0 +1,1 @@
+{"id":24554,"className":"java.text.DecimalFormat","methodName":"hashCode","signature":"\u003cjava.text.DecimalFormat: int hashCode()\u003e","javadoc":"/** \n * Overrides hashCode\n */\n","tf":{"freq":{"hash":2},"maxFreq":2,"totalTerms":2},"loc":4}

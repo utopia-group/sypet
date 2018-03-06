@@ -1,0 +1,1 @@
+{"id":25235,"className":"java.security.KeyStore","methodName":"getType","signature":"\u003cjava.security.KeyStore: java.lang.String getType()\u003e","javadoc":"/** \n * Returns the type of this keystore.\n * @return the type of this keystore.\n */\n","tf":{"freq":{"keystor":2,"type":3},"maxFreq":3,"totalTerms":5},"loc":3}

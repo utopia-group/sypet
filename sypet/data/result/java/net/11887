@@ -1,0 +1,1 @@
+{"id":11887,"className":"java.net.InMemoryCookieStore","methodName":"getCookies","signature":"\u003cjava.net.InMemoryCookieStore: java.util.List\u003cjava.net.HttpCookie\u003e getCookies()\u003e","javadoc":"/** \n * Get all cookies in cookie store, except those have expired\n */\n","tf":{"freq":{"expir":1,"except":1,"store":1,"cooki":3},"maxFreq":3,"totalTerms":6},"loc":18}

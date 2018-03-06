@@ -1,0 +1,1 @@
+{"id":19529,"className":"java.awt.event.InputEvent","methodName":"isAltGraphDown","signature":"\u003cjava.awt.event.InputEvent: boolean isAltGraphDown()\u003e","javadoc":"/** \n * Returns whether or not the AltGraph modifier is down on this event.\n */\n","tf":{"freq":{"graph":2,"event":1,"alt":2,"modifi":1,"whether":1},"maxFreq":2,"totalTerms":7},"loc":3}

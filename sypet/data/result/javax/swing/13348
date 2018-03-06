@@ -1,0 +1,1 @@
+{"id":13348,"className":"javax.swing.RowSorter$SortKey","methodName":"getSortOrder","signature":"\u003cjavax.swing.RowSorter$SortKey: javax.swing.SortOrder getSortOrder()\u003e","javadoc":"/** \n * Returns the sort order of the column.\n * @return the sort order of the column\n */\n","tf":{"freq":{"sort":3,"order":3,"column":2},"maxFreq":3,"totalTerms":8},"loc":3}

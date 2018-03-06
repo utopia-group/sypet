@@ -1,0 +1,1 @@
+{"id":18972,"className":"javax.swing.plaf.basic.BasicTabbedPaneUI","methodName":"getMaximumSize","signature":"\u003cjavax.swing.plaf.basic.BasicTabbedPaneUI: java.awt.Dimension getMaximumSize(javax.swing.JComponent)\u003e","loc":4}

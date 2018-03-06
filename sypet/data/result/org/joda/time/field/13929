@@ -1,0 +1,1 @@
+{"id":13929,"className":"org.joda.time.field.PreciseDurationDateTimeField","methodName":"isLenient","signature":"\u003corg.joda.time.field.PreciseDurationDateTimeField: boolean isLenient()\u003e","javadoc":"/** \n * Returns false by default.\n */\n","tf":{"freq":{"fals":1,"lenient":1},"maxFreq":1,"totalTerms":2},"loc":3}

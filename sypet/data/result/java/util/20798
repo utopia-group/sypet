@@ -1,0 +1,1 @@
+{"id":20798,"className":"java.util.HashSet","methodName":"clear","signature":"\u003cjava.util.HashSet: void clear()\u003e","javadoc":"/** \n * Removes all of the elements from this set. The set will be empty after this call returns.\n */\n","tf":{"freq":{"clear":1,"call":1,"element":1,"will":1,"remov":1,"empti":1},"maxFreq":1,"totalTerms":6},"loc":3}

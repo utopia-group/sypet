@@ -1,0 +1,1 @@
+{"id":20519,"className":"javax.swing.plaf.synth.SynthSeparatorUI","methodName":"uninstallUI","signature":"\u003cjavax.swing.plaf.synth.SynthSeparatorUI: void uninstallUI(javax.swing.JComponent)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"uninstal":1},"maxFreq":1,"totalTerms":1},"loc":4}

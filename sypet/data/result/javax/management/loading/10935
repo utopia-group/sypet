@@ -1,0 +1,1 @@
+{"id":10935,"className":"javax.management.loading.MLetParser","methodName":"skipSpace","signature":"\u003cjavax.management.loading.MLetParser: void skipSpace(java.io.Reader)\u003e","javadoc":"/** \n * Scan spaces.\n */\n","tf":{"freq":{"scan":1,"space":2,"skip":1},"maxFreq":2,"totalTerms":4},"loc":5}

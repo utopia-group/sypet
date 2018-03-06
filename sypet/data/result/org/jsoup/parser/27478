@@ -1,0 +1,1 @@
+{"id":27478,"className":"org.jsoup.parser.Tag","methodName":"isKnownTag","signature":"\u003corg.jsoup.parser.Tag: boolean isKnownTag()\u003e","javadoc":"/** \n * Get if this is a pre-defined tag, or was auto created on parsing.\n * @return if a known tag\n */\n","tf":{"freq":{"defin":1,"creat":1,"pre":1,"tag":3,"auto":1,"known":2,"pars":1},"maxFreq":3,"totalTerms":10},"loc":3}

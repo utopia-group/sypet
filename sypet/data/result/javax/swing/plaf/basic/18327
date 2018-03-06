@@ -1,0 +1,1 @@
+{"id":18327,"className":"javax.swing.plaf.basic.BasicTreeUI","methodName":"cancelEditing","signature":"\u003cjavax.swing.plaf.basic.BasicTreeUI: void cancelEditing(javax.swing.JTree)\u003e","javadoc":"/** \n * Cancels the current editing session.\n */\n","tf":{"freq":{"session":1,"current":1,"edit":2,"cancel":2},"maxFreq":2,"totalTerms":6},"loc":5}

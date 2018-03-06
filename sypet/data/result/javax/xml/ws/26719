@@ -1,0 +1,1 @@
+{"id":26719,"className":"javax.xml.ws.Endpoint","methodName":"getImplementor","signature":"\u003cjavax.xml.ws.Endpoint: java.lang.Object getImplementor()\u003e","javadoc":"/** \n * Returns the implementation object for this endpoint.\n * @return The implementor for this endpoint\n */\n","tf":{"freq":{"object":1,"endpoint":2,"implementor":2},"maxFreq":2,"totalTerms":5},"loc":0}

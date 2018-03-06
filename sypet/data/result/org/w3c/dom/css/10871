@@ -1,0 +1,1 @@
+{"id":10871,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getBackgroundPosition","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getBackgroundPosition()\u003e","javadoc":"/** \n * See the background-position property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"background":2,"properti":1,"posit":2},"maxFreq":2,"totalTerms":6},"loc":0}

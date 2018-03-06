@@ -1,0 +1,1 @@
+{"id":10168,"className":"javax.management.Query","methodName":"Query","signature":"\u003cjavax.management.Query: void Query()\u003e","javadoc":"/** \n * Basic constructor.\n */\n","tf":{"freq":{"queri":1,"basic":1,"constructor":1},"maxFreq":1,"totalTerms":3},"loc":2}

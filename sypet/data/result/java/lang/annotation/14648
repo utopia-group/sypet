@@ -1,0 +1,1 @@
+{"id":14648,"className":"java.lang.annotation.Annotation","methodName":"annotationType","signature":"\u003cjava.lang.annotation.Annotation: java.lang.Class\u003c? extends java.lang.annotation.Annotation\u003e annotationType()\u003e","javadoc":"/** \n * Returns the annotation type of this annotation.\n */\n","tf":{"freq":{"annot":3,"type":2},"maxFreq":3,"totalTerms":5},"loc":0}

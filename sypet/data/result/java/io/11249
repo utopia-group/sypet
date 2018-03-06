@@ -1,0 +1,1 @@
+{"id":11249,"className":"java.io.NotActiveException","methodName":"NotActiveException","signature":"\u003cjava.io.NotActiveException: void NotActiveException()\u003e","javadoc":"/** \n * Constructor to create a new NotActiveException without a reason.\n */\n","tf":{"freq":{"except":2,"reason":1,"creat":1,"activ":2,"without":1,"constructor":1},"maxFreq":2,"totalTerms":8},"loc":3}

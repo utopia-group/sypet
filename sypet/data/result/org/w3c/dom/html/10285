@@ -1,0 +1,1 @@
+{"id":10285,"className":"org.w3c.dom.html.HTMLTextAreaElement","methodName":"select","signature":"\u003corg.w3c.dom.html.HTMLTextAreaElement: void select()\u003e","javadoc":"/** \n * Select the contents of the \u003ccode\u003eTEXTAREA\u003c/code\u003e .\n */\n","tf":{"freq":{"content":1,"select":2},"maxFreq":2,"totalTerms":3},"loc":0}

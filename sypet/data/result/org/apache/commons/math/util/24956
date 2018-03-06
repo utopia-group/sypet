@@ -1,0 +1,1 @@
+{"id":24956,"className":"org.apache.commons.math.util.FastMath","methodName":"log10","signature":"\u003corg.apache.commons.math.util.FastMath: double log10(double)\u003e","javadoc":"/** \n * Compute the base 10 logarithm.\n * @param x a number\n * @return log10(x)\n */\n","tf":{"freq":{"logarithm":1,"base":1,"comput":1,"number":1,"log":2},"maxFreq":2,"totalTerms":6},"loc":17}

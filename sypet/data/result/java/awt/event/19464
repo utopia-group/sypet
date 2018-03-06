@@ -1,0 +1,1 @@
+{"id":19464,"className":"java.awt.event.ComponentAdapter","methodName":"componentHidden","signature":"\u003cjava.awt.event.ComponentAdapter: void componentHidden(java.awt.event.ComponentEvent)\u003e","javadoc":"/** \n * Invoked when the component has been made invisible.\n */\n","tf":{"freq":{"compon":2,"invok":1,"hidden":1,"invis":1,"made":1},"maxFreq":2,"totalTerms":6},"loc":1}

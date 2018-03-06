@@ -1,0 +1,1 @@
+{"id":15685,"className":"javax.swing.DefaultRowSorter","methodName":"getModelRowCount","signature":"\u003cjavax.swing.DefaultRowSorter: int getModelRowCount()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"model":1,"count":1,"row":1},"maxFreq":1,"totalTerms":3},"loc":3}

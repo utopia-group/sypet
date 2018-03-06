@@ -1,0 +1,1 @@
+{"id":10163,"className":"com.opengamma.analytics.math.function.ParameterizedCurveVectorFunction","methodName":"calculateJacobian","signature":"\u003ccom.opengamma.analytics.math.function.ParameterizedCurveVectorFunction: com.opengamma.analytics.math.matrix.DoubleMatrix2D calculateJacobian(com.opengamma.analytics.math.matrix.DoubleMatrix1D)\u003e","loc":9}

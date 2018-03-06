@@ -1,0 +1,1 @@
+{"id":13432,"className":"org.joda.time.base.BasePeriod","methodName":"getPeriodType","signature":"\u003corg.joda.time.base.BasePeriod: org.joda.time.PeriodType getPeriodType()\u003e","javadoc":"/** \n * Gets the period type.\n * @return the period type\n */\n","tf":{"freq":{"type":3,"period":3},"maxFreq":3,"totalTerms":6},"loc":3}

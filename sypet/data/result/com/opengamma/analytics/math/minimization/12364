@@ -1,0 +1,1 @@
+{"id":12364,"className":"com.opengamma.analytics.math.minimization.SingleRangeLimitTransform","methodName":"inverseTransform","signature":"\u003ccom.opengamma.analytics.math.minimization.SingleRangeLimitTransform: double inverseTransform(double)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"transform":1,"invers":1},"maxFreq":1,"totalTerms":2},"loc":8}

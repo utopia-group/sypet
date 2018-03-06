@@ -1,0 +1,1 @@
+{"id":11930,"className":"javax.naming.spi.ContinuationDirContext","methodName":"modifyAttributes","signature":"\u003cjavax.naming.spi.ContinuationDirContext: void modifyAttributes(javax.naming.Name,javax.naming.directory.ModificationItem[])\u003e","loc":4}

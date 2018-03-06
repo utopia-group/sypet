@@ -1,0 +1,1 @@
+{"id":23721,"className":"java.util.zip.ZipFile$ZipFileInflaterInputStream","methodName":"available","signature":"\u003cjava.util.zip.ZipFile$ZipFileInflaterInputStream: int available()\u003e","loc":7}

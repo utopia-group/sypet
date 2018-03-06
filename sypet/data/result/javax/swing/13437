@@ -1,0 +1,1 @@
+{"id":13437,"className":"javax.swing.SizeSequence","methodName":"getSizes","signature":"\u003cjavax.swing.SizeSequence: int[] getSizes()\u003e","javadoc":"/** \n * Returns the size of all entries.\n * @return  a new array containing the sizes in this object\n */\n","tf":{"freq":{"entri":1,"contain":1,"object":1,"array":1,"size":3},"maxFreq":3,"totalTerms":7},"loc":6}

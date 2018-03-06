@@ -1,0 +1,1 @@
+{"id":19633,"className":"org.apache.commons.math3.optim.SimpleBounds","methodName":"getUpper","signature":"\u003corg.apache.commons.math3.optim.SimpleBounds: double[] getUpper()\u003e","javadoc":"/** \n * Gets the upper bounds.\n * @return the upper bounds.\n */\n","tf":{"freq":{"upper":3,"bound":2},"maxFreq":3,"totalTerms":5},"loc":3}

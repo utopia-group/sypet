@@ -1,0 +1,1 @@
+{"id":10745,"className":"com.opengamma.analytics.math.interpolation.data.InterpolationBoundedValues","methodName":"InterpolationBoundedValues","signature":"\u003ccom.opengamma.analytics.math.interpolation.data.InterpolationBoundedValues: void InterpolationBoundedValues(int,java.lang.Double,java.lang.Double,java.lang.Double,java.lang.Double)\u003e","loc":8}

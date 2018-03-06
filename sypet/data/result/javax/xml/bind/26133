@@ -1,0 +1,1 @@
+{"id":26133,"className":"javax.xml.bind.WhiteSpaceProcessor","methodName":"trim","signature":"\u003cjavax.xml.bind.WhiteSpaceProcessor: java.lang.CharSequence trim(java.lang.CharSequence)\u003e","javadoc":"/** \n * Equivalent of  {@link String#trim()}.\n * @since 2.0\n */\n","tf":{"freq":{"equival":1,"string":1,"link":1,"trim":2},"maxFreq":2,"totalTerms":5},"loc":17}

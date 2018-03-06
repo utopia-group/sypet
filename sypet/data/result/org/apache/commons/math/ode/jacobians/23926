@@ -1,0 +1,1 @@
+{"id":23926,"className":"org.apache.commons.math.ode.jacobians.FirstOrderIntegratorWithJacobians$EventHandlerWrapper","methodName":"g","signature":"\u003corg.apache.commons.math.ode.jacobians.FirstOrderIntegratorWithJacobians$EventHandlerWrapper: double g(double,double[])\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","loc":4}

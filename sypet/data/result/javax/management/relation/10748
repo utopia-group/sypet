@@ -1,0 +1,1 @@
+{"id":10748,"className":"javax.management.relation.RelationType","methodName":"getRelationTypeName","signature":"\u003cjavax.management.relation.RelationType: java.lang.String getRelationTypeName()\u003e","javadoc":"/** \n * Returns the relation type name.\n * @return the relation type name.\n */\n","tf":{"freq":{"name":3,"relat":3,"type":3},"maxFreq":3,"totalTerms":9},"loc":0}

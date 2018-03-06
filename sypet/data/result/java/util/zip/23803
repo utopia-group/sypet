@@ -1,0 +1,1 @@
+{"id":23803,"className":"java.util.zip.Checksum","methodName":"reset","signature":"\u003cjava.util.zip.Checksum: void reset()\u003e","javadoc":"/** \n * Resets the checksum to its initial value.\n */\n","tf":{"freq":{"reset":2,"valu":1,"initi":1,"checksum":1},"maxFreq":2,"totalTerms":5},"loc":0}

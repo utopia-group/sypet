@@ -1,0 +1,1 @@
+{"id":20950,"className":"javax.swing.event.CaretEvent","methodName":"getDot","signature":"\u003cjavax.swing.event.CaretEvent: int getDot()\u003e","javadoc":"/** \n * Fetches the location of the caret.\n * @return the dot \u003e\u003d 0\n */\n","tf":{"freq":{"caret":1,"fetch":1,"locat":1,"dot":2},"maxFreq":2,"totalTerms":5},"loc":0}

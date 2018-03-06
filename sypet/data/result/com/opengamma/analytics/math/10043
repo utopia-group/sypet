@@ -1,0 +1,1 @@
+{"id":10043,"className":"com.opengamma.analytics.math.TrigonometricFunctionUtils","methodName":"atan","signature":"\u003ccom.opengamma.analytics.math.TrigonometricFunctionUtils: com.opengamma.analytics.math.number.ComplexNumber atan(com.opengamma.analytics.math.number.ComplexNumber)\u003e","loc":6}

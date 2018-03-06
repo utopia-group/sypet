@@ -1,0 +1,1 @@
+{"id":14763,"className":"java.nio.channels.Pipe","methodName":"sink","signature":"\u003cjava.nio.channels.Pipe: java.nio.channels.Pipe$SinkChannel sink()\u003e","javadoc":"/** \n * Returns this pipe\u0027s sink channel.  \u003c/p\u003e\n * @return  This pipe\u0027s sink channel\n */\n","tf":{"freq":{"sink":3,"channel":2,"pipe":2},"maxFreq":3,"totalTerms":7},"loc":0}

@@ -1,0 +1,1 @@
+{"id":14717,"className":"javax.swing.JTable","methodName":"getSelectedRow","signature":"\u003cjavax.swing.JTable: int getSelectedRow()\u003e","javadoc":"/** \n * Returns the index of the first selected row, -1 if no row is selected.\n * @return the index of the first selected row\n */\n","tf":{"freq":{"index":2,"select":4,"first":2,"row":4},"maxFreq":4,"totalTerms":12},"loc":3}

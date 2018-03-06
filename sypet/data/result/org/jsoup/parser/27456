@@ -1,0 +1,1 @@
+{"id":27456,"className":"org.jsoup.parser.Parser","methodName":"getTreeBuilder","signature":"\u003corg.jsoup.parser.Parser: org.jsoup.parser.TreeBuilder getTreeBuilder()\u003e","javadoc":"/** \n * Get the TreeBuilder currently in use.\n * @return current TreeBuilder.\n */\n","tf":{"freq":{"tree":3,"current":2,"builder":3,"use":1},"maxFreq":3,"totalTerms":9},"loc":3}

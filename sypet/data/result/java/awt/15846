@@ -1,0 +1,1 @@
+{"id":15846,"className":"java.awt.TexturePaintContext$Int","methodName":"Int","signature":"\u003cjava.awt.TexturePaintContext$Int: void Int(sun.awt.image.IntegerInterleavedRaster,java.awt.image.ColorModel,java.awt.geom.AffineTransform,int,boolean)\u003e","loc":8}

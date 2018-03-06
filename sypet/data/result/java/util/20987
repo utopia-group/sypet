@@ -1,0 +1,1 @@
+{"id":20987,"className":"java.util.TreeMap","methodName":"lastEntry","signature":"\u003cjava.util.TreeMap: java.util.Map$Entry\u003cK,V\u003e lastEntry()\u003e","javadoc":"/** \n * @since 1.6\n */\n","tf":{"freq":{"last":1,"entri":1},"maxFreq":1,"totalTerms":2},"loc":3}

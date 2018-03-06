@@ -1,0 +1,1 @@
+{"id":21106,"className":"javax.swing.text.GlyphView","methodName":"setGlyphPainter","signature":"\u003cjavax.swing.text.GlyphView: void setGlyphPainter(javax.swing.text.GlyphView$GlyphPainter)\u003e","javadoc":"/** \n * Sets the painter to use for rendering glyphs.\n */\n","tf":{"freq":{"glyph":2,"use":1,"painter":2,"render":1},"maxFreq":2,"totalTerms":6},"loc":3}

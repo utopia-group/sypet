@@ -1,0 +1,1 @@
+{"id":25597,"className":"java.security.Policy$PolicyDelegate","methodName":"getPermissions","signature":"\u003cjava.security.Policy$PolicyDelegate: java.security.PermissionCollection getPermissions(java.security.CodeSource)\u003e","loc":3}

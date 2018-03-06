@@ -1,0 +1,1 @@
+{"id":14220,"className":"org.joda.time.format.DateTimeFormatterBuilder$NumberFormatter","methodName":"estimateParsedLength","signature":"\u003corg.joda.time.format.DateTimeFormatterBuilder$NumberFormatter: int estimateParsedLength()\u003e","loc":3}

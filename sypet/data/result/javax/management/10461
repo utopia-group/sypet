@@ -1,0 +1,1 @@
+{"id":10461,"className":"javax.management.ImmutableDescriptor","methodName":"getFieldNames","signature":"\u003cjavax.management.ImmutableDescriptor: java.lang.String[] getFieldNames()\u003e","loc":3}

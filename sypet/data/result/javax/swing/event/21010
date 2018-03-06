@@ -1,0 +1,1 @@
+{"id":21010,"className":"javax.swing.event.TreeExpansionEvent","methodName":"getPath","signature":"\u003cjavax.swing.event.TreeExpansionEvent: javax.swing.tree.TreePath getPath()\u003e","javadoc":"/** \n * Returns the path to the value that has been expanded/collapsed.\n */\n","tf":{"freq":{"collaps":1,"path":2,"expand":1,"valu":1},"maxFreq":2,"totalTerms":5},"loc":1}

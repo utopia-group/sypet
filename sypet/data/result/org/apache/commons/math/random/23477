@@ -1,0 +1,1 @@
+{"id":23477,"className":"org.apache.commons.math.random.ValueServer","methodName":"setMode","signature":"\u003corg.apache.commons.math.random.ValueServer: void setMode(int)\u003e","javadoc":"/** \n * Setter for property mode.\n * @param mode New value of property mode.\n */\n","tf":{"freq":{"setter":1,"valu":1,"properti":2,"mode":4},"maxFreq":4,"totalTerms":8},"loc":3}

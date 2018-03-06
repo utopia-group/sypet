@@ -1,0 +1,1 @@
+{"id":25980,"className":"org.apache.commons.math.linear.EigenDecompositionImpl","methodName":"getRealEigenvalue","signature":"\u003corg.apache.commons.math.linear.EigenDecompositionImpl: double getRealEigenvalue(int)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"real":1,"eigenvalu":1},"maxFreq":1,"totalTerms":2},"loc":3}

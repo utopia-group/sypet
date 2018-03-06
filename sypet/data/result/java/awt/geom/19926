@@ -1,0 +1,1 @@
+{"id":19926,"className":"java.awt.geom.QuadCurve2D$Float","methodName":"getCtrlPt","signature":"\u003cjava.awt.geom.QuadCurve2D$Float: java.awt.geom.Point2D getCtrlPt()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"ctrl":1},"maxFreq":1,"totalTerms":1},"loc":3}

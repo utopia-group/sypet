@@ -1,0 +1,1 @@
+{"id":15724,"className":"java.awt.Adjustable","methodName":"setBlockIncrement","signature":"\u003cjava.awt.Adjustable: void setBlockIncrement(int)\u003e","javadoc":"/** \n * Sets the block value increment for the adjustable object.\n * @param b the block increment\n */\n","tf":{"freq":{"increment":3,"adjust":1,"block":3,"valu":1,"object":1},"maxFreq":3,"totalTerms":9},"loc":0}

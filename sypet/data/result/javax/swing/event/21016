@@ -1,0 +1,1 @@
+{"id":21016,"className":"javax.swing.event.DocumentEvent","methodName":"getLength","signature":"\u003cjavax.swing.event.DocumentEvent: int getLength()\u003e","javadoc":"/** \n * Returns the length of the change.\n * @return the length \u003e\u003d 0\n */\n","tf":{"freq":{"length":3,"chang":1},"maxFreq":3,"totalTerms":4},"loc":0}

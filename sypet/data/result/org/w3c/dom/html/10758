@@ -1,0 +1,1 @@
+{"id":10758,"className":"org.w3c.dom.html.HTMLLinkElement","methodName":"getType","signature":"\u003corg.w3c.dom.html.HTMLLinkElement: java.lang.String getType()\u003e","javadoc":"/** \n * Advisory content type. See the  type attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"content":1,"attribut":1,"advisori":1,"definit":1,"type":3},"maxFreq":3,"totalTerms":7},"loc":0}

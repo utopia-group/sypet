@@ -1,0 +1,1 @@
+{"id":27401,"className":"org.jsoup.helper.DescendableLinkedList","methodName":"DescendableLinkedList","signature":"\u003corg.jsoup.helper.DescendableLinkedList: void DescendableLinkedList()\u003e","javadoc":"/** \n * Create a new DescendableLinkedList.\n */\n","tf":{"freq":{"creat":1,"link":2,"list":2,"descend":2},"maxFreq":2,"totalTerms":7},"loc":3}

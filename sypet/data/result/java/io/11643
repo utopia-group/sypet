@@ -1,0 +1,1 @@
+{"id":11643,"className":"java.io.FilterReader","methodName":"mark","signature":"\u003cjava.io.FilterReader: void mark(int)\u003e","javadoc":"/** \n * Marks the present position in the stream.\n * @exception IOException  If an I/O error occurs\n */\n","tf":{"freq":{"present":1,"except":2,"stream":1,"error":1,"mark":2,"posit":1,"occur":1},"maxFreq":2,"totalTerms":9},"loc":3}

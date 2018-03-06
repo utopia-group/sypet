@@ -1,0 +1,1 @@
+{"id":11672,"className":"javax.naming.Reference","methodName":"clear","signature":"\u003cjavax.naming.Reference: void clear()\u003e","javadoc":"/** \n * Deletes all addresses from this reference.\n */\n","tf":{"freq":{"clear":1,"refer":1,"address":1,"delet":1},"maxFreq":1,"totalTerms":4},"loc":3}

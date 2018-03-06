@@ -1,0 +1,1 @@
+{"id":23212,"className":"javax.swing.text.html.StyleSheet","methodName":"StyleSheet","signature":"\u003cjavax.swing.text.html.StyleSheet: void StyleSheet()\u003e","javadoc":"/** \n * Construct a StyleSheet\n */\n","tf":{"freq":{"style":2,"construct":1,"sheet":2},"maxFreq":2,"totalTerms":5},"loc":8}

@@ -1,0 +1,1 @@
+{"id":16610,"className":"javax.swing.border.CompoundBorder","methodName":"getInsideBorder","signature":"\u003cjavax.swing.border.CompoundBorder: javax.swing.border.Border getInsideBorder()\u003e","javadoc":"/** \n * Returns the inside border object.\n */\n","tf":{"freq":{"insid":2,"object":1,"border":2},"maxFreq":2,"totalTerms":5},"loc":3}

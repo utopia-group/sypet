@@ -1,0 +1,1 @@
+{"id":27285,"className":"org.jsoup.examples.HtmlToPlainText$FormattingVisitor","methodName":"tail","signature":"\u003corg.jsoup.examples.HtmlToPlainText$FormattingVisitor: void tail(org.jsoup.nodes.Node,int)\u003e","loc":7}

@@ -1,0 +1,1 @@
+{"id":17350,"className":"javax.swing.undo.StateEdit","methodName":"redo","signature":"\u003cjavax.swing.undo.StateEdit: void redo()\u003e","javadoc":"/** \n * Tells the edited object to apply the state after the edit\n */\n","tf":{"freq":{"appli":1,"redo":1,"state":1,"edit":2,"tell":1,"object":1},"maxFreq":2,"totalTerms":7},"loc":4}

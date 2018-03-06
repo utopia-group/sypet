@@ -1,0 +1,1 @@
+{"id":12643,"className":"org.joda.time.Minutes","methodName":"getPeriodType","signature":"\u003corg.joda.time.Minutes: org.joda.time.PeriodType getPeriodType()\u003e","javadoc":"/** \n * Gets the period type, which is \u003ccode\u003eminutes\u003c/code\u003e.\n * @return the period type\n */\n","tf":{"freq":{"minut":1,"type":3,"period":3},"maxFreq":3,"totalTerms":7},"loc":3}

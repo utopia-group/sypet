@@ -1,0 +1,1 @@
+{"id":23788,"className":"","methodName":"visit","signature":"\u003c: org.apache.commons.math.fraction.BigFraction visit(int,int,org.apache.commons.math.fraction.BigFraction)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"visit":1},"maxFreq":1,"totalTerms":1},"loc":3}

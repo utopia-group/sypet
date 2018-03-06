@@ -1,0 +1,1 @@
+{"id":14977,"className":"java.nio.channels.spi.SelectorProvider","methodName":"openSelector","signature":"\u003cjava.nio.channels.spi.SelectorProvider: java.nio.channels.spi.AbstractSelector openSelector()\u003e","javadoc":"/** \n * Opens a selector.  \u003c/p\u003e\n * @return  The new selector\n */\n","tf":{"freq":{"selector":3,"open":2},"maxFreq":3,"totalTerms":5},"loc":0}

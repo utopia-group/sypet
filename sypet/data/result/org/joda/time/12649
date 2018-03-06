@@ -1,0 +1,1 @@
+{"id":12649,"className":"org.joda.time.Minutes","methodName":"getMinutes","signature":"\u003corg.joda.time.Minutes: int getMinutes()\u003e","javadoc":"/** \n * Gets the number of minutes that this period represents.\n * @return the number of minutes in the period\n */\n","tf":{"freq":{"minut":3,"repres":1,"number":2,"period":2},"maxFreq":3,"totalTerms":8},"loc":3}

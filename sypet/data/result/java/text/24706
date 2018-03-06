@@ -1,0 +1,1 @@
+{"id":24706,"className":"java.text.CollationKey","methodName":"getSourceString","signature":"\u003cjava.text.CollationKey: java.lang.String getSourceString()\u003e","javadoc":"/** \n * Returns the String that this CollationKey represents.\n */\n","tf":{"freq":{"repres":1,"collat":1,"string":2,"sourc":1,"key":1},"maxFreq":2,"totalTerms":6},"loc":3}

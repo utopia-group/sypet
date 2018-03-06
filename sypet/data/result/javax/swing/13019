@@ -1,0 +1,1 @@
+{"id":13019,"className":"javax.swing.JSpinner$NumberEditorFormatter","methodName":"setMinimum","signature":"\u003cjavax.swing.JSpinner$NumberEditorFormatter: void setMinimum(java.lang.Comparable)\u003e","loc":3}

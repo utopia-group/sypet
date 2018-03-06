@@ -1,0 +1,1 @@
+{"id":12588,"className":"com.opengamma.analytics.math.cube.Cube","methodName":"getName","signature":"\u003ccom.opengamma.analytics.math.cube.Cube: java.lang.String getName()\u003e","javadoc":"/** \n * @return The name of the cube\n */\n","tf":{"freq":{"name":2,"cube":1},"maxFreq":2,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":15436,"className":"javax.swing.DebugGraphics","methodName":"drawBytes","signature":"\u003cjavax.swing.DebugGraphics: void drawBytes(byte[],int,int,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.drawBytes\u003c/code\u003e.\n */\n","tf":{"freq":{"draw":2,"graphic":1},"maxFreq":2,"totalTerms":3},"loc":32}

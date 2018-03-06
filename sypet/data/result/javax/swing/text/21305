@@ -1,0 +1,1 @@
+{"id":21305,"className":"javax.swing.text.JTextComponent$MutableCaretEvent","methodName":"stateChanged","signature":"\u003cjavax.swing.text.JTextComponent$MutableCaretEvent: void stateChanged(javax.swing.event.ChangeEvent)\u003e","loc":5}

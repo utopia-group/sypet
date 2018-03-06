@@ -1,0 +1,1 @@
+{"id":13740,"className":"javax.swing.ProgressMonitor","methodName":"setMinimum","signature":"\u003cjavax.swing.ProgressMonitor: void setMinimum(int)\u003e","javadoc":"/** \n * Specifies the minimum value.\n * @param m  an int specifying the minimum value\n * @see #getMinimum\n */\n","tf":{"freq":{"minimum":4,"valu":2,"specifi":2},"maxFreq":4,"totalTerms":8},"loc":6}

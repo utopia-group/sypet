@@ -1,0 +1,1 @@
+{"id":10867,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getBackgroundColor","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getBackgroundColor()\u003e","javadoc":"/** \n * See the background-color property definition in CSS2.\n */\n","tf":{"freq":{"color":2,"definit":1,"background":2,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

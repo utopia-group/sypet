@@ -1,0 +1,1 @@
+{"id":13032,"className":"javax.swing.JSpinner.ListEditor.ListFormatter$Filter","methodName":"insertString","signature":"\u003cjavax.swing.JSpinner.ListEditor.ListFormatter$Filter: void insertString(javax.swing.text.DocumentFilter$FilterBypass,int,java.lang.String,javax.swing.text.AttributeSet)\u003e","loc":3}

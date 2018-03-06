@@ -1,0 +1,120 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/joda/17/benchmark17.json
+     [java] Benchmark Id: 17
+     [java] Method name: daysBetween
+     [java] Packages: [org.joda.time]
+     [java] Libraries: [./lib/joda-time-2.8.2.jar]
+     [java] Source type(s): [org.joda.time.DateTime, org.joda.time.DateTime]
+     [java] Target type: int
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] Warning: org.joda.convert.ToString is a phantom class!
+     [java] Warning: org.joda.convert.FromString is a phantom class!
+     [java] PetriNet for path length: 2 [places: 131 ; transitions: 2582 ; edges: 6674]
+     [java] PetriNet for path length: 3 [places: 161 ; transitions: 2827 ; edges: 7350]
+     [java] PetriNet for path length: 4 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] PetriNet for path length: 5 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] PetriNet for path length: 6 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.LocalDate sypet_var4831 = sypet_arg1.toLocalDate();org.joda.time.DateTime sypet_var4832 = sypet_var4831.toDateTimeAtMidnight();org.joda.time.Days sypet_var4833 = org.joda.time.Days.daysBetween(sypet_var4832,sypet_arg0);int sypet_var4834 = sypet_var4833.getDays();return sypet_var4834;}
+     [java] 	                                                                                                                      ^^^^^^^^^^^^^^^^^^^^^^
+     [java] The method toDateTimeAtMidnight() from the type LocalDate is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.LocalDate sypet_var4831 = sypet_arg1.toLocalDate();org.joda.time.DateTime sypet_var4832 = sypet_var4831.toDateTimeAtMidnight();org.joda.time.Days sypet_var4833 = org.joda.time.Days.daysBetween(sypet_arg0,sypet_var4832);int sypet_var4834 = sypet_var4833.getDays();return sypet_var4834;}
+     [java] 	                                                                                                                      ^^^^^^^^^^^^^^^^^^^^^^
+     [java] The method toDateTimeAtMidnight() from the type LocalDate is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.LocalDate sypet_var4831 = sypet_arg0.toLocalDate();org.joda.time.DateTime sypet_var4832 = sypet_var4831.toDateTimeAtMidnight();org.joda.time.Days sypet_var4833 = org.joda.time.Days.daysBetween(sypet_arg1,sypet_var4832);int sypet_var4834 = sypet_var4833.getDays();return sypet_var4834;}
+     [java] 	                                                                                                                      ^^^^^^^^^^^^^^^^^^^^^^
+     [java] The method toDateTimeAtMidnight() from the type LocalDate is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.LocalDate sypet_var4831 = sypet_arg0.toLocalDate();org.joda.time.DateTime sypet_var4832 = sypet_var4831.toDateTimeAtMidnight();org.joda.time.Days sypet_var4833 = org.joda.time.Days.daysBetween(sypet_var4832,sypet_arg1);int sypet_var4834 = sypet_var4833.getDays();return sypet_var4834;}
+     [java] 	                                                                                                                      ^^^^^^^^^^^^^^^^^^^^^^
+     [java] The method toDateTimeAtMidnight() from the type LocalDate is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.LocalDate sypet_var4849 = sypet_arg1.toLocalDate();org.joda.time.DateTime sypet_var4850 = sypet_var4849.toDateTimeAtMidnight();org.joda.time.Hours sypet_var4851 = org.joda.time.Hours.hoursBetween(sypet_var4850,sypet_arg0);int sypet_var4852 = sypet_var4851.getHours();return sypet_var4852;}
+     [java] 	                                                                                                                      ^^^^^^^^^^^^^^^^^^^^^^
+     [java] The method toDateTimeAtMidnight() from the type LocalDate is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.LocalDate sypet_var4849 = sypet_arg1.toLocalDate();org.joda.time.DateTime sypet_var4850 = sypet_var4849.toDateTimeAtMidnight();org.joda.time.Hours sypet_var4851 = org.joda.time.Hours.hoursBetween(sypet_arg0,sypet_var4850);int sypet_var4852 = sypet_var4851.getHours();return sypet_var4852;}
+     [java] 	                                                                                                                      ^^^^^^^^^^^^^^^^^^^^^^
+     [java] The method toDateTimeAtMidnight() from the type LocalDate is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.LocalDate sypet_var4849 = sypet_arg0.toLocalDate();org.joda.time.DateTime sypet_var4850 = sypet_var4849.toDateTimeAtMidnight();org.joda.time.Hours sypet_var4851 = org.joda.time.Hours.hoursBetween(sypet_arg1,sypet_var4850);int sypet_var4852 = sypet_var4851.getHours();return sypet_var4852;}
+     [java] 	                                                                                                                      ^^^^^^^^^^^^^^^^^^^^^^
+     [java] The method toDateTimeAtMidnight() from the type LocalDate is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.LocalDate sypet_var4849 = sypet_arg0.toLocalDate();org.joda.time.DateTime sypet_var4850 = sypet_var4849.toDateTimeAtMidnight();org.joda.time.Hours sypet_var4851 = org.joda.time.Hours.hoursBetween(sypet_var4850,sypet_arg1);int sypet_var4852 = sypet_var4851.getHours();return sypet_var4852;}
+     [java] 	                                                                                                                      ^^^^^^^^^^^^^^^^^^^^^^
+     [java] The method toDateTimeAtMidnight() from the type LocalDate is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 17
+     [java] Sketch Generation Time: 11576.037876000006
+     [java] Sketch Completion Time: 3256.035653000004
+     [java] Compilation Time: 174171.8518880007
+     [java] Running Test cases Time: 159328.4770259999
+     [java] Synthesis Time: 174160.5505549999
+     [java] Total Time: 348332.4024430006
+     [java] Number of components: 4
+     [java] Number of holes: 6
+     [java] Number of completed programs: 4736
+     [java] Number of sketches: 774
+     [java] 
+     [java] Solution:
+     [java]  org.joda.time.LocalDate sypet_var4855 = sypet_arg1.toLocalDate();
+     [java]  org.joda.time.LocalDate sypet_var4856 = sypet_arg0.toLocalDate();
+     [java]  org.joda.time.Days sypet_var4857 = org.joda.time.Days.daysBetween(sypet_var4856,sypet_var4855);
+     [java]  int sypet_var4858 = sypet_var4857.getDays();
+     [java]  return sypet_var4858;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 5 minutes 58 seconds

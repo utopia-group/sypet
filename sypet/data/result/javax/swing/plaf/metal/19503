@@ -1,0 +1,1 @@
+{"id":19503,"className":"javax.swing.plaf.metal.MetalIconFactory","methodName":"getCheckBoxIcon","signature":"\u003cjavax.swing.plaf.metal.MetalIconFactory: javax.swing.Icon getCheckBoxIcon()\u003e","javadoc":"/** \n * Returns a checkbox icon.\n * @since 1.3\n */\n","tf":{"freq":{"icon":2,"check":1,"checkbox":1,"box":1},"maxFreq":2,"totalTerms":5},"loc":6}

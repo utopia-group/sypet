@@ -1,0 +1,1 @@
+{"id":22701,"className":"java.util.concurrent.ThreadPoolExecutor","methodName":"isShutdown","signature":"\u003cjava.util.concurrent.ThreadPoolExecutor: boolean isShutdown()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":12852,"className":"java.beans.beancontext.BeanContextServicesSupport","methodName":"addService","signature":"\u003cjava.beans.beancontext.BeanContextServicesSupport: boolean addService(java.lang.Class,java.beans.beancontext.BeanContextServiceProvider)\u003e","javadoc":"/** \n * add a service\n */\n","tf":{"freq":{"servic":2,"add":2},"maxFreq":2,"totalTerms":4},"loc":3}

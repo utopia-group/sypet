@@ -1,0 +1,1 @@
+{"id":17983,"className":"org.apache.commons.math3.ode.ParameterizedWrapper","methodName":"getParameter","signature":"\u003corg.apache.commons.math3.ode.ParameterizedWrapper: double getParameter(java.lang.String)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"paramet":1},"maxFreq":1,"totalTerms":1},"loc":6}

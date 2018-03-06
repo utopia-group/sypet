@@ -1,0 +1,1 @@
+{"id":16017,"className":"javax.swing.TransferHandler$DragHandler","methodName":"dragGestureRecognized","signature":"\u003cjavax.swing.TransferHandler$DragHandler: void dragGestureRecognized(java.awt.dnd.DragGestureEvent)\u003e","javadoc":"/** \n * a Drag gesture has been recognized\n */\n","tf":{"freq":{"drag":2,"recogn":2,"gestur":2},"maxFreq":2,"totalTerms":6},"loc":22}

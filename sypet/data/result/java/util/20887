@@ -1,0 +1,1 @@
+{"id":20887,"className":"java.util.ArrayList","methodName":"ArrayList","signature":"\u003cjava.util.ArrayList: void ArrayList()\u003e","javadoc":"/** \n * Constructs an empty list with an initial capacity of ten.\n */\n","tf":{"freq":{"ten":1,"list":2,"capac":1,"initi":1,"construct":1,"empti":1,"array":1},"maxFreq":2,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":22830,"className":"org.apache.commons.math.dfp.Dfp","methodName":"isInfinite","signature":"\u003corg.apache.commons.math.dfp.Dfp: boolean isInfinite()\u003e","javadoc":"/** \n * Check if instance is infinite.\n * @return true if instance is infinite\n */\n","tf":{"freq":{"infinit":3,"check":1,"true":1,"instanc":2},"maxFreq":3,"totalTerms":7},"loc":3}

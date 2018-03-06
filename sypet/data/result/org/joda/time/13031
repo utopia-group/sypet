@@ -1,0 +1,1 @@
+{"id":13031,"className":"org.joda.time.LocalDate","methodName":"getEra","signature":"\u003corg.joda.time.LocalDate: int getEra()\u003e","javadoc":"/** \n * Get the era field value.\n * @return the era\n */\n","tf":{"freq":{"field":1,"valu":1,"era":3},"maxFreq":3,"totalTerms":5},"loc":3}

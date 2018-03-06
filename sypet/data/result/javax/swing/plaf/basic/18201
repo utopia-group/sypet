@@ -1,0 +1,1 @@
+{"id":18201,"className":"javax.swing.plaf.basic.BasicToolTipUI","methodName":"getMaximumSize","signature":"\u003cjavax.swing.plaf.basic.BasicToolTipUI: java.awt.Dimension getMaximumSize(javax.swing.JComponent)\u003e","loc":8}

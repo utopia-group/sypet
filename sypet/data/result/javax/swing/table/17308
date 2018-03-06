@@ -1,0 +1,1 @@
+{"id":17308,"className":"javax.swing.table.DefaultTableCellRenderer","methodName":"DefaultTableCellRenderer","signature":"\u003cjavax.swing.table.DefaultTableCellRenderer: void DefaultTableCellRenderer()\u003e","javadoc":"/** \n * Creates a default table cell renderer.\n */\n","tf":{"freq":{"creat":1,"tabl":2,"cell":2,"render":2},"maxFreq":2,"totalTerms":7},"loc":6}

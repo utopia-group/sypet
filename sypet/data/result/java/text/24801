@@ -1,0 +1,1 @@
+{"id":24801,"className":"java.text.MessageFormat","methodName":"clone","signature":"\u003cjava.text.MessageFormat: java.lang.Object clone()\u003e","javadoc":"/** \n * Creates and returns a copy of this object.\n * @return a clone of this instance.\n */\n","tf":{"freq":{"clone":2,"creat":1,"object":1,"copi":1,"instanc":1},"maxFreq":2,"totalTerms":6},"loc":15}

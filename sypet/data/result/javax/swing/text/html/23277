@@ -1,0 +1,1 @@
+{"id":23277,"className":"javax.swing.text.html.StyleSheet$CssParser","methodName":"handleSelector","signature":"\u003cjavax.swing.text.html.StyleSheet$CssParser: void handleSelector(java.lang.String)\u003e","javadoc":"/** \n * A selector has been encountered.\n */\n","tf":{"freq":{"selector":2,"encount":1,"handl":1},"maxFreq":2,"totalTerms":4},"loc":19}

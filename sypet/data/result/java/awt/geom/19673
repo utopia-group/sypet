@@ -1,0 +1,1 @@
+{"id":19673,"className":"java.awt.geom.Point2D$Float","methodName":"getX","signature":"\u003cjava.awt.geom.Point2D$Float: double getX()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","loc":3}

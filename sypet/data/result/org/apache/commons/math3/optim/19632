@@ -1,0 +1,1 @@
+{"id":19632,"className":"org.apache.commons.math3.optim.SimpleBounds","methodName":"getLower","signature":"\u003corg.apache.commons.math3.optim.SimpleBounds: double[] getLower()\u003e","javadoc":"/** \n * Gets the lower bounds.\n * @return the lower bounds.\n */\n","tf":{"freq":{"lower":3,"bound":2},"maxFreq":3,"totalTerms":5},"loc":3}

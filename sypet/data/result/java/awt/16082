@@ -1,0 +1,1 @@
+{"id":16082,"className":"java.awt.Graphics","methodName":"finalize","signature":"\u003cjava.awt.Graphics: void finalize()\u003e","javadoc":"/** \n * Disposes of this graphics context once it is no longer referenced.\n * @see #dispose\n */\n","tf":{"freq":{"referenc":1,"graphic":1,"context":1,"longer":1,"dispos":2},"maxFreq":2,"totalTerms":6},"loc":3}

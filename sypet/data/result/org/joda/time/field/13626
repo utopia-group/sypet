@@ -1,0 +1,1 @@
+{"id":13626,"className":"org.joda.time.field.StrictDateTimeField","methodName":"isLenient","signature":"\u003corg.joda.time.field.StrictDateTimeField: boolean isLenient()\u003e","loc":3}

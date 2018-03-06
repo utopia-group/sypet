@@ -1,0 +1,1 @@
+{"id":26699,"className":"javax.xml.ws.Holder","methodName":"Holder","signature":"\u003cjavax.xml.ws.Holder: void Holder()\u003e","javadoc":"/** \n * Creates a new holder with a \u003ccode\u003enull\u003c/code\u003e value.\n */\n","tf":{"freq":{"holder":2,"creat":1,"valu":1},"maxFreq":2,"totalTerms":4},"loc":2}

@@ -1,0 +1,1 @@
+{"id":24053,"className":"javax.print.DocFlavor","methodName":"hashCode","signature":"\u003cjavax.print.DocFlavor: int hashCode()\u003e","javadoc":"/** \n * Returns a hash code for this doc flavor object.\n */\n","tf":{"freq":{"hash":2,"flavor":1,"object":1},"maxFreq":2,"totalTerms":4},"loc":3}

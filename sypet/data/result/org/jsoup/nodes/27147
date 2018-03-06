@@ -1,0 +1,1 @@
+{"id":27147,"className":"org.jsoup.nodes.Attribute","methodName":"getKey","signature":"\u003corg.jsoup.nodes.Attribute: java.lang.String getKey()\u003e","javadoc":"/** \n * Get the attribute key.\n * @return the attribute key\n */\n","tf":{"freq":{"attribut":2,"key":3},"maxFreq":3,"totalTerms":5},"loc":3}

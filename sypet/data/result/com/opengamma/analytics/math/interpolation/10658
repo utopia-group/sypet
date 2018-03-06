@@ -1,0 +1,1 @@
+{"id":10658,"className":"com.opengamma.analytics.math.interpolation.BasisFunctionKnots","methodName":"getNumKnots","signature":"\u003ccom.opengamma.analytics.math.interpolation.BasisFunctionKnots: int getNumKnots()\u003e","javadoc":"/** \n * The number of knots\n * @return number of knots\n */\n","tf":{"freq":{"num":1,"number":2,"knot":3},"maxFreq":3,"totalTerms":6},"loc":3}

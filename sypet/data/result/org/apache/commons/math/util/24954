@@ -1,0 +1,1 @@
+{"id":24954,"className":"org.apache.commons.math.util.FastMath","methodName":"log","signature":"\u003corg.apache.commons.math.util.FastMath: double log(double)\u003e","javadoc":"/** \n * Natural logarithm.\n * @param x   a double\n * @return log(x)\n */\n","tf":{"freq":{"logarithm":1,"natur":1,"log":2},"maxFreq":2,"totalTerms":4},"loc":3}

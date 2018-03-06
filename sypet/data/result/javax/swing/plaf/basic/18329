@@ -1,0 +1,1 @@
+{"id":18329,"className":"javax.swing.plaf.basic.BasicTreeUI","methodName":"getEditingPath","signature":"\u003cjavax.swing.plaf.basic.BasicTreeUI: javax.swing.tree.TreePath getEditingPath(javax.swing.JTree)\u003e","javadoc":"/** \n * Returns the path to the element that is being edited.\n */\n","tf":{"freq":{"element":1,"path":2,"edit":2},"maxFreq":2,"totalTerms":5},"loc":3}

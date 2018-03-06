@@ -1,0 +1,1 @@
+{"id":11558,"className":"java.io.LineNumberInputStream","methodName":"getLineNumber","signature":"\u003cjava.io.LineNumberInputStream: int getLineNumber()\u003e","javadoc":"/** \n * Returns the current line number.\n * @return     the current line number.\n * @see #setLineNumber\n */\n","tf":{"freq":{"current":2,"line":4,"number":4},"maxFreq":4,"totalTerms":10},"loc":3}

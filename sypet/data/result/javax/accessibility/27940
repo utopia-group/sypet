@@ -1,0 +1,1 @@
+{"id":27940,"className":"javax.accessibility.AccessibleRelationSet","methodName":"size","signature":"\u003cjavax.accessibility.AccessibleRelationSet: int size()\u003e","javadoc":"/** \n * Returns the number of relations in the relation set.\n */\n","tf":{"freq":{"relat":2,"number":1,"size":1},"maxFreq":2,"totalTerms":4},"loc":7}

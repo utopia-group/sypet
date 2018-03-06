@@ -1,0 +1,1 @@
+{"id":19727,"className":"java.awt.geom.AreaIterator","methodName":"currentSegment","signature":"\u003cjava.awt.geom.AreaIterator: int currentSegment(double[])\u003e","loc":26}

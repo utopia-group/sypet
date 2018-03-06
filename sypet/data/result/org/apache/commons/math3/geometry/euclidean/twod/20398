@@ -1,0 +1,1 @@
+{"id":20398,"className":"org.apache.commons.math3.geometry.euclidean.twod.Vector2D","methodName":"isNaN","signature":"\u003corg.apache.commons.math3.geometry.euclidean.twod.Vector2D: boolean isNaN()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","loc":3}

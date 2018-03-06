@@ -1,0 +1,1 @@
+{"id":25821,"className":"java.security.spec.ECPrivateKeySpec","methodName":"getS","signature":"\u003cjava.security.spec.ECPrivateKeySpec: java.math.BigInteger getS()\u003e","javadoc":"/** \n * Returns the private value S.\n * @return the private value S.\n */\n","tf":{"freq":{"valu":2},"maxFreq":2,"totalTerms":2},"loc":3}

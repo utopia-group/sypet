@@ -1,0 +1,1 @@
+{"id":26081,"className":"javax.xml.stream.util.StreamReaderDelegate","methodName":"getNamespaceCount","signature":"\u003cjavax.xml.stream.util.StreamReaderDelegate: int getNamespaceCount()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":22510,"className":"javax.swing.text.rtf.RTFReader$DocumentDestination","methodName":"finishParagraph","signature":"\u003cjavax.swing.text.rtf.RTFReader$DocumentDestination: void finishParagraph(javax.swing.text.AttributeSet,javax.swing.text.AttributeSet)\u003e","loc":11}

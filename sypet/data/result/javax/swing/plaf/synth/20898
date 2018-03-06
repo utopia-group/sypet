@@ -1,0 +1,1 @@
+{"id":20898,"className":"javax.swing.plaf.synth.SynthParser","methodName":"unparsedEntityDecl","signature":"\u003cjavax.swing.plaf.synth.SynthParser: void unparsedEntityDecl(java.lang.String,java.lang.String,java.lang.String,java.lang.String)\u003e","loc":6}

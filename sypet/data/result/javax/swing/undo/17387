@@ -1,0 +1,1 @@
+{"id":17387,"className":"javax.swing.undo.UndoableEdit","methodName":"canRedo","signature":"\u003cjavax.swing.undo.UndoableEdit: boolean canRedo()\u003e","javadoc":"/** \n * Returns true if this edit may be redone.\n * @return true if this edit may be redone\n */\n","tf":{"freq":{"may":2,"redo":1,"edit":2,"true":2,"redon":2},"maxFreq":2,"totalTerms":9},"loc":0}

@@ -1,0 +1,1 @@
+{"id":10194,"className":"com.opengamma.analytics.math.function.special.InverseIncompleteGammaFunction","methodName":"evaluate","signature":"\u003ccom.opengamma.analytics.math.function.special.InverseIncompleteGammaFunction: java.lang.Double evaluate(java.lang.Double,java.lang.Double)\u003e","loc":53}

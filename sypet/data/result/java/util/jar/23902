@@ -1,0 +1,1 @@
+{"id":23902,"className":"java.util.jar.Attributes","methodName":"isEmpty","signature":"\u003cjava.util.jar.Attributes: boolean isEmpty()\u003e","javadoc":"/** \n * Returns true if this Map contains no attributes.\n */\n","tf":{"freq":{"attribut":1,"contain":1,"map":1,"true":1,"empti":1},"maxFreq":1,"totalTerms":5},"loc":3}

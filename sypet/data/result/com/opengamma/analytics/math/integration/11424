@@ -1,0 +1,1 @@
+{"id":11424,"className":"com.opengamma.analytics.math.integration.GaussianQuadratureData","methodName":"getWeights","signature":"\u003ccom.opengamma.analytics.math.integration.GaussianQuadratureData: double[] getWeights()\u003e","javadoc":"/** \n * @return The weights\n */\n","tf":{"freq":{"weight":2},"maxFreq":2,"totalTerms":2},"loc":3}

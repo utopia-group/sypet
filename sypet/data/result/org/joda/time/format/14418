@@ -1,0 +1,1 @@
+{"id":14418,"className":"org.joda.time.format.DateTimeParserBucket","methodName":"getZone","signature":"\u003corg.joda.time.format.DateTimeParserBucket: org.joda.time.DateTimeZone getZone()\u003e","javadoc":"/** \n * Returns the time zone used by computeMillis.\n */\n","tf":{"freq":{"time":1,"milli":1,"comput":1,"use":1,"zone":2},"maxFreq":2,"totalTerms":6},"loc":3}

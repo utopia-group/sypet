@@ -1,0 +1,1 @@
+{"id":24763,"className":"javax.net.ssl.SSLSession","methodName":"getId","signature":"\u003cjavax.net.ssl.SSLSession: byte[] getId()\u003e","javadoc":"/** \n * Returns the identifier assigned to this Session.\n * @return the Session identifier\n */\n","tf":{"freq":{"assign":1,"session":2,"identifi":2},"maxFreq":2,"totalTerms":5},"loc":0}

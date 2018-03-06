@@ -1,0 +1,1 @@
+{"id":26893,"className":"org.jsoup.select.QueryParser","methodName":"parse","signature":"\u003corg.jsoup.select.QueryParser: org.jsoup.select.Evaluator parse(java.lang.String)\u003e","javadoc":"/** \n * Parse a CSS query into an Evaluator.\n * @param query CSS query\n * @return Evaluator\n */\n","tf":{"freq":{"queri":3,"evalu":2,"pars":2},"maxFreq":3,"totalTerms":7},"loc":4}

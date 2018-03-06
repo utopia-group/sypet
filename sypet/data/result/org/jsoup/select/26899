@@ -1,0 +1,1 @@
+{"id":26899,"className":"org.jsoup.select.Elements","methodName":"clone","signature":"\u003corg.jsoup.select.Elements: org.jsoup.select.Elements clone()\u003e","javadoc":"/** \n * Creates a deep copy of these elements.\n * @return a deep copy\n */\n","tf":{"freq":{"element":1,"clone":1,"creat":1,"deep":2,"copi":2},"maxFreq":2,"totalTerms":7},"loc":8}

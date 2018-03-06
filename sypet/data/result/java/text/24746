@@ -1,0 +1,1 @@
+{"id":24746,"className":"java.text.StringCharacterIterator","methodName":"setIndex","signature":"\u003cjava.text.StringCharacterIterator: char setIndex(int)\u003e","javadoc":"/** \n * Implements CharacterIterator.setIndex() for String.\n * @see CharacterIterator#setIndex\n */\n","tf":{"freq":{"index":3,"charact":2,"string":1,"iter":2},"maxFreq":3,"totalTerms":8},"loc":6}

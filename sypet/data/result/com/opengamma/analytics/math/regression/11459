@@ -1,0 +1,1 @@
+{"id":11459,"className":"com.opengamma.analytics.math.regression.WeightedLeastSquaresRegression","methodName":"regress","signature":"\u003ccom.opengamma.analytics.math.regression.WeightedLeastSquaresRegression: com.opengamma.analytics.math.regression.LeastSquaresRegressionResult regress(double[][],double[][],double[],boolean)\u003e","loc":13}

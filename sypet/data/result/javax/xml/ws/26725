@@ -1,0 +1,1 @@
+{"id":26725,"className":"javax.xml.ws.Endpoint","methodName":"stop","signature":"\u003cjavax.xml.ws.Endpoint: void stop()\u003e","javadoc":"/** \n * Stops publishing this endpoint. If the endpoint is not in a published state, this method has no effect.\n */\n","tf":{"freq":{"stop":2,"effect":1,"state":1,"method":1,"publish":2,"endpoint":2},"maxFreq":2,"totalTerms":9},"loc":0}

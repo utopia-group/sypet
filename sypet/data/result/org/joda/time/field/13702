@@ -1,0 +1,1 @@
+{"id":13702,"className":"org.joda.time.field.DelegatedDateTimeField","methodName":"getDifferenceAsLong","signature":"\u003corg.joda.time.field.DelegatedDateTimeField: long getDifferenceAsLong(long,long)\u003e","loc":3}

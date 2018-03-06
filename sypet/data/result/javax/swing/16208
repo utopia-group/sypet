@@ -1,0 +1,1 @@
+{"id":16208,"className":"javax.swing.Timer","methodName":"getInitialDelay","signature":"\u003cjavax.swing.Timer: int getInitialDelay()\u003e","javadoc":"/** \n * Returns the \u003ccode\u003eTimer\u003c/code\u003e\u0027s initial delay.\n * @see #setInitialDelay\n * @see #setDelay\n */\n","tf":{"freq":{"timer":1,"delay":4,"initi":3},"maxFreq":4,"totalTerms":8},"loc":3}

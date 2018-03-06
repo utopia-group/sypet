@@ -1,0 +1,1 @@
+{"id":23859,"className":"java.util.jar.JarFile$JarFileEntry","methodName":"getCertificates","signature":"\u003cjava.util.jar.JarFile$JarFileEntry: java.security.cert.Certificate[] getCertificates()\u003e","loc":11}

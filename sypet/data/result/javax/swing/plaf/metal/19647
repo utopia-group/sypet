@@ -1,0 +1,1 @@
+{"id":19647,"className":"javax.swing.plaf.metal.MetalComboBoxUI","methodName":"getMinimumSize","signature":"\u003cjavax.swing.plaf.metal.MetalComboBoxUI: java.awt.Dimension getMinimumSize(javax.swing.JComponent)\u003e","loc":36}

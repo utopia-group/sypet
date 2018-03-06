@@ -1,0 +1,1 @@
+{"id":10359,"className":"javax.management.OrQueryExp","methodName":"toString","signature":"\u003cjavax.management.OrQueryExp: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a string representation of this OrQueryExp\n */\n","tf":{"freq":{"exp":1,"queri":1,"string":2,"represent":1},"maxFreq":2,"totalTerms":5},"loc":3}

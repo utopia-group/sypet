@@ -1,0 +1,1 @@
+{"id":19442,"className":"java.awt.event.MouseListener","methodName":"mouseEntered","signature":"\u003cjava.awt.event.MouseListener: void mouseEntered(java.awt.event.MouseEvent)\u003e","javadoc":"/** \n * Invoked when the mouse enters a component.\n */\n","tf":{"freq":{"compon":1,"invok":1,"enter":2,"mous":2},"maxFreq":2,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":16114,"className":"java.awt.DisplayMode","methodName":"equals","signature":"\u003cjava.awt.DisplayMode: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"equal":1},"maxFreq":1,"totalTerms":1},"loc":7}

@@ -1,0 +1,1 @@
+{"id":23702,"className":"java.util.zip.ZipEntry","methodName":"clone","signature":"\u003cjava.util.zip.ZipEntry: java.lang.Object clone()\u003e","javadoc":"/** \n * Returns a copy of this entry.\n */\n","tf":{"freq":{"clone":1,"entri":1,"copi":1},"maxFreq":1,"totalTerms":3},"loc":10}

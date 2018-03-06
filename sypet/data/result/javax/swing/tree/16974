@@ -1,0 +1,1 @@
+{"id":16974,"className":"javax.swing.tree.VariableHeightLayoutCache$TreeStateNode","methodName":"hasValidSize","signature":"\u003cjavax.swing.tree.VariableHeightLayoutCache$TreeStateNode: boolean hasValidSize()\u003e","javadoc":"/** \n * Returns true if this node has a valid size.\n */\n","tf":{"freq":{"valid":2,"node":1,"true":1,"size":2},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":18492,"className":"java.awt.image.SampleModel","methodName":"getDataType","signature":"\u003cjava.awt.image.SampleModel: int getDataType()\u003e","javadoc":"/** \n * Returns the data type of the DataBuffer storing the pixel data.\n * @return the data type.\n */\n","tf":{"freq":{"buffer":1,"store":1,"pixel":1,"data":5,"type":3},"maxFreq":5,"totalTerms":11},"loc":3}

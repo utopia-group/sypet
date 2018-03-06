@@ -1,0 +1,1 @@
+{"id":13386,"className":"java.lang.StringBuffer","methodName":"reverse","signature":"\u003cjava.lang.StringBuffer: java.lang.StringBuffer reverse()\u003e","javadoc":"/** \n * @since   JDK1.0.2\n */\n","tf":{"freq":{"revers":1},"maxFreq":1,"totalTerms":1},"loc":4}

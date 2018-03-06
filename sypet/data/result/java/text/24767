@@ -1,0 +1,1 @@
+{"id":24767,"className":"java.text.CharacterIterator","methodName":"getBeginIndex","signature":"\u003cjava.text.CharacterIterator: int getBeginIndex()\u003e","javadoc":"/** \n * Returns the start index of the text.\n * @return the index at which the text begins.\n */\n","tf":{"freq":{"text":2,"index":3,"start":1,"begin":2},"maxFreq":3,"totalTerms":8},"loc":0}

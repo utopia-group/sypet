@@ -1,0 +1,1 @@
+{"id":20416,"className":"javax.swing.plaf.synth.ParsedSynthStyle$DelegatingPainter","methodName":"paintTabbedPaneTabAreaBackground","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$DelegatingPainter: void paintTabbedPaneTabAreaBackground(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int,int)\u003e","loc":5}

@@ -1,0 +1,1 @@
+{"id":22732,"className":"java.util.concurrent.ThreadPoolExecutor$DiscardPolicy","methodName":"DiscardPolicy","signature":"\u003cjava.util.concurrent.ThreadPoolExecutor$DiscardPolicy: void DiscardPolicy()\u003e","javadoc":"/** \n * Creates a  {@code DiscardPolicy}.\n */\n","tf":{"freq":{"creat":1,"polici":2,"discard":2},"maxFreq":2,"totalTerms":5},"loc":1}

@@ -1,0 +1,1 @@
+{"id":25871,"className":"java.security.cert.CertPathValidatorSpi","methodName":"CertPathValidatorSpi","signature":"\u003cjava.security.cert.CertPathValidatorSpi: void CertPathValidatorSpi()\u003e","javadoc":"/** \n * The default constructor.\n */\n","tf":{"freq":{"valid":1,"cert":1,"spi":1,"path":1,"constructor":1},"maxFreq":1,"totalTerms":5},"loc":1}

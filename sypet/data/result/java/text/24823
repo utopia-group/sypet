@@ -1,0 +1,1 @@
+{"id":24823,"className":"java.text.Bidi","methodName":"getRunCount","signature":"\u003cjava.text.Bidi: int getRunCount()\u003e","javadoc":"/** \n * Return the number of level runs.\n * @return the number of level runs\n */\n","tf":{"freq":{"level":2,"count":1,"number":2,"run":3},"maxFreq":3,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":15254,"className":"org.joda.money.Money","methodName":"isZero","signature":"\u003corg.joda.money.Money: boolean isZero()\u003e","javadoc":"/** \n * Checks if the amount is zero.\n * @return true if the amount is zero\n */\n","tf":{"freq":{"amount":2,"check":1,"true":1,"zero":3},"maxFreq":3,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":19697,"className":"java.awt.geom.Area","methodName":"Area","signature":"\u003cjava.awt.geom.Area: void Area()\u003e","javadoc":"/** \n * Default constructor which creates an empty area.\n * @since 1.2\n */\n","tf":{"freq":{"area":2,"creat":1,"empti":1,"constructor":1},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":19278,"className":"javax.swing.plaf.basic.BasicSplitPaneDivider","methodName":"getPreferredSize","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneDivider: java.awt.Dimension getPreferredSize()\u003e","javadoc":"/** \n * Returns dividerSize x dividerSize\n */\n","tf":{"freq":{"divid":2,"prefer":1,"size":3},"maxFreq":3,"totalTerms":6},"loc":10}

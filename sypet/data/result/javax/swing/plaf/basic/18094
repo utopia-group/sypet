@@ -1,0 +1,1 @@
+{"id":18094,"className":"javax.swing.plaf.basic.BasicFileChooserUI","methodName":"getApproveButtonToolTipText","signature":"\u003cjavax.swing.plaf.basic.BasicFileChooserUI: java.lang.String getApproveButtonToolTipText(javax.swing.JFileChooser)\u003e","loc":13}

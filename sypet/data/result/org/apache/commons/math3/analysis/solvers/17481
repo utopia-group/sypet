@@ -1,0 +1,1 @@
+{"id":17481,"className":"org.apache.commons.math3.analysis.solvers.NewtonSolver","methodName":"NewtonSolver","signature":"\u003corg.apache.commons.math3.analysis.solvers.NewtonSolver: void NewtonSolver()\u003e","javadoc":"/** \n * Construct a solver.\n */\n","tf":{"freq":{"newton":1,"solver":2,"construct":1},"maxFreq":2,"totalTerms":4},"loc":3}

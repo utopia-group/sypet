@@ -1,0 +1,1 @@
+{"id":14904,"className":"org.joda.time.chrono.GJDayOfWeekDateTimeField","methodName":"getRangeDurationField","signature":"\u003corg.joda.time.chrono.GJDayOfWeekDateTimeField: org.joda.time.DurationField getRangeDurationField()\u003e","loc":3}

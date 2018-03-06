@@ -1,0 +1,1 @@
+{"id":20598,"className":"javax.swing.plaf.synth.SynthTableUI$SynthBooleanTableCellRenderer","methodName":"getTableCellRendererComponent","signature":"\u003cjavax.swing.plaf.synth.SynthTableUI$SynthBooleanTableCellRenderer: java.awt.Component getTableCellRendererComponent(javax.swing.JTable,java.lang.Object,boolean,boolean,int,int)\u003e","loc":14}

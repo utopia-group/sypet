@@ -1,0 +1,1 @@
+{"id":19431,"className":"java.awt.event.MouseAdapter","methodName":"mouseClicked","signature":"\u003cjava.awt.event.MouseAdapter: void mouseClicked(java.awt.event.MouseEvent)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"click":1,"mous":1},"maxFreq":1,"totalTerms":2},"loc":1}

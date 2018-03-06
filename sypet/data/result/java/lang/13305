@@ -1,0 +1,1 @@
+{"id":13305,"className":"java.lang.Byte","methodName":"longValue","signature":"\u003cjava.lang.Byte: long longValue()\u003e","javadoc":"/** \n * Returns the value of this  {@code Byte} as a{@code long}.\n */\n","tf":{"freq":{"valu":2},"maxFreq":2,"totalTerms":2},"loc":3}

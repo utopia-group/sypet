@@ -1,0 +1,1 @@
+{"id":10999,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getMaxHeight","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getMaxHeight()\u003e","javadoc":"/** \n * See the max-height property definition in CSS2.\n */\n","tf":{"freq":{"height":2,"max":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

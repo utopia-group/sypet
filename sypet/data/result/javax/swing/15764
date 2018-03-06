@@ -1,0 +1,1 @@
+{"id":15764,"className":"javax.swing.ArrayTable","methodName":"clear","signature":"\u003cjavax.swing.ArrayTable: void clear()\u003e","javadoc":"/** \n * Removes all the mappings.\n */\n","tf":{"freq":{"clear":1,"map":1,"remov":1},"maxFreq":1,"totalTerms":3},"loc":3}

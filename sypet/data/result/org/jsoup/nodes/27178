@@ -1,0 +1,1 @@
+{"id":27178,"className":"org.jsoup.nodes.Attributes","methodName":"html","signature":"\u003corg.jsoup.nodes.Attributes: java.lang.String html()\u003e","javadoc":"/** \n * Get the HTML representation of these attributes.\n * @return HTML\n */\n","tf":{"freq":{"attribut":1,"html":1,"represent":1},"maxFreq":1,"totalTerms":3},"loc":5}

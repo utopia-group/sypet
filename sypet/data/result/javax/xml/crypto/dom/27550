@@ -1,0 +1,1 @@
+{"id":27550,"className":"javax.xml.crypto.dom.DOMCryptoContext","methodName":"setBaseURI","signature":"\u003cjavax.xml.crypto.dom.DOMCryptoContext: void setBaseURI(java.lang.String)\u003e","javadoc":"/** \n * @throws IllegalArgumentException {@inheritDoc}\n */\n","tf":{"freq":{"argument":1,"except":1,"base":1,"illeg":1},"maxFreq":1,"totalTerms":4},"loc":6}

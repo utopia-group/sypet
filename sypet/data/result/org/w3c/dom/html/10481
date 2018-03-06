@@ -1,0 +1,1 @@
+{"id":10481,"className":"org.w3c.dom.html.HTMLImageElement","methodName":"getWidth","signature":"\u003corg.w3c.dom.html.HTMLImageElement: java.lang.String getWidth()\u003e","javadoc":"/** \n * Override width. See the  width attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"attribut":1,"definit":1,"width":3},"maxFreq":3,"totalTerms":5},"loc":0}

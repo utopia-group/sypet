@@ -1,0 +1,1 @@
+{"id":25181,"className":"org.apache.commons.math.linear.SparseFieldVector","methodName":"dotProduct","signature":"\u003corg.apache.commons.math.linear.SparseFieldVector: T dotProduct(T[])\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"product":1,"dot":1},"maxFreq":1,"totalTerms":2},"loc":14}

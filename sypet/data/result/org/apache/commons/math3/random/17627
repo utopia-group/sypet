@@ -1,0 +1,1 @@
+{"id":17627,"className":"org.apache.commons.math3.random.AbstractRandomGenerator","methodName":"AbstractRandomGenerator","signature":"\u003corg.apache.commons.math3.random.AbstractRandomGenerator: void AbstractRandomGenerator()\u003e","javadoc":"/** \n * Construct a RandomGenerator.\n */\n","tf":{"freq":{"generat":2,"random":2,"construct":1},"maxFreq":2,"totalTerms":5},"loc":4}

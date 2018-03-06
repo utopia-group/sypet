@@ -1,0 +1,1 @@
+{"id":17956,"className":"javax.swing.plaf.basic.BasicSplitPaneUI","methodName":"getMaximumDividerLocation","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneUI: int getMaximumDividerLocation(javax.swing.JSplitPane)\u003e","javadoc":"/** \n * Gets the maximum location of the divider.\n */\n","tf":{"freq":{"locat":2,"maximum":2,"divid":2},"maxFreq":2,"totalTerms":6},"loc":27}

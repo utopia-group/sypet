@@ -1,0 +1,1 @@
+{"id":11447,"className":"com.opengamma.analytics.math.regression.LeastSquaresRegressionResult","methodName":"getMeanSquareError","signature":"\u003ccom.opengamma.analytics.math.regression.LeastSquaresRegressionResult: double getMeanSquareError()\u003e","loc":3}

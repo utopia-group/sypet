@@ -1,0 +1,1 @@
+{"id":19253,"className":"javax.swing.plaf.basic.BasicDirectoryModel","methodName":"intervalRemoved","signature":"\u003cjavax.swing.plaf.basic.BasicDirectoryModel: void intervalRemoved(javax.swing.event.ListDataEvent)\u003e","javadoc":"/** \n * Obsolete - not used.\n */\n","tf":{"freq":{"interv":1,"obsolet":1,"remov":1,"use":1},"maxFreq":1,"totalTerms":4},"loc":2}

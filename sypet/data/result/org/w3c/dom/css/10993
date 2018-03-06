@@ -1,0 +1,1 @@
+{"id":10993,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getMarginLeft","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getMarginLeft()\u003e","javadoc":"/** \n * See the margin-left property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"left":2,"margin":2,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

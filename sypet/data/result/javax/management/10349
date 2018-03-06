@@ -1,0 +1,1 @@
+{"id":10349,"className":"javax.management.AndQueryExp","methodName":"AndQueryExp","signature":"\u003cjavax.management.AndQueryExp: void AndQueryExp(javax.management.QueryExp,javax.management.QueryExp)\u003e","javadoc":"/** \n * Creates a new AndQueryExp with q1 and q2 QueryExp.\n */\n","tf":{"freq":{"exp":3,"queri":3,"creat":1},"maxFreq":3,"totalTerms":7},"loc":4}

@@ -1,0 +1,1 @@
+{"id":15480,"className":"javax.swing.Box","methodName":"setLayout","signature":"\u003cjavax.swing.Box: void setLayout(java.awt.LayoutManager)\u003e","javadoc":"/** \n * Throws an AWTError, since a Box can use only a BoxLayout.\n * @param l the layout manager to use\n */\n","tf":{"freq":{"manag":1,"terror":1,"layout":3,"use":2,"box":2},"maxFreq":3,"totalTerms":9},"loc":3}

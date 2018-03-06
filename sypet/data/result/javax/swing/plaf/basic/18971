@@ -1,0 +1,1 @@
+{"id":18971,"className":"javax.swing.plaf.basic.BasicTabbedPaneUI","methodName":"getMinimumSize","signature":"\u003cjavax.swing.plaf.basic.BasicTabbedPaneUI: java.awt.Dimension getMinimumSize(javax.swing.JComponent)\u003e","loc":4}

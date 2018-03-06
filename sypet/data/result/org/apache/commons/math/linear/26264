@@ -1,0 +1,1 @@
+{"id":26264,"className":"org.apache.commons.math.linear.BlockRealMatrix","methodName":"preMultiply","signature":"\u003corg.apache.commons.math.linear.BlockRealMatrix: double[] preMultiply(double[])\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"pre":1,"multipli":1},"maxFreq":1,"totalTerms":2},"loc":45}

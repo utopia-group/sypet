@@ -1,0 +1,1 @@
+{"id":24624,"className":"java.text.ParseException","methodName":"getErrorOffset","signature":"\u003cjava.text.ParseException: int getErrorOffset()\u003e","javadoc":"/** \n * Returns the position where the error was found.\n */\n","tf":{"freq":{"error":2,"offset":1,"posit":1,"found":1},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":17512,"className":"javax.swing.plaf.ComboBoxUI","methodName":"setPopupVisible","signature":"\u003cjavax.swing.plaf.ComboBoxUI: void setPopupVisible(javax.swing.JComboBox,boolean)\u003e","javadoc":"/** \n * Set the visiblity of the popup\n */\n","tf":{"freq":{"visibl":2,"popup":2},"maxFreq":2,"totalTerms":4},"loc":0}

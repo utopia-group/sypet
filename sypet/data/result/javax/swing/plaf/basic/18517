@@ -1,0 +1,1 @@
+{"id":18517,"className":"javax.swing.plaf.basic.BasicMenuUI$Handler","methodName":"menuKeyTyped","signature":"\u003cjavax.swing.plaf.basic.BasicMenuUI$Handler: void menuKeyTyped(javax.swing.event.MenuKeyEvent)\u003e","javadoc":"/** \n * Open the Menu\n */\n","tf":{"freq":{"open":1,"menu":2,"type":1,"key":1},"maxFreq":2,"totalTerms":5},"loc":33}

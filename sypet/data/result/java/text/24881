@@ -1,0 +1,1 @@
+{"id":24881,"className":"java.text.RuleBasedCollator","methodName":"hashCode","signature":"\u003cjava.text.RuleBasedCollator: int hashCode()\u003e","javadoc":"/** \n * Generates the hash code for the table-based collation object\n */\n","tf":{"freq":{"collat":1,"hash":2,"tabl":1,"generat":1,"base":1,"object":1},"maxFreq":2,"totalTerms":7},"loc":3}

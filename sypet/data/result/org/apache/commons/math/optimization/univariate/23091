@@ -1,0 +1,1 @@
+{"id":23091,"className":"org.apache.commons.math.optimization.univariate.BrentOptimizer","methodName":"BrentOptimizer","signature":"\u003corg.apache.commons.math.optimization.univariate.BrentOptimizer: void BrentOptimizer()\u003e","javadoc":"/** \n * Construct a solver.\n */\n","tf":{"freq":{"solver":1,"optim":1,"brent":1,"construct":1},"maxFreq":1,"totalTerms":4},"loc":6}

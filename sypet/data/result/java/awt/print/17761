@@ -1,0 +1,1 @@
+{"id":17761,"className":"java.awt.print.Book","methodName":"Book","signature":"\u003cjava.awt.print.Book: void Book()\u003e","javadoc":"/** \n * Creates a new, empty \u003ccode\u003eBook\u003c/code\u003e.\n */\n","tf":{"freq":{"creat":1,"book":2,"empti":1},"maxFreq":2,"totalTerms":4},"loc":3}

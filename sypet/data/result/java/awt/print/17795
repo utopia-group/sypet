@@ -1,0 +1,1 @@
+{"id":17795,"className":"java.awt.print.PrinterJob","methodName":"setCopies","signature":"\u003cjava.awt.print.PrinterJob: void setCopies(int)\u003e","javadoc":"/** \n * Sets the number of copies to be printed.\n * @param copies the number of copies to be printed\n * @see #getCopies\n */\n","tf":{"freq":{"number":2,"print":2,"copi":5},"maxFreq":5,"totalTerms":9},"loc":0}

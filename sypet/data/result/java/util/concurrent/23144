@@ -1,0 +1,1 @@
+{"id":23144,"className":"java.util.concurrent.LinkedBlockingDeque","methodName":"pop","signature":"\u003cjava.util.concurrent.LinkedBlockingDeque: E pop()\u003e","javadoc":"/** \n * @throws NoSuchElementException {@inheritDoc}\n */\n","tf":{"freq":{"element":1,"except":1,"pop":1},"maxFreq":1,"totalTerms":3},"loc":3}

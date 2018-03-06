@@ -1,0 +1,1 @@
+{"id":17702,"className":"java.awt.datatransfer.MimeTypeParameterList","methodName":"size","signature":"\u003cjava.awt.datatransfer.MimeTypeParameterList: int size()\u003e","javadoc":"/** \n * return the number of name-value pairs in this list.\n */\n","tf":{"freq":{"pair":1,"name":1,"list":1,"valu":1,"number":1,"size":1},"maxFreq":1,"totalTerms":6},"loc":3}

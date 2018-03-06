@@ -1,0 +1,1 @@
+{"id":12370,"className":"com.opengamma.analytics.math.minimization.LineSearch","methodName":"LineSearch","signature":"\u003ccom.opengamma.analytics.math.minimization.LineSearch: void LineSearch(com.opengamma.analytics.math.minimization.ScalarMinimizer)\u003e","loc":5}

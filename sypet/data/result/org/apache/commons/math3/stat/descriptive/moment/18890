@@ -1,0 +1,1 @@
+{"id":18890,"className":"org.apache.commons.math3.stat.descriptive.moment.SecondMoment","methodName":"SecondMoment","signature":"\u003corg.apache.commons.math3.stat.descriptive.moment.SecondMoment: void SecondMoment()\u003e","javadoc":"/** \n * Create a SecondMoment instance\n */\n","tf":{"freq":{"second":2,"creat":1,"moment":2,"instanc":1},"maxFreq":2,"totalTerms":6},"loc":4}

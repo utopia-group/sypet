@@ -1,0 +1,1 @@
+{"id":21785,"className":"javax.swing.text.SegmentCache","methodName":"getSharedInstance","signature":"\u003cjavax.swing.text.SegmentCache: javax.swing.text.SegmentCache getSharedInstance()\u003e","javadoc":"/** \n * Returns the shared SegmentCache.\n */\n","tf":{"freq":{"share":2,"segment":1,"cach":1,"instanc":1},"maxFreq":2,"totalTerms":5},"loc":3}

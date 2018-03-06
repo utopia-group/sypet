@@ -1,0 +1,1 @@
+{"id":10509,"className":"com.opengamma.analytics.math.interpolation.CubicSplineNakSolver","methodName":"solve","signature":"\u003ccom.opengamma.analytics.math.interpolation.CubicSplineNakSolver: com.opengamma.analytics.math.matrix.DoubleMatrix2D solve(double[],double[])\u003e","loc":6}

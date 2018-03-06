@@ -1,0 +1,1 @@
+{"id":13372,"className":"java.lang.StringBuffer","methodName":"insert","signature":"\u003cjava.lang.StringBuffer: java.lang.StringBuffer insert(int,java.lang.String)\u003e","javadoc":"/** \n * @throws StringIndexOutOfBoundsException {@inheritDoc}\n */\n","tf":{"freq":{"except":1,"index":1,"string":1,"insert":1,"bound":1},"maxFreq":1,"totalTerms":5},"loc":4}

@@ -1,0 +1,1 @@
+{"id":15240,"className":"java.nio.file.attribute.BasicFileAttributes","methodName":"isDirectory","signature":"\u003cjava.nio.file.attribute.BasicFileAttributes: boolean isDirectory()\u003e","javadoc":"/** \n * Tells whether the file is a directory.\n */\n","tf":{"freq":{"directori":2,"file":1,"tell":1,"whether":1},"maxFreq":2,"totalTerms":5},"loc":0}

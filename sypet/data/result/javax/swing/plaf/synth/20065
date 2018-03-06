@@ -1,0 +1,1 @@
+{"id":20065,"className":"javax.swing.plaf.synth.ImagePainter","methodName":"paintScrollBarTrackBorder","signature":"\u003cjavax.swing.plaf.synth.ImagePainter: void paintScrollBarTrackBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int,int)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":27157,"className":"javax.xml.datatype.DatatypeConstants$Field","methodName":"getId","signature":"\u003cjavax.xml.datatype.DatatypeConstants$Field: int getId()\u003e","javadoc":"/** \n * \u003cp\u003eGet id of this Field.\u003c/p\u003e\n * @return Id of field.\n */\n","tf":{"freq":{"field":2},"maxFreq":2,"totalTerms":2},"loc":3}

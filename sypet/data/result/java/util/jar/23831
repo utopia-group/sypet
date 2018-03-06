@@ -1,0 +1,1 @@
+{"id":23831,"className":"java.util.jar.JarVerifier","methodName":"getManifestDigests","signature":"\u003cjava.util.jar.JarVerifier: java.util.List getManifestDigests()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":27532,"className":"javax.xml.crypto.KeySelector$SingletonKeySelector","methodName":"select","signature":"\u003cjavax.xml.crypto.KeySelector$SingletonKeySelector: javax.xml.crypto.KeySelectorResult select(javax.xml.crypto.dsig.keyinfo.KeyInfo,javax.xml.crypto.KeySelector$Purpose,javax.xml.crypto.AlgorithmMethod,javax.xml.crypto.XMLCryptoContext)\u003e","loc":8}

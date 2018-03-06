@@ -1,0 +1,1 @@
+{"id":17349,"className":"javax.swing.undo.StateEdit","methodName":"undo","signature":"\u003cjavax.swing.undo.StateEdit: void undo()\u003e","javadoc":"/** \n * Tells the edited object to apply the state prior to the edit\n */\n","tf":{"freq":{"appli":1,"undo":1,"state":1,"edit":2,"tell":1,"object":1,"prior":1},"maxFreq":2,"totalTerms":8},"loc":4}

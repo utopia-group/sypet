@@ -1,0 +1,1 @@
+{"id":21115,"className":"java.util.LinkedList","methodName":"LinkedList","signature":"\u003cjava.util.LinkedList: void LinkedList()\u003e","javadoc":"/** \n * Constructs an empty list.\n */\n","tf":{"freq":{"link":1,"list":2,"construct":1,"empti":1},"maxFreq":2,"totalTerms":5},"loc":2}

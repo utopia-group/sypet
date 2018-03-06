@@ -1,0 +1,1 @@
+{"id":24809,"className":"java.text.ParsePosition","methodName":"equals","signature":"\u003cjava.text.ParsePosition: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * Overrides equals\n */\n","tf":{"freq":{"equal":2},"maxFreq":2,"totalTerms":2},"loc":7}

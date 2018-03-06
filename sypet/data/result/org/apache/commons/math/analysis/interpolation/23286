@@ -1,0 +1,1 @@
+{"id":23286,"className":"org.apache.commons.math.analysis.interpolation.TricubicSplineInterpolatingFunction","methodName":"value","signature":"\u003corg.apache.commons.math.analysis.interpolation.TricubicSplineInterpolatingFunction: double value(double,double,double)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"valu":1},"maxFreq":1,"totalTerms":1},"loc":20}

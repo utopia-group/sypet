@@ -1,0 +1,1 @@
+{"id":11346,"className":"javax.management.modelmbean.RequiredModelMBean","methodName":"sendAttributeChangeNotification","signature":"\u003cjavax.management.modelmbean.RequiredModelMBean: void sendAttributeChangeNotification(javax.management.Attribute,javax.management.Attribute)\u003e","loc":51}

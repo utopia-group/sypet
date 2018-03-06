@@ -1,0 +1,1 @@
+{"id":12205,"className":"java.net.SocketOption","methodName":"name","signature":"\u003cjava.net.SocketOption: java.lang.String name()\u003e","javadoc":"/** \n * Returns the name of the socket option.\n */\n","tf":{"freq":{"name":2,"socket":1,"option":1},"maxFreq":2,"totalTerms":4},"loc":0}

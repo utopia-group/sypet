@@ -1,0 +1,1 @@
+{"id":22348,"className":"javax.swing.text.Segment","methodName":"subSequence","signature":"\u003cjavax.swing.text.Segment: java.lang.CharSequence subSequence(int,int)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.6\n */\n","tf":{"freq":{"sub":1,"sequenc":1},"maxFreq":1,"totalTerms":2},"loc":16}

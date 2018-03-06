@@ -1,0 +1,1 @@
+{"id":25790,"className":"java.security.spec.ECPublicKeySpec","methodName":"getW","signature":"\u003cjava.security.spec.ECPublicKeySpec: java.security.spec.ECPoint getW()\u003e","javadoc":"/** \n * Returns the public point W.\n * @return the public point W.\n */\n","tf":{"freq":{"point":2},"maxFreq":2,"totalTerms":2},"loc":3}

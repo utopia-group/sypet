@@ -1,0 +1,1 @@
+{"id":26191,"className":"org.apache.commons.math.linear.Array2DRowRealMatrix","methodName":"getRowDimension","signature":"\u003corg.apache.commons.math.linear.Array2DRowRealMatrix: int getRowDimension()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"dimens":1,"row":1},"maxFreq":1,"totalTerms":2},"loc":3}

@@ -1,0 +1,1 @@
+{"id":24872,"className":"java.text.DecimalFormatSymbols$DecimalFormatSymbolsGetter","methodName":"getObject","signature":"\u003cjava.text.DecimalFormatSymbols$DecimalFormatSymbolsGetter: java.text.DecimalFormatSymbols getObject(java.text.spi.DecimalFormatSymbolsProvider,java.util.Locale,java.lang.String,java.lang.Object[])\u003e","loc":4}

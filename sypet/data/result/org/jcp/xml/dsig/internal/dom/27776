@@ -1,0 +1,1 @@
+{"id":27776,"className":"org.jcp.xml.dsig.internal.dom.ApacheCanonicalizer","methodName":"transform","signature":"\u003corg.jcp.xml.dsig.internal.dom.ApacheCanonicalizer: javax.xml.crypto.Data transform(javax.xml.crypto.Data,javax.xml.crypto.XMLCryptoContext,java.io.OutputStream)\u003e","loc":72}

@@ -1,0 +1,1 @@
+{"id":10970,"className":"javax.management.loading.MLetContent","methodName":"getCodeBase","signature":"\u003cjavax.management.loading.MLetContent: java.net.URL getCodeBase()\u003e","javadoc":"/** \n * Gets the code base URL.\n * @return The code base URL.\n */\n","tf":{"freq":{"base":3},"maxFreq":3,"totalTerms":3},"loc":3}

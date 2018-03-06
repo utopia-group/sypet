@@ -1,0 +1,1 @@
+{"id":25976,"className":"javax.xml.stream.XMLStreamException","methodName":"getNestedException","signature":"\u003cjavax.xml.stream.XMLStreamException: java.lang.Throwable getNestedException()\u003e","javadoc":"/** \n * Gets the nested exception.\n * @return Nested exception\n */\n","tf":{"freq":{"except":3,"nest":3},"maxFreq":3,"totalTerms":6},"loc":3}

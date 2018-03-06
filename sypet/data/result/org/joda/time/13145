@@ -1,0 +1,1 @@
+{"id":13145,"className":"org.joda.time.MutableDateTime","methodName":"era","signature":"\u003corg.joda.time.MutableDateTime: org.joda.time.MutableDateTime$Property era()\u003e","javadoc":"/** \n * Get the era property.\n * @return the era property\n */\n","tf":{"freq":{"era":3,"properti":2},"maxFreq":3,"totalTerms":5},"loc":3}

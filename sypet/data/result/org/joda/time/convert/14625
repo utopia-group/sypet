@@ -1,0 +1,1 @@
+{"id":14625,"className":"org.joda.time.convert.ConverterManager","methodName":"toString","signature":"\u003corg.joda.time.convert.ConverterManager: java.lang.String toString()\u003e","javadoc":"/** \n * Gets a debug representation of the object.\n */\n","tf":{"freq":{"string":1,"object":1,"debug":1,"represent":1},"maxFreq":1,"totalTerms":4},"loc":8}

@@ -1,0 +1,1 @@
+{"id":12858,"className":"java.beans.beancontext.BeanContextServicesSupport$BCSSProxyServiceProvider","methodName":"serviceRevoked","signature":"\u003cjava.beans.beancontext.BeanContextServicesSupport$BCSSProxyServiceProvider: void serviceRevoked(java.beans.beancontext.BeanContextServiceRevokedEvent)\u003e","loc":7}

@@ -1,0 +1,1 @@
+{"id":19760,"className":"java.awt.geom.Path2D$Double","methodName":"transform","signature":"\u003cjava.awt.geom.Path2D$Double: void transform(java.awt.geom.AffineTransform)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.6\n */\n","tf":{"freq":{"transform":1},"maxFreq":1,"totalTerms":1},"loc":3}

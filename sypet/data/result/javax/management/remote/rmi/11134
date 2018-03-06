@@ -1,0 +1,1 @@
+{"id":11134,"className":"javax.management.remote.rmi.RMIConnectionImpl","methodName":"queryMBeans","signature":"\u003cjavax.management.remote.rmi.RMIConnectionImpl: java.util.Set\u003cjavax.management.ObjectInstance\u003e queryMBeans(javax.management.ObjectName,java.rmi.MarshalledObject,javax.security.auth.Subject)\u003e","loc":29}

@@ -1,0 +1,1 @@
+{"id":25139,"className":"org.apache.commons.math.geometry.Vector3D","methodName":"getY","signature":"\u003corg.apache.commons.math.geometry.Vector3D: double getY()\u003e","javadoc":"/** \n * Get the ordinate of the vector.\n * @return ordinate of the vector\n * @see #Vector3D(double,double,double)\n */\n","tf":{"freq":{"ordin":2,"vector":3},"maxFreq":3,"totalTerms":5},"loc":3}

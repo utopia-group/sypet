@@ -1,0 +1,1 @@
+{"id":16962,"className":"java.awt.Component","methodName":"nextFocus","signature":"\u003cjava.awt.Component: void nextFocus()\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by transferFocus().\n */\n","tf":{"freq":{"transfer":1,"deprec":1,"replac":1,"next":1,"focus":2,"version":1},"maxFreq":2,"totalTerms":7},"loc":3}

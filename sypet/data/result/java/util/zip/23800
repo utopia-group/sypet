@@ -1,0 +1,1 @@
+{"id":23800,"className":"java.util.zip.Checksum","methodName":"update","signature":"\u003cjava.util.zip.Checksum: void update(int)\u003e","javadoc":"/** \n * Updates the current checksum with the specified byte.\n * @param b the byte to update the checksum with\n */\n","tf":{"freq":{"updat":3,"current":1,"checksum":2,"specifi":1},"maxFreq":3,"totalTerms":7},"loc":0}

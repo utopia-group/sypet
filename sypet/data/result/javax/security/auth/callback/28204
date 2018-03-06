@@ -1,0 +1,1 @@
+{"id":28204,"className":"javax.security.auth.callback.ChoiceCallback","methodName":"getPrompt","signature":"\u003cjavax.security.auth.callback.ChoiceCallback: java.lang.String getPrompt()\u003e","javadoc":"/** \n * Get the prompt. \u003cp\u003e\n * @return the prompt.\n */\n","tf":{"freq":{"prompt":3},"maxFreq":3,"totalTerms":3},"loc":3}

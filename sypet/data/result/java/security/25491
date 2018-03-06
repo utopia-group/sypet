@@ -1,0 +1,1 @@
+{"id":25491,"className":"java.security.Principal","methodName":"getName","signature":"\u003cjava.security.Principal: java.lang.String getName()\u003e","javadoc":"/** \n * Returns the name of this principal.\n * @return the name of this principal.\n */\n","tf":{"freq":{"name":3,"princip":2},"maxFreq":3,"totalTerms":5},"loc":0}

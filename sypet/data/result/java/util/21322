@@ -1,0 +1,1 @@
+{"id":21322,"className":"java.util.FormatFlagsConversionMismatchException","methodName":"getConversion","signature":"\u003cjava.util.FormatFlagsConversionMismatchException: char getConversion()\u003e","javadoc":"/** \n * Returns the incompatible conversion.\n * @return  The conversion\n */\n","tf":{"freq":{"convers":3,"incompat":1},"maxFreq":3,"totalTerms":4},"loc":3}

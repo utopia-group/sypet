@@ -1,0 +1,1 @@
+{"id":23773,"className":"java.util.zip.Adler32","methodName":"update","signature":"\u003cjava.util.zip.Adler32: void update(byte[])\u003e","javadoc":"/** \n * Updates the checksum with the specified array of bytes.\n * @param b the byte array to update the checksum with\n */\n","tf":{"freq":{"updat":3,"checksum":2,"array":2,"specifi":1},"maxFreq":3,"totalTerms":8},"loc":3}

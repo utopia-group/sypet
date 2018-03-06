@@ -1,0 +1,1 @@
+{"id":26811,"className":"org.jsoup.HttpStatusException","methodName":"getStatusCode","signature":"\u003corg.jsoup.HttpStatusException: int getStatusCode()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":20246,"className":"javax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter","methodName":"paintScrollBarThumbBackground","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter: void paintScrollBarThumbBackground(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int,int)\u003e","loc":6}

@@ -1,0 +1,1 @@
+{"id":23926,"className":"java.util.jar.JarException","methodName":"JarException","signature":"\u003cjava.util.jar.JarException: void JarException()\u003e","javadoc":"/** \n * Constructs a JarException with no detail message.\n */\n","tf":{"freq":{"detail":1,"except":2,"messag":1,"jar":2,"construct":1},"maxFreq":2,"totalTerms":7},"loc":2}

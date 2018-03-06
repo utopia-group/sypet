@@ -1,0 +1,1 @@
+{"id":19766,"className":"javax.swing.plaf.metal.MetalTheme","methodName":"getSubTextFont","signature":"\u003cjavax.swing.plaf.metal.MetalTheme: javax.swing.plaf.FontUIResource getSubTextFont()\u003e","javadoc":"/** \n * Returns the sub-text font.\n * @return the sub-text font\n */\n","tf":{"freq":{"text":3,"sub":3,"font":3},"maxFreq":3,"totalTerms":9},"loc":0}

@@ -1,0 +1,1 @@
+{"id":21727,"className":"javax.swing.text.GapContent","methodName":"length","signature":"\u003cjavax.swing.text.GapContent: int length()\u003e","javadoc":"/** \n * Returns the length of the content.\n * @return the length \u003e\u003d 1\n * @see AbstractDocument.Content#length\n */\n","tf":{"freq":{"content":2,"document":1,"length":4},"maxFreq":4,"totalTerms":7},"loc":4}

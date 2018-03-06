@@ -1,0 +1,1 @@
+{"id":12692,"className":"java.beans.Visibility","methodName":"dontUseGui","signature":"\u003cjava.beans.Visibility: void dontUseGui()\u003e","javadoc":"/** \n * This method instructs the bean that it should not use the Gui.\n */\n","tf":{"freq":{"gui":2,"bean":1,"instruct":1,"dont":1,"use":2,"method":1},"maxFreq":2,"totalTerms":8},"loc":0}

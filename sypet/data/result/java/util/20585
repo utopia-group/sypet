@@ -1,0 +1,1 @@
+{"id":20585,"className":"java.util.EnumMap","methodName":"clear","signature":"\u003cjava.util.EnumMap: void clear()\u003e","javadoc":"/** \n * Removes all mappings from this map.\n */\n","tf":{"freq":{"clear":1,"map":2,"remov":1},"maxFreq":2,"totalTerms":4},"loc":4}

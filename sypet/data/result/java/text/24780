@@ -1,0 +1,1 @@
+{"id":24780,"className":"java.text.Annotation","methodName":"getValue","signature":"\u003cjava.text.Annotation: java.lang.Object getValue()\u003e","javadoc":"/** \n * Returns the value of the attribute, which may be null.\n */\n","tf":{"freq":{"may":1,"attribut":1,"valu":2},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12855,"className":"java.beans.beancontext.BeanContextServicesSupport$BCSSProxyServiceProvider","methodName":"getService","signature":"\u003cjava.beans.beancontext.BeanContextServicesSupport$BCSSProxyServiceProvider: java.lang.Object getService(java.beans.beancontext.BeanContextServices,java.lang.Object,java.lang.Class,java.lang.Object)\u003e","loc":11}

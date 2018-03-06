@@ -1,0 +1,1 @@
+{"id":14526,"className":"org.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone","methodName":"isFixed","signature":"\u003corg.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone: boolean isFixed()\u003e","loc":3}

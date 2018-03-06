@@ -1,0 +1,1 @@
+{"id":19012,"className":"javax.swing.plaf.basic.BasicTabbedPaneUI$TabSelectionHandler","methodName":"stateChanged","signature":"\u003cjavax.swing.plaf.basic.BasicTabbedPaneUI$TabSelectionHandler: void stateChanged(javax.swing.event.ChangeEvent)\u003e","loc":3}

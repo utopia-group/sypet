@@ -1,0 +1,1 @@
+{"id":13604,"className":"org.joda.time.field.UnsupportedDurationField","methodName":"getType","signature":"\u003corg.joda.time.field.UnsupportedDurationField: org.joda.time.DurationFieldType getType()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":24560,"className":"javax.print.attribute.standard.MediaPrintableArea","methodName":"hashCode","signature":"\u003cjavax.print.attribute.standard.MediaPrintableArea: int hashCode()\u003e","javadoc":"/** \n * Returns a hash code value for this attribute.\n */\n","tf":{"freq":{"attribut":1,"hash":2,"valu":1},"maxFreq":2,"totalTerms":4},"loc":3}

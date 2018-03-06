@@ -1,0 +1,1 @@
+{"id":28615,"className":"javax.crypto.spec.PSource","methodName":"getAlgorithm","signature":"\u003cjavax.crypto.spec.PSource: java.lang.String getAlgorithm()\u003e","javadoc":"/** \n * Returns the PSource algorithm name.\n * @return the PSource algorithm name.\n */\n","tf":{"freq":{"name":2,"psourc":2,"algorithm":3},"maxFreq":3,"totalTerms":7},"loc":3}

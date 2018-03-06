@@ -1,0 +1,1 @@
+{"id":13586,"className":"javax.swing.JMenuItem","methodName":"JMenuItem","signature":"\u003cjavax.swing.JMenuItem: void JMenuItem()\u003e","javadoc":"/** \n * Creates a \u003ccode\u003eJMenuItem\u003c/code\u003e with no set text or icon.\n */\n","tf":{"freq":{"icon":1,"text":1,"creat":1,"jmenu":1,"item":2,"menu":1},"maxFreq":2,"totalTerms":7},"loc":3}

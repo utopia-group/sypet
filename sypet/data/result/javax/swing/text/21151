@@ -1,0 +1,1 @@
+{"id":21151,"className":"javax.swing.text.TabSet","methodName":"toString","signature":"\u003cjavax.swing.text.TabSet: java.lang.String toString()\u003e","javadoc":"/** \n * Returns the string representation of the set of tabs.\n */\n","tf":{"freq":{"string":2,"tab":1,"represent":1},"maxFreq":2,"totalTerms":4},"loc":12}

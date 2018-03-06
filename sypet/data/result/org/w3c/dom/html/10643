@@ -1,0 +1,1 @@
+{"id":10643,"className":"org.w3c.dom.html.HTMLFormElement","methodName":"getLength","signature":"\u003corg.w3c.dom.html.HTMLFormElement: int getLength()\u003e","javadoc":"/** \n * The number of form controls in the form.\n */\n","tf":{"freq":{"control":1,"form":2,"length":1,"number":1},"maxFreq":2,"totalTerms":5},"loc":0}

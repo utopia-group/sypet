@@ -1,0 +1,1 @@
+{"id":18220,"className":"java.awt.image.Kernel","methodName":"getWidth","signature":"\u003cjava.awt.image.Kernel: int getWidth()\u003e","javadoc":"/** \n * Returns the width of this \u003ccode\u003eKernel\u003c/code\u003e.\n * @return the width of this \u003ccode\u003eKernel\u003c/code\u003e.\n */\n","tf":{"freq":{"width":3,"kernel":2},"maxFreq":3,"totalTerms":5},"loc":3}

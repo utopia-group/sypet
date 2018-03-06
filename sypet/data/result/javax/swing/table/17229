@@ -1,0 +1,1 @@
+{"id":17229,"className":"javax.swing.table.JTableHeader.AccessibleJTableHeader$AccessibleJTableHeaderEntry","methodName":"getAccessibleAt","signature":"\u003cjavax.swing.table.JTableHeader.AccessibleJTableHeader$AccessibleJTableHeaderEntry: javax.accessibility.Accessible getAccessibleAt(java.awt.Point)\u003e","loc":8}

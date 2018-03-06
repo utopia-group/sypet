@@ -1,0 +1,1 @@
+{"id":14267,"className":"org.joda.time.format.PeriodFormatter","methodName":"isPrinter","signature":"\u003corg.joda.time.format.PeriodFormatter: boolean isPrinter()\u003e","javadoc":"/** \n * Is this formatter capable of printing.\n * @return true if this is a printer\n */\n","tf":{"freq":{"true":1,"capabl":1,"print":1,"formatt":1,"printer":2},"maxFreq":2,"totalTerms":6},"loc":3}

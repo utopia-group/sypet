@@ -1,0 +1,1 @@
+{"id":11358,"className":"org.xml.sax.SAXException","methodName":"SAXException","signature":"\u003corg.xml.sax.SAXException: void SAXException()\u003e","javadoc":"/** \n * Create a new SAXException.\n */\n","tf":{"freq":{"except":1,"creat":1,"xexcept":1},"maxFreq":1,"totalTerms":3},"loc":4}

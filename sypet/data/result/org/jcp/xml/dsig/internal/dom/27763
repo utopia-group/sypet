@@ -1,0 +1,1 @@
+{"id":27763,"className":"org.jcp.xml.dsig.internal.dom.Utils","methodName":"readBytesFromStream","signature":"\u003corg.jcp.xml.dsig.internal.dom.Utils: byte[] readBytesFromStream(java.io.InputStream)\u003e","loc":15}

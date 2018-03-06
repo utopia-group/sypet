@@ -1,0 +1,1 @@
+{"id":19321,"className":"org.apache.commons.math3.util.DefaultTransformer","methodName":"hashCode","signature":"\u003corg.apache.commons.math3.util.DefaultTransformer: int hashCode()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"hash":1},"maxFreq":1,"totalTerms":1},"loc":4}

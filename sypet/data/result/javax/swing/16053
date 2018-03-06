@@ -1,0 +1,1 @@
+{"id":16053,"className":"javax.swing.ColorChooserDialog","methodName":"ColorChooserDialog","signature":"\u003cjavax.swing.ColorChooserDialog: void ColorChooserDialog(java.awt.Frame,java.lang.String,boolean,java.awt.Component,javax.swing.JColorChooser,java.awt.event.ActionListener,java.awt.event.ActionListener)\u003e","loc":4}

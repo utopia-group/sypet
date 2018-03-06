@@ -1,0 +1,1 @@
+{"id":27806,"className":"org.jcp.xml.dsig.internal.dom.DOMSignatureProperties","methodName":"equals","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMSignatureProperties: boolean equals(java.lang.Object)\u003e","loc":15}

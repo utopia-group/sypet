@@ -1,0 +1,1 @@
+{"id":20866,"className":"javax.swing.plaf.synth.SynthTreeUI$SynthTreeCellRenderer","methodName":"getTreeCellRendererComponent","signature":"\u003cjavax.swing.plaf.synth.SynthTreeUI$SynthTreeCellRenderer: java.awt.Component getTreeCellRendererComponent(javax.swing.JTree,java.lang.Object,boolean,boolean,boolean,int,boolean)\u003e","loc":12}

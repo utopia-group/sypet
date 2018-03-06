@@ -1,0 +1,1 @@
+{"id":14319,"className":"javax.swing.JList","methodName":"JList","signature":"\u003cjavax.swing.JList: void JList()\u003e","javadoc":"/** \n * Constructs a \u003ccode\u003eJList\u003c/code\u003e with an empty, read-only, model.\n */\n","tf":{"freq":{"model":1,"read":1,"jlist":1,"list":1,"construct":1,"empti":1},"maxFreq":1,"totalTerms":6},"loc":8}

@@ -1,0 +1,1 @@
+{"id":21906,"className":"org.apache.commons.math3.linear.DiagonalMatrix","methodName":"copy","signature":"\u003corg.apache.commons.math3.linear.DiagonalMatrix: org.apache.commons.math3.linear.RealMatrix copy()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"copi":1},"maxFreq":1,"totalTerms":1},"loc":3}

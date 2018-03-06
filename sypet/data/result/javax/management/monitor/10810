@@ -1,0 +1,1 @@
+{"id":10810,"className":"javax.management.monitor.CounterMonitor$CounterMonitorObservedObject","methodName":"CounterMonitorObservedObject","signature":"\u003cjavax.management.monitor.CounterMonitor$CounterMonitorObservedObject: void CounterMonitorObservedObject(javax.management.ObjectName)\u003e","loc":3}

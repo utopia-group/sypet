@@ -1,0 +1,1 @@
+{"id":12756,"className":"javax.swing.JTree","methodName":"isSelectionEmpty","signature":"\u003cjavax.swing.JTree: boolean isSelectionEmpty()\u003e","javadoc":"/** \n * Returns true if the selection is currently empty.\n * @return true if the selection is currently empty\n */\n","tf":{"freq":{"select":3,"current":2,"true":2,"empti":3},"maxFreq":3,"totalTerms":10},"loc":3}

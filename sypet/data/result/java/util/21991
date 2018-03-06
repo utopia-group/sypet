@@ -1,0 +1,1 @@
+{"id":21991,"className":"java.util.Collections$SynchronizedSortedMap","methodName":"comparator","signature":"\u003cjava.util.Collections$SynchronizedSortedMap: java.util.Comparator\u003c? super K\u003e comparator()\u003e","loc":3}

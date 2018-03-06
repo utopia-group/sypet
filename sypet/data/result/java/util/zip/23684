@@ -1,0 +1,1 @@
+{"id":23684,"className":"java.util.zip.ZipEntry","methodName":"getName","signature":"\u003cjava.util.zip.ZipEntry: java.lang.String getName()\u003e","javadoc":"/** \n * Returns the name of the entry.\n * @return the name of the entry\n */\n","tf":{"freq":{"entri":2,"name":3},"maxFreq":3,"totalTerms":5},"loc":3}

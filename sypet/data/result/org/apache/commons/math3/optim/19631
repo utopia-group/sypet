@@ -1,0 +1,1 @@
+{"id":19631,"className":"org.apache.commons.math3.optim.SimpleBounds","methodName":"SimpleBounds","signature":"\u003corg.apache.commons.math3.optim.SimpleBounds: void SimpleBounds(double[],double[])\u003e","javadoc":"/** \n * @param lB Lower bounds.\n * @param uB Upper bounds.\n */\n","tf":{"freq":{"upper":1,"lower":1,"simpl":1,"bound":3},"maxFreq":3,"totalTerms":6},"loc":4}

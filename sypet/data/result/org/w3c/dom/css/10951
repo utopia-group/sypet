@@ -1,0 +1,1 @@
+{"id":10951,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getCssFloat","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getCssFloat()\u003e","javadoc":"/** \n * See the float property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"properti":1,"css":1},"maxFreq":1,"totalTerms":3},"loc":0}

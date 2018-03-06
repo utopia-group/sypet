@@ -1,0 +1,1 @@
+{"id":17338,"className":"javax.swing.undo.CompoundEdit","methodName":"canUndo","signature":"\u003cjavax.swing.undo.CompoundEdit: boolean canUndo()\u003e","javadoc":"/** \n * Returns false if \u003ccode\u003eisInProgress\u003c/code\u003e or if super returns false.\n * @see #isInProgress\n */\n","tf":{"freq":{"progress":2,"fals":2,"undo":1},"maxFreq":2,"totalTerms":5},"loc":3}

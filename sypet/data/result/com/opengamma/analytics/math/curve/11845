@@ -1,0 +1,1 @@
+{"id":11845,"className":"com.opengamma.analytics.math.curve.DoublesCurveInterpolatedAnchor","methodName":"getAnchorIndex","signature":"\u003ccom.opengamma.analytics.math.curve.DoublesCurveInterpolatedAnchor: int getAnchorIndex()\u003e","javadoc":"/** \n * Gets the anchor index.\n * @return the index\n */\n","tf":{"freq":{"index":3,"anchor":2},"maxFreq":3,"totalTerms":5},"loc":3}

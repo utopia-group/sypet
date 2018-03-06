@@ -1,0 +1,1 @@
+{"id":19487,"className":"java.awt.event.WindowAdapter","methodName":"windowDeiconified","signature":"\u003cjava.awt.event.WindowAdapter: void windowDeiconified(java.awt.event.WindowEvent)\u003e","javadoc":"/** \n * Invoked when a window is de-iconified.\n */\n","tf":{"freq":{"window":2,"invok":1,"iconifi":1,"deiconifi":1},"maxFreq":2,"totalTerms":5},"loc":1}

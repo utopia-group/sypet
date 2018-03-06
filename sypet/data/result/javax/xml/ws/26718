@@ -1,0 +1,1 @@
+{"id":26718,"className":"javax.xml.ws.Endpoint","methodName":"getBinding","signature":"\u003cjavax.xml.ws.Endpoint: javax.xml.ws.Binding getBinding()\u003e","javadoc":"/** \n * Returns the binding for this endpoint.\n * @return The binding for this endpoint\n */\n","tf":{"freq":{"bind":3,"endpoint":2},"maxFreq":3,"totalTerms":5},"loc":0}

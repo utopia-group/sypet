@@ -1,0 +1,1 @@
+{"id":11801,"className":"javax.naming.InitialContext","methodName":"listBindings","signature":"\u003cjavax.naming.InitialContext: javax.naming.NamingEnumeration\u003cjavax.naming.Binding\u003e listBindings(java.lang.String)\u003e","loc":3}

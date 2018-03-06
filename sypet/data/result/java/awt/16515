@@ -1,0 +1,1 @@
+{"id":16515,"className":"java.awt.WaitDispatchSupport","methodName":"enter","signature":"\u003cjava.awt.WaitDispatchSupport: boolean enter()\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"enter":1},"maxFreq":1,"totalTerms":1},"loc":101}

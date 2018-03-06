@@ -1,0 +1,1 @@
+{"id":11956,"className":"java.net.URISyntaxException","methodName":"getInput","signature":"\u003cjava.net.URISyntaxException: java.lang.String getInput()\u003e","javadoc":"/** \n * Returns the input string.\n * @return  The input string\n */\n","tf":{"freq":{"input":3,"string":2},"maxFreq":3,"totalTerms":5},"loc":3}

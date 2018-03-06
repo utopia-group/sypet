@@ -1,0 +1,1 @@
+{"id":19312,"className":"javax.swing.plaf.metal.MetalComboBoxIcon","methodName":"paintIcon","signature":"\u003cjavax.swing.plaf.metal.MetalComboBoxIcon: void paintIcon(java.awt.Component,java.awt.Graphics,int,int)\u003e","javadoc":"/** \n * Paints the horizontal bars for the\n */\n","tf":{"freq":{"icon":1,"horizont":1,"paint":2,"bar":1},"maxFreq":2,"totalTerms":5},"loc":15}

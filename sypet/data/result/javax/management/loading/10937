@@ -1,0 +1,1 @@
+{"id":10937,"className":"javax.management.loading.MLetParser","methodName":"scanTag","signature":"\u003cjavax.management.loading.MLetParser: java.util.Map\u003cjava.lang.String,java.lang.String\u003e scanTag(java.io.Reader)\u003e","javadoc":"/** \n * Scan tag\n */\n","tf":{"freq":{"tag":2,"scan":2},"maxFreq":2,"totalTerms":4},"loc":36}

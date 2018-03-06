@@ -1,0 +1,1 @@
+{"id":14052,"className":"javax.swing.InputMap","methodName":"InputMap","signature":"\u003cjavax.swing.InputMap: void InputMap()\u003e","javadoc":"/** \n * Creates an \u003ccode\u003eInputMap\u003c/code\u003e with no parent and no mappings.\n */\n","tf":{"freq":{"input":2,"creat":1,"map":3,"parent":1},"maxFreq":3,"totalTerms":7},"loc":2}

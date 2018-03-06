@@ -1,0 +1,1 @@
+{"id":25116,"className":"javax.imageio.ImageReadParam","methodName":"setDestinationType","signature":"\u003cjavax.imageio.ImageReadParam: void setDestinationType(javax.imageio.ImageTypeSpecifier)\u003e","loc":4}

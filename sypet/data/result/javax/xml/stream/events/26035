@@ -1,0 +1,1 @@
+{"id":26035,"className":"javax.xml.stream.events.XMLEvent","methodName":"isCharacters","signature":"\u003cjavax.xml.stream.events.XMLEvent: boolean isCharacters()\u003e","javadoc":"/** \n * A utility function to check if this event is Characters.\n * @see Characters\n */\n","tf":{"freq":{"check":1,"charact":3,"event":1,"util":1,"function":1},"maxFreq":3,"totalTerms":7},"loc":0}

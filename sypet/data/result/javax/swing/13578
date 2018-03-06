@@ -1,0 +1,1 @@
+{"id":13578,"className":"javax.swing.SpringLayout","methodName":"getLayoutAlignmentX","signature":"\u003cjavax.swing.SpringLayout: float getLayoutAlignmentX(java.awt.Container)\u003e","javadoc":"/** \n * Returns 0.5f (centered).\n */\n","tf":{"freq":{"center":1,"align":1,"layout":1},"maxFreq":1,"totalTerms":3},"loc":3}

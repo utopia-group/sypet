@@ -1,0 +1,1 @@
+{"id":11859,"className":"org.joda.time.PeriodType","methodName":"minutes","signature":"\u003corg.joda.time.PeriodType: org.joda.time.PeriodType minutes()\u003e","javadoc":"/** \n * Gets a type that defines just the minutes field.\n * @return the period type\n */\n","tf":{"freq":{"field":1,"just":1,"defin":1,"minut":2,"period":1,"type":2},"maxFreq":2,"totalTerms":8},"loc":12}

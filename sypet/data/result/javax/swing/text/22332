@@ -1,0 +1,1 @@
+{"id":22332,"className":"javax.swing.text.Segment","methodName":"Segment","signature":"\u003cjavax.swing.text.Segment: void Segment()\u003e","javadoc":"/** \n * Creates a new segment.\n */\n","tf":{"freq":{"creat":1,"segment":2},"maxFreq":2,"totalTerms":3},"loc":3}

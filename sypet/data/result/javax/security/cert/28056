@@ -1,0 +1,1 @@
+{"id":28056,"className":"javax.security.cert.Certificate","methodName":"getPublicKey","signature":"\u003cjavax.security.cert.Certificate: java.security.PublicKey getPublicKey()\u003e","javadoc":"/** \n * Gets the public key from this certificate.\n * @return the public key.\n */\n","tf":{"freq":{"certif":1,"key":3},"maxFreq":3,"totalTerms":4},"loc":0}

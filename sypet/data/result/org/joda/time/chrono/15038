@@ -1,0 +1,1 @@
+{"id":15038,"className":"org.joda.time.chrono.GJEraDateTimeField","methodName":"getDurationField","signature":"\u003corg.joda.time.chrono.GJEraDateTimeField: org.joda.time.DurationField getDurationField()\u003e","loc":3}

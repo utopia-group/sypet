@@ -1,0 +1,1 @@
+{"id":17283,"className":"org.apache.commons.math3.analysis.differentiation.SparseGradient","methodName":"sqrt","signature":"\u003corg.apache.commons.math3.analysis.differentiation.SparseGradient: org.apache.commons.math3.analysis.differentiation.SparseGradient sqrt()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"sqrt":1},"maxFreq":1,"totalTerms":1},"loc":4}

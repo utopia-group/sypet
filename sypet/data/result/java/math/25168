@@ -1,0 +1,1 @@
+{"id":25168,"className":"java.math.BigInteger","methodName":"hashCode","signature":"\u003cjava.math.BigInteger: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code for this BigInteger.\n * @return hash code for this BigInteger.\n */\n","tf":{"freq":{"hash":3,"big":2,"integ":2},"maxFreq":3,"totalTerms":7},"loc":8}

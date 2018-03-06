@@ -1,0 +1,1 @@
+{"id":18103,"className":"java.awt.image.BufferedImage","methodName":"getTileWidth","signature":"\u003cjava.awt.image.BufferedImage: int getTileWidth()\u003e","javadoc":"/** \n * Returns the tile width in pixels.\n * @return the tile width in pixels.\n */\n","tf":{"freq":{"pixel":2,"width":3,"tile":3},"maxFreq":3,"totalTerms":8},"loc":3}

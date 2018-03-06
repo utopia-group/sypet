@@ -1,0 +1,1 @@
+{"id":21193,"className":"","methodName":"cosine","signature":"\u003c: double cosine(org.apache.commons.math3.linear.RealVector)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"cosin":1},"maxFreq":1,"totalTerms":1},"loc":3}

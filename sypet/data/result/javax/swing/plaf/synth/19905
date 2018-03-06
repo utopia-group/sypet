@@ -1,0 +1,1 @@
+{"id":19905,"className":"javax.swing.plaf.synth.SynthLookAndFeel","methodName":"uninitialize","signature":"\u003cjavax.swing.plaf.synth.SynthLookAndFeel: void uninitialize()\u003e","javadoc":"/** \n * Called by UIManager when this look and feel is uninstalled.\n */\n","tf":{"freq":{"uninstal":1,"look":1,"feel":1,"call":1,"uniniti":1,"manag":1},"maxFreq":1,"totalTerms":6},"loc":8}

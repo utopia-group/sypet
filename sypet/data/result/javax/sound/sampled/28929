@@ -1,0 +1,1 @@
+{"id":28929,"className":"javax.sound.sampled.LineEvent$Type","methodName":"toString","signature":"\u003cjavax.sound.sampled.LineEvent$Type: java.lang.String toString()\u003e","javadoc":"/** \n * Returns the type name as the string representation.\n */\n","tf":{"freq":{"name":1,"string":2,"type":1,"represent":1},"maxFreq":2,"totalTerms":5},"loc":3}

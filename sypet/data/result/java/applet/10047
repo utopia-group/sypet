@@ -1,0 +1,1 @@
+{"id":10047,"className":"java.applet.AudioClip","methodName":"stop","signature":"\u003cjava.applet.AudioClip: void stop()\u003e","javadoc":"/** \n * Stops playing this audio clip.\n */\n","tf":{"freq":{"clip":1,"stop":2,"audio":1,"play":1},"maxFreq":2,"totalTerms":5},"loc":0}

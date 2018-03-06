@@ -1,0 +1,1 @@
+{"id":10867,"className":"javax.management.monitor.GaugeMonitor$GaugeMonitorObservedObject","methodName":"setStatus","signature":"\u003cjavax.management.monitor.GaugeMonitor$GaugeMonitorObservedObject: void setStatus(int)\u003e","loc":3}

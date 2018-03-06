@@ -1,0 +1,1 @@
+{"id":16817,"className":"javax.swing.tree.TreeSelectionModel","methodName":"getSelectionCount","signature":"\u003cjavax.swing.tree.TreeSelectionModel: int getSelectionCount()\u003e","javadoc":"/** \n * Returns the number of paths that are selected.\n */\n","tf":{"freq":{"count":1,"select":2,"path":1,"number":1},"maxFreq":2,"totalTerms":5},"loc":0}

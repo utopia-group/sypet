@@ -1,0 +1,1 @@
+{"id":15929,"className":"org.apache.commons.math3.distribution.LogNormalDistribution","methodName":"sample","signature":"\u003corg.apache.commons.math3.distribution.LogNormalDistribution: double sample()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"sampl":1},"maxFreq":1,"totalTerms":1},"loc":4}

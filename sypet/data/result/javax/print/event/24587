@@ -1,0 +1,1 @@
+{"id":24587,"className":"javax.print.event.PrintJobEvent","methodName":"getPrintEventType","signature":"\u003cjavax.print.event.PrintJobEvent: int getPrintEventType()\u003e","javadoc":"/** \n * Gets the reason for this event.\n * @return  reason int.\n */\n","tf":{"freq":{"reason":2,"event":2,"type":1,"print":1},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":21618,"className":"javax.swing.text.AbstractWriter","methodName":"getEndOffset","signature":"\u003cjavax.swing.text.AbstractWriter: int getEndOffset()\u003e","javadoc":"/** \n * Returns the last offset to be output.\n * @since 1.3\n */\n","tf":{"freq":{"last":1,"output":1,"offset":2,"end":1},"maxFreq":2,"totalTerms":5},"loc":3}

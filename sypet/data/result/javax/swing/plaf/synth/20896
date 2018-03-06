@@ -1,0 +1,1 @@
+{"id":20896,"className":"javax.swing.plaf.synth.SynthParser","methodName":"resolveEntity","signature":"\u003cjavax.swing.plaf.synth.SynthParser: org.xml.sax.InputSource resolveEntity(java.lang.String,java.lang.String)\u003e","loc":6}

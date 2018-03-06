@@ -1,0 +1,1 @@
+{"id":19274,"className":"javax.swing.plaf.basic.BasicSplitPaneDivider","methodName":"setBorder","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneDivider: void setBorder(javax.swing.border.Border)\u003e","javadoc":"/** \n * Sets the border of this component.\n * @since 1.3\n */\n","tf":{"freq":{"compon":1,"border":2},"maxFreq":2,"totalTerms":3},"loc":5}

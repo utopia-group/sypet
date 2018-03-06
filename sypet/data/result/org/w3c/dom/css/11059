@@ -1,0 +1,1 @@
+{"id":11059,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getSpeak","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getSpeak()\u003e","javadoc":"/** \n * See the speak property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"speak":2,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

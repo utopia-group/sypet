@@ -1,0 +1,1 @@
+{"id":10288,"className":"org.w3c.dom.html.HTMLBaseElement","methodName":"getTarget","signature":"\u003corg.w3c.dom.html.HTMLBaseElement: java.lang.String getTarget()\u003e","javadoc":"/** \n * The default target frame. See the  target attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"attribut":1,"frame":1,"definit":1,"target":3},"maxFreq":3,"totalTerms":6},"loc":0}

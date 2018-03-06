@@ -1,0 +1,1 @@
+{"id":11404,"className":"com.opengamma.analytics.math.integration.GaussHermiteWeightAndAbscissaFunction","methodName":"generate","signature":"\u003ccom.opengamma.analytics.math.integration.GaussHermiteWeightAndAbscissaFunction: com.opengamma.analytics.math.integration.GaussianQuadratureData generate(int)\u003e","loc":27}

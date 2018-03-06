@@ -1,0 +1,1 @@
+{"id":19444,"className":"java.awt.event.ActionListener","methodName":"actionPerformed","signature":"\u003cjava.awt.event.ActionListener: void actionPerformed(java.awt.event.ActionEvent)\u003e","javadoc":"/** \n * Invoked when an action occurs.\n */\n","tf":{"freq":{"invok":1,"action":2,"perform":1,"occur":1},"maxFreq":2,"totalTerms":5},"loc":0}

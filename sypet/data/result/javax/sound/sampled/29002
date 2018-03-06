@@ -1,0 +1,1 @@
+{"id":29002,"className":"javax.sound.sampled.BooleanControl","methodName":"getValue","signature":"\u003cjavax.sound.sampled.BooleanControl: boolean getValue()\u003e","javadoc":"/** \n * Obtains this control\u0027s current value.\n * @return current value.\n */\n","tf":{"freq":{"control":1,"obtain":1,"current":2,"valu":3},"maxFreq":3,"totalTerms":7},"loc":3}

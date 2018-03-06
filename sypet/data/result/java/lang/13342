@@ -1,0 +1,1 @@
+{"id":13342,"className":"java.lang.StringBuffer","methodName":"setLength","signature":"\u003cjava.lang.StringBuffer: void setLength(int)\u003e","javadoc":"/** \n * @throws IndexOutOfBoundsException {@inheritDoc}\n * @see #length()\n */\n","tf":{"freq":{"except":1,"index":1,"length":2,"bound":1},"maxFreq":2,"totalTerms":5},"loc":3}

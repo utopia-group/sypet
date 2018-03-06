@@ -1,0 +1,1 @@
+{"id":22421,"className":"javax.swing.text.GlyphPainter1","methodName":"modelToView","signature":"\u003cjavax.swing.text.GlyphPainter1: java.awt.Shape modelToView(javax.swing.text.GlyphView,int,javax.swing.text.Position$Bias,java.awt.Shape)\u003e","loc":26}

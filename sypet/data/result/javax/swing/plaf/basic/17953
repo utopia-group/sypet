@@ -1,0 +1,1 @@
+{"id":17953,"className":"javax.swing.plaf.basic.BasicSplitPaneUI","methodName":"setDividerLocation","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneUI: void setDividerLocation(javax.swing.JSplitPane,int)\u003e","javadoc":"/** \n * Sets the location of the divider to location.\n */\n","tf":{"freq":{"locat":3,"divid":2},"maxFreq":3,"totalTerms":5},"loc":23}

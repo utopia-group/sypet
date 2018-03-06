@@ -1,0 +1,1 @@
+{"id":27514,"className":"org.ietf.jgss.MessageProp","methodName":"setQOP","signature":"\u003corg.ietf.jgss.MessageProp: void setQOP(int)\u003e","javadoc":"/** \n * Sets the QOP value.\n * @param qop the int value to set the QOP to\n * @see #getQOP\n */\n","tf":{"freq":{"qop":1,"valu":2},"maxFreq":2,"totalTerms":3},"loc":3}

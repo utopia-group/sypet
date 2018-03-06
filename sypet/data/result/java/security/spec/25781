@@ -1,0 +1,1 @@
+{"id":25781,"className":"java.security.spec.ECFieldFp","methodName":"hashCode","signature":"\u003cjava.security.spec.ECFieldFp: int hashCode()\u003e","javadoc":"/** \n * Returns a hash code value for this prime finite field.\n * @return a hash code value.\n */\n","tf":{"freq":{"field":1,"prime":1,"hash":3,"finit":1,"valu":2},"maxFreq":3,"totalTerms":8},"loc":3}

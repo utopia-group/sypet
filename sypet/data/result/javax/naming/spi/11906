@@ -1,0 +1,1 @@
+{"id":11906,"className":"javax.naming.spi.ContinuationContext","methodName":"listBindings","signature":"\u003cjavax.naming.spi.ContinuationContext: javax.naming.NamingEnumeration listBindings(java.lang.String)\u003e","loc":4}

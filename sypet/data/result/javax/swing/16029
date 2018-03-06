@@ -1,0 +1,1 @@
+{"id":16029,"className":"javax.swing.JColorChooser","methodName":"JColorChooser","signature":"\u003cjavax.swing.JColorChooser: void JColorChooser()\u003e","javadoc":"/** \n * Creates a color chooser pane with an initial color of white.\n */\n","tf":{"freq":{"creat":1,"color":3,"white":1,"chooser":2,"initi":1,"pane":1},"maxFreq":3,"totalTerms":9},"loc":3}

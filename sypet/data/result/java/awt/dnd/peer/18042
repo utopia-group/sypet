@@ -1,0 +1,1 @@
+{"id":18042,"className":"java.awt.dnd.peer.DropTargetContextPeer","methodName":"acceptDrop","signature":"\u003cjava.awt.dnd.peer.DropTargetContextPeer: void acceptDrop(int)\u003e","javadoc":"/** \n * accept the Drop\n */\n","tf":{"freq":{"drop":2,"accept":2},"maxFreq":2,"totalTerms":4},"loc":0}

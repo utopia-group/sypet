@@ -1,0 +1,1 @@
+{"id":11228,"className":"javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection","methodName":"getMBeanInfo","signature":"\u003cjavax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection: javax.management.MBeanInfo getMBeanInfo(javax.management.ObjectName)\u003e","loc":14}

@@ -1,0 +1,1 @@
+{"id":11860,"className":"org.joda.time.PeriodType","methodName":"seconds","signature":"\u003corg.joda.time.PeriodType: org.joda.time.PeriodType seconds()\u003e","javadoc":"/** \n * Gets a type that defines just the seconds field.\n * @return the period type\n */\n","tf":{"freq":{"field":1,"just":1,"defin":1,"second":2,"period":1,"type":2},"maxFreq":2,"totalTerms":8},"loc":12}

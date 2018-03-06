@@ -1,0 +1,1 @@
+{"id":18530,"className":"java.awt.image.PixelGrabber","methodName":"startGrabbing","signature":"\u003cjava.awt.image.PixelGrabber: void startGrabbing()\u003e","javadoc":"/** \n * Request the PixelGrabber to start fetching the pixels.\n */\n","tf":{"freq":{"fetch":1,"grab":1,"grabber":1,"pixel":2,"start":2,"request":1},"maxFreq":2,"totalTerms":8},"loc":10}

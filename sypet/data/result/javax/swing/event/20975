@@ -1,0 +1,1 @@
+{"id":20975,"className":"javax.swing.event.AncestorEvent","methodName":"getComponent","signature":"\u003cjavax.swing.event.AncestorEvent: javax.swing.JComponent getComponent()\u003e","javadoc":"/** \n * Returns the component that the listener was added to.\n */\n","tf":{"freq":{"compon":2,"ad":1,"listen":1},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11494,"className":"org.xml.sax.helpers.AttributesImpl","methodName":"AttributesImpl","signature":"\u003corg.xml.sax.helpers.AttributesImpl: void AttributesImpl()\u003e","javadoc":"/** \n * Construct a new, empty AttributesImpl object.\n */\n","tf":{"freq":{"attribut":2,"impl":2,"object":1,"construct":1,"empti":1},"maxFreq":2,"totalTerms":7},"loc":4}

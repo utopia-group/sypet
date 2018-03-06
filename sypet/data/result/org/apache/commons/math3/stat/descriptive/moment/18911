@@ -1,0 +1,1 @@
+{"id":18911,"className":"org.apache.commons.math3.stat.descriptive.moment.Variance","methodName":"getN","signature":"\u003corg.apache.commons.math3.stat.descriptive.moment.Variance: long getN()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","loc":3}

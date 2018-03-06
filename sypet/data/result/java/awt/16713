@@ -1,0 +1,1 @@
+{"id":16713,"className":"java.awt.MenuShortcut","methodName":"hashCode","signature":"\u003cjava.awt.MenuShortcut: int hashCode()\u003e","javadoc":"/** \n * Returns the hashcode for this MenuShortcut.\n * @return the hashcode for this MenuShortcut.\n * @since 1.2\n */\n","tf":{"freq":{"hash":1,"menu":2,"hashcod":2,"shortcut":2},"maxFreq":2,"totalTerms":7},"loc":3}

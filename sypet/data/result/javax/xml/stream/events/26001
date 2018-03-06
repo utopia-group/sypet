@@ -1,0 +1,1 @@
+{"id":26001,"className":"javax.xml.stream.events.EntityReference","methodName":"getName","signature":"\u003cjavax.xml.stream.events.EntityReference: java.lang.String getName()\u003e","javadoc":"/** \n * The name of the entity\n * @return the entity\u0027s name, may not be null\n */\n","tf":{"freq":{"may":1,"entiti":2,"name":3},"maxFreq":3,"totalTerms":6},"loc":0}

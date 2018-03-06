@@ -1,0 +1,1 @@
+{"id":15048,"className":"java.nio.file.DirectoryIteratorException","methodName":"getCause","signature":"\u003cjava.nio.file.DirectoryIteratorException: java.io.IOException getCause()\u003e","javadoc":"/** \n * Returns the cause of this exception.\n * @return  the cause\n */\n","tf":{"freq":{"except":1,"caus":3},"maxFreq":3,"totalTerms":4},"loc":3}

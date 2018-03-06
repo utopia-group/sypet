@@ -1,0 +1,1 @@
+{"id":17415,"className":"javax.swing.plaf.TabbedPaneUI","methodName":"getTabBounds","signature":"\u003cjavax.swing.plaf.TabbedPaneUI: java.awt.Rectangle getTabBounds(javax.swing.JTabbedPane,int)\u003e","loc":0}

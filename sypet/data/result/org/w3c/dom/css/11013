@@ -1,0 +1,1 @@
+{"id":11013,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getOutlineStyle","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getOutlineStyle()\u003e","javadoc":"/** \n * See the outline-style property definition in CSS2.\n */\n","tf":{"freq":{"style":2,"outlin":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

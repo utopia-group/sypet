@@ -1,0 +1,1 @@
+{"id":13941,"className":"org.joda.time.field.SkipDateTimeField","methodName":"getMinimumValue","signature":"\u003corg.joda.time.field.SkipDateTimeField: int getMinimumValue()\u003e","loc":3}

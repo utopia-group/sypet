@@ -1,0 +1,1 @@
+{"id":26764,"className":"org.apache.commons.math.fraction.Fraction","methodName":"getNumerator","signature":"\u003corg.apache.commons.math.fraction.Fraction: int getNumerator()\u003e","javadoc":"/** \n * Access the numerator.\n * @return the numerator.\n */\n","tf":{"freq":{"numer":3,"access":1},"maxFreq":3,"totalTerms":4},"loc":3}

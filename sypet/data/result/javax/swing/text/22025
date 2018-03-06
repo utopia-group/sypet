@@ -1,0 +1,1 @@
+{"id":22025,"className":"javax.swing.text.TabStop","methodName":"getPosition","signature":"\u003cjavax.swing.text.TabStop: float getPosition()\u003e","javadoc":"/** \n * Returns the position, as a float, of the tab.\n * @return the position of the tab\n */\n","tf":{"freq":{"tab":2,"posit":3},"maxFreq":3,"totalTerms":5},"loc":3}

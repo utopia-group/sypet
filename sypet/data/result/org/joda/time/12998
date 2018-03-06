@@ -1,0 +1,1 @@
+{"id":12998,"className":"org.joda.time.LocalDate","methodName":"getChronology","signature":"\u003corg.joda.time.LocalDate: org.joda.time.Chronology getChronology()\u003e","javadoc":"/** \n * Gets the chronology of the date.\n * @return the Chronology that the date is using\n */\n","tf":{"freq":{"chronolog":3,"use":1,"date":2},"maxFreq":3,"totalTerms":6},"loc":3}

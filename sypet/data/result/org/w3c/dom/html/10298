@@ -1,0 +1,1 @@
+{"id":10298,"className":"org.w3c.dom.html.HTMLTableSectionElement","methodName":"getRows","signature":"\u003corg.w3c.dom.html.HTMLTableSectionElement: org.w3c.dom.html.HTMLCollection getRows()\u003e","javadoc":"/** \n * The collection of rows in this table section.\n */\n","tf":{"freq":{"tabl":1,"section":1,"row":2,"collect":1},"maxFreq":2,"totalTerms":5},"loc":0}

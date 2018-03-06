@@ -1,0 +1,1 @@
+{"id":15407,"className":"javax.swing.DebugGraphics","methodName":"setColor","signature":"\u003cjavax.swing.DebugGraphics: void setColor(java.awt.Color)\u003e","javadoc":"/** \n * Sets the color to be used for drawing and filling lines and shapes.\n */\n","tf":{"freq":{"draw":1,"color":2,"fill":1,"line":1,"use":1,"shape":1},"maxFreq":2,"totalTerms":7},"loc":6}

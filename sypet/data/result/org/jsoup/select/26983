@@ -1,0 +1,1 @@
+{"id":26983,"className":"org.jsoup.select.Evaluator$IndexEquals","methodName":"matches","signature":"\u003corg.jsoup.select.Evaluator$IndexEquals: boolean matches(org.jsoup.nodes.Element,org.jsoup.nodes.Element)\u003e","loc":3}

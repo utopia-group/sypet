@@ -1,0 +1,1 @@
+{"id":24150,"className":"java.util.logging.LogRecord","methodName":"getLoggerName","signature":"\u003cjava.util.logging.LogRecord: java.lang.String getLoggerName()\u003e","javadoc":"/** \n * Get the source Logger\u0027s name.\n * @return source logger name (may be null)\n */\n","tf":{"freq":{"may":1,"name":3,"logger":3,"sourc":2},"maxFreq":3,"totalTerms":9},"loc":3}

@@ -1,0 +1,1 @@
+{"id":21417,"className":"org.apache.commons.math3.linear.NonSymmetricMatrixException","methodName":"getThreshold","signature":"\u003corg.apache.commons.math3.linear.NonSymmetricMatrixException: double getThreshold()\u003e","javadoc":"/** \n * @return the relative symmetry threshold.\n */\n","tf":{"freq":{"relat":1,"symmetri":1,"threshold":2},"maxFreq":2,"totalTerms":4},"loc":3}

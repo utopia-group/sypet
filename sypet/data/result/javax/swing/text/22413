@@ -1,0 +1,1 @@
+{"id":22413,"className":"javax.swing.text.NavigationFilter$FilterBypass","methodName":"getCaret","signature":"\u003cjavax.swing.text.NavigationFilter$FilterBypass: javax.swing.text.Caret getCaret()\u003e","javadoc":"/** \n * Returns the Caret that is changing.\n * @return Caret that is changing\n */\n","tf":{"freq":{"caret":3,"chang":2},"maxFreq":3,"totalTerms":5},"loc":0}

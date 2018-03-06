@@ -1,0 +1,1 @@
+{"id":14417,"className":"org.joda.time.format.DateTimeParserBucket","methodName":"getLocale","signature":"\u003corg.joda.time.format.DateTimeParserBucket: java.util.Locale getLocale()\u003e","javadoc":"/** \n * Returns the locale to be used during parsing.\n * @return the locale to use\n */\n","tf":{"freq":{"use":2,"local":3,"pars":1},"maxFreq":3,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":17703,"className":"java.awt.datatransfer.MimeTypeParameterList","methodName":"isEmpty","signature":"\u003cjava.awt.datatransfer.MimeTypeParameterList: boolean isEmpty()\u003e","javadoc":"/** \n * Determine whether or not this list is empty.\n */\n","tf":{"freq":{"determin":1,"list":1,"whether":1,"empti":2},"maxFreq":2,"totalTerms":5},"loc":3}

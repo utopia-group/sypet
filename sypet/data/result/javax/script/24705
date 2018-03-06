@@ -1,0 +1,1 @@
+{"id":24705,"className":"javax.script.SimpleBindings","methodName":"entrySet","signature":"\u003cjavax.script.SimpleBindings: java.util.Set\u003cjava.util.Map.Entry\u003cjava.lang.String,java.lang.Object\u003e\u003e entrySet()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"entri":1},"maxFreq":1,"totalTerms":1},"loc":3}

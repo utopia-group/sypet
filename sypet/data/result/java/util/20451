@@ -1,0 +1,1 @@
+{"id":20451,"className":"java.util.BitSet","methodName":"BitSet","signature":"\u003cjava.util.BitSet: void BitSet()\u003e","javadoc":"/** \n * Creates a new bit set. All bits are initially  {@code false}.\n */\n","tf":{"freq":{"fals":1,"bit":3,"creat":1,"initi":1},"maxFreq":3,"totalTerms":6},"loc":4}

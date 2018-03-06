@@ -1,0 +1,1 @@
+{"id":11902,"className":"java.net.HttpRetryException","methodName":"responseCode","signature":"\u003cjava.net.HttpRetryException: int responseCode()\u003e","javadoc":"/** \n * Returns the http response code\n * @return  The http response code.\n */\n","tf":{"freq":{"respons":3,"http":2},"maxFreq":3,"totalTerms":5},"loc":3}

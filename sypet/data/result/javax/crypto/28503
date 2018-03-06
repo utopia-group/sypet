@@ -1,0 +1,1 @@
+{"id":28503,"className":"javax.crypto.CryptoPolicyParser$CryptoPermissionEntry","methodName":"equals","signature":"\u003cjavax.crypto.CryptoPolicyParser$CryptoPermissionEntry: boolean equals(java.lang.Object)\u003e","loc":38}

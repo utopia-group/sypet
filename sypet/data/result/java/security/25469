@@ -1,0 +1,1 @@
+{"id":25469,"className":"java.security.PermissionsHash","methodName":"add","signature":"\u003cjava.security.PermissionsHash: void add(java.security.Permission)\u003e","javadoc":"/** \n * Adds a permission to the PermissionsHash.\n * @param permission the Permission object to add.\n */\n","tf":{"freq":{"hash":1,"permiss":4,"object":1,"add":3},"maxFreq":4,"totalTerms":9},"loc":5}

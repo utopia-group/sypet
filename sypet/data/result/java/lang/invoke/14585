@@ -1,0 +1,1 @@
+{"id":14585,"className":"java.lang.invoke.MethodType","methodName":"returnType","signature":"\u003cjava.lang.invoke.MethodType: java.lang.Class\u003c?\u003e returnType()\u003e","javadoc":"/** \n * Returns the return type of this method type.\n * @return the return type\n */\n","tf":{"freq":{"method":1,"type":4},"maxFreq":4,"totalTerms":5},"loc":3}

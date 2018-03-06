@@ -1,0 +1,1 @@
+{"id":10820,"className":"org.w3c.dom.css.RGBColor","methodName":"getRed","signature":"\u003corg.w3c.dom.css.RGBColor: org.w3c.dom.css.CSSPrimitiveValue getRed()\u003e","javadoc":"/** \n * This attribute is used for the red value of the RGB color.\n */\n","tf":{"freq":{"attribut":1,"red":2,"color":1,"use":1,"valu":1},"maxFreq":2,"totalTerms":6},"loc":0}

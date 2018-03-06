@@ -1,0 +1,1 @@
+{"id":11092,"className":"com.opengamma.analytics.math.surface.FunctionalSurfaceAdditiveShiftFunction$ShiftedFunction","methodName":"evaluate","signature":"\u003ccom.opengamma.analytics.math.surface.FunctionalSurfaceAdditiveShiftFunction$ShiftedFunction: java.lang.Double evaluate(java.lang.Double[])\u003e","loc":3}

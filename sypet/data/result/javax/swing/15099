@@ -1,0 +1,1 @@
+{"id":15099,"className":"javax.swing.ListSelectionModel","methodName":"isSelectionEmpty","signature":"\u003cjavax.swing.ListSelectionModel: boolean isSelectionEmpty()\u003e","javadoc":"/** \n * Returns true if no indices are selected.\n */\n","tf":{"freq":{"indic":1,"select":2,"true":1,"empti":1},"maxFreq":2,"totalTerms":5},"loc":0}

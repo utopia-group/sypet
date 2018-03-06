@@ -1,0 +1,1 @@
+{"id":17071,"className":"javax.swing.filechooser.WindowsFileSystemView","methodName":"isFloppyDrive","signature":"\u003cjavax.swing.filechooser.WindowsFileSystemView: boolean isFloppyDrive(java.io.File)\u003e","loc":9}

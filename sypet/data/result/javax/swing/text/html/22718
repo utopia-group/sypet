@@ -1,0 +1,1 @@
+{"id":22718,"className":"javax.swing.text.html.Option","methodName":"setLabel","signature":"\u003cjavax.swing.text.html.Option: void setLabel(java.lang.String)\u003e","javadoc":"/** \n * Sets the label to be used for the option.\n */\n","tf":{"freq":{"use":1,"label":2,"option":1},"maxFreq":2,"totalTerms":4},"loc":3}

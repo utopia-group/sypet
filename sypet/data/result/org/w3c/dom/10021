@@ -1,0 +1,1 @@
+{"id":10021,"className":"org.w3c.dom.Node","methodName":"getNodeName","signature":"\u003corg.w3c.dom.Node: java.lang.String getNodeName()\u003e","javadoc":"/** \n * The name of this node, depending on its type; see the table above.\n */\n","tf":{"freq":{"node":2,"tabl":1,"depend":1,"name":2,"type":1},"maxFreq":2,"totalTerms":7},"loc":0}

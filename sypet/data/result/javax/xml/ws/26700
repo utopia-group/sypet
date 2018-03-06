@@ -1,0 +1,1 @@
+{"id":26700,"className":"javax.xml.ws.Holder","methodName":"Holder","signature":"\u003cjavax.xml.ws.Holder: void Holder(T)\u003e","javadoc":"/** \n * Create a new holder with the specified value.\n * @param value The value to be stored in the holder.\n */\n","tf":{"freq":{"holder":3,"store":1,"creat":1,"valu":3,"specifi":1},"maxFreq":3,"totalTerms":9},"loc":3}

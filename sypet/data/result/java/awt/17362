@@ -1,0 +1,1 @@
+{"id":17362,"className":"java.awt.Robot","methodName":"getAutoDelay","signature":"\u003cjava.awt.Robot: int getAutoDelay()\u003e","javadoc":"/** \n * Returns the number of milliseconds this Robot sleeps after generating an event.\n */\n","tf":{"freq":{"event":1,"millisecond":1,"generat":1,"auto":1,"robot":1,"number":1,"delay":1,"sleep":1},"maxFreq":1,"totalTerms":8},"loc":3}

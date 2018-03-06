@@ -1,0 +1,1 @@
+{"id":21994,"className":"org.apache.commons.math3.exception.MathInternalError","methodName":"MathInternalError","signature":"\u003corg.apache.commons.math3.exception.MathInternalError: void MathInternalError()\u003e","javadoc":"/** \n * Simple constructor.\n */\n","tf":{"freq":{"math":1,"simpl":1,"error":1,"intern":1,"constructor":1},"maxFreq":1,"totalTerms":5},"loc":3}

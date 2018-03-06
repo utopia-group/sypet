@@ -1,0 +1,1 @@
+{"id":17355,"className":"org.apache.commons.math3.analysis.differentiation.DerivativeStructure","methodName":"round","signature":"\u003corg.apache.commons.math3.analysis.differentiation.DerivativeStructure: long round()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"round":1},"maxFreq":1,"totalTerms":1},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11509,"className":"java.io.StringWriter","methodName":"flush","signature":"\u003cjava.io.StringWriter: void flush()\u003e","javadoc":"/** \n * Flush the stream.\n */\n","tf":{"freq":{"stream":1,"flush":2},"maxFreq":2,"totalTerms":3},"loc":2}

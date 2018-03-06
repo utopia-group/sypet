@@ -1,0 +1,1 @@
+{"id":16363,"className":"java.awt.ScrollPane","methodName":"addNotify","signature":"\u003cjava.awt.ScrollPane: void addNotify()\u003e","javadoc":"/** \n * Creates the scroll pane\u0027s peer.\n */\n","tf":{"freq":{"peer":1,"notifi":1,"scroll":1,"creat":1,"add":1,"pane":1},"maxFreq":1,"totalTerms":6},"loc":28}

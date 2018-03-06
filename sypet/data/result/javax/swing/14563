@@ -1,0 +1,1 @@
+{"id":14563,"className":"javax.swing.SwingWorker","methodName":"get","signature":"\u003cjavax.swing.SwingWorker: T get(long,java.util.concurrent.TimeUnit)\u003e","javadoc":"/** \n * {@inheritDoc}\u003cp\u003e Please refer to  {@link #get} for more details.\n */\n","tf":{"freq":{"detail":1,"pleas":1,"refer":1,"link":1},"maxFreq":1,"totalTerms":4},"loc":3}

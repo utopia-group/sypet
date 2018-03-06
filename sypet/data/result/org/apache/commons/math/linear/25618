@@ -1,0 +1,1 @@
+{"id":25618,"className":"org.apache.commons.math.linear.ArrayFieldVector","methodName":"outerProduct","signature":"\u003corg.apache.commons.math.linear.ArrayFieldVector: org.apache.commons.math.linear.FieldMatrix\u003cT\u003e outerProduct(T[])\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"product":1,"outer":1},"maxFreq":1,"totalTerms":2},"loc":11}

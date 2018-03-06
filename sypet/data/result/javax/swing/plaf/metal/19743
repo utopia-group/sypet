@@ -1,0 +1,1 @@
+{"id":19743,"className":"javax.swing.plaf.metal.MetalComboBoxButton","methodName":"MetalComboBoxButton","signature":"\u003cjavax.swing.plaf.metal.MetalComboBoxButton: void MetalComboBoxButton(javax.swing.JComboBox,javax.swing.Icon,javax.swing.CellRendererPane,javax.swing.JList)\u003e","loc":8}

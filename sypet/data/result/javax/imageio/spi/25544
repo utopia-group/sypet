@@ -1,0 +1,1 @@
+{"id":25544,"className":"javax.imageio.spi.DigraphNode","methodName":"getInDegree","signature":"\u003cjavax.imageio.spi.DigraphNode: int getInDegree()\u003e","javadoc":"/** \n * Returns the in-degree of this node. \n */\n","tf":{"freq":{"degre":2,"node":1},"maxFreq":2,"totalTerms":3},"loc":3}

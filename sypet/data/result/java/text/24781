@@ -1,0 +1,1 @@
+{"id":24781,"className":"java.text.Annotation","methodName":"toString","signature":"\u003cjava.text.Annotation: java.lang.String toString()\u003e","javadoc":"/** \n * Returns the String representation of this Annotation.\n */\n","tf":{"freq":{"annot":1,"string":2,"represent":1},"maxFreq":2,"totalTerms":4},"loc":3}

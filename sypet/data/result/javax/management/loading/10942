@@ -1,0 +1,1 @@
+{"id":10942,"className":"javax.management.loading.MLet","methodName":"MLet","signature":"\u003cjavax.management.loading.MLet: void MLet()\u003e","javadoc":"/** \n * Constructs a new MLet using the default delegation parent ClassLoader.\n */\n","tf":{"freq":{"deleg":1,"loader":1,"parent":1,"use":1,"construct":1,"mlet":1},"maxFreq":1,"totalTerms":6},"loc":3}

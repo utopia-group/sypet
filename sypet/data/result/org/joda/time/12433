@@ -1,0 +1,1 @@
+{"id":12433,"className":"org.joda.time.LocalDateTime","methodName":"getMillisOfDay","signature":"\u003corg.joda.time.LocalDateTime: int getMillisOfDay()\u003e","javadoc":"/** \n * Get the millis of day field value.\n * @return the millis of day\n */\n","tf":{"freq":{"field":1,"milli":3,"valu":1,"day":3},"maxFreq":3,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12320,"className":"com.opengamma.analytics.math.minimization.NonLinearParameterTransforms","methodName":"getNumberOfFittingParameters","signature":"\u003ccom.opengamma.analytics.math.minimization.NonLinearParameterTransforms: int getNumberOfFittingParameters()\u003e","loc":0}

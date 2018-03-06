@@ -1,0 +1,1 @@
+{"id":27939,"className":"javax.accessibility.AccessibleRelationSet","methodName":"clear","signature":"\u003cjavax.accessibility.AccessibleRelationSet: void clear()\u003e","javadoc":"/** \n * Removes all the relations from the current relation set.\n */\n","tf":{"freq":{"clear":1,"current":1,"relat":2,"remov":1},"maxFreq":2,"totalTerms":5},"loc":5}

@@ -1,0 +1,1 @@
+{"id":14988,"className":"java.nio.channels.spi.AbstractSelectableChannel","methodName":"blockingLock","signature":"\u003cjava.nio.channels.spi.AbstractSelectableChannel: java.lang.Object blockingLock()\u003e","loc":3}

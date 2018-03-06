@@ -1,0 +1,1 @@
+{"id":25342,"className":"java.security.AllPermission","methodName":"AllPermission","signature":"\u003cjava.security.AllPermission: void AllPermission()\u003e","javadoc":"/** \n * Creates a new AllPermission object.\n */\n","tf":{"freq":{"creat":1,"permiss":2,"object":1},"maxFreq":2,"totalTerms":4},"loc":3}

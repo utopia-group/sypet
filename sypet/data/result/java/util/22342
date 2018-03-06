@@ -1,0 +1,1 @@
+{"id":22342,"className":"java.util.TreeSet","methodName":"pollFirst","signature":"\u003cjava.util.TreeSet: E pollFirst()\u003e","javadoc":"/** \n * @since 1.6\n */\n","tf":{"freq":{"poll":1,"first":1},"maxFreq":1,"totalTerms":2},"loc":4}

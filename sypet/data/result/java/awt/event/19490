@@ -1,0 +1,1 @@
+{"id":19490,"className":"java.awt.event.WindowAdapter","methodName":"windowStateChanged","signature":"\u003cjava.awt.event.WindowAdapter: void windowStateChanged(java.awt.event.WindowEvent)\u003e","javadoc":"/** \n * Invoked when a window state is changed.\n * @since 1.4\n */\n","tf":{"freq":{"window":2,"invok":1,"state":2,"chang":2},"maxFreq":2,"totalTerms":7},"loc":1}

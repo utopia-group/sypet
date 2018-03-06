@@ -1,0 +1,1 @@
+{"id":26030,"className":"javax.xml.stream.events.XMLEvent","methodName":"isAttribute","signature":"\u003cjavax.xml.stream.events.XMLEvent: boolean isAttribute()\u003e","javadoc":"/** \n * A utility function to check if this event is an Attribute.\n * @see Attribute\n */\n","tf":{"freq":{"attribut":3,"check":1,"event":1,"util":1,"function":1},"maxFreq":3,"totalTerms":7},"loc":0}

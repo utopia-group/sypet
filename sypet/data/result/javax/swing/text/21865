@@ -1,0 +1,1 @@
+{"id":21865,"className":"javax.swing.text.AsyncBoxView$ChildState","methodName":"getMajorSpan","signature":"\u003cjavax.swing.text.AsyncBoxView$ChildState: float getMajorSpan()\u003e","javadoc":"/** \n * What is the span along the major axis.\n */\n","tf":{"freq":{"axi":1,"along":1,"major":2,"span":2},"maxFreq":2,"totalTerms":6},"loc":3}

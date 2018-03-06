@@ -1,0 +1,1 @@
+{"id":25412,"className":"javax.imageio.stream.ImageOutputStreamImpl","methodName":"writeByte","signature":"\u003cjavax.imageio.stream.ImageOutputStreamImpl: void writeByte(int)\u003e","loc":3}

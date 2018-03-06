@@ -1,0 +1,1 @@
+{"id":24829,"className":"java.text.Bidi","methodName":"toString","signature":"\u003cjava.text.Bidi: java.lang.String toString()\u003e","javadoc":"/** \n * Display the bidi internal state, used in debugging.\n */\n","tf":{"freq":{"bidi":1,"string":1,"state":1,"intern":1,"use":1,"display":1,"debug":1},"maxFreq":1,"totalTerms":7},"loc":3}

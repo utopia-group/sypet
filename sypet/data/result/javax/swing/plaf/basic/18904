@@ -1,0 +1,1 @@
+{"id":18904,"className":"javax.swing.plaf.basic.BasicListUI$Handler","methodName":"intervalRemoved","signature":"\u003cjavax.swing.plaf.basic.BasicListUI$Handler: void intervalRemoved(javax.swing.event.ListDataEvent)\u003e","loc":18}

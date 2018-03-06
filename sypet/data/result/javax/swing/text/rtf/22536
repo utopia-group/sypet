@@ -1,0 +1,1 @@
+{"id":22536,"className":"javax.swing.text.rtf.RTFParser","methodName":"handleText","signature":"\u003cjavax.swing.text.rtf.RTFParser: void handleText(java.lang.String)\u003e","javadoc":"/** \n * Implemented by subclasses to interpret text from the RTF stream. \n */\n","tf":{"freq":{"stream":1,"text":2,"interpret":1,"subclass":1,"handl":1},"maxFreq":2,"totalTerms":6},"loc":0}

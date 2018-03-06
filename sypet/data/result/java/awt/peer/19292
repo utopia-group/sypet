@@ -1,0 +1,1 @@
+{"id":19292,"className":"java.awt.peer.MenuBarPeer","methodName":"addMenu","signature":"\u003cjava.awt.peer.MenuBarPeer: void addMenu(java.awt.Menu)\u003e","javadoc":"/** \n * Adds a menu to the menu bar.\n * @param m the menu to add\n * @see MenuBar#add(Menu)\n */\n","tf":{"freq":{"menu":6,"bar":2,"add":4},"maxFreq":6,"totalTerms":12},"loc":0}

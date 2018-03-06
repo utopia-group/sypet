@@ -1,0 +1,1 @@
+{"id":19207,"className":"javax.swing.plaf.basic.BasicInternalFrameUI$BasicInternalFrameListener","methodName":"internalFrameIconified","signature":"\u003cjavax.swing.plaf.basic.BasicInternalFrameUI$BasicInternalFrameListener: void internalFrameIconified(javax.swing.event.InternalFrameEvent)\u003e","loc":3}

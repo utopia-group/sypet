@@ -1,0 +1,1 @@
+{"id":23314,"className":"javax.swing.text.html.parser.AttributeList","methodName":"getNext","signature":"\u003cjavax.swing.text.html.parser.AttributeList: javax.swing.text.html.parser.AttributeList getNext()\u003e","javadoc":"/** \n * @return the next attribute in the list\n */\n","tf":{"freq":{"attribut":1,"next":2,"list":1},"maxFreq":2,"totalTerms":4},"loc":3}

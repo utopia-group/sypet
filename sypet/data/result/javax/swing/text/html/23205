@@ -1,0 +1,1 @@
+{"id":23205,"className":"javax.swing.text.html.Map$PolygonRegionContainment","methodName":"contains","signature":"\u003cjavax.swing.text.html.Map$PolygonRegionContainment: boolean contains(int,int,int,int)\u003e","loc":26}

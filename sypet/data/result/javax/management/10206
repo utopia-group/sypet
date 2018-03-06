@@ -1,0 +1,1 @@
+{"id":10206,"className":"javax.management.NumericValueExp","methodName":"doubleValue","signature":"\u003cjavax.management.NumericValueExp: double doubleValue()\u003e","javadoc":"/** \n * Returns a double numeric value\n */\n","tf":{"freq":{"numer":1,"valu":2},"maxFreq":2,"totalTerms":3},"loc":7}

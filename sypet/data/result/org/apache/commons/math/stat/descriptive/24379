@@ -1,0 +1,1 @@
+{"id":24379,"className":"org.apache.commons.math.stat.descriptive.AbstractStorelessUnivariateStatistic","methodName":"clear","signature":"\u003corg.apache.commons.math.stat.descriptive.AbstractStorelessUnivariateStatistic: void clear()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"clear":1},"maxFreq":1,"totalTerms":1},"loc":0}

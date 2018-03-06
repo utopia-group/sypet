@@ -1,0 +1,1 @@
+{"id":19840,"className":"org.apache.commons.math3.optim.univariate.SearchInterval","methodName":"getStartValue","signature":"\u003corg.apache.commons.math3.optim.univariate.SearchInterval: double getStartValue()\u003e","javadoc":"/** \n * Gets the start value.\n * @return the start value.\n */\n","tf":{"freq":{"start":3,"valu":3},"maxFreq":3,"totalTerms":6},"loc":3}

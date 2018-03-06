@@ -1,0 +1,1 @@
+{"id":19463,"className":"java.awt.event.ComponentAdapter","methodName":"componentShown","signature":"\u003cjava.awt.event.ComponentAdapter: void componentShown(java.awt.event.ComponentEvent)\u003e","javadoc":"/** \n * Invoked when the component has been made visible.\n */\n","tf":{"freq":{"compon":2,"visibl":1,"invok":1,"made":1,"shown":1},"maxFreq":2,"totalTerms":6},"loc":1}

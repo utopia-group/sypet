@@ -1,0 +1,1 @@
+{"id":23564,"className":"java.util.concurrent.atomic.AtomicInteger","methodName":"set","signature":"\u003cjava.util.concurrent.atomic.AtomicInteger: void set(int)\u003e","javadoc":"/** \n * Sets to the given value.\n * @param newValue the new value\n */\n","tf":{"freq":{"given":1,"valu":3},"maxFreq":3,"totalTerms":4},"loc":3}

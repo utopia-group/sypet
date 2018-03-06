@@ -1,0 +1,1 @@
+{"id":25984,"className":"javax.xml.stream.events.Characters","methodName":"getData","signature":"\u003cjavax.xml.stream.events.Characters: java.lang.String getData()\u003e","javadoc":"/** \n * Get the character data of this event\n */\n","tf":{"freq":{"charact":1,"event":1,"data":2},"maxFreq":2,"totalTerms":4},"loc":0}

@@ -1,0 +1,1 @@
+{"id":21624,"className":"java.util.UnknownFormatFlagsException","methodName":"getFlags","signature":"\u003cjava.util.UnknownFormatFlagsException: java.lang.String getFlags()\u003e","javadoc":"/** \n * Returns the set of flags which contains an unknown flag.\n * @return  The flags\n */\n","tf":{"freq":{"flag":4,"contain":1,"unknown":1},"maxFreq":4,"totalTerms":6},"loc":3}

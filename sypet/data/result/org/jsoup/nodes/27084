@@ -1,0 +1,1 @@
+{"id":27084,"className":"org.jsoup.nodes.Node","methodName":"remove","signature":"\u003corg.jsoup.nodes.Node: void remove()\u003e","javadoc":"/** \n * Remove (delete) this node from the DOM tree. If this node has children, they are also removed.\n */\n","tf":{"freq":{"node":2,"tree":1,"delet":1,"remov":3,"children":1,"also":1},"maxFreq":3,"totalTerms":9},"loc":4}

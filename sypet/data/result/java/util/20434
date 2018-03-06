@@ -1,0 +1,1 @@
+{"id":20434,"className":"java.util.GregorianCalendar","methodName":"hashCode","signature":"\u003cjava.util.GregorianCalendar: int hashCode()\u003e","javadoc":"/** \n * Generates the hash code for this \u003ccode\u003eGregorianCalendar\u003c/code\u003e object.\n */\n","tf":{"freq":{"hash":2,"generat":1,"object":1,"gregorian":1,"calendar":1},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":23198,"className":"javax.swing.text.html.Map","methodName":"getAreas","signature":"\u003cjavax.swing.text.html.Map: javax.swing.text.AttributeSet[] getAreas()\u003e","javadoc":"/** \n * Returns the AttributeSets representing the differet areas of the Map.\n */\n","tf":{"freq":{"differet":1,"attribut":1,"area":2,"repres":1,"map":1},"maxFreq":2,"totalTerms":6},"loc":11}

@@ -1,0 +1,1 @@
+{"id":15405,"className":"org.apache.commons.math3.RealFieldElement","methodName":"getReal","signature":"\u003corg.apache.commons.math3.RealFieldElement: double getReal()\u003e","javadoc":"/** \n * Get the real value of the number.\n * @return real value\n */\n","tf":{"freq":{"real":3,"number":1,"valu":2},"maxFreq":3,"totalTerms":6},"loc":0}

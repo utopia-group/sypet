@@ -1,0 +1,1 @@
+{"id":27359,"className":"org.jsoup.helper.HttpConnection$Base","methodName":"hasCookie","signature":"\u003corg.jsoup.helper.HttpConnection$Base: boolean hasCookie(java.lang.String)\u003e","loc":4}

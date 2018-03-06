@@ -1,0 +1,1 @@
+{"id":26501,"className":"javax.xml.bind.helpers.AbstractMarshallerImpl","methodName":"setAdapter","signature":"\u003cjavax.xml.bind.helpers.AbstractMarshallerImpl: void setAdapter(javax.xml.bind.annotation.adapters.XmlAdapter)\u003e","loc":5}

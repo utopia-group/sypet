@@ -1,0 +1,1 @@
+{"id":11237,"className":"org.w3c.dom.ls.LSLoadEvent","methodName":"getNewDocument","signature":"\u003corg.w3c.dom.ls.LSLoadEvent: org.w3c.dom.Document getNewDocument()\u003e","javadoc":"/** \n * The document that finished loading.\n */\n","tf":{"freq":{"finish":1,"document":2,"load":1},"maxFreq":2,"totalTerms":4},"loc":0}

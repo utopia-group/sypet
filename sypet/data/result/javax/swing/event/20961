@@ -1,0 +1,1 @@
+{"id":20961,"className":"javax.swing.event.EventListenerList","methodName":"toString","signature":"\u003cjavax.swing.event.EventListenerList: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a string representation of the EventListenerList.\n */\n","tf":{"freq":{"event":1,"string":2,"list":1,"listen":1,"represent":1},"maxFreq":2,"totalTerms":6},"loc":10}

@@ -1,0 +1,1 @@
+{"id":21940,"className":"javax.swing.text.StyleContext","methodName":"getFontMetrics","signature":"\u003cjavax.swing.text.StyleContext: java.awt.FontMetrics getFontMetrics(java.awt.Font)\u003e","javadoc":"/** \n * Returns font metrics for a font.\n * @param f the font\n * @return the metrics\n */\n","tf":{"freq":{"metric":3,"font":4},"maxFreq":4,"totalTerms":7},"loc":5}

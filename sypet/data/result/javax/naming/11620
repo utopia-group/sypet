@@ -1,0 +1,1 @@
+{"id":11620,"className":"javax.naming.Name","methodName":"size","signature":"\u003cjavax.naming.Name: int size()\u003e","javadoc":"/** \n * Returns the number of components in this name.\n * @return  the number of components in this name\n */\n","tf":{"freq":{"compon":2,"name":2,"number":2,"size":1},"maxFreq":2,"totalTerms":7},"loc":0}

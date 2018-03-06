@@ -1,0 +1,1 @@
+{"id":17528,"className":"java.awt.Container","methodName":"insets","signature":"\u003cjava.awt.Container: java.awt.Insets insets()\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by \u003ccode\u003egetInsets()\u003c/code\u003e.\n */\n","tf":{"freq":{"deprec":1,"inset":2,"replac":1,"version":1},"maxFreq":2,"totalTerms":5},"loc":8}

@@ -1,0 +1,1 @@
+{"id":12631,"className":"java.beans.XMLDecoder","methodName":"close","signature":"\u003cjava.beans.XMLDecoder: void close()\u003e","javadoc":"/** \n * This method closes the input stream associated with this stream.\n */\n","tf":{"freq":{"stream":2,"input":1,"associ":1,"method":1,"close":2},"maxFreq":2,"totalTerms":7},"loc":6}

@@ -1,0 +1,1 @@
+{"id":13306,"className":"java.lang.Byte","methodName":"floatValue","signature":"\u003cjava.lang.Byte: float floatValue()\u003e","javadoc":"/** \n * Returns the value of this  {@code Byte} as a{@code float}.\n */\n","tf":{"freq":{"valu":2},"maxFreq":2,"totalTerms":2},"loc":3}

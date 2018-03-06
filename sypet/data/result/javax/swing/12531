@@ -1,0 +1,1 @@
+{"id":12531,"className":"javax.swing.JOptionPane","methodName":"getMessageType","signature":"\u003cjavax.swing.JOptionPane: int getMessageType()\u003e","javadoc":"/** \n * Returns the message type.\n * @return an integer specifying the message type\n * @see #setMessageType\n */\n","tf":{"freq":{"messag":4,"type":4,"integ":1,"specifi":1},"maxFreq":4,"totalTerms":10},"loc":3}

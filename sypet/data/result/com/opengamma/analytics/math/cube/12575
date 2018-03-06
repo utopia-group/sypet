@@ -1,0 +1,1 @@
+{"id":12575,"className":"com.opengamma.analytics.math.cube.ConstantDoublesCube","methodName":"ConstantDoublesCube","signature":"\u003ccom.opengamma.analytics.math.cube.ConstantDoublesCube: void ConstantDoublesCube(double)\u003e","javadoc":"/** \n * @param v The level of the cube\n */\n","tf":{"freq":{"level":1,"constant":1,"cube":2},"maxFreq":2,"totalTerms":4},"loc":4}

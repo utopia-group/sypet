@@ -1,0 +1,1 @@
+{"id":14418,"className":"java.lang.invoke.AdapterMethodHandle$AsVarargsCollector","methodName":"asType","signature":"\u003cjava.lang.invoke.AdapterMethodHandle$AsVarargsCollector: java.lang.invoke.MethodHandle asType(java.lang.invoke.MethodType)\u003e","loc":23}

@@ -1,0 +1,1 @@
+{"id":26209,"className":"org.apache.commons.math.linear.QRDecompositionImpl","methodName":"getR","signature":"\u003corg.apache.commons.math.linear.QRDecompositionImpl: org.apache.commons.math.linear.RealMatrix getR()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","loc":23}

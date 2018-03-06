@@ -1,0 +1,1 @@
+{"id":22670,"className":"java.util.concurrent.AbstractExecutorService","methodName":"invokeAll","signature":"\u003cjava.util.concurrent.AbstractExecutorService: java.util.List\u003cjava.util.concurrent.Future\u003cT\u003e\u003e invokeAll(java.util.Collection)\u003e","loc":28}

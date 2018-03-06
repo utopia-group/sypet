@@ -1,0 +1,1 @@
+{"id":23915,"className":"java.util.jar.JavaUtilJarAccessImpl","methodName":"getCodeSource","signature":"\u003cjava.util.jar.JavaUtilJarAccessImpl: java.security.CodeSource getCodeSource(java.util.jar.JarFile,java.net.URL,java.lang.String)\u003e","loc":3}

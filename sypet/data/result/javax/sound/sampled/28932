@@ -1,0 +1,1 @@
+{"id":28932,"className":"javax.sound.sampled.FloatControl","methodName":"getMaximum","signature":"\u003cjavax.sound.sampled.FloatControl: float getMaximum()\u003e","javadoc":"/** \n * Obtains the maximum value permitted.\n * @return the maximum allowable value\n */\n","tf":{"freq":{"obtain":1,"allow":1,"maximum":3,"permit":1,"valu":2},"maxFreq":3,"totalTerms":8},"loc":3}

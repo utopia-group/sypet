@@ -1,0 +1,1 @@
+{"id":19851,"className":"java.awt.geom.CubicCurve2D$Float","methodName":"getY1","signature":"\u003cjava.awt.geom.CubicCurve2D$Float: double getY1()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","loc":3}

@@ -1,0 +1,1 @@
+{"id":12396,"className":"com.opengamma.analytics.math.minimization.ParabolicMinimumBracketer","methodName":"getBracketedPoints","signature":"\u003ccom.opengamma.analytics.math.minimization.ParabolicMinimumBracketer: double[] getBracketedPoints(com.opengamma.analytics.math.function.Function1D,double,double)\u003e","loc":70}

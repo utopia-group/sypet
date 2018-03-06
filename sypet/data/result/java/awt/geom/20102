@@ -1,0 +1,1 @@
+{"id":20102,"className":"java.awt.geom.Line2D$Double","methodName":"getX2","signature":"\u003cjava.awt.geom.Line2D$Double: double getX2()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","loc":3}

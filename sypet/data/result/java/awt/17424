@@ -1,0 +1,1 @@
+{"id":17424,"className":"java.awt.PageAttributes","methodName":"PageAttributes","signature":"\u003cjava.awt.PageAttributes: void PageAttributes()\u003e","javadoc":"/** \n * Constructs a PageAttributes instance with default values for every attribute.\n */\n","tf":{"freq":{"attribut":3,"page":2,"valu":1,"construct":1,"everi":1,"instanc":1},"maxFreq":3,"totalTerms":9},"loc":8}

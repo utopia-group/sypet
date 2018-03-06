@@ -1,0 +1,1 @@
+{"id":19781,"className":"java.awt.geom.Path2D","methodName":"getBounds","signature":"\u003cjava.awt.geom.Path2D: java.awt.Rectangle getBounds()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.6\n */\n","tf":{"freq":{"bound":1},"maxFreq":1,"totalTerms":1},"loc":3}

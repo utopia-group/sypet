@@ -1,0 +1,1 @@
+{"id":10862,"className":"javax.management.monitor.GaugeMonitor$GaugeMonitorObservedObject","methodName":"getType","signature":"\u003cjavax.management.monitor.GaugeMonitor$GaugeMonitorObservedObject: javax.management.monitor.Monitor$NumericalType getType()\u003e","loc":3}

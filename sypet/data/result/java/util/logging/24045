@@ -1,0 +1,1 @@
+{"id":24045,"className":"java.util.logging.LoggingProxyImpl","methodName":"isLoggable","signature":"\u003cjava.util.logging.LoggingProxyImpl: boolean isLoggable(java.lang.Object,java.lang.Object)\u003e","loc":3}

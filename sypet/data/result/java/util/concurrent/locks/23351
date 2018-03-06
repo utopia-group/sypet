@@ -1,0 +1,1 @@
+{"id":23351,"className":"java.util.concurrent.locks.ReadWriteLock","methodName":"readLock","signature":"\u003cjava.util.concurrent.locks.ReadWriteLock: java.util.concurrent.locks.Lock readLock()\u003e","javadoc":"/** \n * Returns the lock used for reading.\n * @return the lock used for reading.\n */\n","tf":{"freq":{"lock":3,"use":2,"read":3},"maxFreq":3,"totalTerms":8},"loc":0}

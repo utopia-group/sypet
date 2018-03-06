@@ -1,0 +1,1 @@
+{"id":24915,"className":"java.text.ChoiceFormat","methodName":"getFormats","signature":"\u003cjava.text.ChoiceFormat: java.lang.Object[] getFormats()\u003e","javadoc":"/** \n * Get the formats passed in the constructor.\n * @return the formats.\n */\n","tf":{"freq":{"format":3,"constructor":1,"pass":1},"maxFreq":3,"totalTerms":5},"loc":3}

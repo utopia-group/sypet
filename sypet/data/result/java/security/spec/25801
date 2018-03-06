@@ -1,0 +1,1 @@
+{"id":25801,"className":"java.security.spec.RSAPublicKeySpec","methodName":"getModulus","signature":"\u003cjava.security.spec.RSAPublicKeySpec: java.math.BigInteger getModulus()\u003e","javadoc":"/** \n * Returns the modulus.\n * @return the modulus\n */\n","tf":{"freq":{"modulus":3},"maxFreq":3,"totalTerms":3},"loc":3}

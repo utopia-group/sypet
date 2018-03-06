@@ -1,0 +1,1 @@
+{"id":14721,"className":"javax.swing.JTable","methodName":"getSelectedRowCount","signature":"\u003cjavax.swing.JTable: int getSelectedRowCount()\u003e","javadoc":"/** \n * Returns the number of selected rows.\n * @return the number of selected rows, 0 if no rows are selected\n */\n","tf":{"freq":{"count":1,"select":4,"number":2,"row":4},"maxFreq":4,"totalTerms":11},"loc":12}

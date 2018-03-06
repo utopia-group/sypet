@@ -1,0 +1,1 @@
+{"id":21315,"className":"org.apache.commons.math3.linear.FieldVector","methodName":"getDimension","signature":"\u003corg.apache.commons.math3.linear.FieldVector: int getDimension()\u003e","javadoc":"/** \n * Returns the size of the vector.\n * @return size\n */\n","tf":{"freq":{"vector":1,"dimens":1,"size":2},"maxFreq":2,"totalTerms":4},"loc":0}

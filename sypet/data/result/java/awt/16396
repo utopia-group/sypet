@@ -1,0 +1,1 @@
+{"id":16396,"className":"java.awt.KeyboardFocusManager","methodName":"KeyboardFocusManager","signature":"\u003cjava.awt.KeyboardFocusManager: void KeyboardFocusManager()\u003e","javadoc":"/** \n * Initializes a KeyboardFocusManager.\n */\n","tf":{"freq":{"keyboard":2,"manag":2,"focus":2,"initi":1},"maxFreq":2,"totalTerms":7},"loc":12}

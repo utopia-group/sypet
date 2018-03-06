@@ -1,0 +1,1 @@
+{"id":19040,"className":"javax.swing.plaf.basic.BasicProgressBarUI","methodName":"getMaximumSize","signature":"\u003cjavax.swing.plaf.basic.BasicProgressBarUI: java.awt.Dimension getMaximumSize(javax.swing.JComponent)\u003e","loc":9}

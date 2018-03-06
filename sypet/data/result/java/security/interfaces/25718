@@ -1,0 +1,1 @@
+{"id":25718,"className":"java.security.interfaces.RSAPrivateCrtKey","methodName":"getPrimeP","signature":"\u003cjava.security.interfaces.RSAPrivateCrtKey: java.math.BigInteger getPrimeP()\u003e","javadoc":"/** \n * Returns the primeP.\n * @return the primeP\n */\n","tf":{"freq":{"prime":3},"maxFreq":3,"totalTerms":3},"loc":0}

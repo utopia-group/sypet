@@ -1,0 +1,1 @@
+{"id":15018,"className":"org.joda.time.chrono.BasicMonthOfYearDateTimeField","methodName":"getLeapAmount","signature":"\u003corg.joda.time.chrono.BasicMonthOfYearDateTimeField: int getLeapAmount(long)\u003e","loc":3}

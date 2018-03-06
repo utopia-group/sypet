@@ -1,0 +1,1 @@
+{"id":20931,"className":"javax.swing.event.RowSorterEvent","methodName":"getType","signature":"\u003cjavax.swing.event.RowSorterEvent: javax.swing.event.Type getType()\u003e","javadoc":"/** \n * Returns the type of event.\n * @return the type of event\n */\n","tf":{"freq":{"event":2,"type":3},"maxFreq":3,"totalTerms":5},"loc":3}

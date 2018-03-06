@@ -1,0 +1,1 @@
+{"id":23289,"className":"java.util.concurrent.FutureTask","methodName":"isCancelled","signature":"\u003cjava.util.concurrent.FutureTask: boolean isCancelled()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":10027,"className":"org.w3c.dom.Node","methodName":"getFirstChild","signature":"\u003corg.w3c.dom.Node: org.w3c.dom.Node getFirstChild()\u003e","javadoc":"/** \n * The first child of this node. If there is no such node, this returns \u003ccode\u003enull\u003c/code\u003e.\n */\n","tf":{"freq":{"child":2,"node":2,"first":2},"maxFreq":2,"totalTerms":6},"loc":0}

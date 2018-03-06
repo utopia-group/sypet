@@ -1,0 +1,1 @@
+{"id":25424,"className":"java.security.Signer","methodName":"toString","signature":"\u003cjava.security.Signer: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a string of information about the signer.\n * @return a string of information about the signer.\n */\n","tf":{"freq":{"inform":2,"signer":2,"string":3},"maxFreq":3,"totalTerms":7},"loc":3}

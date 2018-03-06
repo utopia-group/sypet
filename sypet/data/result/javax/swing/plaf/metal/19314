@@ -1,0 +1,1 @@
+{"id":19314,"className":"javax.swing.plaf.metal.MetalComboBoxIcon","methodName":"getIconHeight","signature":"\u003cjavax.swing.plaf.metal.MetalComboBoxIcon: int getIconHeight()\u003e","javadoc":"/** \n * Created a stub to satisfy the interface.\n */\n","tf":{"freq":{"icon":1,"height":1,"creat":1,"stub":1,"satisfi":1},"maxFreq":1,"totalTerms":5},"loc":1}

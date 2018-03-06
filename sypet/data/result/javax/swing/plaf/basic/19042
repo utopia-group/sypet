@@ -1,0 +1,1 @@
+{"id":19042,"className":"javax.swing.plaf.basic.BasicProgressBarUI$ChangeHandler","methodName":"stateChanged","signature":"\u003cjavax.swing.plaf.basic.BasicProgressBarUI$ChangeHandler: void stateChanged(javax.swing.event.ChangeEvent)\u003e","loc":3}

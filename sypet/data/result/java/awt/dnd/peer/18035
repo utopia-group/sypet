@@ -1,0 +1,1 @@
+{"id":18035,"className":"java.awt.dnd.peer.DropTargetContextPeer","methodName":"getTargetActions","signature":"\u003cjava.awt.dnd.peer.DropTargetContextPeer: int getTargetActions()\u003e","javadoc":"/** \n * get the current Target actions\n */\n","tf":{"freq":{"current":1,"action":2,"target":2},"maxFreq":2,"totalTerms":5},"loc":0}

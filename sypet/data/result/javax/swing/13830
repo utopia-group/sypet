@@ -1,0 +1,1 @@
+{"id":13830,"className":"javax.swing.JFileChooser","methodName":"getFileView","signature":"\u003cjavax.swing.JFileChooser: javax.swing.filechooser.FileView getFileView()\u003e","javadoc":"/** \n * Returns the current file view.\n * @see #setFileView\n */\n","tf":{"freq":{"file":3,"current":1,"view":3},"maxFreq":3,"totalTerms":7},"loc":3}

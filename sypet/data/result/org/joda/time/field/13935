@@ -1,0 +1,1 @@
+{"id":13935,"className":"org.joda.time.field.PreciseDurationDateTimeField","methodName":"getMinimumValue","signature":"\u003corg.joda.time.field.PreciseDurationDateTimeField: int getMinimumValue()\u003e","javadoc":"/** \n * Get the minimum value for the field.\n * @return the minimum value\n */\n","tf":{"freq":{"field":1,"minimum":3,"valu":3},"maxFreq":3,"totalTerms":7},"loc":3}

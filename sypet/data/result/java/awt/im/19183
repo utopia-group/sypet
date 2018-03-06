@@ -1,0 +1,1 @@
+{"id":19183,"className":"java.awt.im.InputMethodHighlight","methodName":"getVariation","signature":"\u003cjava.awt.im.InputMethodHighlight: int getVariation()\u003e","javadoc":"/** \n * Returns the variation of the text range.\n */\n","tf":{"freq":{"text":1,"variat":2,"rang":1},"maxFreq":2,"totalTerms":4},"loc":3}

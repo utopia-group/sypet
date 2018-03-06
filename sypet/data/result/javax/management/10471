@@ -1,0 +1,1 @@
+{"id":10471,"className":"javax.management.NotQueryExp","methodName":"NotQueryExp","signature":"\u003cjavax.management.NotQueryExp: void NotQueryExp(javax.management.QueryExp)\u003e","javadoc":"/** \n * Creates a new NotQueryExp for negating the specified QueryExp.\n */\n","tf":{"freq":{"exp":3,"queri":3,"creat":1,"negat":1,"specifi":1},"maxFreq":3,"totalTerms":9},"loc":3}

@@ -1,0 +1,1 @@
+{"id":10883,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getBorderStyle","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getBorderStyle()\u003e","javadoc":"/** \n * See the border-style property definition in CSS2.\n */\n","tf":{"freq":{"style":2,"definit":1,"properti":1,"border":2},"maxFreq":2,"totalTerms":6},"loc":0}

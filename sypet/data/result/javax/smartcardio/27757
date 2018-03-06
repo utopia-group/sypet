@@ -1,0 +1,1 @@
+{"id":27757,"className":"javax.smartcardio.Card","methodName":"getATR","signature":"\u003cjavax.smartcardio.Card: javax.smartcardio.ATR getATR()\u003e","javadoc":"/** \n * Returns the ATR of this card.\n * @return the ATR of this card.\n */\n","tf":{"freq":{"card":2},"maxFreq":2,"totalTerms":2},"loc":0}

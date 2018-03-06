@@ -1,0 +1,1 @@
+{"id":23722,"className":"java.util.zip.ZipFile","methodName":"getName","signature":"\u003cjava.util.zip.ZipFile: java.lang.String getName()\u003e","javadoc":"/** \n * Returns the path name of the ZIP file.\n * @return the path name of the ZIP file\n */\n","tf":{"freq":{"file":2,"name":3,"path":2},"maxFreq":3,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":27475,"className":"org.jsoup.parser.Tag","methodName":"isData","signature":"\u003corg.jsoup.parser.Tag: boolean isData()\u003e","javadoc":"/** \n * Gets if this tag is a data only tag.\n * @return if this tag is a data only tag\n */\n","tf":{"freq":{"tag":4,"data":3},"maxFreq":4,"totalTerms":7},"loc":3}

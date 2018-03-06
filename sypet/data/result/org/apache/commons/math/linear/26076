@@ -1,0 +1,1 @@
+{"id":26076,"className":"org.apache.commons.math.linear.ArrayRealVector","methodName":"mapTanToSelf","signature":"\u003corg.apache.commons.math.linear.ArrayRealVector: org.apache.commons.math.linear.RealVector mapTanToSelf()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"map":1,"self":1,"tan":1},"maxFreq":1,"totalTerms":3},"loc":6}

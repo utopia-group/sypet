@@ -1,0 +1,1 @@
+{"id":18923,"className":"javax.swing.plaf.basic.BasicComboPopup","methodName":"hide","signature":"\u003cjavax.swing.plaf.basic.BasicComboPopup: void hide()\u003e","javadoc":"/** \n * Implementation of ComboPopup.hide().\n */\n","tf":{"freq":{"hide":2,"popup":1,"combo":1},"maxFreq":2,"totalTerms":4},"loc":13}

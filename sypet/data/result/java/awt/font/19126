@@ -1,0 +1,1 @@
+{"id":19126,"className":"java.awt.font.FontRenderContext","methodName":"hashCode","signature":"\u003cjava.awt.font.FontRenderContext: int hashCode()\u003e","javadoc":"/** \n * Return a hashcode for this FontRenderContext.\n */\n","tf":{"freq":{"hash":1,"font":1,"context":1,"hashcod":1,"render":1},"maxFreq":1,"totalTerms":5},"loc":14}

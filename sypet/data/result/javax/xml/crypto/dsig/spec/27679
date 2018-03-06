@@ -1,0 +1,1 @@
+{"id":27679,"className":"javax.xml.crypto.dsig.spec.XSLTTransformParameterSpec","methodName":"getStylesheet","signature":"\u003cjavax.xml.crypto.dsig.spec.XSLTTransformParameterSpec: javax.xml.crypto.XMLStructure getStylesheet()\u003e","javadoc":"/** \n * Returns the stylesheet.\n * @return the stylesheet\n */\n","tf":{"freq":{"stylesheet":3},"maxFreq":3,"totalTerms":3},"loc":3}

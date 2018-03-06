@@ -1,0 +1,1 @@
+{"id":11155,"className":"javax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation","methodName":"PrivilegedOperation","signature":"\u003cjavax.management.remote.rmi.RMIConnectionImpl$PrivilegedOperation: void PrivilegedOperation(int,java.lang.Object[])\u003e","loc":4}

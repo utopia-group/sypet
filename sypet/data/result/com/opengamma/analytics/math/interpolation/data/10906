@@ -1,0 +1,1 @@
+{"id":10906,"className":"com.opengamma.analytics.math.interpolation.data.Interpolator1DPiecewisePoynomialDataBundle","methodName":"getValues","signature":"\u003ccom.opengamma.analytics.math.interpolation.data.Interpolator1DPiecewisePoynomialDataBundle: double[] getValues()\u003e","loc":3}

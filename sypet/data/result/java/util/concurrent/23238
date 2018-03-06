@@ -1,0 +1,1 @@
+{"id":23238,"className":"java.util.concurrent.LinkedBlockingQueue","methodName":"peek","signature":"\u003cjava.util.concurrent.LinkedBlockingQueue: E peek()\u003e","loc":15}

@@ -1,0 +1,1 @@
+{"id":16270,"className":"java.awt.RenderingHints","methodName":"clear","signature":"\u003cjava.awt.RenderingHints: void clear()\u003e","javadoc":"/** \n * Clears this \u003ccode\u003eRenderingHints\u003c/code\u003e object of all key/value pairs.\n */\n","tf":{"freq":{"clear":2,"pair":1,"valu":1,"hint":1,"object":1,"key":1,"render":1},"maxFreq":2,"totalTerms":8},"loc":3}

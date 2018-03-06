@@ -1,0 +1,1 @@
+{"id":23774,"className":"java.util.zip.Adler32","methodName":"reset","signature":"\u003cjava.util.zip.Adler32: void reset()\u003e","javadoc":"/** \n * Resets the checksum to initial value.\n */\n","tf":{"freq":{"reset":2,"valu":1,"initi":1,"checksum":1},"maxFreq":2,"totalTerms":5},"loc":3}

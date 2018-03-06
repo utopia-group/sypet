@@ -1,0 +1,1 @@
+{"id":10312,"className":"com.opengamma.analytics.math.interpolation.LogLinearExtrapolator1D","methodName":"getNodeSensitivitiesForValue","signature":"\u003ccom.opengamma.analytics.math.interpolation.LogLinearExtrapolator1D: double[] getNodeSensitivitiesForValue(com.opengamma.analytics.math.interpolation.data.Interpolator1DDataBundle,java.lang.Double)\u003e","loc":9}

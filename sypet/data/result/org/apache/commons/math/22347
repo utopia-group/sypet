@@ -1,0 +1,1 @@
+{"id":22347,"className":"org.apache.commons.math.FieldElement","methodName":"add","signature":"\u003corg.apache.commons.math.FieldElement: T add(T)\u003e","javadoc":"/** \n * Compute this + a.\n * @param a element to add\n * @return a new element representing this + a\n */\n","tf":{"freq":{"element":2,"repres":1,"comput":1,"add":2},"maxFreq":2,"totalTerms":6},"loc":0}

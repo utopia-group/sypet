@@ -1,0 +1,1 @@
+{"id":12415,"className":"java.net.DatagramSocket","methodName":"isClosed","signature":"\u003cjava.net.DatagramSocket: boolean isClosed()\u003e","javadoc":"/** \n * Returns whether the socket is closed or not.\n * @return true if the socket has been closed\n * @since 1.4\n */\n","tf":{"freq":{"true":1,"socket":2,"whether":1,"close":3},"maxFreq":3,"totalTerms":7},"loc":5}

@@ -1,0 +1,1 @@
+{"id":15705,"className":"javax.swing.ButtonGroup","methodName":"ButtonGroup","signature":"\u003cjavax.swing.ButtonGroup: void ButtonGroup()\u003e","javadoc":"/** \n * Creates a new \u003ccode\u003eButtonGroup\u003c/code\u003e.\n */\n","tf":{"freq":{"creat":1,"button":2,"group":2},"maxFreq":2,"totalTerms":5},"loc":1}

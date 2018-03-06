@@ -1,0 +1,1 @@
+{"id":11448,"className":"com.opengamma.analytics.math.regression.LeastSquaresRegressionResult","methodName":"getStandardErrorOfBetas","signature":"\u003ccom.opengamma.analytics.math.regression.LeastSquaresRegressionResult: double[] getStandardErrorOfBetas()\u003e","loc":3}

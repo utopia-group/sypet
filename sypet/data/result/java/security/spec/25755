@@ -1,0 +1,1 @@
+{"id":25755,"className":"java.security.spec.ECParameterSpec","methodName":"getOrder","signature":"\u003cjava.security.spec.ECParameterSpec: java.math.BigInteger getOrder()\u003e","javadoc":"/** \n * Returns the order of the generator.\n * @return the order of the generator.\n */\n","tf":{"freq":{"order":3,"generat":2},"maxFreq":3,"totalTerms":5},"loc":3}

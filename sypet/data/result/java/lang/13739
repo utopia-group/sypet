@@ -1,0 +1,1 @@
+{"id":13739,"className":"java.lang.ThreadLocal","methodName":"ThreadLocal","signature":"\u003cjava.lang.ThreadLocal: void ThreadLocal()\u003e","javadoc":"/** \n * Creates a thread local variable.\n */\n","tf":{"freq":{"creat":1,"variabl":1,"thread":2,"local":2},"maxFreq":2,"totalTerms":6},"loc":2}

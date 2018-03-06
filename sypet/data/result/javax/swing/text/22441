@@ -1,0 +1,1 @@
+{"id":22441,"className":"javax.swing.text.DefaultFormatter$DefaultNavigationFilter","methodName":"moveDot","signature":"\u003cjavax.swing.text.DefaultFormatter$DefaultNavigationFilter: void moveDot(javax.swing.text.NavigationFilter$FilterBypass,int,javax.swing.text.Position$Bias)\u003e","loc":9}

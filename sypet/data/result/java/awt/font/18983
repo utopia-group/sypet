@@ -1,0 +1,1 @@
+{"id":18983,"className":"java.awt.font.TextLine","methodName":"TextLine","signature":"\u003cjava.awt.font.TextLine: void TextLine(java.awt.font.FontRenderContext,sun.font.TextLineComponent[],float[],char[],int,int,int[],byte[],boolean)\u003e","loc":19}

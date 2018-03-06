@@ -1,0 +1,1 @@
+{"id":20833,"className":"java.util.AbstractMap$SimpleEntry","methodName":"getKey","signature":"\u003cjava.util.AbstractMap$SimpleEntry: K getKey()\u003e","javadoc":"/** \n * Returns the key corresponding to this entry.\n * @return the key corresponding to this entry\n */\n","tf":{"freq":{"entri":2,"correspond":2,"key":3},"maxFreq":3,"totalTerms":7},"loc":3}

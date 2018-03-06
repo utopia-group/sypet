@@ -1,0 +1,1 @@
+{"id":26024,"className":"javax.xml.stream.events.StartDocument","methodName":"isStandalone","signature":"\u003cjavax.xml.stream.events.StartDocument: boolean isStandalone()\u003e","javadoc":"/** \n * Returns if this XML is standalone\n * @return the standalone state of XML, defaults to \"no\"\n */\n","tf":{"freq":{"state":1,"standalon":3},"maxFreq":3,"totalTerms":4},"loc":0}

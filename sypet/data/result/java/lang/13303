@@ -1,0 +1,1 @@
+{"id":13303,"className":"java.lang.Byte","methodName":"shortValue","signature":"\u003cjava.lang.Byte: short shortValue()\u003e","javadoc":"/** \n * Returns the value of this  {@code Byte} as a{@code short}.\n */\n","tf":{"freq":{"valu":2},"maxFreq":2,"totalTerms":2},"loc":3}

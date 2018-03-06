@@ -1,0 +1,1 @@
+{"id":19483,"className":"java.awt.event.WindowAdapter","methodName":"windowOpened","signature":"\u003cjava.awt.event.WindowAdapter: void windowOpened(java.awt.event.WindowEvent)\u003e","javadoc":"/** \n * Invoked when a window has been opened.\n */\n","tf":{"freq":{"open":2,"window":2,"invok":1},"maxFreq":2,"totalTerms":5},"loc":1}

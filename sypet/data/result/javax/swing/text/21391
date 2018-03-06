@@ -1,0 +1,1 @@
+{"id":21391,"className":"javax.swing.text.Keymap","methodName":"getName","signature":"\u003cjavax.swing.text.Keymap: java.lang.String getName()\u003e","javadoc":"/** \n * Fetches the name of the set of key-bindings.\n * @return the name\n */\n","tf":{"freq":{"fetch":1,"name":3,"bind":1,"key":1},"maxFreq":3,"totalTerms":6},"loc":0}

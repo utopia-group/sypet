@@ -1,0 +1,1 @@
+{"id":15092,"className":"javax.swing.ListSelectionModel","methodName":"getMaxSelectionIndex","signature":"\u003cjavax.swing.ListSelectionModel: int getMaxSelectionIndex()\u003e","javadoc":"/** \n * Returns the last selected index or -1 if the selection is empty.\n */\n","tf":{"freq":{"index":2,"max":1,"last":1,"select":3,"empti":1},"maxFreq":3,"totalTerms":8},"loc":0}

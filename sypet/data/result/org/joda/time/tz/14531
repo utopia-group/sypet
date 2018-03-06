@@ -1,0 +1,1 @@
+{"id":14531,"className":"org.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone","methodName":"isCachable","signature":"\u003corg.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone: boolean isCachable()\u003e","loc":38}

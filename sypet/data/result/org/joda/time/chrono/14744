@@ -1,0 +1,1 @@
+{"id":14744,"className":"org.joda.time.chrono.BasicSingleEraDateTimeField","methodName":"get","signature":"\u003corg.joda.time.chrono.BasicSingleEraDateTimeField: int get(long)\u003e","javadoc":"/** \n * @inheritDoc \n */\n","loc":3}

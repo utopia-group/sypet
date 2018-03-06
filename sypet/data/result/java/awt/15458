@@ -1,0 +1,1 @@
+{"id":15458,"className":"java.awt.Frame","methodName":"setCursor","signature":"\u003cjava.awt.Frame: void setCursor(int)\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by \u003ccode\u003eComponent.setCursor(Cursor)\u003c/code\u003e.\n */\n","tf":{"freq":{"deprec":1,"cursor":3,"compon":1,"replac":1,"version":1},"maxFreq":3,"totalTerms":7},"loc":6}

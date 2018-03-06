@@ -1,0 +1,1 @@
+{"id":25756,"className":"java.security.spec.ECParameterSpec","methodName":"getCofactor","signature":"\u003cjava.security.spec.ECParameterSpec: int getCofactor()\u003e","javadoc":"/** \n * Returns the cofactor.\n * @return the cofactor.\n */\n","tf":{"freq":{"cofactor":3},"maxFreq":3,"totalTerms":3},"loc":3}

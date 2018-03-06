@@ -1,0 +1,1 @@
+{"id":15957,"className":"javax.swing.JApplet","methodName":"getJMenuBar","signature":"\u003cjavax.swing.JApplet: javax.swing.JMenuBar getJMenuBar()\u003e","javadoc":"/** \n * Returns the menubar set on this applet.\n * @see #setJMenuBar\n */\n","tf":{"freq":{"jmenu":2,"applet":1,"bar":2,"menubar":1},"maxFreq":2,"totalTerms":6},"loc":3}

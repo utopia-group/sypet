@@ -1,0 +1,1 @@
+{"id":12102,"className":"java.net.SocketInputStream","methodName":"read","signature":"\u003cjava.net.SocketInputStream: int read()\u003e","javadoc":"/** \n * Reads a single byte from the socket.\n */\n","tf":{"freq":{"singl":1,"socket":1,"read":2},"maxFreq":2,"totalTerms":4},"loc":11}

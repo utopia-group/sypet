@@ -1,0 +1,1 @@
+{"id":19390,"className":"java.awt.event.MouseEvent","methodName":"getModifiersEx","signature":"\u003cjava.awt.event.MouseEvent: int getModifiersEx()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"modifi":1},"maxFreq":1,"totalTerms":1},"loc":7}

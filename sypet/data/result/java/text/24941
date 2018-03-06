@@ -1,0 +1,1 @@
+{"id":24941,"className":"java.text.DateFormatSymbols","methodName":"setAmPmStrings","signature":"\u003cjava.text.DateFormatSymbols: void setAmPmStrings(java.lang.String[])\u003e","javadoc":"/** \n * Sets ampm strings. For example: \"AM\" and \"PM\".\n * @param newAmpms the new ampm strings.\n */\n","tf":{"freq":{"ampm":3,"string":3,"exampl":1},"maxFreq":3,"totalTerms":7},"loc":3}

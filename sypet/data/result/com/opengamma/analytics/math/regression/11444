@@ -1,0 +1,1 @@
+{"id":11444,"className":"com.opengamma.analytics.math.regression.LeastSquaresRegressionResult","methodName":"LeastSquaresRegressionResult","signature":"\u003ccom.opengamma.analytics.math.regression.LeastSquaresRegressionResult: void LeastSquaresRegressionResult(double[],double[],double,double[],double,double,double[],double[],boolean)\u003e","loc":11}

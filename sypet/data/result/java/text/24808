@@ -1,0 +1,1 @@
+{"id":24808,"className":"java.text.ParsePosition","methodName":"getErrorIndex","signature":"\u003cjava.text.ParsePosition: int getErrorIndex()\u003e","javadoc":"/** \n * Retrieve the index at which an error occurred, or -1 if the error index has not been set.\n * @since 1.2\n */\n","tf":{"freq":{"index":3,"error":3,"retriev":1,"occur":1},"maxFreq":3,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":22817,"className":"javax.swing.text.html.BRView","methodName":"getBreakWeight","signature":"\u003cjavax.swing.text.html.BRView: int getBreakWeight(int,float,float)\u003e","javadoc":"/** \n * Forces a line break.\n * @return View.ForcedBreakWeight\n */\n","tf":{"freq":{"weight":2,"line":1,"view":1,"forc":2},"maxFreq":2,"totalTerms":6},"loc":7}

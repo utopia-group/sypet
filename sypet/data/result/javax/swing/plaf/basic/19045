@@ -1,0 +1,1 @@
+{"id":19045,"className":"javax.swing.plaf.basic.BasicProgressBarUI$Handler","methodName":"hierarchyChanged","signature":"\u003cjavax.swing.plaf.basic.BasicProgressBarUI$Handler: void hierarchyChanged(java.awt.event.HierarchyEvent)\u003e","loc":11}

@@ -1,0 +1,1 @@
+{"id":25241,"className":"org.apache.commons.math.linear.AbstractFieldMatrix","methodName":"getColumnVector","signature":"\u003corg.apache.commons.math.linear.AbstractFieldMatrix: org.apache.commons.math.linear.FieldVector\u003cT\u003e getColumnVector(int)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"vector":1,"column":1},"maxFreq":1,"totalTerms":2},"loc":3}

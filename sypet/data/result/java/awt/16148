@@ -1,0 +1,1 @@
+{"id":16148,"className":"java.awt.AlphaComposite","methodName":"hashCode","signature":"\u003cjava.awt.AlphaComposite: int hashCode()\u003e","javadoc":"/** \n * Returns the hashcode for this composite.\n * @return      a hash code for this composite.\n */\n","tf":{"freq":{"composit":2,"hash":2,"hashcod":1},"maxFreq":2,"totalTerms":5},"loc":3}

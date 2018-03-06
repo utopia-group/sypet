@@ -1,0 +1,1 @@
+{"id":28543,"className":"javax.crypto.interfaces.DHKey","methodName":"getParams","signature":"\u003cjavax.crypto.interfaces.DHKey: javax.crypto.spec.DHParameterSpec getParams()\u003e","javadoc":"/** \n * Returns the key parameters.\n * @return the key parameters\n */\n","tf":{"freq":{"paramet":2,"key":2},"maxFreq":2,"totalTerms":4},"loc":0}

@@ -1,0 +1,1 @@
+{"id":11439,"className":"com.opengamma.analytics.math.integration.GaussLegendreQuadratureIntegrator1D","methodName":"getLimits","signature":"\u003ccom.opengamma.analytics.math.integration.GaussLegendreQuadratureIntegrator1D: java.lang.Double[] getLimits()\u003e","loc":3}

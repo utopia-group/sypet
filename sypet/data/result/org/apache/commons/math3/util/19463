@@ -1,0 +1,1 @@
+{"id":19463,"className":"org.apache.commons.math3.util.FastMath","methodName":"tan","signature":"\u003corg.apache.commons.math3.util.FastMath: double tan(double)\u003e","javadoc":"/** \n * Tangent function.\n * @param x Argument.\n * @return tan(x)\n */\n","tf":{"freq":{"argument":1,"tangent":1,"tan":2,"function":1},"maxFreq":2,"totalTerms":5},"loc":70}

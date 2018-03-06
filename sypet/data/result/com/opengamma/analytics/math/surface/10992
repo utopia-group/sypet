@@ -1,0 +1,1 @@
+{"id":10992,"className":"com.opengamma.analytics.math.surface.SurfaceSliceFunction","methodName":"cut","signature":"\u003ccom.opengamma.analytics.math.surface.SurfaceSliceFunction: com.opengamma.analytics.math.curve.ConstantDoublesCurve cut(com.opengamma.analytics.math.surface.ConstantDoublesSurface,com.opengamma.analytics.math.surface.Axis,java.lang.Double)\u003e","loc":6}

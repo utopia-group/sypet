@@ -1,0 +1,1 @@
+{"id":25143,"className":"java.math.BigInteger","methodName":"abs","signature":"\u003cjava.math.BigInteger: java.math.BigInteger abs()\u003e","javadoc":"/** \n * Returns a BigInteger whose value is the absolute value of this BigInteger.\n * @return {@code abs(this)}\n */\n","tf":{"freq":{"whose":1,"valu":2,"absolut":1,"ab":2,"big":2,"integ":2},"maxFreq":2,"totalTerms":10},"loc":3}

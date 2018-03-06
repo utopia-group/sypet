@@ -1,0 +1,1 @@
+{"id":10339,"className":"javax.management.MatchQueryExp","methodName":"getPattern","signature":"\u003cjavax.management.MatchQueryExp: java.lang.String getPattern()\u003e","javadoc":"/** \n * Returns the pattern of the query.\n */\n","tf":{"freq":{"queri":1,"pattern":2},"maxFreq":2,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":13586,"className":"org.joda.time.field.DividedDateTimeField","methodName":"getDivisor","signature":"\u003corg.joda.time.field.DividedDateTimeField: int getDivisor()\u003e","javadoc":"/** \n * Returns the divisor applied, in the field\u0027s units.\n * @return the divisor\n */\n","tf":{"freq":{"field":1,"unit":1,"appli":1,"divisor":3},"maxFreq":3,"totalTerms":6},"loc":3}

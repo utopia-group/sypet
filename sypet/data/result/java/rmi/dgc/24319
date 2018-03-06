@@ -1,0 +1,1 @@
+{"id":24319,"className":"java.rmi.dgc.Lease","methodName":"getVMID","signature":"\u003cjava.rmi.dgc.Lease: java.rmi.dgc.VMID getVMID()\u003e","javadoc":"/** \n * Returns the client VMID associated with the lease.\n * @return client VMID\n */\n","tf":{"freq":{"client":2,"associ":1,"leas":1},"maxFreq":2,"totalTerms":4},"loc":3}

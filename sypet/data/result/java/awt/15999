@@ -1,0 +1,1 @@
+{"id":15999,"className":"java.awt.Window","methodName":"isShowing","signature":"\u003cjava.awt.Window: boolean isShowing()\u003e","javadoc":"/** \n * Checks if this Window is showing on screen.\n * @see Component#setVisible\n */\n","tf":{"freq":{"screen":1,"compon":1,"window":1,"check":1,"visibl":1,"show":2},"maxFreq":2,"totalTerms":7},"loc":3}

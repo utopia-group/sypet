@@ -1,0 +1,1 @@
+{"id":11033,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getPageBreakBefore","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getPageBreakBefore()\u003e","javadoc":"/** \n * See the page-break-before property definition in CSS2.\n */\n","tf":{"freq":{"page":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

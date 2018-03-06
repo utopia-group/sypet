@@ -1,0 +1,1 @@
+{"id":16725,"className":"javax.swing.tree.TreeNode","methodName":"children","signature":"\u003cjavax.swing.tree.TreeNode: java.util.Enumeration children()\u003e","javadoc":"/** \n * Returns the children of the receiver as an \u003ccode\u003eEnumeration\u003c/code\u003e.\n */\n","tf":{"freq":{"children":2,"receiv":1},"maxFreq":2,"totalTerms":3},"loc":0}

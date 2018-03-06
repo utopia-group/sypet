@@ -1,0 +1,1 @@
+{"id":19605,"className":"org.apache.commons.math3.util.TransformerMap","methodName":"TransformerMap","signature":"\u003corg.apache.commons.math3.util.TransformerMap: void TransformerMap()\u003e","javadoc":"/** \n * Build a map containing only the default transformer.\n */\n","tf":{"freq":{"transform":2,"contain":1,"map":2,"build":1},"maxFreq":2,"totalTerms":6},"loc":4}

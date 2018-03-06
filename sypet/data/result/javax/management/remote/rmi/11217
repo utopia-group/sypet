@@ -1,0 +1,1 @@
+{"id":11217,"className":"javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection","methodName":"queryMBeans","signature":"\u003cjavax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection: java.util.Set\u003cjavax.management.ObjectInstance\u003e queryMBeans(javax.management.ObjectName,javax.management.QueryExp)\u003e","loc":17}

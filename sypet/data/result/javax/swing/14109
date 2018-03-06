@@ -1,0 +1,1 @@
+{"id":14109,"className":"javax.swing.JInternalFrame","methodName":"setCursor","signature":"\u003cjavax.swing.JInternalFrame: void setCursor(java.awt.Cursor)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.6\n */\n","tf":{"freq":{"cursor":1},"maxFreq":1,"totalTerms":1},"loc":19}

@@ -1,0 +1,1 @@
+{"id":10997,"className":"com.opengamma.analytics.math.surface.ObjectsSurface","methodName":"getYData","signature":"\u003ccom.opengamma.analytics.math.surface.ObjectsSurface: U[] getYData()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"ydata":1},"maxFreq":1,"totalTerms":1},"loc":3}

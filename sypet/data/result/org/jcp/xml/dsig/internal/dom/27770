@@ -1,0 +1,1 @@
+{"id":27770,"className":"org.jcp.xml.dsig.internal.dom.DOMCanonicalizationMethod","methodName":"equals","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMCanonicalizationMethod: boolean equals(java.lang.Object)\u003e","loc":13}

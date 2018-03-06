@@ -1,0 +1,1 @@
+{"id":10347,"className":"com.opengamma.analytics.math.interpolation.ThinPlateSplineRadialBasisFunction","methodName":"evaluate","signature":"\u003ccom.opengamma.analytics.math.interpolation.ThinPlateSplineRadialBasisFunction: java.lang.Double evaluate(java.lang.Double)\u003e","loc":6}

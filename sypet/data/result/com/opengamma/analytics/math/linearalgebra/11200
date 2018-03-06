@@ -1,0 +1,1 @@
+{"id":11200,"className":"com.opengamma.analytics.math.linearalgebra.SVDecompositionCommonsResult","methodName":"getUT","signature":"\u003ccom.opengamma.analytics.math.linearalgebra.SVDecompositionCommonsResult: com.opengamma.analytics.math.matrix.DoubleMatrix2D getUT()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","loc":3}

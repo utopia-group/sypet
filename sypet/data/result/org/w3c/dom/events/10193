@@ -1,0 +1,1 @@
+{"id":10193,"className":"org.w3c.dom.events.Event","methodName":"getEventPhase","signature":"\u003corg.w3c.dom.events.Event: short getEventPhase()\u003e","javadoc":"/** \n * Used to indicate which phase of event flow is currently being evaluated.\n */\n","tf":{"freq":{"indic":1,"event":2,"current":1,"use":1,"evalu":1,"flow":1,"phase":2},"maxFreq":2,"totalTerms":9},"loc":0}

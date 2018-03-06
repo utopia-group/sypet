@@ -1,0 +1,1 @@
+{"id":16902,"className":"java.awt.Component","methodName":"postEvent","signature":"\u003cjava.awt.Component: boolean postEvent(java.awt.Event)\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by dispatchEvent(AWTEvent).\n */\n","tf":{"freq":{"deprec":1,"post":1,"tevent":1,"event":2,"replac":1,"dispatch":1,"version":1},"maxFreq":2,"totalTerms":8},"loc":23}

@@ -1,0 +1,1 @@
+{"id":15427,"className":"javax.swing.DebugGraphics","methodName":"drawOval","signature":"\u003cjavax.swing.DebugGraphics: void drawOval(int,int,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.drawOval\u003c/code\u003e.\n */\n","tf":{"freq":{"draw":2,"graphic":1,"oval":2},"maxFreq":2,"totalTerms":5},"loc":29}

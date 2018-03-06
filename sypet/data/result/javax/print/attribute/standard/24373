@@ -1,0 +1,1 @@
+{"id":24373,"className":"javax.print.attribute.standard.PrinterStateReasons$PrinterStateReasonSetIterator","methodName":"hasNext","signature":"\u003cjavax.print.attribute.standard.PrinterStateReasons$PrinterStateReasonSetIterator: boolean hasNext()\u003e","loc":3}

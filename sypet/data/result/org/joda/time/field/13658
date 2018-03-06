@@ -1,0 +1,1 @@
+{"id":13658,"className":"org.joda.time.field.DelegatedDurationField","methodName":"isPrecise","signature":"\u003corg.joda.time.field.DelegatedDurationField: boolean isPrecise()\u003e","loc":3}

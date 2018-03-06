@@ -1,0 +1,1 @@
+{"id":19449,"className":"java.awt.event.WindowStateListener","methodName":"windowStateChanged","signature":"\u003cjava.awt.event.WindowStateListener: void windowStateChanged(java.awt.event.WindowEvent)\u003e","javadoc":"/** \n * Invoked when window state is changed.\n */\n","tf":{"freq":{"window":2,"invok":1,"state":2,"chang":2},"maxFreq":2,"totalTerms":7},"loc":0}

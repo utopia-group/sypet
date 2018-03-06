@@ -1,0 +1,1 @@
+{"id":23304,"className":"org.apache.commons.math.analysis.integration.RombergIntegrator","methodName":"RombergIntegrator","signature":"\u003corg.apache.commons.math.analysis.integration.RombergIntegrator: void RombergIntegrator()\u003e","javadoc":"/** \n * Construct an integrator.\n */\n","tf":{"freq":{"integr":2,"construct":1,"romberg":1},"maxFreq":2,"totalTerms":4},"loc":3}

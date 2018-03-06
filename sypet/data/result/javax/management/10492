@@ -1,0 +1,1 @@
+{"id":10492,"className":"javax.management.StringValueExp","methodName":"StringValueExp","signature":"\u003cjavax.management.StringValueExp: void StringValueExp()\u003e","javadoc":"/** \n * Basic constructor.\n */\n","tf":{"freq":{"exp":1,"basic":1,"string":1,"valu":1,"constructor":1},"maxFreq":1,"totalTerms":5},"loc":2}

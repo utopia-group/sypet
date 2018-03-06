@@ -1,0 +1,1 @@
+{"id":28678,"className":"javax.sound.midi.MidiDevice$Info","methodName":"getDescription","signature":"\u003cjavax.sound.midi.MidiDevice$Info: java.lang.String getDescription()\u003e","javadoc":"/** \n * Obtains the description of the device.\n * @return a description of the device\n */\n","tf":{"freq":{"obtain":1,"descript":3,"devic":2},"maxFreq":3,"totalTerms":6},"loc":3}

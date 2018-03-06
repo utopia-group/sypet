@@ -1,0 +1,1 @@
+{"id":27966,"className":"javax.accessibility.AccessibleComponent","methodName":"setFont","signature":"\u003cjavax.accessibility.AccessibleComponent: void setFont(java.awt.Font)\u003e","javadoc":"/** \n * Sets the Font of this object.\n * @param f the new Font for the object\n * @see #getFont\n */\n","tf":{"freq":{"font":4,"object":2},"maxFreq":4,"totalTerms":6},"loc":0}

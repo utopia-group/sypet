@@ -1,0 +1,1 @@
+{"id":18412,"className":"javax.swing.plaf.basic.BasicTreeUI$Handler","methodName":"treeNodesInserted","signature":"\u003cjavax.swing.plaf.basic.BasicTreeUI$Handler: void treeNodesInserted(javax.swing.event.TreeModelEvent)\u003e","loc":24}

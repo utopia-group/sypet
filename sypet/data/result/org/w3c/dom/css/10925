@@ -1,0 +1,1 @@
+{"id":10925,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getClip","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getClip()\u003e","javadoc":"/** \n * See the clip property definition in CSS2.\n */\n","tf":{"freq":{"clip":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

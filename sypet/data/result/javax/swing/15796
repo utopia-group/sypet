@@ -1,0 +1,1 @@
+{"id":15796,"className":"javax.swing.AbstractCellEditor","methodName":"isCellEditable","signature":"\u003cjavax.swing.AbstractCellEditor: boolean isCellEditable(java.util.EventObject)\u003e","javadoc":"/** \n * Returns true.\n * @param e  an event object\n * @return true\n */\n","tf":{"freq":{"event":1,"cell":1,"edit":1,"true":2,"object":1},"maxFreq":2,"totalTerms":6},"loc":3}

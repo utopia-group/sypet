@@ -1,0 +1,1 @@
+{"id":25217,"className":"org.apache.commons.math.linear.AbstractFieldMatrix","methodName":"getField","signature":"\u003corg.apache.commons.math.linear.AbstractFieldMatrix: org.apache.commons.math.Field\u003cT\u003e getField()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"field":1},"maxFreq":1,"totalTerms":1},"loc":3}

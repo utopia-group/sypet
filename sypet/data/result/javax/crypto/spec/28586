@@ -1,0 +1,1 @@
+{"id":28586,"className":"javax.crypto.spec.PBEKeySpec","methodName":"getIterationCount","signature":"\u003cjavax.crypto.spec.PBEKeySpec: int getIterationCount()\u003e","javadoc":"/** \n * Returns the iteration count or 0 if not specified.\n * @return the iteration count.\n */\n","tf":{"freq":{"count":3,"iter":3,"specifi":1},"maxFreq":3,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":13646,"className":"java.lang.Integer","methodName":"byteValue","signature":"\u003cjava.lang.Integer: byte byteValue()\u003e","javadoc":"/** \n * Returns the value of this  {@code Integer} as a{@code byte}.\n */\n","tf":{"freq":{"valu":2,"integ":1},"maxFreq":2,"totalTerms":3},"loc":3}

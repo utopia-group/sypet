@@ -1,0 +1,1 @@
+{"id":12517,"className":"org.joda.time.Weeks","methodName":"getWeeks","signature":"\u003corg.joda.time.Weeks: int getWeeks()\u003e","javadoc":"/** \n * Gets the number of weeks that this period represents.\n * @return the number of weeks in the period\n */\n","tf":{"freq":{"repres":1,"number":2,"period":2,"week":3},"maxFreq":3,"totalTerms":8},"loc":3}

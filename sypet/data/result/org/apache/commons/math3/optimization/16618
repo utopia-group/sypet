@@ -1,0 +1,1 @@
+{"id":16618,"className":"","methodName":"compare","signature":"\u003c: int compare(org.apache.commons.math3.optimization.PointValuePair,org.apache.commons.math3.optimization.PointValuePair)\u003e","loc":11}

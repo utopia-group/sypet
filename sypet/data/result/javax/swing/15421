@@ -1,0 +1,1 @@
+{"id":15421,"className":"javax.swing.DebugGraphics","methodName":"clearRect","signature":"\u003cjavax.swing.DebugGraphics: void clearRect(int,int,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.clearRect\u003c/code\u003e.\n */\n","tf":{"freq":{"clear":2,"graphic":1,"rect":2},"maxFreq":2,"totalTerms":5},"loc":30}

@@ -1,0 +1,1 @@
+{"id":14066,"className":"org.joda.time.format.PeriodFormatterBuilder$SimpleAffix","methodName":"parse","signature":"\u003corg.joda.time.format.PeriodFormatterBuilder$SimpleAffix: int parse(java.lang.String,int)\u003e","loc":10}

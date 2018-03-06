@@ -1,0 +1,1 @@
+{"id":20973,"className":"javax.swing.event.AncestorEvent","methodName":"getAncestor","signature":"\u003cjavax.swing.event.AncestorEvent: java.awt.Container getAncestor()\u003e","javadoc":"/** \n * Returns the ancestor that the event actually occurred on.\n */\n","tf":{"freq":{"event":1,"actual":1,"ancestor":2,"occur":1},"maxFreq":2,"totalTerms":5},"loc":3}

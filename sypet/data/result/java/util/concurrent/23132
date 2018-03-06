@@ -1,0 +1,1 @@
+{"id":23132,"className":"java.util.concurrent.LinkedBlockingDeque","methodName":"put","signature":"\u003cjava.util.concurrent.LinkedBlockingDeque: void put(E)\u003e","javadoc":"/** \n * @throws NullPointerException {@inheritDoc}\n * @throws InterruptedException {@inheritDoc}\n */\n","tf":{"freq":{"except":2,"put":1,"pointer":1,"interrupt":1},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11575,"className":"com.opengamma.analytics.math.matrix.CommonsMatrixAlgebra","methodName":"getDeterminant","signature":"\u003ccom.opengamma.analytics.math.matrix.CommonsMatrixAlgebra: double getDeterminant(com.opengamma.analytics.math.matrix.Matrix)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"determin":1},"maxFreq":1,"totalTerms":1},"loc":9}

@@ -1,0 +1,1 @@
+{"id":14026,"className":"java.lang.ThreadGroup","methodName":"getName","signature":"\u003cjava.lang.ThreadGroup: java.lang.String getName()\u003e","javadoc":"/** \n * Returns the name of this thread group.\n * @return  the name of this thread group.\n * @since   JDK1.0\n */\n","tf":{"freq":{"thread":2,"name":3,"group":2},"maxFreq":3,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":18216,"className":"javax.swing.plaf.basic.BasicScrollBarUI$ModelListener","methodName":"stateChanged","signature":"\u003cjavax.swing.plaf.basic.BasicScrollBarUI$ModelListener: void stateChanged(javax.swing.event.ChangeEvent)\u003e","loc":7}

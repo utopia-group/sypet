@@ -1,0 +1,1 @@
+{"id":23802,"className":"java.util.zip.Checksum","methodName":"getValue","signature":"\u003cjava.util.zip.Checksum: long getValue()\u003e","javadoc":"/** \n * Returns the current checksum value.\n * @return the current checksum value\n */\n","tf":{"freq":{"current":2,"valu":3,"checksum":2},"maxFreq":3,"totalTerms":7},"loc":0}

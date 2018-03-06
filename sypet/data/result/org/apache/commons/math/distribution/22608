@@ -1,0 +1,1 @@
+{"id":22608,"className":"org.apache.commons.math.distribution.GammaDistribution","methodName":"getBeta","signature":"\u003corg.apache.commons.math.distribution.GammaDistribution: double getBeta()\u003e","javadoc":"/** \n * Access the scale parameter, beta\n * @return beta.\n */\n","tf":{"freq":{"scale":1,"paramet":1,"access":1,"beta":3},"maxFreq":3,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":15719,"className":"java.awt.Adjustable","methodName":"getMinimum","signature":"\u003cjava.awt.Adjustable: int getMinimum()\u003e","javadoc":"/** \n * Gets the minimum value of the adjustable object.\n * @return the minimum value of the adjustable object\n */\n","tf":{"freq":{"minimum":3,"adjust":2,"valu":2,"object":2},"maxFreq":3,"totalTerms":9},"loc":0}

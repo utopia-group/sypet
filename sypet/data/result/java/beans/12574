@@ -1,0 +1,1 @@
+{"id":12574,"className":"java.beans.EventSetDescriptor","methodName":"setUnicast","signature":"\u003cjava.beans.EventSetDescriptor: void setUnicast(boolean)\u003e","javadoc":"/** \n * Mark an event set as unicast (or not).\n * @param unicast  True if the event set is unicast.\n */\n","tf":{"freq":{"event":2,"true":1,"mark":1,"unicast":4},"maxFreq":4,"totalTerms":8},"loc":3}

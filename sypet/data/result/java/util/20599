@@ -1,0 +1,1 @@
+{"id":20599,"className":"java.util.EnumMap$EntrySet","methodName":"iterator","signature":"\u003cjava.util.EnumMap$EntrySet: java.util.Iterator\u003cjava.util.Map.Entry\u003cK,V\u003e\u003e iterator()\u003e","loc":3}

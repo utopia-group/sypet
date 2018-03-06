@@ -1,0 +1,1 @@
+{"id":15406,"className":"javax.swing.DebugGraphics","methodName":"getFont","signature":"\u003cjavax.swing.DebugGraphics: java.awt.Font getFont()\u003e","javadoc":"/** \n * Returns the Font used for text drawing operations.\n * @see #setFont\n */\n","tf":{"freq":{"draw":1,"text":1,"oper":1,"font":3,"use":1},"maxFreq":3,"totalTerms":7},"loc":3}

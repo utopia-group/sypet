@@ -1,0 +1,1 @@
+{"id":23506,"className":"java.util.concurrent.atomic.AtomicLong","methodName":"AtomicLong","signature":"\u003cjava.util.concurrent.atomic.AtomicLong: void AtomicLong()\u003e","javadoc":"/** \n * Creates a new AtomicLong with initial value  {@code 0}.\n */\n","tf":{"freq":{"atom":2,"creat":1,"valu":1,"initi":1},"maxFreq":2,"totalTerms":5},"loc":2}

@@ -1,0 +1,1 @@
+{"id":24752,"className":"java.text.StringCharacterIterator","methodName":"getIndex","signature":"\u003cjava.text.StringCharacterIterator: int getIndex()\u003e","javadoc":"/** \n * Implements CharacterIterator.getIndex() for String.\n * @see CharacterIterator#getIndex\n */\n","tf":{"freq":{"index":3,"charact":2,"string":1,"iter":2},"maxFreq":3,"totalTerms":8},"loc":3}

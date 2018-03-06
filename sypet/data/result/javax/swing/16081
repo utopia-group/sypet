@@ -1,0 +1,1 @@
+{"id":16081,"className":"javax.swing.ListModel","methodName":"getSize","signature":"\u003cjavax.swing.ListModel: int getSize()\u003e","javadoc":"/** \n * Returns the length of the list.\n * @return the length of the list\n */\n","tf":{"freq":{"length":2,"list":2,"size":1},"maxFreq":2,"totalTerms":5},"loc":0}

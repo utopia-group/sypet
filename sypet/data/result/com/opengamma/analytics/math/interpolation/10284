@@ -1,0 +1,1 @@
+{"id":10284,"className":"com.opengamma.analytics.math.interpolation.DoubleQuadraticInterpolator1D","methodName":"DoubleQuadraticInterpolator1D","signature":"\u003ccom.opengamma.analytics.math.interpolation.DoubleQuadraticInterpolator1D: void DoubleQuadraticInterpolator1D(com.opengamma.analytics.math.interpolation.WeightingFunction)\u003e","loc":4}

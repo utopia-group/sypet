@@ -1,0 +1,1 @@
+{"id":27736,"className":"javax.smartcardio.ATR","methodName":"hashCode","signature":"\u003cjavax.smartcardio.ATR: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code value for this ATR.\n * @return the hash code value for this ATR.\n */\n","tf":{"freq":{"hash":3,"valu":2},"maxFreq":3,"totalTerms":5},"loc":3}

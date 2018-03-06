@@ -1,0 +1,1 @@
+{"id":13821,"className":"org.joda.time.field.UnsupportedDateTimeField","methodName":"getType","signature":"\u003corg.joda.time.field.UnsupportedDateTimeField: org.joda.time.DateTimeFieldType getType()\u003e","loc":3}

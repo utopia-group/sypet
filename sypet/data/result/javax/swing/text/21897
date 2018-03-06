@@ -1,0 +1,1 @@
+{"id":21897,"className":"javax.swing.text.DefaultCaret","methodName":"setSelectionVisible","signature":"\u003cjavax.swing.text.DefaultCaret: void setSelectionVisible(boolean)\u003e","javadoc":"/** \n * Changes the selection visibility.\n * @param vis the new visibility\n */\n","tf":{"freq":{"visibl":3,"select":2,"chang":1,"vis":1},"maxFreq":3,"totalTerms":7},"loc":26}

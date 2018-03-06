@@ -1,0 +1,1 @@
+{"id":14563,"className":"org.joda.time.convert.DateConverter","methodName":"getSupportedType","signature":"\u003corg.joda.time.convert.DateConverter: java.lang.Class\u003c?\u003e getSupportedType()\u003e","javadoc":"/** \n * Returns Date.class.\n * @return Date.class\n */\n","tf":{"freq":{"support":1,"date":2,"type":1},"maxFreq":2,"totalTerms":4},"loc":3}

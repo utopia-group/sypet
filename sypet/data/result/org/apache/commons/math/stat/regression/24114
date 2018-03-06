@@ -1,0 +1,1 @@
+{"id":24114,"className":"org.apache.commons.math.stat.regression.AbstractMultipleLinearRegression","methodName":"estimateResiduals","signature":"\u003corg.apache.commons.math.stat.regression.AbstractMultipleLinearRegression: double[] estimateResiduals()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"estim":1,"residu":1},"maxFreq":1,"totalTerms":2},"loc":5}

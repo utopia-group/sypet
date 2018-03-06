@@ -1,0 +1,1 @@
+{"id":18074,"className":"javax.swing.plaf.basic.BasicTextPaneUI","methodName":"BasicTextPaneUI","signature":"\u003cjavax.swing.plaf.basic.BasicTextPaneUI: void BasicTextPaneUI()\u003e","javadoc":"/** \n * Creates a new BasicTextPaneUI.\n */\n","tf":{"freq":{"text":2,"creat":1,"basic":2,"pane":2},"maxFreq":2,"totalTerms":7},"loc":3}

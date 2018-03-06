@@ -1,0 +1,1 @@
+{"id":15411,"className":"javax.swing.DebugGraphics","methodName":"translate","signature":"\u003cjavax.swing.DebugGraphics: void translate(int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.translate\u003c/code\u003e.\n */\n","tf":{"freq":{"graphic":1,"translat":2},"maxFreq":2,"totalTerms":3},"loc":9}

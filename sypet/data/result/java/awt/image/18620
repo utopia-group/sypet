@@ -1,0 +1,1 @@
+{"id":18620,"className":"java.awt.image.ComponentSampleModel","methodName":"getBankIndices","signature":"\u003cjava.awt.image.ComponentSampleModel: int[] getBankIndices()\u003e","javadoc":"/** \n * Returns the bank indices for all bands.\n * @return the bank indices for all bands.\n */\n","tf":{"freq":{"band":2,"indic":3,"bank":3},"maxFreq":3,"totalTerms":8},"loc":3}

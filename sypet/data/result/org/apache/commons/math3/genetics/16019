@@ -1,0 +1,1 @@
+{"id":16019,"className":"org.apache.commons.math3.genetics.GeneticAlgorithm","methodName":"getCrossoverRate","signature":"\u003corg.apache.commons.math3.genetics.GeneticAlgorithm: double getCrossoverRate()\u003e","javadoc":"/** \n * Returns the crossover rate.\n * @return crossover rate\n */\n","tf":{"freq":{"rate":3,"crossov":3},"maxFreq":3,"totalTerms":6},"loc":3}

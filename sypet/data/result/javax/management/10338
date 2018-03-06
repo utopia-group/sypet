@@ -1,0 +1,1 @@
+{"id":10338,"className":"javax.management.MatchQueryExp","methodName":"getAttribute","signature":"\u003cjavax.management.MatchQueryExp: javax.management.AttributeValueExp getAttribute()\u003e","javadoc":"/** \n * Returns the attribute of the query.\n */\n","tf":{"freq":{"queri":1,"attribut":2},"maxFreq":2,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11003,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getMinHeight","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getMinHeight()\u003e","javadoc":"/** \n * See the min-height property definition in CSS2.\n */\n","tf":{"freq":{"min":2,"height":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

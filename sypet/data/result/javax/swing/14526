@@ -1,0 +1,1 @@
+{"id":14526,"className":"javax.swing.ButtonModel","methodName":"setArmed","signature":"\u003cjavax.swing.ButtonModel: void setArmed(boolean)\u003e","javadoc":"/** \n * Marks the button as armed or unarmed.\n * @param b whether or not the button should be armed\n */\n","tf":{"freq":{"button":2,"mark":1,"arm":3,"unarm":1,"whether":1},"maxFreq":3,"totalTerms":8},"loc":0}

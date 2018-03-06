@@ -1,0 +1,1 @@
+{"id":16539,"className":"javax.swing.border.EtchedBorder","methodName":"isBorderOpaque","signature":"\u003cjavax.swing.border.EtchedBorder: boolean isBorderOpaque()\u003e","javadoc":"/** \n * Returns whether or not the border is opaque.\n */\n","tf":{"freq":{"opaqu":2,"border":2,"whether":1},"maxFreq":2,"totalTerms":5},"loc":1}

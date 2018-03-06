@@ -1,0 +1,1 @@
+{"id":25625,"className":"org.apache.commons.math.linear.ArrayFieldVector","methodName":"getSubVector","signature":"\u003corg.apache.commons.math.linear.ArrayFieldVector: org.apache.commons.math.linear.FieldVector\u003cT\u003e getSubVector(int,int)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"sub":1,"vector":1},"maxFreq":1,"totalTerms":2},"loc":10}

@@ -1,0 +1,1 @@
+{"id":27414,"className":"org.jsoup.parser.ParseError","methodName":"getPosition","signature":"\u003corg.jsoup.parser.ParseError: int getPosition()\u003e","javadoc":"/** \n * Retrieves the offset of the error.\n * @return error offset within input\n */\n","tf":{"freq":{"input":1,"error":2,"retriev":1,"within":1,"offset":2,"posit":1},"maxFreq":2,"totalTerms":8},"loc":3}

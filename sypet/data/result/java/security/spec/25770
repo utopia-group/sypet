@@ -1,0 +1,1 @@
+{"id":25770,"className":"java.security.spec.PSSParameterSpec","methodName":"getSaltLength","signature":"\u003cjava.security.spec.PSSParameterSpec: int getSaltLength()\u003e","javadoc":"/** \n * Returns the salt length in bits.\n * @return the salt length.\n */\n","tf":{"freq":{"bit":1,"length":3,"salt":3},"maxFreq":3,"totalTerms":7},"loc":3}

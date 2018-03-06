@@ -1,0 +1,1 @@
+{"id":22429,"className":"org.apache.commons.math.distribution.ExponentialDistributionImpl","methodName":"getMean","signature":"\u003corg.apache.commons.math.distribution.ExponentialDistributionImpl: double getMean()\u003e","javadoc":"/** \n * Access the mean.\n * @return the mean.\n */\n","tf":{"freq":{"mean":3,"access":1},"maxFreq":3,"totalTerms":4},"loc":3}

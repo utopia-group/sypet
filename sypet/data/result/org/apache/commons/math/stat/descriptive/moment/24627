@@ -1,0 +1,1 @@
+{"id":24627,"className":"org.apache.commons.math.stat.descriptive.moment.Variance","methodName":"isBiasCorrected","signature":"\u003corg.apache.commons.math.stat.descriptive.moment.Variance: boolean isBiasCorrected()\u003e","javadoc":"/** \n * @return Returns the isBiasCorrected.\n */\n","tf":{"freq":{"correct":2,"bias":2},"maxFreq":2,"totalTerms":4},"loc":3}

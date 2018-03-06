@@ -1,0 +1,1 @@
+{"id":11119,"className":"org.w3c.dom.css.CSSMediaRule","methodName":"getMedia","signature":"\u003corg.w3c.dom.css.CSSMediaRule: org.w3c.dom.stylesheets.MediaList getMedia()\u003e","javadoc":"/** \n * A list of media types for this rule.\n */\n","tf":{"freq":{"rule":1,"list":1,"type":1,"media":2},"maxFreq":2,"totalTerms":5},"loc":0}

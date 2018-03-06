@@ -1,0 +1,1 @@
+{"id":14068,"className":"java.lang.AssertionError","methodName":"AssertionError","signature":"\u003cjava.lang.AssertionError: void AssertionError()\u003e","javadoc":"/** \n * Constructs an AssertionError with no detail message.\n */\n","tf":{"freq":{"detail":1,"error":2,"messag":1,"construct":1},"maxFreq":2,"totalTerms":5},"loc":2}

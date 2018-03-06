@@ -1,0 +1,1 @@
+{"id":10467,"className":"org.w3c.dom.html.HTMLImageElement","methodName":"getHeight","signature":"\u003corg.w3c.dom.html.HTMLImageElement: java.lang.String getHeight()\u003e","javadoc":"/** \n * Override height. See the  height attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"attribut":1,"height":3,"definit":1},"maxFreq":3,"totalTerms":5},"loc":0}

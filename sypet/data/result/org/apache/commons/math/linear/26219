@@ -1,0 +1,1 @@
+{"id":26219,"className":"org.apache.commons.math.linear.QRDecompositionImpl$Solver","methodName":"getInverse","signature":"\u003corg.apache.commons.math.linear.QRDecompositionImpl$Solver: org.apache.commons.math.linear.RealMatrix getInverse()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"invers":1},"maxFreq":1,"totalTerms":1},"loc":3}

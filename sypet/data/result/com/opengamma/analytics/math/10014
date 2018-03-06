@@ -1,0 +1,1 @@
+{"id":10014,"className":"com.opengamma.analytics.math.ComplexMathUtils","methodName":"square","signature":"\u003ccom.opengamma.analytics.math.ComplexMathUtils: com.opengamma.analytics.math.number.ComplexNumber square(com.opengamma.analytics.math.number.ComplexNumber)\u003e","loc":6}

@@ -1,0 +1,1 @@
+{"id":10629,"className":"javax.management.relation.RoleUnresolvedList","methodName":"RoleUnresolvedList","signature":"\u003cjavax.management.relation.RoleUnresolvedList: void RoleUnresolvedList()\u003e","javadoc":"/** \n * Constructs an empty RoleUnresolvedList.\n */\n","tf":{"freq":{"role":2,"list":2,"construct":1,"unresolv":2,"empti":1},"maxFreq":2,"totalTerms":8},"loc":3}

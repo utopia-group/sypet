@@ -1,0 +1,1 @@
+{"id":19052,"className":"javax.swing.plaf.basic.BasicComboBoxEditor","methodName":"focusLost","signature":"\u003cjavax.swing.plaf.basic.BasicComboBoxEditor: void focusLost(java.awt.event.FocusEvent)\u003e","loc":1}

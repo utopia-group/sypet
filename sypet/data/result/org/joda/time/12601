@@ -1,0 +1,1 @@
+{"id":12601,"className":"org.joda.time.Months","methodName":"getMonths","signature":"\u003corg.joda.time.Months: int getMonths()\u003e","javadoc":"/** \n * Gets the number of months that this period represents.\n * @return the number of months in the period\n */\n","tf":{"freq":{"repres":1,"month":3,"number":2,"period":2},"maxFreq":3,"totalTerms":8},"loc":3}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="sypet" default="jar">
+
+    <target name="sypet">
+    <java classname="edu.utexas.hunter.synthesis.test.Experiment"
+          maxmemory="4g"
+          fork="true"
+          failonerror="true">
+        <arg line="${args}"/>
+        <jvmarg value="-ea"/>
+        <classpath>
+            <pathelement location="sypet.jar"/>
+            <pathelement location="lib/bow4j.jar"/>
+            <pathelement location="lib/commons-lang3-3.4.jar"/>
+            <pathelement location="lib/ecj-4.5.1.jar"/>
+            <pathelement location="lib/gson-2.3.1.jar"/>
+            <pathelement location="lib/guava-18.0.jar"/>
+            <pathelement location="lib/soot-trunk.jar"/>
+            <pathelement location="lib/org.sat4j.core_2.3.5.v201308161310.jar"/>
+            <pathelement location="lib/org.sat4j.pb_2.3.5.v201404071733.jar"/>
+            <pathelement location="lib/snowball-stemmer-1.3.0.581.1.jar"/>
+            <pathelement location="lib/apt.jar"/>
+	    <pathelement location="lib/commons-cli-1.2.jar"/>
+            <pathelement location="lib/jython.jar"/>
+        </classpath>
+    </java>
+    </target>
+
+</project>

@@ -1,0 +1,1 @@
+{"id":11360,"className":"java.io.ObjectStreamClass","methodName":"toString","signature":"\u003cjava.io.ObjectStreamClass: java.lang.String toString()\u003e","javadoc":"/** \n * Return a string describing this ObjectStreamClass.\n */\n","tf":{"freq":{"stream":1,"string":2,"describ":1,"object":1},"maxFreq":2,"totalTerms":5},"loc":4}

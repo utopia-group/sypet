@@ -1,0 +1,1 @@
+{"id":10088,"className":"javax.management.BooleanValueExp","methodName":"getValue","signature":"\u003cjavax.management.BooleanValueExp: java.lang.Boolean getValue()\u003e","javadoc":"/** \n * Returns the  Boolean object representing the value of the BooleanValueExp object.\n */\n","tf":{"freq":{"exp":1,"repres":1,"valu":3,"object":2},"maxFreq":3,"totalTerms":7},"loc":3}

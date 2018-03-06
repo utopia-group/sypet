@@ -1,0 +1,1 @@
+{"id":24819,"className":"java.text.Bidi","methodName":"getLength","signature":"\u003cjava.text.Bidi: int getLength()\u003e","javadoc":"/** \n * Return the length of text in the line.\n * @return the length of text in the line\n */\n","tf":{"freq":{"text":2,"length":3,"line":2},"maxFreq":3,"totalTerms":7},"loc":3}

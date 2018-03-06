@@ -1,0 +1,1 @@
+{"id":24940,"className":"java.text.DateFormatSymbols","methodName":"getAmPmStrings","signature":"\u003cjava.text.DateFormatSymbols: java.lang.String[] getAmPmStrings()\u003e","javadoc":"/** \n * Gets ampm strings. For example: \"AM\" and \"PM\".\n * @return the ampm strings.\n */\n","tf":{"freq":{"ampm":2,"string":3,"exampl":1},"maxFreq":3,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":22822,"className":"javax.swing.text.html.ImageView","methodName":"getNoImageIcon","signature":"\u003cjavax.swing.text.html.ImageView: javax.swing.Icon getNoImageIcon()\u003e","javadoc":"/** \n * Returns the icon to use if the image couldn\u0027t be found.\n */\n","tf":{"freq":{"icon":2,"use":1,"imag":2,"found":1},"maxFreq":2,"totalTerms":6},"loc":3}

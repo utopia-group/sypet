@@ -1,0 +1,1 @@
+{"id":21109,"className":"java.util.TreeMap$Entry","methodName":"getKey","signature":"\u003cjava.util.TreeMap$Entry: K getKey()\u003e","javadoc":"/** \n * Returns the key.\n * @return the key\n */\n","tf":{"freq":{"key":3},"maxFreq":3,"totalTerms":3},"loc":3}

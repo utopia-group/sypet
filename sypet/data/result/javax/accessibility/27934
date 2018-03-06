@@ -1,0 +1,1 @@
+{"id":27934,"className":"javax.accessibility.AccessibleRelationSet","methodName":"AccessibleRelationSet","signature":"\u003cjavax.accessibility.AccessibleRelationSet: void AccessibleRelationSet()\u003e","javadoc":"/** \n * Creates a new empty relation set.\n */\n","tf":{"freq":{"creat":1,"relat":2,"access":1,"empti":1},"maxFreq":2,"totalTerms":5},"loc":3}

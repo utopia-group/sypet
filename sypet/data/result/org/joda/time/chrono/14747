@@ -1,0 +1,1 @@
+{"id":14747,"className":"org.joda.time.chrono.BasicSingleEraDateTimeField","methodName":"roundFloor","signature":"\u003corg.joda.time.chrono.BasicSingleEraDateTimeField: long roundFloor(long)\u003e","javadoc":"/** \n * @inheritDoc \n */\n","tf":{"freq":{"floor":1,"round":1},"maxFreq":1,"totalTerms":2},"loc":3}

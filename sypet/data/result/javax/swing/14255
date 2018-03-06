@@ -1,0 +1,1 @@
+{"id":14255,"className":"javax.swing.RepaintManager","methodName":"setDoubleBufferMaximumSize","signature":"\u003cjavax.swing.RepaintManager: void setDoubleBufferMaximumSize(java.awt.Dimension)\u003e","javadoc":"/** \n * Set the maximum double buffer size. \n */\n","tf":{"freq":{"buffer":2,"maximum":2,"size":2},"maxFreq":2,"totalTerms":6},"loc":8}

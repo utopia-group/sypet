@@ -1,0 +1,1 @@
+{"id":12327,"className":"java.net.ProtocolFamily","methodName":"name","signature":"\u003cjava.net.ProtocolFamily: java.lang.String name()\u003e","javadoc":"/** \n * Returns the name of the protocol family.\n */\n","tf":{"freq":{"protocol":1,"famili":1,"name":2},"maxFreq":2,"totalTerms":4},"loc":0}

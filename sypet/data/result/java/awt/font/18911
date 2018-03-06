@@ -1,0 +1,1 @@
+{"id":18911,"className":"java.awt.font.CharArrayIterator","methodName":"getIndex","signature":"\u003cjava.awt.font.CharArrayIterator: int getIndex()\u003e","javadoc":"/** \n * Returns the current index.\n * @return the current index.\n */\n","tf":{"freq":{"index":3,"current":2},"maxFreq":3,"totalTerms":5},"loc":3}

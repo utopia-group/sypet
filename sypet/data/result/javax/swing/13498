@@ -1,0 +1,1 @@
+{"id":13498,"className":"javax.swing.DefaultButtonModel","methodName":"setEnabled","signature":"\u003cjavax.swing.DefaultButtonModel: void setEnabled(boolean)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"enabl":1},"maxFreq":1,"totalTerms":1},"loc":17}

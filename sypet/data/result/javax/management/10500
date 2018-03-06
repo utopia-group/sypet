@@ -1,0 +1,1 @@
+{"id":10500,"className":"javax.management.AttributeNotFoundException","methodName":"AttributeNotFoundException","signature":"\u003cjavax.management.AttributeNotFoundException: void AttributeNotFoundException()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"except":1,"attribut":1,"constructor":1,"found":1},"maxFreq":1,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":20386,"className":"org.apache.commons.math3.geometry.euclidean.twod.Vector2D","methodName":"getNorm1","signature":"\u003corg.apache.commons.math3.geometry.euclidean.twod.Vector2D: double getNorm1()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"norm":1},"maxFreq":1,"totalTerms":1},"loc":3}

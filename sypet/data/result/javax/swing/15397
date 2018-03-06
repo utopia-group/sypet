@@ -1,0 +1,1 @@
+{"id":15397,"className":"javax.swing.DebugGraphics","methodName":"setFlashColor","signature":"\u003cjavax.swing.DebugGraphics: void setFlashColor(java.awt.Color)\u003e","javadoc":"/** \n * Sets the Color used to flash drawing operations.\n */\n","tf":{"freq":{"draw":1,"flash":2,"oper":1,"color":2,"use":1},"maxFreq":2,"totalTerms":7},"loc":3}

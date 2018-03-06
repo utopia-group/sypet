@@ -1,0 +1,1 @@
+{"id":25942,"className":"javax.xml.stream.FactoryConfigurationError","methodName":"FactoryConfigurationError","signature":"\u003cjavax.xml.stream.FactoryConfigurationError: void FactoryConfigurationError()\u003e","javadoc":"/** \n * Default constructor\n */\n","tf":{"freq":{"configur":1,"error":1,"factori":1,"constructor":1},"maxFreq":1,"totalTerms":4},"loc":1}

@@ -1,0 +1,1 @@
+{"id":14276,"className":"javax.swing.KeyboardManager","methodName":"unregisterMenuBar","signature":"\u003cjavax.swing.KeyboardManager: void unregisterMenuBar(javax.swing.JMenuBar)\u003e","loc":20}

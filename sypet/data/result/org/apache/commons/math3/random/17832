@@ -1,0 +1,1 @@
+{"id":17832,"className":"org.apache.commons.math3.random.RandomDataImpl","methodName":"nextSecureLong","signature":"\u003corg.apache.commons.math3.random.RandomDataImpl: long nextSecureLong(long,long)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"secur":1,"next":1},"maxFreq":1,"totalTerms":2},"loc":3}

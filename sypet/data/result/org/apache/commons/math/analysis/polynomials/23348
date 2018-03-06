@@ -1,0 +1,1 @@
+{"id":23348,"className":"","methodName":"generate","signature":"\u003c: org.apache.commons.math.fraction.BigFraction[] generate(int)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"generat":1},"maxFreq":1,"totalTerms":1},"loc":7}

@@ -1,0 +1,1 @@
+{"id":21024,"className":"org.apache.commons.math3.linear.BlockFieldMatrix","methodName":"scalarMultiply","signature":"\u003corg.apache.commons.math3.linear.BlockFieldMatrix: org.apache.commons.math3.linear.FieldMatrix\u003cT\u003e scalarMultiply(T)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"scalar":1,"multipli":1},"maxFreq":1,"totalTerms":2},"loc":15}

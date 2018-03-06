@@ -1,0 +1,1 @@
+{"id":14825,"className":"javax.swing.JTable$GenericEditor","methodName":"getTableCellEditorComponent","signature":"\u003cjavax.swing.JTable$GenericEditor: java.awt.Component getTableCellEditorComponent(javax.swing.JTable,java.lang.Object,boolean,int,int)\u003e","loc":19}

@@ -1,0 +1,1 @@
+{"id":10490,"className":"javax.management.MBeanServerPermissionCollection","methodName":"implies","signature":"\u003cjavax.management.MBeanServerPermissionCollection: boolean implies(java.security.Permission)\u003e","loc":4}

@@ -1,0 +1,1 @@
+{"id":13245,"className":"javax.swing.ComponentInputMap","methodName":"getComponent","signature":"\u003cjavax.swing.ComponentInputMap: javax.swing.JComponent getComponent()\u003e","javadoc":"/** \n * Returns the component the \u003ccode\u003eInputMap\u003c/code\u003e was created for.\n */\n","tf":{"freq":{"input":1,"compon":2,"creat":1,"map":1},"maxFreq":2,"totalTerms":5},"loc":3}

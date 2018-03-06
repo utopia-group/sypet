@@ -1,0 +1,1 @@
+{"id":20541,"className":"java.util.Hashtable","methodName":"clear","signature":"\u003cjava.util.Hashtable: void clear()\u003e","javadoc":"/** \n * Clears this hashtable so that it contains no keys.\n */\n","tf":{"freq":{"clear":2,"hashtabl":1,"contain":1,"key":1},"maxFreq":2,"totalTerms":5},"loc":7}

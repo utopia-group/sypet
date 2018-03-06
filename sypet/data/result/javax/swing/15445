@@ -1,0 +1,1 @@
+{"id":15445,"className":"javax.swing.DebugGraphics","methodName":"dispose","signature":"\u003cjavax.swing.DebugGraphics: void dispose()\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.dispose\u003c/code\u003e.\n */\n","tf":{"freq":{"graphic":1,"dispos":2},"maxFreq":2,"totalTerms":3},"loc":4}

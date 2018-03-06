@@ -1,0 +1,1 @@
+{"id":12666,"className":"javax.swing.JTree","methodName":"isEditable","signature":"\u003cjavax.swing.JTree: boolean isEditable()\u003e","javadoc":"/** \n * Returns true if the tree is editable.\n * @return true if the tree is editable\n */\n","tf":{"freq":{"tree":2,"edit":3,"true":2},"maxFreq":3,"totalTerms":7},"loc":3}

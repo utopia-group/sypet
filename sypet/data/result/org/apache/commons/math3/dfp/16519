@@ -1,0 +1,1 @@
+{"id":16519,"className":"org.apache.commons.math3.dfp.DfpDec","methodName":"newInstance","signature":"\u003corg.apache.commons.math3.dfp.DfpDec: org.apache.commons.math3.dfp.Dfp newInstance(org.apache.commons.math3.dfp.Dfp)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"instanc":1},"maxFreq":1,"totalTerms":1},"loc":13}

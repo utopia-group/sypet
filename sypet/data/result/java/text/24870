@@ -1,0 +1,1 @@
+{"id":24870,"className":"java.text.DecimalFormatSymbols","methodName":"equals","signature":"\u003cjava.text.DecimalFormatSymbols: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * Override equals.\n */\n","tf":{"freq":{"equal":2},"maxFreq":2,"totalTerms":2},"loc":22}

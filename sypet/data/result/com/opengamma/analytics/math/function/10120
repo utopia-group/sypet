@@ -1,0 +1,1 @@
+{"id":10120,"className":"com.opengamma.analytics.math.function.ConcatenatedVectorFunction","methodName":"getLengthOfDomain","signature":"\u003ccom.opengamma.analytics.math.function.ConcatenatedVectorFunction: int getLengthOfDomain()\u003e","loc":3}

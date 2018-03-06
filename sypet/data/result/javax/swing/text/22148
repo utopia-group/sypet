@@ -1,0 +1,1 @@
+{"id":22148,"className":"javax.swing.text.LayoutQueue","methodName":"getDefaultQueue","signature":"\u003cjavax.swing.text.LayoutQueue: javax.swing.text.LayoutQueue getDefaultQueue()\u003e","javadoc":"/** \n * Fetch the default layout queue.\n */\n","tf":{"freq":{"fetch":1,"queue":2,"layout":1},"maxFreq":2,"totalTerms":4},"loc":11}

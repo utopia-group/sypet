@@ -1,0 +1,1 @@
+{"id":20089,"className":"java.awt.geom.Line2D$Float","methodName":"getP1","signature":"\u003cjava.awt.geom.Line2D$Float: java.awt.geom.Point2D getP1()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","loc":3}

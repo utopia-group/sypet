@@ -1,0 +1,1 @@
+{"id":10028,"className":"com.opengamma.analytics.math.FunctionUtils","methodName":"cube","signature":"\u003ccom.opengamma.analytics.math.FunctionUtils: double cube(double)\u003e","javadoc":"/** \n * Returns the cube of a number\n * @param x some number\n * @return x*x*x\n */\n","tf":{"freq":{"number":2,"cube":2},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12693,"className":"java.beans.Visibility","methodName":"okToUseGui","signature":"\u003cjava.beans.Visibility: void okToUseGui()\u003e","javadoc":"/** \n * This method instructs the bean that it is OK to use the Gui.\n */\n","tf":{"freq":{"gui":2,"bean":1,"instruct":1,"use":2,"method":1},"maxFreq":2,"totalTerms":7},"loc":0}

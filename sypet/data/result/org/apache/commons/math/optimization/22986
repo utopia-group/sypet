@@ -1,0 +1,1 @@
+{"id":22986,"className":"org.apache.commons.math.optimization.VectorialPointValuePair","methodName":"getPoint","signature":"\u003corg.apache.commons.math.optimization.VectorialPointValuePair: double[] getPoint()\u003e","javadoc":"/** \n * Get the point.\n * @return a copy of the stored point\n */\n","tf":{"freq":{"point":3,"store":1,"copi":1},"maxFreq":3,"totalTerms":5},"loc":3}

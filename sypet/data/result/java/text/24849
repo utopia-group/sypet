@@ -1,0 +1,1 @@
+{"id":24849,"className":"java.text.DecimalFormatSymbols","methodName":"getDigit","signature":"\u003cjava.text.DecimalFormatSymbols: char getDigit()\u003e","javadoc":"/** \n * Gets the character used for a digit in a pattern.\n */\n","tf":{"freq":{"digit":2,"pattern":1,"charact":1,"use":1},"maxFreq":2,"totalTerms":5},"loc":3}

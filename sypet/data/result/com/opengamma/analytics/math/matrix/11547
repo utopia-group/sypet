@@ -1,0 +1,1 @@
+{"id":11547,"className":"com.opengamma.analytics.math.matrix.DoubleMatrix2D","methodName":"getNumberOfElements","signature":"\u003ccom.opengamma.analytics.math.matrix.DoubleMatrix2D: int getNumberOfElements()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"element":1,"number":1},"maxFreq":1,"totalTerms":2},"loc":3}

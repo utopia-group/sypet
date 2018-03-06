@@ -1,0 +1,1 @@
+{"id":11212,"className":"javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection","methodName":"createMBean","signature":"\u003cjavax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection: javax.management.ObjectInstance createMBean(java.lang.String,javax.management.ObjectName,javax.management.ObjectName)\u003e","loc":27}

@@ -1,0 +1,1 @@
+{"id":10362,"className":"org.w3c.dom.html.HTMLAnchorElement","methodName":"getName","signature":"\u003corg.w3c.dom.html.HTMLAnchorElement: java.lang.String getName()\u003e","javadoc":"/** \n * Anchor name. See the  name attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"attribut":1,"definit":1,"name":3,"anchor":1},"maxFreq":3,"totalTerms":6},"loc":0}

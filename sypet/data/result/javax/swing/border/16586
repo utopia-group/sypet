@@ -1,0 +1,1 @@
+{"id":16586,"className":"javax.swing.border.EmptyBorder","methodName":"paintBorder","signature":"\u003cjavax.swing.border.EmptyBorder: void paintBorder(java.awt.Component,java.awt.Graphics,int,int,int,int)\u003e","javadoc":"/** \n * Does no drawing by default.\n */\n","tf":{"freq":{"draw":1,"paint":1,"border":1},"maxFreq":1,"totalTerms":3},"loc":2}

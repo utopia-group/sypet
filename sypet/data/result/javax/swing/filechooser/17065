@@ -1,0 +1,1 @@
+{"id":17065,"className":"javax.swing.filechooser.WindowsFileSystemView","methodName":"isTraversable","signature":"\u003cjavax.swing.filechooser.WindowsFileSystemView: java.lang.Boolean isTraversable(java.io.File)\u003e","loc":3}

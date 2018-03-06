@@ -1,0 +1,1 @@
+{"id":26151,"className":"java.security.cert.X509CRLSelector","methodName":"clone","signature":"\u003cjava.security.cert.X509CRLSelector: java.lang.Object clone()\u003e","javadoc":"/** \n * Returns a copy of this object.\n * @return the copy\n */\n","tf":{"freq":{"clone":1,"object":1,"copi":2},"maxFreq":2,"totalTerms":4},"loc":15}

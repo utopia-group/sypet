@@ -1,0 +1,1 @@
+{"id":12610,"className":"java.beans.BeanDescriptor","methodName":"getBeanClass","signature":"\u003cjava.beans.BeanDescriptor: java.lang.Class\u003c?\u003e getBeanClass()\u003e","javadoc":"/** \n * Gets the bean\u0027s Class object.\n * @return The Class object for the bean.\n */\n","tf":{"freq":{"bean":3,"object":2},"maxFreq":3,"totalTerms":5},"loc":5}

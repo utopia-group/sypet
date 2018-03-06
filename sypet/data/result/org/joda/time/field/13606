@@ -1,0 +1,1 @@
+{"id":13606,"className":"org.joda.time.field.UnsupportedDurationField","methodName":"isSupported","signature":"\u003corg.joda.time.field.UnsupportedDurationField: boolean isSupported()\u003e","javadoc":"/** \n * This field is not supported.\n * @return false always\n */\n","tf":{"freq":{"fals":1,"field":1,"support":2,"alway":1},"maxFreq":2,"totalTerms":5},"loc":3}

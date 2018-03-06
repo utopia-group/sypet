@@ -1,0 +1,1 @@
+{"id":17233,"className":"javax.swing.table.JTableHeader.AccessibleJTableHeader$AccessibleJTableHeaderEntry","methodName":"removeFocusListener","signature":"\u003cjavax.swing.table.JTableHeader.AccessibleJTableHeader$AccessibleJTableHeaderEntry: void removeFocusListener(java.awt.event.FocusListener)\u003e","loc":11}

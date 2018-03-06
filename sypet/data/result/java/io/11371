@@ -1,0 +1,1 @@
+{"id":11371,"className":"java.io.ObjectStreamClass$WeakClassKey","methodName":"hashCode","signature":"\u003cjava.io.ObjectStreamClass$WeakClassKey: int hashCode()\u003e","javadoc":"/** \n * Returns the identity hash code of the original referent.\n */\n","tf":{"freq":{"ident":1,"refer":1,"hash":2,"origin":1},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":20042,"className":"javax.swing.plaf.synth.ImagePainter","methodName":"paintPasswordFieldBorder","signature":"\u003cjavax.swing.plaf.synth.ImagePainter: void paintPasswordFieldBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":3}

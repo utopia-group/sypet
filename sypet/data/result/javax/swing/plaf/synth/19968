@@ -1,0 +1,1 @@
+{"id":19968,"className":"javax.swing.plaf.synth.SynthInternalFrameUI","methodName":"installDefaults","signature":"\u003cjavax.swing.plaf.synth.SynthInternalFrameUI: void installDefaults()\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"instal":1},"maxFreq":1,"totalTerms":1},"loc":4}

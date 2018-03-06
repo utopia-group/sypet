@@ -1,0 +1,1 @@
+{"id":14166,"className":"javax.swing.DelegatingDefaultFocusManager","methodName":"getPermanentFocusOwner","signature":"\u003cjavax.swing.DelegatingDefaultFocusManager: java.awt.Component getPermanentFocusOwner()\u003e","loc":3}

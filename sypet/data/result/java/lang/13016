@@ -1,0 +1,1 @@
+{"id":13016,"className":"java.lang.StringBuilder","methodName":"lastIndexOf","signature":"\u003cjava.lang.StringBuilder: int lastIndexOf(java.lang.String)\u003e","javadoc":"/** \n * @throws NullPointerException {@inheritDoc}\n */\n","tf":{"freq":{"except":1,"index":1,"last":1,"pointer":1},"maxFreq":1,"totalTerms":4},"loc":3}

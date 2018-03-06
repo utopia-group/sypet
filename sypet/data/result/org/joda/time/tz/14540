@@ -1,0 +1,1 @@
+{"id":14540,"className":"org.joda.time.tz.FixedDateTimeZone","methodName":"toTimeZone","signature":"\u003corg.joda.time.tz.FixedDateTimeZone: java.util.TimeZone toTimeZone()\u003e","javadoc":"/** \n * Override to return the correct timzone instance.\n * @since 1.5\n */\n","tf":{"freq":{"time":1,"correct":1,"timzon":1,"zone":1,"instanc":1},"maxFreq":1,"totalTerms":5},"loc":10}

@@ -1,0 +1,1 @@
+{"id":21582,"className":"java.util.Calendar","methodName":"clone","signature":"\u003cjava.util.Calendar: java.lang.Object clone()\u003e","javadoc":"/** \n * Creates and returns a copy of this object.\n * @return a copy of this object.\n */\n","tf":{"freq":{"clone":1,"creat":1,"object":2,"copi":2},"maxFreq":2,"totalTerms":6},"loc":20}

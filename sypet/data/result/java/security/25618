@@ -1,0 +1,1 @@
+{"id":25618,"className":"java.security.Signature","methodName":"getProvider","signature":"\u003cjava.security.Signature: java.security.Provider getProvider()\u003e","javadoc":"/** \n * Returns the provider of this signature object.\n * @return the provider of this signature object\n */\n","tf":{"freq":{"object":2,"signatur":2,"provid":3},"maxFreq":3,"totalTerms":7},"loc":4}

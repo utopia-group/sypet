@@ -1,0 +1,1 @@
+{"id":22336,"className":"javax.swing.text.Segment","methodName":"toString","signature":"\u003cjavax.swing.text.Segment: java.lang.String toString()\u003e","javadoc":"/** \n * Converts a segment into a String.\n * @return the string\n */\n","tf":{"freq":{"segment":1,"string":3,"convert":1},"maxFreq":3,"totalTerms":5},"loc":6}

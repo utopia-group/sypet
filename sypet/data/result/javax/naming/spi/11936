@@ -1,0 +1,1 @@
+{"id":11936,"className":"javax.naming.spi.ContinuationDirContext","methodName":"createSubcontext","signature":"\u003cjavax.naming.spi.ContinuationDirContext: javax.naming.directory.DirContext createSubcontext(javax.naming.Name,javax.naming.directory.Attributes)\u003e","loc":4}

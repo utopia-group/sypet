@@ -1,0 +1,1 @@
+{"id":21000,"className":"java.util.TreeMap","methodName":"descendingKeySet","signature":"\u003cjava.util.TreeMap: java.util.NavigableSet\u003cK\u003e descendingKeySet()\u003e","javadoc":"/** \n * @since 1.6\n */\n","tf":{"freq":{"descend":1,"key":1},"maxFreq":1,"totalTerms":2},"loc":3}

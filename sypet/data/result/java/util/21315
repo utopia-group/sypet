@@ -1,0 +1,1 @@
+{"id":21315,"className":"java.util.ArrayDeque","methodName":"clone","signature":"\u003cjava.util.ArrayDeque: java.util.ArrayDeque\u003cE\u003e clone()\u003e","javadoc":"/** \n * Returns a copy of this deque.\n * @return a copy of this deque\n */\n","tf":{"freq":{"clone":1,"dequ":2,"copi":2},"maxFreq":2,"totalTerms":5},"loc":10}

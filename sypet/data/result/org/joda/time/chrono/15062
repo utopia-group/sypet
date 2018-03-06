@@ -1,0 +1,1 @@
+{"id":15062,"className":"org.joda.time.chrono.ZonedChronology$ZonedDurationField","methodName":"getValueAsLong","signature":"\u003corg.joda.time.chrono.ZonedChronology$ZonedDurationField: long getValueAsLong(long,long)\u003e","loc":3}

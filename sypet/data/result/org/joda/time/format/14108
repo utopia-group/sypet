@@ -1,0 +1,1 @@
+{"id":14108,"className":"org.joda.time.format.PeriodFormatterBuilder$Composite","methodName":"parseInto","signature":"\u003corg.joda.time.format.PeriodFormatterBuilder$Composite: int parseInto(org.joda.time.ReadWritablePeriod,java.lang.String,int,java.util.Locale)\u003e","loc":12}

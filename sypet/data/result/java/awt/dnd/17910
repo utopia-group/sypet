@@ -1,0 +1,1 @@
+{"id":17910,"className":"java.awt.dnd.DragSourceDragEvent","methodName":"getTargetActions","signature":"\u003cjava.awt.dnd.DragSourceDragEvent: int getTargetActions()\u003e","javadoc":"/** \n * This method returns the target drop action.\n * @return the target drop action.\n */\n","tf":{"freq":{"drop":2,"action":3,"target":3,"method":1},"maxFreq":3,"totalTerms":9},"loc":3}

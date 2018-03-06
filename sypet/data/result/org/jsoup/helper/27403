@@ -1,0 +1,1 @@
+{"id":27403,"className":"org.jsoup.helper.DescendableLinkedList","methodName":"peekLast","signature":"\u003corg.jsoup.helper.DescendableLinkedList: E peekLast()\u003e","javadoc":"/** \n * Look at the last element, if there is one.\n * @return the last element, or null\n */\n","tf":{"freq":{"look":1,"element":2,"last":3,"one":1,"peek":1},"maxFreq":3,"totalTerms":8},"loc":3}

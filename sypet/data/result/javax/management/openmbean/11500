@@ -1,0 +1,1 @@
+{"id":11500,"className":"javax.management.openmbean.OpenDataException","methodName":"OpenDataException","signature":"\u003cjavax.management.openmbean.OpenDataException: void OpenDataException()\u003e","javadoc":"/** \n * An OpenDataException with no detail message.\n */\n","tf":{"freq":{"open":2,"detail":1,"except":2,"messag":1,"data":2},"maxFreq":2,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":23168,"className":"org.apache.commons.math.optimization.linear.SimplexSolver","methodName":"doOptimize","signature":"\u003corg.apache.commons.math.optimization.linear.SimplexSolver: org.apache.commons.math.optimization.RealPointValuePair doOptimize()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"optim":1},"maxFreq":1,"totalTerms":1},"loc":12}

@@ -1,0 +1,1 @@
+{"id":13682,"className":"javax.swing.JDialog","methodName":"getJMenuBar","signature":"\u003cjavax.swing.JDialog: javax.swing.JMenuBar getJMenuBar()\u003e","javadoc":"/** \n * Returns the menubar set on this dialog.\n * @see #setJMenuBar\n */\n","tf":{"freq":{"jmenu":2,"dialog":1,"bar":2,"menubar":1},"maxFreq":2,"totalTerms":6},"loc":3}

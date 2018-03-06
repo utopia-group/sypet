@@ -1,0 +1,1 @@
+{"id":14729,"className":"java.nio.charset.Charset","methodName":"hashCode","signature":"\u003cjava.nio.charset.Charset: int hashCode()\u003e","javadoc":"/** \n * Computes a hashcode for this charset. \u003c/p\u003e\n * @return  An integer hashcode\n */\n","tf":{"freq":{"hash":1,"hashcod":2,"charset":1,"comput":1,"integ":1},"maxFreq":2,"totalTerms":6},"loc":3}

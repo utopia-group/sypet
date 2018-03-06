@@ -1,0 +1,1 @@
+{"id":12305,"className":"com.opengamma.analytics.math.statistics.descriptive.robust.TrimmedMeanCalculator","methodName":"evaluate","signature":"\u003ccom.opengamma.analytics.math.statistics.descriptive.robust.TrimmedMeanCalculator: java.lang.Double evaluate(double[])\u003e","loc":13}

@@ -1,0 +1,1 @@
+{"id":25349,"className":"java.security.AllPermissionCollection","methodName":"AllPermissionCollection","signature":"\u003cjava.security.AllPermissionCollection: void AllPermissionCollection()\u003e","javadoc":"/** \n * Create an empty AllPermissions object.\n */\n","tf":{"freq":{"creat":1,"permiss":2,"object":1,"empti":1,"collect":1},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":16763,"className":"java.awt.Component","methodName":"getName","signature":"\u003cjava.awt.Component: java.lang.String getName()\u003e","javadoc":"/** \n * Gets the name of the component.\n * @return this component\u0027s name\n * @see #setName\n * @since JDK1.1\n */\n","tf":{"freq":{"compon":2,"name":4},"maxFreq":4,"totalTerms":6},"loc":9}

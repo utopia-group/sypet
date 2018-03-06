@@ -1,0 +1,1 @@
+{"id":22922,"className":"","methodName":"getNextVisualPositionFrom","signature":"\u003c: int getNextVisualPositionFrom(int,javax.swing.text.Position$Bias,java.awt.Shape,int,javax.swing.text.Position.Bias[])\u003e","loc":3}

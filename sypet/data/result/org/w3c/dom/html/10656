@@ -1,0 +1,1 @@
+{"id":10656,"className":"org.w3c.dom.html.HTMLFormElement","methodName":"submit","signature":"\u003corg.w3c.dom.html.HTMLFormElement: void submit()\u003e","javadoc":"/** \n * Submits the form. It performs the same action as a  submit button.\n */\n","tf":{"freq":{"form":1,"submit":3,"button":1,"action":1,"perform":1},"maxFreq":3,"totalTerms":7},"loc":0}

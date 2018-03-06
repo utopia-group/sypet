@@ -1,0 +1,1 @@
+{"id":19053,"className":"org.apache.commons.math3.stat.descriptive.summary.Product","methodName":"getResult","signature":"\u003corg.apache.commons.math3.stat.descriptive.summary.Product: double getResult()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"result":1},"maxFreq":1,"totalTerms":1},"loc":3}

@@ -1,0 +1,1 @@
+{"id":15322,"className":"org.joda.money.format.MoneyParseContext","methodName":"getText","signature":"\u003corg.joda.money.format.MoneyParseContext: java.lang.CharSequence getText()\u003e","javadoc":"/** \n * Gets the text being parsed.\n * @return the text being parsed, never null\n */\n","tf":{"freq":{"never":1,"text":3,"pars":2},"maxFreq":3,"totalTerms":6},"loc":3}

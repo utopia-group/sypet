@@ -1,0 +1,1 @@
+{"id":17075,"className":"javax.swing.filechooser.GenericFileSystemView","methodName":"createNewFolder","signature":"\u003cjavax.swing.filechooser.GenericFileSystemView: java.io.File createNewFolder(java.io.File)\u003e","javadoc":"/** \n * Creates a new folder with a default folder name.\n */\n","tf":{"freq":{"folder":3,"creat":2,"name":1},"maxFreq":3,"totalTerms":6},"loc":15}

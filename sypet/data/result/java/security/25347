@@ -1,0 +1,1 @@
+{"id":25347,"className":"java.security.AllPermission","methodName":"getActions","signature":"\u003cjava.security.AllPermission: java.lang.String getActions()\u003e","javadoc":"/** \n * Returns the canonical string representation of the actions.\n * @return the actions.\n */\n","tf":{"freq":{"canon":1,"string":1,"action":3,"represent":1},"maxFreq":3,"totalTerms":6},"loc":3}

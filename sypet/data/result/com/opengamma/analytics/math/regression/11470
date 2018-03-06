@@ -1,0 +1,1 @@
+{"id":11470,"className":"com.opengamma.analytics.math.regression.GeneralizedLeastSquaresRegression","methodName":"regress","signature":"\u003ccom.opengamma.analytics.math.regression.GeneralizedLeastSquaresRegression: com.opengamma.analytics.math.regression.LeastSquaresRegressionResult regress(double[][],double[][],double[],boolean)\u003e","loc":23}

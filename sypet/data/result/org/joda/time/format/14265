@@ -1,0 +1,1 @@
+{"id":14265,"className":"org.joda.time.format.MatchingParser","methodName":"parseInto","signature":"\u003corg.joda.time.format.MatchingParser: int parseInto(org.joda.time.format.DateTimeParserBucket,java.lang.CharSequence,int)\u003e","loc":56}

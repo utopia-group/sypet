@@ -1,0 +1,1 @@
+{"id":15847,"className":"javax.swing.JScrollPane$AccessibleJScrollPane","methodName":"AccessibleJScrollPane","signature":"\u003cjavax.swing.JScrollPane$AccessibleJScrollPane: void AccessibleJScrollPane()\u003e","javadoc":"/** \n * AccessibleJScrollPane constructor\n */\n","tf":{"freq":{"jscroll":2,"access":2,"constructor":1,"pane":2},"maxFreq":2,"totalTerms":7},"loc":16}

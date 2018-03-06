@@ -1,0 +1,1 @@
+{"id":13878,"className":"org.joda.time.field.DecoratedDurationField","methodName":"add","signature":"\u003corg.joda.time.field.DecoratedDurationField: long add(long,long)\u003e","loc":3}

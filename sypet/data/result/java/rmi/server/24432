@@ -1,0 +1,1 @@
+{"id":24432,"className":"java.rmi.server.UID","methodName":"UID","signature":"\u003cjava.rmi.server.UID: void UID()\u003e","javadoc":"/** \n * Generates a \u003ccode\u003eUID\u003c/code\u003e that is unique over time with respect to the host that it was generated on.\n */\n","tf":{"freq":{"time":1,"uniqu":1,"host":1,"generat":2,"respect":1},"maxFreq":2,"totalTerms":6},"loc":34}

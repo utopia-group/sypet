@@ -1,0 +1,1 @@
+{"id":24703,"className":"java.text.MergeCollation","methodName":"getCount","signature":"\u003cjava.text.MergeCollation: int getCount()\u003e","javadoc":"/** \n * gets count of separate entries\n * @return the size of pattern entries\n */\n","tf":{"freq":{"pattern":1,"count":2,"separ":1,"entri":2,"size":1},"maxFreq":2,"totalTerms":7},"loc":3}

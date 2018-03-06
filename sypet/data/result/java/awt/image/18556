@@ -1,0 +1,1 @@
+{"id":18556,"className":"java.awt.image.SinglePixelPackedSampleModel","methodName":"getBitMasks","signature":"\u003cjava.awt.image.SinglePixelPackedSampleModel: int[] getBitMasks()\u003e","javadoc":"/** \n * Returns the bit masks for all bands.\n * @return the bit masks for all bands.\n */\n","tf":{"freq":{"bit":3,"band":2,"mask":3},"maxFreq":3,"totalTerms":8},"loc":3}

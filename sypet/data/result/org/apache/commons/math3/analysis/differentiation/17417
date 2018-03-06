@@ -1,0 +1,1 @@
+{"id":17417,"className":"","methodName":"value","signature":"\u003c: org.apache.commons.math3.analysis.differentiation.DerivativeStructure value(org.apache.commons.math3.analysis.differentiation.DerivativeStructure)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"valu":1},"maxFreq":1,"totalTerms":1},"loc":20}

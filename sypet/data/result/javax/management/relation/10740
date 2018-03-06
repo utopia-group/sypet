@@ -1,0 +1,1 @@
+{"id":10740,"className":"javax.management.relation.RoleUnresolved","methodName":"getRoleName","signature":"\u003cjavax.management.relation.RoleUnresolved: java.lang.String getRoleName()\u003e","javadoc":"/** \n * Retrieves role name.\n * @return the role name.\n * @see #setRoleName\n */\n","tf":{"freq":{"retriev":1,"name":4,"role":4},"maxFreq":4,"totalTerms":9},"loc":3}

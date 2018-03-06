@@ -1,0 +1,1 @@
+{"id":11944,"className":"java.net.BindException","methodName":"BindException","signature":"\u003cjava.net.BindException: void BindException()\u003e","javadoc":"/** \n * Construct a new BindException with no detailed message.\n */\n","tf":{"freq":{"detail":1,"except":2,"messag":1,"construct":1,"bind":2},"maxFreq":2,"totalTerms":7},"loc":1}

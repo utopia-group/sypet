@@ -1,0 +1,1 @@
+{"id":10439,"className":"org.w3c.dom.html.HTMLSelectElement","methodName":"getSize","signature":"\u003corg.w3c.dom.html.HTMLSelectElement: int getSize()\u003e","javadoc":"/** \n * Number of visible rows. See the  size attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"attribut":1,"visibl":1,"definit":1,"number":1,"row":1,"size":2},"maxFreq":2,"totalTerms":7},"loc":0}

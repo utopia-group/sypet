@@ -1,0 +1,1 @@
+{"id":19218,"className":"org.apache.commons.math3.util.Incrementor","methodName":"Incrementor","signature":"\u003corg.apache.commons.math3.util.Incrementor: void Incrementor(int)\u003e","javadoc":"/** \n * Defines a maximal count.\n * @param max Maximal count.\n */\n","tf":{"freq":{"maxim":2,"defin":1,"max":1,"count":2,"incrementor":1},"maxFreq":2,"totalTerms":7},"loc":9}

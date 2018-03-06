@@ -1,0 +1,1 @@
+{"id":21467,"className":"javax.swing.text.Utilities","methodName":"getTabbedTextOffset","signature":"\u003cjavax.swing.text.Utilities: int getTabbedTextOffset(javax.swing.text.Segment,java.awt.FontMetrics,int,int,javax.swing.text.TabExpander,int,boolean)\u003e","loc":3}

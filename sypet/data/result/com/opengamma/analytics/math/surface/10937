@@ -1,0 +1,1 @@
+{"id":10937,"className":"com.opengamma.analytics.math.surface.Surface","methodName":"getName","signature":"\u003ccom.opengamma.analytics.math.surface.Surface: java.lang.String getName()\u003e","javadoc":"/** \n * @return The name of the curve\n */\n","tf":{"freq":{"name":2,"curv":1},"maxFreq":2,"totalTerms":3},"loc":3}

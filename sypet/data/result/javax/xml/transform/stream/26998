@@ -1,0 +1,1 @@
+{"id":26998,"className":"javax.xml.transform.stream.StreamResult","methodName":"StreamResult","signature":"\u003cjavax.xml.transform.stream.StreamResult: void StreamResult()\u003e","javadoc":"/** \n * Zero-argument default constructor.\n */\n","tf":{"freq":{"argument":1,"result":1,"stream":1,"zero":1,"constructor":1},"maxFreq":1,"totalTerms":5},"loc":2}

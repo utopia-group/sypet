@@ -1,0 +1,1 @@
+{"id":18279,"className":"javax.swing.plaf.basic.BasicComboBoxUI","methodName":"isPopupVisible","signature":"\u003cjavax.swing.plaf.basic.BasicComboBoxUI: boolean isPopupVisible(javax.swing.JComboBox)\u003e","javadoc":"/** \n * Tells if the popup is visible or not.\n */\n","tf":{"freq":{"visibl":2,"popup":2,"tell":1},"maxFreq":2,"totalTerms":5},"loc":3}

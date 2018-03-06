@@ -1,0 +1,1 @@
+{"id":14955,"className":"org.joda.time.chrono.BasicChronology","methodName":"getMinimumDaysInFirstWeek","signature":"\u003corg.joda.time.chrono.BasicChronology: int getMinimumDaysInFirstWeek()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":27637,"className":"org.jcp.xml.dsig.internal.DigesterOutputStream","methodName":"getDigestValue","signature":"\u003corg.jcp.xml.dsig.internal.DigesterOutputStream: byte[] getDigestValue()\u003e","javadoc":"/** \n * @return the digest value\n */\n","tf":{"freq":{"valu":2,"digest":2},"maxFreq":2,"totalTerms":4},"loc":3}

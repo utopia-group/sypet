@@ -1,0 +1,1 @@
+{"id":25796,"className":"java.security.spec.DSAPrivateKeySpec","methodName":"getG","signature":"\u003cjava.security.spec.DSAPrivateKeySpec: java.math.BigInteger getG()\u003e","javadoc":"/** \n * Returns the base \u003ccode\u003eg\u003c/code\u003e.\n * @return the base \u003ccode\u003eg\u003c/code\u003e.\n */\n","tf":{"freq":{"base":2},"maxFreq":2,"totalTerms":2},"loc":3}

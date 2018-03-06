@@ -1,0 +1,1 @@
+{"id":11980,"className":"org.joda.time.TimeOfDay","methodName":"size","signature":"\u003corg.joda.time.TimeOfDay: int size()\u003e","javadoc":"/** \n * Gets the number of fields in this partial.\n * @return the field count\n */\n","tf":{"freq":{"field":2,"count":1,"number":1,"partial":1,"size":1},"maxFreq":2,"totalTerms":6},"loc":3}

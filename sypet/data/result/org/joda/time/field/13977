@@ -1,0 +1,1 @@
+{"id":13977,"className":"org.joda.time.field.BaseDurationField","methodName":"getType","signature":"\u003corg.joda.time.field.BaseDurationField: org.joda.time.DurationFieldType getType()\u003e","loc":3}

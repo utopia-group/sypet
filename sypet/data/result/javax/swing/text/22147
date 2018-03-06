@@ -1,0 +1,1 @@
+{"id":22147,"className":"javax.swing.text.LayoutQueue","methodName":"LayoutQueue","signature":"\u003cjavax.swing.text.LayoutQueue: void LayoutQueue()\u003e","javadoc":"/** \n * Construct a layout queue.\n */\n","tf":{"freq":{"queue":2,"layout":2,"construct":1},"maxFreq":2,"totalTerms":5},"loc":3}

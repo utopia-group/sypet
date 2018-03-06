@@ -1,0 +1,1 @@
+{"id":14473,"className":"javax.swing.ActionMap","methodName":"size","signature":"\u003cjavax.swing.ActionMap: int size()\u003e","javadoc":"/** \n * Returns the number of bindings in this  {@code ActionMap}.\n * @return the number of bindings in this {@code ActionMap}\n */\n","tf":{"freq":{"map":2,"action":2,"number":2,"bind":2,"size":1},"maxFreq":2,"totalTerms":9},"loc":6}

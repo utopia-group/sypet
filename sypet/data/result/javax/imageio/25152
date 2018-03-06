@@ -1,0 +1,1 @@
+{"id":25152,"className":"javax.imageio.ImageIO$CanEncodeImageAndFormatFilter","methodName":"filter","signature":"\u003cjavax.imageio.ImageIO$CanEncodeImageAndFormatFilter: boolean filter(java.lang.Object)\u003e","loc":5}

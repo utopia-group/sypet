@@ -1,0 +1,1 @@
+{"id":25411,"className":"javax.imageio.stream.ImageOutputStreamImpl","methodName":"writeBoolean","signature":"\u003cjavax.imageio.stream.ImageOutputStreamImpl: void writeBoolean(boolean)\u003e","loc":3}

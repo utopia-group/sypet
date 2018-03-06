@@ -1,0 +1,1 @@
+{"id":27695,"className":"javax.xml.crypto.dsig.spec.XPathType","methodName":"getFilter","signature":"\u003cjavax.xml.crypto.dsig.spec.XPathType: javax.xml.crypto.dsig.spec.XPathType$Filter getFilter()\u003e","javadoc":"/** \n * Returns the filter operation.\n * @return the filter operation\n */\n","tf":{"freq":{"oper":2,"filter":3},"maxFreq":3,"totalTerms":5},"loc":3}

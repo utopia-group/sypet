@@ -1,0 +1,1 @@
+{"id":16567,"className":"java.awt.MultipleGradientPaintContext","methodName":"getRaster","signature":"\u003cjava.awt.MultipleGradientPaintContext: java.awt.image.Raster getRaster(int,int,int,int)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"raster":1},"maxFreq":1,"totalTerms":1},"loc":29}

@@ -1,0 +1,1 @@
+{"id":19909,"className":"java.awt.geom.CubicCurve2D","methodName":"contains","signature":"\u003cjava.awt.geom.CubicCurve2D: boolean contains(double,double)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"contain":1},"maxFreq":1,"totalTerms":1},"loc":24}

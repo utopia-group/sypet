@@ -1,0 +1,1 @@
+{"id":25375,"className":"java.security.Provider","methodName":"getName","signature":"\u003cjava.security.Provider: java.lang.String getName()\u003e","javadoc":"/** \n * Returns the name of this provider.\n * @return the name of this provider.\n */\n","tf":{"freq":{"name":3,"provid":2},"maxFreq":3,"totalTerms":5},"loc":3}

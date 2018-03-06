@@ -1,0 +1,1 @@
+{"id":16616,"className":"javax.swing.border.MatteBorder","methodName":"paintBorder","signature":"\u003cjavax.swing.border.MatteBorder: void paintBorder(java.awt.Component,java.awt.Graphics,int,int,int,int)\u003e","javadoc":"/** \n * Paints the matte border.\n */\n","tf":{"freq":{"paint":2,"border":2,"matt":1},"maxFreq":2,"totalTerms":5},"loc":29}

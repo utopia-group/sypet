@@ -1,0 +1,1 @@
+{"id":26915,"className":"javax.xml.transform.Transformer","methodName":"clearParameters","signature":"\u003cjavax.xml.transform.Transformer: void clearParameters()\u003e","javadoc":"/** \n * Clear all parameters set with setParameter.\n */\n","tf":{"freq":{"clear":2,"paramet":3},"maxFreq":3,"totalTerms":5},"loc":0}

@@ -1,0 +1,1 @@
+{"id":23769,"className":"java.util.zip.CRC32","methodName":"getValue","signature":"\u003cjava.util.zip.CRC32: long getValue()\u003e","javadoc":"/** \n * Returns CRC-32 value.\n */\n","tf":{"freq":{"valu":2},"maxFreq":2,"totalTerms":2},"loc":3}

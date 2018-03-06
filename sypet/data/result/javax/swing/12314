@@ -1,0 +1,1 @@
+{"id":12314,"className":"javax.swing.BufferStrategyPaintManager$BufferInfo","methodName":"dispose","signature":"\u003cjavax.swing.BufferStrategyPaintManager$BufferInfo: void dispose()\u003e","javadoc":"/** \n * Cleans up and removes any references.\n */\n","tf":{"freq":{"clean":1,"refer":1,"remov":1,"dispos":1},"maxFreq":1,"totalTerms":4},"loc":18}

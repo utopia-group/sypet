@@ -1,0 +1,1 @@
+{"id":16522,"className":"org.apache.commons.math3.dfp.DfpDec","methodName":"nextAfter","signature":"\u003corg.apache.commons.math3.dfp.DfpDec: org.apache.commons.math3.dfp.Dfp nextAfter(org.apache.commons.math3.dfp.Dfp)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"next":1},"maxFreq":1,"totalTerms":1},"loc":75}

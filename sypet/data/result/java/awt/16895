@@ -1,0 +1,1 @@
+{"id":16895,"className":"java.awt.Component","methodName":"inside","signature":"\u003cjava.awt.Component: boolean inside(int,int)\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by contains(int, int).\n */\n","tf":{"freq":{"deprec":1,"contain":1,"replac":1,"insid":1,"version":1},"maxFreq":1,"totalTerms":5},"loc":3}

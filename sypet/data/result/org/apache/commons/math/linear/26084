@@ -1,0 +1,1 @@
+{"id":26084,"className":"org.apache.commons.math.linear.ArrayRealVector","methodName":"mapCeilToSelf","signature":"\u003corg.apache.commons.math.linear.ArrayRealVector: org.apache.commons.math.linear.RealVector mapCeilToSelf()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"ceil":1,"map":1,"self":1},"maxFreq":1,"totalTerms":3},"loc":6}

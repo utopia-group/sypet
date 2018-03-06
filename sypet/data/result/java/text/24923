@@ -1,0 +1,1 @@
+{"id":24923,"className":"java.text.ChoiceFormat","methodName":"equals","signature":"\u003cjava.text.ChoiceFormat: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * Equality comparision between two\n */\n","tf":{"freq":{"two":1,"equal":2,"comparis":1},"maxFreq":2,"totalTerms":4},"loc":10}

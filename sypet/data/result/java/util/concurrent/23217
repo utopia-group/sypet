@@ -1,0 +1,1 @@
+{"id":23217,"className":"java.util.concurrent.BlockingDeque","methodName":"size","signature":"\u003cjava.util.concurrent.BlockingDeque: int size()\u003e","javadoc":"/** \n * Returns the number of elements in this deque.\n * @return the number of elements in this deque\n */\n","tf":{"freq":{"element":2,"dequ":2,"number":2,"size":1},"maxFreq":2,"totalTerms":7},"loc":0}

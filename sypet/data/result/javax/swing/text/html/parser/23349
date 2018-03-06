@@ -1,0 +1,1 @@
+{"id":23349,"className":"javax.swing.text.html.parser.Element","methodName":"getName","signature":"\u003cjavax.swing.text.html.parser.Element: java.lang.String getName()\u003e","javadoc":"/** \n * Get the name of the element.\n */\n","tf":{"freq":{"element":1,"name":2},"maxFreq":2,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11045,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getPitchRange","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getPitchRange()\u003e","javadoc":"/** \n * See the pitch-range property definition in CSS2.\n */\n","tf":{"freq":{"rang":2,"definit":1,"properti":1,"pitch":2},"maxFreq":2,"totalTerms":6},"loc":0}

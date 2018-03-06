@@ -1,0 +1,1 @@
+{"id":18068,"className":"javax.swing.plaf.basic.BasicButtonUI","methodName":"getMinimumSize","signature":"\u003cjavax.swing.plaf.basic.BasicButtonUI: java.awt.Dimension getMinimumSize(javax.swing.JComponent)\u003e","loc":8}

@@ -1,0 +1,1 @@
+{"id":19070,"className":"org.apache.commons.math3.stat.descriptive.summary.Sum","methodName":"Sum","signature":"\u003corg.apache.commons.math3.stat.descriptive.summary.Sum: void Sum()\u003e","javadoc":"/** \n * Create a Sum instance\n */\n","tf":{"freq":{"creat":1,"sum":2,"instanc":1},"maxFreq":2,"totalTerms":4},"loc":4}

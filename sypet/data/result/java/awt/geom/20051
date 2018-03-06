@@ -1,0 +1,1 @@
+{"id":20051,"className":"java.awt.geom.Arc2D$Double","methodName":"getAngleStart","signature":"\u003cjava.awt.geom.Arc2D$Double: double getAngleStart()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"start":1,"angl":1},"maxFreq":1,"totalTerms":2},"loc":3}

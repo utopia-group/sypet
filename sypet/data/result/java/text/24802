@@ -1,0 +1,1 @@
+{"id":24802,"className":"java.text.MessageFormat","methodName":"equals","signature":"\u003cjava.text.MessageFormat: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * Equality comparison between two message format objects\n */\n","tf":{"freq":{"two":1,"messag":1,"equal":2,"object":1,"format":1,"comparison":1},"maxFreq":2,"totalTerms":7},"loc":14}

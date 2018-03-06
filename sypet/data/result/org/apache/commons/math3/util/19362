@@ -1,0 +1,1 @@
+{"id":19362,"className":"org.apache.commons.math3.util.Decimal64","methodName":"multiply","signature":"\u003corg.apache.commons.math3.util.Decimal64: org.apache.commons.math3.util.Decimal64 multiply(double)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 3.2\n */\n","tf":{"freq":{"multipli":1},"maxFreq":1,"totalTerms":1},"loc":3}

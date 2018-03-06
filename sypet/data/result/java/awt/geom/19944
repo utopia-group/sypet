@@ -1,0 +1,1 @@
+{"id":19944,"className":"java.awt.geom.QuadCurve2D$Double","methodName":"setCurve","signature":"\u003cjava.awt.geom.QuadCurve2D$Double: void setCurve(double,double,double,double,double,double)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"curv":1},"maxFreq":1,"totalTerms":1},"loc":8}

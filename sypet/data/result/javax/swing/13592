@@ -1,0 +1,1 @@
+{"id":13592,"className":"javax.swing.JMenuItem","methodName":"setModel","signature":"\u003cjavax.swing.JMenuItem: void setModel(javax.swing.ButtonModel)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"model":1},"maxFreq":1,"totalTerms":1},"loc":6}

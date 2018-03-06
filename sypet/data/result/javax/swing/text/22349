@@ -1,0 +1,1 @@
+{"id":22349,"className":"javax.swing.text.Segment","methodName":"clone","signature":"\u003cjavax.swing.text.Segment: java.lang.Object clone()\u003e","javadoc":"/** \n * Creates a shallow copy.\n * @return the copy\n */\n","tf":{"freq":{"clone":1,"shallow":1,"creat":1,"copi":2},"maxFreq":2,"totalTerms":5},"loc":9}

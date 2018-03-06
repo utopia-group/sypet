@@ -1,0 +1,1 @@
+{"id":10833,"className":"org.w3c.dom.css.CSSValue","methodName":"getCssValueType","signature":"\u003corg.w3c.dom.css.CSSValue: short getCssValueType()\u003e","javadoc":"/** \n * A code defining the type of the value as defined above.\n */\n","tf":{"freq":{"defin":2,"valu":2,"type":2,"css":1},"maxFreq":2,"totalTerms":7},"loc":0}

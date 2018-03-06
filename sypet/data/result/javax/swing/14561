@@ -1,0 +1,1 @@
+{"id":14561,"className":"javax.swing.SwingWorker","methodName":"isDone","signature":"\u003cjavax.swing.SwingWorker: boolean isDone()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"done":1},"maxFreq":1,"totalTerms":1},"loc":3}

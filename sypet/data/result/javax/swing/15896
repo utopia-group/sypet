@@ -1,0 +1,1 @@
+{"id":15896,"className":"javax.swing.GroupLayout$SequentialGroup","methodName":"addGap","signature":"\u003cjavax.swing.GroupLayout$SequentialGroup: javax.swing.GroupLayout$SequentialGroup addGap(int,int,int)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"add":1,"gap":1},"maxFreq":1,"totalTerms":2},"loc":3}

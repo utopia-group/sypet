@@ -1,0 +1,1 @@
+{"id":13034,"className":"org.joda.time.LocalDate","methodName":"getYearOfCentury","signature":"\u003corg.joda.time.LocalDate: int getYearOfCentury()\u003e","javadoc":"/** \n * Get the year of century field value.\n * @return the year of century\n */\n","tf":{"freq":{"field":1,"centuri":3,"valu":1,"year":3},"maxFreq":3,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":18621,"className":"java.awt.image.ComponentSampleModel","methodName":"getBandOffsets","signature":"\u003cjava.awt.image.ComponentSampleModel: int[] getBandOffsets()\u003e","javadoc":"/** \n * Returns the band offset for all bands.\n * @return the band offsets for all bands.\n */\n","tf":{"freq":{"band":5,"offset":3},"maxFreq":5,"totalTerms":8},"loc":3}

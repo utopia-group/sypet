@@ -1,0 +1,1 @@
+{"id":24820,"className":"java.text.Bidi","methodName":"baseIsLeftToRight","signature":"\u003cjava.text.Bidi: boolean baseIsLeftToRight()\u003e","javadoc":"/** \n * Return true if the base direction is left-to-right.\n * @return true if the base direction is left-to-right\n */\n","tf":{"freq":{"direct":2,"base":3,"true":2,"left":3,"right":3},"maxFreq":3,"totalTerms":13},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11328,"className":"java.io.CharArrayWriter","methodName":"CharArrayWriter","signature":"\u003cjava.io.CharArrayWriter: void CharArrayWriter()\u003e","javadoc":"/** \n * Creates a new CharArrayWriter.\n */\n","tf":{"freq":{"creat":1,"writer":2,"array":2},"maxFreq":2,"totalTerms":5},"loc":3}

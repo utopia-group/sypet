@@ -1,0 +1,1 @@
+{"id":23913,"className":"java.util.jar.JavaUtilJarAccessImpl","methodName":"jarFileHasClassPathAttribute","signature":"\u003cjava.util.jar.JavaUtilJarAccessImpl: boolean jarFileHasClassPathAttribute(java.util.jar.JarFile)\u003e","loc":3}

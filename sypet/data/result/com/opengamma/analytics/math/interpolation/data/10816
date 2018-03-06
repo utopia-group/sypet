@@ -1,0 +1,1 @@
+{"id":10816,"className":"com.opengamma.analytics.math.interpolation.data.Interpolator1DMonotonicIncreasingDataBundle","methodName":"getB","signature":"\u003ccom.opengamma.analytics.math.interpolation.data.Interpolator1DMonotonicIncreasingDataBundle: double getB(int)\u003e","loc":3}

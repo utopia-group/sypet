@@ -1,0 +1,1 @@
+{"id":26708,"className":"javax.xml.ws.BindingProvider","methodName":"getBinding","signature":"\u003cjavax.xml.ws.BindingProvider: javax.xml.ws.Binding getBinding()\u003e","javadoc":"/** \n * Get the Binding for this binding provider.\n * @return The Binding for this binding provider.\n */\n","tf":{"freq":{"provid":2,"bind":5},"maxFreq":5,"totalTerms":7},"loc":0}

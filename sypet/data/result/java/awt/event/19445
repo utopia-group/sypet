@@ -1,0 +1,1 @@
+{"id":19445,"className":"java.awt.event.ContainerListener","methodName":"componentAdded","signature":"\u003cjava.awt.event.ContainerListener: void componentAdded(java.awt.event.ContainerEvent)\u003e","javadoc":"/** \n * Invoked when a component has been added to the container.\n */\n","tf":{"freq":{"compon":2,"invok":1,"contain":1,"ad":2},"maxFreq":2,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":25016,"className":"org.apache.commons.math.util.BigReal","methodName":"getScale","signature":"\u003corg.apache.commons.math.util.BigReal: int getScale()\u003e","javadoc":"/** \n * Sets the scale for division operations. The default is 64\n * @return the scale\n * @since 2.1\n */\n","tf":{"freq":{"scale":3,"oper":1,"divis":1},"maxFreq":3,"totalTerms":5},"loc":3}

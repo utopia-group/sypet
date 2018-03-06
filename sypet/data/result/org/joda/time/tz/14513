@@ -1,0 +1,1 @@
+{"id":14513,"className":"org.joda.time.tz.DateTimeZoneBuilder$RuleSet","methodName":"getUpperLimit","signature":"\u003corg.joda.time.tz.DateTimeZoneBuilder$RuleSet: long getUpperLimit(int)\u003e","javadoc":"/** \n * @param saveMillis savings before upper limit\n */\n","tf":{"freq":{"limit":2,"upper":2,"save":2,"milli":1},"maxFreq":2,"totalTerms":7},"loc":6}

@@ -1,0 +1,1 @@
+{"id":14534,"className":"org.joda.time.tz.FixedDateTimeZone","methodName":"getOffset","signature":"\u003corg.joda.time.tz.FixedDateTimeZone: int getOffset(long)\u003e","loc":3}

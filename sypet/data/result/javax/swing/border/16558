@@ -1,0 +1,1 @@
+{"id":16558,"className":"javax.swing.border.BevelBorder","methodName":"getBevelType","signature":"\u003cjavax.swing.border.BevelBorder: int getBevelType()\u003e","javadoc":"/** \n * Returns the type of the bevel border.\n */\n","tf":{"freq":{"border":1,"type":2,"bevel":2},"maxFreq":2,"totalTerms":5},"loc":3}

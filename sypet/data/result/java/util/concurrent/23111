@@ -1,0 +1,1 @@
+{"id":23111,"className":"java.util.concurrent.LinkedBlockingDeque","methodName":"offerLast","signature":"\u003cjava.util.concurrent.LinkedBlockingDeque: boolean offerLast(E)\u003e","javadoc":"/** \n * @throws NullPointerException {@inheritDoc}\n */\n","tf":{"freq":{"except":1,"last":1,"pointer":1,"offer":1},"maxFreq":1,"totalTerms":4},"loc":11}

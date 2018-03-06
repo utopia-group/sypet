@@ -1,0 +1,1 @@
+{"id":13156,"className":"org.joda.time.MutableDateTime","methodName":"hourOfDay","signature":"\u003corg.joda.time.MutableDateTime: org.joda.time.MutableDateTime$Property hourOfDay()\u003e","javadoc":"/** \n * Get the hour of day field property\n * @return the hour of day property\n */\n","tf":{"freq":{"field":1,"properti":2,"day":3,"hour":3},"maxFreq":3,"totalTerms":9},"loc":3}

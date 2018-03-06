@@ -1,0 +1,1 @@
+{"id":22518,"className":"java.util.concurrent.ConcurrentSkipListMap$SubMap","methodName":"pollFirstEntry","signature":"\u003cjava.util.concurrent.ConcurrentSkipListMap$SubMap: java.util.Map$Entry\u003cK,V\u003e pollFirstEntry()\u003e","loc":3}

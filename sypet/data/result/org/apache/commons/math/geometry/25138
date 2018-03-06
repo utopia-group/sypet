@@ -1,0 +1,1 @@
+{"id":25138,"className":"org.apache.commons.math.geometry.Vector3D","methodName":"getX","signature":"\u003corg.apache.commons.math.geometry.Vector3D: double getX()\u003e","javadoc":"/** \n * Get the abscissa of the vector.\n * @return abscissa of the vector\n * @see #Vector3D(double,double,double)\n */\n","tf":{"freq":{"abscissa":2,"vector":3},"maxFreq":3,"totalTerms":5},"loc":3}

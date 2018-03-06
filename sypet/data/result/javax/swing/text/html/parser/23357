@@ -1,0 +1,1 @@
+{"id":23357,"className":"javax.swing.text.html.parser.Element","methodName":"toString","signature":"\u003cjavax.swing.text.html.parser.Element: java.lang.String toString()\u003e","javadoc":"/** \n * Convert to a string.\n */\n","tf":{"freq":{"string":2,"convert":1},"maxFreq":2,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":16381,"className":"java.awt.Point","methodName":"getY","signature":"\u003cjava.awt.Point: double getY()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","loc":3}

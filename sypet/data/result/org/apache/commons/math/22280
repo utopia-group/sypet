@@ -1,0 +1,1 @@
+{"id":22280,"className":"org.apache.commons.math.ConvergingAlgorithmImpl","methodName":"setAbsoluteAccuracy","signature":"\u003corg.apache.commons.math.ConvergingAlgorithmImpl: void setAbsoluteAccuracy(double)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"absolut":1,"accuraci":1},"maxFreq":1,"totalTerms":2},"loc":3}

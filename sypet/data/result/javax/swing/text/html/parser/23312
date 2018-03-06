@@ -1,0 +1,1 @@
+{"id":23312,"className":"javax.swing.text.html.parser.AttributeList","methodName":"getValues","signature":"\u003cjavax.swing.text.html.parser.AttributeList: java.util.Enumeration\u003c?\u003e getValues()\u003e","javadoc":"/** \n * @return possible attribute values\n */\n","tf":{"freq":{"attribut":1,"possibl":1,"valu":2},"maxFreq":2,"totalTerms":4},"loc":3}

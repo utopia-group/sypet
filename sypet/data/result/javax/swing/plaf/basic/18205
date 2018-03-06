@@ -1,0 +1,1 @@
+{"id":18205,"className":"javax.swing.plaf.basic.BasicScrollBarUI","methodName":"uninstallUI","signature":"\u003cjavax.swing.plaf.basic.BasicScrollBarUI: void uninstallUI(javax.swing.JComponent)\u003e","loc":11}

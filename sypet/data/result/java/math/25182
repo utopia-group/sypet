@@ -1,0 +1,1 @@
+{"id":25182,"className":"java.math.MathContext","methodName":"hashCode","signature":"\u003cjava.math.MathContext: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code for this  {@code MathContext}.\n * @return hash code for this {@code MathContext}\n */\n","tf":{"freq":{"math":2,"hash":3,"context":2},"maxFreq":3,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":21597,"className":"org.apache.commons.math3.linear.RealVectorFormat","methodName":"getFormat","signature":"\u003corg.apache.commons.math3.linear.RealVectorFormat: java.text.NumberFormat getFormat()\u003e","javadoc":"/** \n * Get the components format.\n * @return components format.\n */\n","tf":{"freq":{"compon":2,"format":3},"maxFreq":3,"totalTerms":5},"loc":3}

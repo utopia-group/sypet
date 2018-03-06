@@ -1,0 +1,1 @@
+{"id":24604,"className":"java.text.FieldPosition","methodName":"setBeginIndex","signature":"\u003cjava.text.FieldPosition: void setBeginIndex(int)\u003e","javadoc":"/** \n * Sets the begin index.  For use by subclasses of Format.\n * @since 1.2\n */\n","tf":{"freq":{"index":2,"subclass":1,"use":1,"format":1,"begin":2},"maxFreq":2,"totalTerms":7},"loc":3}

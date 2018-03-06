@@ -1,0 +1,1 @@
+{"id":16989,"className":"org.apache.commons.math3.analysis.function.Constant","methodName":"Constant","signature":"\u003corg.apache.commons.math3.analysis.function.Constant: void Constant(double)\u003e","javadoc":"/** \n * @param c Constant.\n */\n","tf":{"freq":{"constant":2},"maxFreq":2,"totalTerms":2},"loc":3}

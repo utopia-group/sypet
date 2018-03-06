@@ -1,0 +1,1 @@
+{"id":21359,"className":"javax.swing.text.StyledEditorKit","methodName":"clone","signature":"\u003cjavax.swing.text.StyledEditorKit: java.lang.Object clone()\u003e","javadoc":"/** \n * Creates a copy of the editor kit.\n * @return the copy\n */\n","tf":{"freq":{"clone":1,"editor":1,"creat":1,"kit":1,"copi":2},"maxFreq":2,"totalTerms":6},"loc":7}

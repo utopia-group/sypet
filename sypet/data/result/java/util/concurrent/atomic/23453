@@ -1,0 +1,1 @@
+{"id":23453,"className":"java.util.concurrent.atomic.AtomicReference","methodName":"AtomicReference","signature":"\u003cjava.util.concurrent.atomic.AtomicReference: void AtomicReference()\u003e","javadoc":"/** \n * Creates a new AtomicReference with null initial value.\n */\n","tf":{"freq":{"atom":2,"creat":1,"refer":2,"valu":1,"initi":1},"maxFreq":2,"totalTerms":7},"loc":2}

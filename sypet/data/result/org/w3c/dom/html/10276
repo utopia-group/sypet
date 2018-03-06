@@ -1,0 +1,1 @@
+{"id":10276,"className":"org.w3c.dom.html.HTMLTextAreaElement","methodName":"getRows","signature":"\u003corg.w3c.dom.html.HTMLTextAreaElement: int getRows()\u003e","javadoc":"/** \n * Number of text rows. See the  rows attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"text":1,"attribut":1,"definit":1,"number":1,"row":3},"maxFreq":3,"totalTerms":7},"loc":0}

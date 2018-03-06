@@ -1,0 +1,1 @@
+{"id":10364,"className":"org.w3c.dom.html.HTMLAnchorElement","methodName":"getRel","signature":"\u003corg.w3c.dom.html.HTMLAnchorElement: java.lang.String getRel()\u003e","javadoc":"/** \n * Forward link type. See the  rel attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"attribut":1,"forward":1,"definit":1,"link":1,"rel":2,"type":1},"maxFreq":2,"totalTerms":7},"loc":0}

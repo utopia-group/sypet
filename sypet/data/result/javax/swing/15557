@@ -1,0 +1,1 @@
+{"id":15557,"className":"javax.swing.JComboBox$AccessibleJComboBox","methodName":"AccessibleJComboBox","signature":"\u003cjavax.swing.JComboBox$AccessibleJComboBox: void AccessibleJComboBox()\u003e","javadoc":"/** \n * Returns an AccessibleJComboBox instance\n * @since 1.4\n */\n","tf":{"freq":{"jcombo":2,"box":2,"access":2,"instanc":1},"maxFreq":2,"totalTerms":7},"loc":17}

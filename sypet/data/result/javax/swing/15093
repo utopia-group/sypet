@@ -1,0 +1,1 @@
+{"id":15093,"className":"javax.swing.ListSelectionModel","methodName":"isSelectedIndex","signature":"\u003cjavax.swing.ListSelectionModel: boolean isSelectedIndex(int)\u003e","javadoc":"/** \n * Returns true if the specified index is selected.\n */\n","tf":{"freq":{"index":2,"select":2,"true":1,"specifi":1},"maxFreq":2,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":13990,"className":"org.joda.time.field.MillisDurationField","methodName":"isSupported","signature":"\u003corg.joda.time.field.MillisDurationField: boolean isSupported()\u003e","javadoc":"/** \n * Returns true as this field is supported.\n * @return true always\n */\n","tf":{"freq":{"field":1,"support":2,"alway":1,"true":2},"maxFreq":2,"totalTerms":6},"loc":3}

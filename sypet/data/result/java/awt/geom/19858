@@ -1,0 +1,1 @@
+{"id":19858,"className":"java.awt.geom.CubicCurve2D$Float","methodName":"getCtrlP2","signature":"\u003cjava.awt.geom.CubicCurve2D$Float: java.awt.geom.Point2D getCtrlP2()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"ctrl":1},"maxFreq":1,"totalTerms":1},"loc":3}

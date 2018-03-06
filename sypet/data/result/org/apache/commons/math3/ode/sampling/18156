@@ -1,0 +1,1 @@
+{"id":18156,"className":"org.apache.commons.math3.ode.sampling.AbstractStepInterpolator","methodName":"getInterpolatedDerivatives","signature":"\u003corg.apache.commons.math3.ode.sampling.AbstractStepInterpolator: double[] getInterpolatedDerivatives()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"deriv":1,"interpol":1},"maxFreq":1,"totalTerms":2},"loc":6}

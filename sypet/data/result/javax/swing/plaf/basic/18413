@@ -1,0 +1,1 @@
+{"id":18413,"className":"javax.swing.plaf.basic.BasicTreeUI$Handler","methodName":"treeNodesRemoved","signature":"\u003cjavax.swing.plaf.basic.BasicTreeUI$Handler: void treeNodesRemoved(javax.swing.event.TreeModelEvent)\u003e","loc":13}

@@ -1,0 +1,1 @@
+{"id":25010,"className":"java.text.NumberFormat","methodName":"getCurrencyInstance","signature":"\u003cjava.text.NumberFormat: java.text.NumberFormat getCurrencyInstance()\u003e","javadoc":"/** \n * Returns a currency format for the current default locale.\n */\n","tf":{"freq":{"current":1,"currenc":2,"local":1,"format":1,"instanc":1},"maxFreq":2,"totalTerms":6},"loc":3}

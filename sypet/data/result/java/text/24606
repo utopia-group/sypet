@@ -1,0 +1,1 @@
+{"id":24606,"className":"java.text.FieldPosition","methodName":"equals","signature":"\u003cjava.text.FieldPosition: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * Overrides equals\n */\n","tf":{"freq":{"equal":2},"maxFreq":2,"totalTerms":2},"loc":17}

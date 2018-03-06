@@ -1,0 +1,1 @@
+{"id":19765,"className":"javax.swing.plaf.metal.MetalTheme","methodName":"getWindowTitleFont","signature":"\u003cjavax.swing.plaf.metal.MetalTheme: javax.swing.plaf.FontUIResource getWindowTitleFont()\u003e","javadoc":"/** \n * Returns the window title font.\n * @return the window title font\n */\n","tf":{"freq":{"window":3,"font":3,"titl":3},"maxFreq":3,"totalTerms":9},"loc":0}

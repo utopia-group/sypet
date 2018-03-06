@@ -1,0 +1,1 @@
+{"id":15428,"className":"javax.swing.DebugGraphics","methodName":"fillOval","signature":"\u003cjavax.swing.DebugGraphics: void fillOval(int,int,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.fillOval\u003c/code\u003e.\n */\n","tf":{"freq":{"graphic":1,"fill":2,"oval":2},"maxFreq":2,"totalTerms":5},"loc":29}

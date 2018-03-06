@@ -1,0 +1,1 @@
+{"id":27402,"className":"org.jsoup.helper.DescendableLinkedList","methodName":"push","signature":"\u003corg.jsoup.helper.DescendableLinkedList: void push(E)\u003e","javadoc":"/** \n * Add a new element to the start of the list.\n * @param e element to add\n */\n","tf":{"freq":{"element":2,"start":1,"list":1,"add":2,"push":1},"maxFreq":2,"totalTerms":7},"loc":3}

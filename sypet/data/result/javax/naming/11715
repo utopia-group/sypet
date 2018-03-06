@@ -1,0 +1,1 @@
+{"id":11715,"className":"javax.naming.NamingException","methodName":"NamingException","signature":"\u003cjavax.naming.NamingException: void NamingException()\u003e","javadoc":"/** \n * Constructs a new NamingException. All fields are set to null.\n */\n","tf":{"freq":{"field":1,"except":2,"name":2,"construct":1},"maxFreq":2,"totalTerms":6},"loc":5}

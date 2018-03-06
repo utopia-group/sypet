@@ -1,0 +1,1 @@
+{"id":16958,"className":"java.awt.Component$DummyRequestFocusController","methodName":"acceptRequestFocus","signature":"\u003cjava.awt.Component$DummyRequestFocusController: boolean acceptRequestFocus(java.awt.Component,java.awt.Component,boolean,boolean,sun.awt.CausedFocusEvent$Cause)\u003e","loc":3}

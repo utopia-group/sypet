@@ -1,0 +1,1 @@
+{"id":26668,"className":"javax.xml.ws.RespectBindingFeature","methodName":"getID","signature":"\u003cjavax.xml.ws.RespectBindingFeature: java.lang.String getID()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","loc":3}

@@ -1,0 +1,1 @@
+{"id":22821,"className":"javax.swing.text.html.ImageView","methodName":"getImageURL","signature":"\u003cjavax.swing.text.html.ImageView: java.net.URL getImageURL()\u003e","javadoc":"/** \n * Return a URL for the image source, or null if it could not be determined.\n */\n","tf":{"freq":{"determin":1,"sourc":1,"imag":2},"maxFreq":2,"totalTerms":4},"loc":15}

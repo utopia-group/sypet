@@ -1,0 +1,1 @@
+{"id":26463,"className":"org.apache.commons.math.linear.AbstractRealVector$SparseEntryIterator","methodName":"hasNext","signature":"\u003corg.apache.commons.math.linear.AbstractRealVector$SparseEntryIterator: boolean hasNext()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"next":1},"maxFreq":1,"totalTerms":1},"loc":3}

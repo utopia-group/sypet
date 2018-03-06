@@ -1,0 +1,1 @@
+{"id":16786,"className":"java.awt.Component","methodName":"show","signature":"\u003cjava.awt.Component: void show()\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by \u003ccode\u003esetVisible(boolean)\u003c/code\u003e.\n */\n","tf":{"freq":{"deprec":1,"visibl":1,"replac":1,"show":1,"version":1},"maxFreq":1,"totalTerms":5},"loc":32}

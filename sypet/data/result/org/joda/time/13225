@@ -1,0 +1,1 @@
+{"id":13225,"className":"org.joda.time.LocalTime","methodName":"getSecondOfMinute","signature":"\u003corg.joda.time.LocalTime: int getSecondOfMinute()\u003e","javadoc":"/** \n * Get the second of minute field value.\n * @return the second of minute\n */\n","tf":{"freq":{"field":1,"minut":3,"second":3,"valu":1},"maxFreq":3,"totalTerms":8},"loc":3}

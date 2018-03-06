@@ -1,0 +1,1 @@
+{"id":13981,"className":"java.lang.Short","methodName":"intValue","signature":"\u003cjava.lang.Short: int intValue()\u003e","javadoc":"/** \n * Returns the value of this  {@code Short} as an{@code int}.\n */\n","tf":{"freq":{"valu":2},"maxFreq":2,"totalTerms":2},"loc":3}

@@ -1,0 +1,1 @@
+{"id":15429,"className":"org.apache.commons.math3.RealFieldElement","methodName":"exp","signature":"\u003corg.apache.commons.math3.RealFieldElement: T exp()\u003e","javadoc":"/** \n * Exponential.\n * @return exponential of the instance\n */\n","tf":{"freq":{"exp":1,"exponenti":2,"instanc":1},"maxFreq":2,"totalTerms":4},"loc":0}

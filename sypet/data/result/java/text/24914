@@ -1,0 +1,1 @@
+{"id":24914,"className":"java.text.ChoiceFormat","methodName":"getLimits","signature":"\u003cjava.text.ChoiceFormat: double[] getLimits()\u003e","javadoc":"/** \n * Get the limits passed in the constructor.\n * @return the limits.\n */\n","tf":{"freq":{"limit":3,"constructor":1,"pass":1},"maxFreq":3,"totalTerms":5},"loc":3}

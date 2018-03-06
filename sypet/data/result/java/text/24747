@@ -1,0 +1,1 @@
+{"id":24747,"className":"java.text.StringCharacterIterator","methodName":"current","signature":"\u003cjava.text.StringCharacterIterator: char current()\u003e","javadoc":"/** \n * Implements CharacterIterator.current() for String.\n * @see CharacterIterator#current\n */\n","tf":{"freq":{"charact":2,"string":1,"current":3,"iter":2},"maxFreq":3,"totalTerms":8},"loc":8}

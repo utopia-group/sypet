@@ -1,0 +1,1 @@
+{"id":25332,"className":"java.security.ProtectionDomain","methodName":"toString","signature":"\u003cjava.security.ProtectionDomain: java.lang.String toString()\u003e","javadoc":"/** \n * Convert a ProtectionDomain to a String.\n */\n","tf":{"freq":{"string":2,"domain":1,"convert":1},"maxFreq":2,"totalTerms":4},"loc":29}

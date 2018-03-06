@@ -1,0 +1,1 @@
+{"id":18199,"className":"javax.swing.plaf.basic.BasicToolTipUI","methodName":"getPreferredSize","signature":"\u003cjavax.swing.plaf.basic.BasicToolTipUI: java.awt.Dimension getPreferredSize(javax.swing.JComponent)\u003e","loc":24}

@@ -1,0 +1,1 @@
+{"id":10619,"className":"javax.management.relation.RelationSupport","methodName":"setRelationServiceManagementFlag","signature":"\u003cjavax.management.relation.RelationSupport: void setRelationServiceManagementFlag(java.lang.Boolean)\u003e","loc":8}

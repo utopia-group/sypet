@@ -1,0 +1,1 @@
+{"id":21093,"className":"java.util.TreeMap.AscendingSubMap$AscendingEntrySetView","methodName":"iterator","signature":"\u003cjava.util.TreeMap.AscendingSubMap$AscendingEntrySetView: java.util.Iterator\u003cjava.util.Map.Entry\u003cK,V\u003e\u003e iterator()\u003e","loc":3}

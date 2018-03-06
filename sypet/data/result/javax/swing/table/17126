@@ -1,0 +1,1 @@
+{"id":17126,"className":"javax.swing.table.DefaultTableColumnModel","methodName":"DefaultTableColumnModel","signature":"\u003cjavax.swing.table.DefaultTableColumnModel: void DefaultTableColumnModel()\u003e","javadoc":"/** \n * Creates a default table column model.\n */\n","tf":{"freq":{"model":2,"creat":1,"tabl":2,"column":2},"maxFreq":2,"totalTerms":7},"loc":10}

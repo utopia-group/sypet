@@ -1,0 +1,1 @@
+{"id":17709,"className":"java.awt.datatransfer.MimeTypeParameterList","methodName":"clone","signature":"\u003cjava.awt.datatransfer.MimeTypeParameterList: java.lang.Object clone()\u003e","javadoc":"/** \n * @return a clone of this object\n */\n","tf":{"freq":{"clone":2,"object":1},"maxFreq":2,"totalTerms":3},"loc":9}

@@ -1,0 +1,1 @@
+{"id":23269,"className":"javax.swing.text.html.StyleSheet$SelectorMapping","methodName":"getSpecificity","signature":"\u003cjavax.swing.text.html.StyleSheet$SelectorMapping: int getSpecificity()\u003e","javadoc":"/** \n * Returns the specificity this mapping represents.\n */\n","tf":{"freq":{"specif":2,"repres":1,"map":1},"maxFreq":2,"totalTerms":4},"loc":3}

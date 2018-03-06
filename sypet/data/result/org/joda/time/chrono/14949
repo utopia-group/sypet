@@ -1,0 +1,1 @@
+{"id":14949,"className":"org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField","methodName":"getMaximumValue","signature":"\u003corg.joda.time.chrono.BasicWeekOfWeekyearDateTimeField: int getMaximumValue(org.joda.time.ReadablePartial,int[])\u003e","loc":10}

@@ -1,0 +1,1 @@
+{"id":12621,"className":"javax.swing.JScrollBar","methodName":"getValue","signature":"\u003cjavax.swing.JScrollBar: int getValue()\u003e","javadoc":"/** \n * Returns the scrollbar\u0027s value.\n * @return the model\u0027s value property\n * @see #setValue\n */\n","tf":{"freq":{"model":1,"scrollbar":1,"valu":4,"properti":1},"maxFreq":4,"totalTerms":7},"loc":3}

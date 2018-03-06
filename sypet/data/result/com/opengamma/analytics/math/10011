@@ -1,0 +1,1 @@
+{"id":10011,"className":"com.opengamma.analytics.math.ComplexMathUtils","methodName":"inverse","signature":"\u003ccom.opengamma.analytics.math.ComplexMathUtils: com.opengamma.analytics.math.number.ComplexNumber inverse(com.opengamma.analytics.math.number.ComplexNumber)\u003e","loc":13}

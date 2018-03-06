@@ -1,0 +1,1 @@
+{"id":24572,"className":"org.apache.commons.math.stat.descriptive.moment.Mean","methodName":"getN","signature":"\u003corg.apache.commons.math.stat.descriptive.moment.Mean: long getN()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","loc":3}

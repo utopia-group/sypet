@@ -1,0 +1,1 @@
+{"id":17061,"className":"javax.swing.filechooser.UnixFileSystemView","methodName":"isFileSystemRoot","signature":"\u003cjavax.swing.filechooser.UnixFileSystemView: boolean isFileSystemRoot(java.io.File)\u003e","loc":3}

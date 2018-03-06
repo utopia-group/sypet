@@ -1,0 +1,1 @@
+{"id":10981,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getListStylePosition","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getListStylePosition()\u003e","javadoc":"/** \n * See the list-style-position property definition in CSS2.\n */\n","tf":{"freq":{"style":2,"definit":1,"list":2,"properti":1,"posit":2},"maxFreq":2,"totalTerms":8},"loc":0}

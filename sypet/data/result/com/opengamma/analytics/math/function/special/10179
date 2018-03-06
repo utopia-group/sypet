@@ -1,0 +1,1 @@
+{"id":10179,"className":"com.opengamma.analytics.math.function.special.JacobiPolynomialFunction","methodName":"getPolynomials","signature":"\u003ccom.opengamma.analytics.math.function.special.JacobiPolynomialFunction: com.opengamma.analytics.math.function.DoubleFunction1D[] getPolynomials(int,double,double)\u003e","loc":16}

@@ -1,0 +1,1 @@
+{"id":10421,"className":"org.w3c.dom.html.HTMLTableElement","methodName":"deleteCaption","signature":"\u003corg.w3c.dom.html.HTMLTableElement: void deleteCaption()\u003e","javadoc":"/** \n * Delete the table caption, if one exists.\n */\n","tf":{"freq":{"delet":2,"tabl":1,"one":1,"caption":2,"exist":1},"maxFreq":2,"totalTerms":7},"loc":0}

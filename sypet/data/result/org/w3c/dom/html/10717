@@ -1,0 +1,1 @@
+{"id":10717,"className":"org.w3c.dom.html.HTMLCollection","methodName":"getLength","signature":"\u003corg.w3c.dom.html.HTMLCollection: int getLength()\u003e","javadoc":"/** \n * This attribute specifies the length or  size of the list.\n */\n","tf":{"freq":{"attribut":1,"length":2,"list":1,"size":1,"specifi":1},"maxFreq":2,"totalTerms":6},"loc":0}

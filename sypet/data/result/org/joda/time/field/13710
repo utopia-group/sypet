@@ -1,0 +1,1 @@
+{"id":13710,"className":"org.joda.time.field.DelegatedDateTimeField","methodName":"isLeap","signature":"\u003corg.joda.time.field.DelegatedDateTimeField: boolean isLeap(long)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":21278,"className":"javax.swing.text.JTextComponent$DefaultTransferHandler","methodName":"exportToClipboard","signature":"\u003cjavax.swing.text.JTextComponent$DefaultTransferHandler: void exportToClipboard(javax.swing.JComponent,java.awt.datatransfer.Clipboard,int)\u003e","loc":23}

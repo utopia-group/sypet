@@ -1,0 +1,1 @@
+{"id":11864,"className":"java.io.ObjectOutputStream$BlockDataOutputStream","methodName":"writeDouble","signature":"\u003cjava.io.ObjectOutputStream$BlockDataOutputStream: void writeDouble(double)\u003e","loc":8}

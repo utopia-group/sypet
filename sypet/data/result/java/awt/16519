@@ -1,0 +1,1 @@
+{"id":16519,"className":"java.awt.WaitDispatchSupport","methodName":"exit","signature":"\u003cjava.awt.WaitDispatchSupport: boolean exit()\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"exit":1},"maxFreq":1,"totalTerms":1},"loc":9}

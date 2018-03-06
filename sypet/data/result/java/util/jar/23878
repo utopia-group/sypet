@@ -1,0 +1,1 @@
+{"id":23878,"className":"java.util.jar.Manifest","methodName":"hashCode","signature":"\u003cjava.util.jar.Manifest: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code for this Manifest.\n */\n","tf":{"freq":{"hash":2,"manifest":1},"maxFreq":2,"totalTerms":3},"loc":3}

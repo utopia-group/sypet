@@ -1,0 +1,1 @@
+{"id":14443,"className":"org.joda.time.tz.ZoneInfoCompiler$DateTimeOfYear","methodName":"addCutover","signature":"\u003corg.joda.time.tz.ZoneInfoCompiler$DateTimeOfYear: void addCutover(org.joda.time.tz.DateTimeZoneBuilder,int)\u003e","javadoc":"/** \n * Adds a cutover to the builder.\n */\n","tf":{"freq":{"builder":1,"cutov":2,"add":2},"maxFreq":2,"totalTerms":5},"loc":9}

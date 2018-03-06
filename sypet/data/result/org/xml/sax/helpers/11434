@@ -1,0 +1,1 @@
+{"id":11434,"className":"org.xml.sax.helpers.XMLFilterImpl","methodName":"setDTDHandler","signature":"\u003corg.xml.sax.helpers.XMLFilterImpl: void setDTDHandler(org.xml.sax.DTDHandler)\u003e","javadoc":"/** \n * Set the DTD event handler.\n * @param handler the new DTD handler\n */\n","tf":{"freq":{"event":1,"dhandler":1,"handler":3},"maxFreq":3,"totalTerms":5},"loc":3}

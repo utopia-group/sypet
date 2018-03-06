@@ -1,0 +1,1 @@
+{"id":10190,"className":"org.w3c.dom.events.Event","methodName":"getType","signature":"\u003corg.w3c.dom.events.Event: java.lang.String getType()\u003e","javadoc":"/** \n * The name of the event (case-insensitive). The name must be an XML name.\n */\n","tf":{"freq":{"insensit":1,"event":1,"name":3,"type":1,"must":1},"maxFreq":3,"totalTerms":7},"loc":0}

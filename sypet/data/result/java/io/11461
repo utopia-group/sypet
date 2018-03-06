@@ -1,0 +1,1 @@
+{"id":11461,"className":"java.io.ObjectStreamField","methodName":"toString","signature":"\u003cjava.io.ObjectStreamField: java.lang.String toString()\u003e","javadoc":"/** \n * Return a string that describes this field.\n */\n","tf":{"freq":{"field":1,"string":2,"describ":1},"maxFreq":2,"totalTerms":4},"loc":3}

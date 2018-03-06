@@ -1,0 +1,1 @@
+{"id":14798,"className":"java.nio.channels.SocketChannel","methodName":"read","signature":"\u003cjava.nio.channels.SocketChannel: long read(java.nio.ByteBuffer[],int,int)\u003e","javadoc":"/** \n * @throws NotYetConnectedException If this channel is not yet connected\n */\n","tf":{"freq":{"except":1,"connect":2,"read":1,"channel":1,"yet":2},"maxFreq":2,"totalTerms":7},"loc":0}

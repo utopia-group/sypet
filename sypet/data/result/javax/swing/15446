@@ -1,0 +1,1 @@
+{"id":15446,"className":"javax.swing.DebugGraphics","methodName":"isDrawingBuffer","signature":"\u003cjavax.swing.DebugGraphics: boolean isDrawingBuffer()\u003e","javadoc":"/** \n * Returns the drawingBuffer value.\n * @return true if this object is drawing from a Buffer\n */\n","tf":{"freq":{"buffer":3,"draw":3,"true":1,"valu":1,"object":1},"maxFreq":3,"totalTerms":9},"loc":3}

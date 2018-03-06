@@ -1,0 +1,1 @@
+{"id":24119,"className":"java.util.logging.Logger","methodName":"getName","signature":"\u003cjava.util.logging.Logger: java.lang.String getName()\u003e","javadoc":"/** \n * Get the name for this logger.\n * @return logger name.  Will be null for anonymous Loggers.\n */\n","tf":{"freq":{"anonym":1,"name":3,"will":1,"logger":3},"maxFreq":3,"totalTerms":8},"loc":3}

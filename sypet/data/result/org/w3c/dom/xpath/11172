@@ -1,0 +1,1 @@
+{"id":11172,"className":"org.w3c.dom.xpath.XPathResult","methodName":"getResultType","signature":"\u003corg.w3c.dom.xpath.XPathResult: short getResultType()\u003e","javadoc":"/** \n * A code representing the type of this result, as defined by the type constants.\n */\n","tf":{"freq":{"defin":1,"result":2,"constant":1,"repres":1,"type":3},"maxFreq":3,"totalTerms":8},"loc":0}

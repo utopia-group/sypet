@@ -1,0 +1,1 @@
+{"id":24744,"className":"java.text.StringCharacterIterator","methodName":"first","signature":"\u003cjava.text.StringCharacterIterator: char first()\u003e","javadoc":"/** \n * Implements CharacterIterator.first() for String.\n * @see CharacterIterator#first\n */\n","tf":{"freq":{"charact":2,"string":1,"iter":2,"first":3},"maxFreq":3,"totalTerms":8},"loc":4}

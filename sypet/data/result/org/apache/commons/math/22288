@@ -1,0 +1,1 @@
+{"id":22288,"className":"org.apache.commons.math.ConvergingAlgorithmImpl","methodName":"resetRelativeAccuracy","signature":"\u003corg.apache.commons.math.ConvergingAlgorithmImpl: void resetRelativeAccuracy()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"relat":1,"reset":1,"accuraci":1},"maxFreq":1,"totalTerms":3},"loc":3}

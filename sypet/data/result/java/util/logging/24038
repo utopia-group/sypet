@@ -1,0 +1,1 @@
+{"id":24038,"className":"java.util.logging.Level","methodName":"hashCode","signature":"\u003cjava.util.logging.Level: int hashCode()\u003e","javadoc":"/** \n * Generate a hashcode.\n * @return a hashcode based on the level value\n */\n","tf":{"freq":{"level":1,"hash":1,"generat":1,"base":1,"hashcod":2,"valu":1},"maxFreq":2,"totalTerms":7},"loc":3}

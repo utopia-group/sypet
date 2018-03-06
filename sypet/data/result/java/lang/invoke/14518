@@ -1,0 +1,1 @@
+{"id":14518,"className":"java.lang.invoke.MemberName","methodName":"isField","signature":"\u003cjava.lang.invoke.MemberName: boolean isField()\u003e","javadoc":"/** \n * Query whether this member is a field. \n */\n","tf":{"freq":{"member":1,"field":2,"queri":1,"whether":1},"maxFreq":2,"totalTerms":5},"loc":3}

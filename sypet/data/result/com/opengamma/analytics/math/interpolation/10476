@@ -1,0 +1,1 @@
+{"id":10476,"className":"com.opengamma.analytics.math.interpolation.DistanceCalculator","methodName":"getDistance","signature":"\u003ccom.opengamma.analytics.math.interpolation.DistanceCalculator: double getDistance(double[],double[])\u003e","loc":11}

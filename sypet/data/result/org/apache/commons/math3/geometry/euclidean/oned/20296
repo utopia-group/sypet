@@ -1,0 +1,1 @@
+{"id":20296,"className":"org.apache.commons.math3.geometry.euclidean.oned.Vector1D","methodName":"getNormInf","signature":"\u003corg.apache.commons.math3.geometry.euclidean.oned.Vector1D: double getNormInf()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"norm":1,"inf":1},"maxFreq":1,"totalTerms":2},"loc":3}

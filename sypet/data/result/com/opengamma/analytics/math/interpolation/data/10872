@@ -1,0 +1,1 @@
+{"id":10872,"className":"com.opengamma.analytics.math.interpolation.data.InterpolatorNDDataBundle","methodName":"getData","signature":"\u003ccom.opengamma.analytics.math.interpolation.data.InterpolatorNDDataBundle: java.util.List\u003ccom.opengamma.analytics.math.interpolation.data.Pair\u003e getData()\u003e","loc":3}

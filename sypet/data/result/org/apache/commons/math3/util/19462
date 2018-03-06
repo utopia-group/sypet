@@ -1,0 +1,1 @@
+{"id":19462,"className":"org.apache.commons.math3.util.FastMath","methodName":"cos","signature":"\u003corg.apache.commons.math3.util.FastMath: double cos(double)\u003e","javadoc":"/** \n * Cosine function.\n * @param x Argument.\n * @return cos(x)\n */\n","tf":{"freq":{"argument":1,"cos":2,"cosin":1,"function":1},"maxFreq":2,"totalTerms":5},"loc":47}

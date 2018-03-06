@@ -1,0 +1,1 @@
+{"id":28261,"className":"javax.security.auth.login.Configuration$ConfigDelegate","methodName":"getAppConfigurationEntry","signature":"\u003cjavax.security.auth.login.Configuration$ConfigDelegate: javax.security.auth.login.AppConfigurationEntry[] getAppConfigurationEntry(java.lang.String)\u003e","loc":3}

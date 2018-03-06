@@ -1,0 +1,1 @@
+{"id":24062,"className":"org.apache.commons.math.stat.correlation.Covariance","methodName":"Covariance","signature":"\u003corg.apache.commons.math.stat.correlation.Covariance: void Covariance()\u003e","javadoc":"/** \n * Create a Covariance with no data\n */\n","tf":{"freq":{"creat":1,"data":1,"covari":2},"maxFreq":2,"totalTerms":4},"loc":5}

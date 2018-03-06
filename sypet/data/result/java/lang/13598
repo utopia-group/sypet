@@ -1,0 +1,1 @@
+{"id":13598,"className":"java.lang.Compiler","methodName":"disable","signature":"\u003cjava.lang.Compiler: void disable()\u003e","javadoc":"/** \n * Cause the Compiler to cease operation.\n */\n","tf":{"freq":{"caus":1,"ceas":1,"disabl":1,"oper":1,"compil":1},"maxFreq":1,"totalTerms":5},"loc":0}

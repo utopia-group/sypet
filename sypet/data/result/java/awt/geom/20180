@@ -1,0 +1,1 @@
+{"id":20180,"className":"java.awt.geom.Rectangle2D$Double","methodName":"createUnion","signature":"\u003cjava.awt.geom.Rectangle2D$Double: java.awt.geom.Rectangle2D createUnion(java.awt.geom.Rectangle2D)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"creat":1,"union":1},"maxFreq":1,"totalTerms":2},"loc":5}

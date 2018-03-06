@@ -1,0 +1,1 @@
+{"id":16721,"className":"javax.swing.tree.TreeNode","methodName":"getParent","signature":"\u003cjavax.swing.tree.TreeNode: javax.swing.tree.TreeNode getParent()\u003e","javadoc":"/** \n * Returns the parent \u003ccode\u003eTreeNode\u003c/code\u003e of the receiver.\n */\n","tf":{"freq":{"node":1,"tree":1,"parent":2,"receiv":1},"maxFreq":2,"totalTerms":5},"loc":0}

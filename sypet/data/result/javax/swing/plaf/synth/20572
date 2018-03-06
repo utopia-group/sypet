@@ -1,0 +1,1 @@
+{"id":20572,"className":"javax.swing.plaf.synth.SynthMenuItemUI","methodName":"uninstallUI","signature":"\u003cjavax.swing.plaf.synth.SynthMenuItemUI: void uninstallUI(javax.swing.JComponent)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"uninstal":1},"maxFreq":1,"totalTerms":1},"loc":9}

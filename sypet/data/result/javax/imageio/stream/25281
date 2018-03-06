@@ -1,0 +1,1 @@
+{"id":25281,"className":"javax.imageio.stream.FileCacheImageInputStream$StreamDisposerRecord","methodName":"StreamDisposerRecord","signature":"\u003cjavax.imageio.stream.FileCacheImageInputStream$StreamDisposerRecord: void StreamDisposerRecord(java.io.File,java.io.RandomAccessFile)\u003e","loc":4}

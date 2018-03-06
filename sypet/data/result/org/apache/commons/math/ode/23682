@@ -1,0 +1,1 @@
+{"id":23682,"className":"org.apache.commons.math.ode.AbstractIntegrator$EndTimeChecker","methodName":"g","signature":"\u003corg.apache.commons.math.ode.AbstractIntegrator$EndTimeChecker: double g(double,double[])\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","loc":3}

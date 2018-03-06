@@ -1,0 +1,1 @@
+{"id":15296,"className":"javax.swing.JMenu","methodName":"removeAll","signature":"\u003cjavax.swing.JMenu: void removeAll()\u003e","javadoc":"/** \n * Removes all menu items from this menu.\n */\n","tf":{"freq":{"item":1,"menu":2,"remov":2},"maxFreq":2,"totalTerms":5},"loc":4}

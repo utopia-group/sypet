@@ -1,0 +1,1 @@
+{"id":27477,"className":"org.jsoup.parser.Tag","methodName":"isSelfClosing","signature":"\u003corg.jsoup.parser.Tag: boolean isSelfClosing()\u003e","javadoc":"/** \n * Get if this tag is self closing.\n * @return if this tag should be output as self closing.\n */\n","tf":{"freq":{"tag":2,"self":3,"output":1,"close":3},"maxFreq":3,"totalTerms":9},"loc":3}

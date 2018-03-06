@@ -1,0 +1,1 @@
+{"id":11445,"className":"com.opengamma.analytics.math.regression.LeastSquaresRegressionResult","methodName":"getBetas","signature":"\u003ccom.opengamma.analytics.math.regression.LeastSquaresRegressionResult: double[] getBetas()\u003e","loc":3}

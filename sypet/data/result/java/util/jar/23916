@@ -1,0 +1,1 @@
+{"id":23916,"className":"java.util.jar.JavaUtilJarAccessImpl","methodName":"entryNames","signature":"\u003cjava.util.jar.JavaUtilJarAccessImpl: java.util.Enumeration\u003cjava.lang.String\u003e entryNames(java.util.jar.JarFile,java.security.CodeSource[])\u003e","loc":3}

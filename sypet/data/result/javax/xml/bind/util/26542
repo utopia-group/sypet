@@ -1,0 +1,1 @@
+{"id":26542,"className":"javax.xml.bind.util.ValidationEventCollector","methodName":"handleEvent","signature":"\u003cjavax.xml.bind.util.ValidationEventCollector: boolean handleEvent(javax.xml.bind.ValidationEvent)\u003e","loc":23}

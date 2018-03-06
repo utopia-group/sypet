@@ -1,0 +1,1 @@
+{"id":19525,"className":"java.awt.event.InputEvent","methodName":"isShiftDown","signature":"\u003cjava.awt.event.InputEvent: boolean isShiftDown()\u003e","javadoc":"/** \n * Returns whether or not the Shift modifier is down on this event.\n */\n","tf":{"freq":{"event":1,"modifi":1,"whether":1,"shift":2},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":23096,"className":"org.apache.commons.math.optimization.univariate.BracketFinder","methodName":"getEvaluations","signature":"\u003corg.apache.commons.math.optimization.univariate.BracketFinder: int getEvaluations()\u003e","javadoc":"/** \n * @return the number of evaluations.\n */\n","tf":{"freq":{"number":1,"evalu":2},"maxFreq":2,"totalTerms":3},"loc":3}

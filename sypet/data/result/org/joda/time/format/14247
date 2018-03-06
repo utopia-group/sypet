@@ -1,0 +1,1 @@
+{"id":14247,"className":"org.joda.time.format.DateTimeFormatterBuilder$TimeZoneOffset","methodName":"estimateParsedLength","signature":"\u003corg.joda.time.format.DateTimeFormatterBuilder$TimeZoneOffset: int estimateParsedLength()\u003e","loc":3}

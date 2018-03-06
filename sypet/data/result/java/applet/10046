@@ -1,0 +1,1 @@
+{"id":10046,"className":"java.applet.AudioClip","methodName":"loop","signature":"\u003cjava.applet.AudioClip: void loop()\u003e","javadoc":"/** \n * Starts playing this audio clip in a loop.\n */\n","tf":{"freq":{"clip":1,"audio":1,"start":1,"play":1,"loop":2},"maxFreq":2,"totalTerms":6},"loc":0}

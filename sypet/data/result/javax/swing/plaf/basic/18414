@@ -1,0 +1,1 @@
+{"id":18414,"className":"javax.swing.plaf.basic.BasicTreeUI$Handler","methodName":"treeStructureChanged","signature":"\u003cjavax.swing.plaf.basic.BasicTreeUI$Handler: void treeStructureChanged(javax.swing.event.TreeModelEvent)\u003e","loc":15}

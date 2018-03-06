@@ -1,0 +1,1 @@
+{"id":23729,"className":"java.util.zip.ZipFile$ZipFileInputStream","methodName":"read","signature":"\u003cjava.util.zip.ZipFile$ZipFileInputStream: int read()\u003e","loc":8}

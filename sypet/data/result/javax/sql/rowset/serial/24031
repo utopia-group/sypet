@@ -1,0 +1,1 @@
+{"id":24031,"className":"javax.sql.rowset.serial.SerialClob","methodName":"getCharacterStream","signature":"\u003cjavax.sql.rowset.serial.SerialClob: java.io.Reader getCharacterStream(long,long)\u003e","loc":3}

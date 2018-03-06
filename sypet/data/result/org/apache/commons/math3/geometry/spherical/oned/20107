@@ -1,0 +1,1 @@
+{"id":20107,"className":"org.apache.commons.math3.geometry.spherical.oned.Arc","methodName":"getBarycenter","signature":"\u003corg.apache.commons.math3.geometry.spherical.oned.Arc: double getBarycenter()\u003e","javadoc":"/** \n * Get the barycenter of the arc.\n * @return barycenter of the arc\n */\n","tf":{"freq":{"arc":2,"barycent":3},"maxFreq":3,"totalTerms":5},"loc":3}

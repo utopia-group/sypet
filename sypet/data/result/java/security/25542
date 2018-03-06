@@ -1,0 +1,1 @@
+{"id":25542,"className":"java.security.Identity","methodName":"getPublicKey","signature":"\u003cjava.security.Identity: java.security.PublicKey getPublicKey()\u003e","javadoc":"/** \n * Returns this identity\u0027s public key.\n * @return the public key for this identity.\n * @see #setPublicKey\n */\n","tf":{"freq":{"ident":2,"key":4},"maxFreq":4,"totalTerms":6},"loc":3}

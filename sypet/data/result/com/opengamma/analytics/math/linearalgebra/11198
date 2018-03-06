@@ -1,0 +1,1 @@
+{"id":11198,"className":"com.opengamma.analytics.math.linearalgebra.SVDecompositionCommonsResult","methodName":"getSingularValues","signature":"\u003ccom.opengamma.analytics.math.linearalgebra.SVDecompositionCommonsResult: double[] getSingularValues()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"valu":1,"singular":1},"maxFreq":1,"totalTerms":2},"loc":3}

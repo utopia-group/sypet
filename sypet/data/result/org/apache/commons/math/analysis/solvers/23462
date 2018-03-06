@@ -1,0 +1,1 @@
+{"id":23462,"className":"org.apache.commons.math.analysis.solvers.RiddersSolver","methodName":"RiddersSolver","signature":"\u003corg.apache.commons.math.analysis.solvers.RiddersSolver: void RiddersSolver()\u003e","javadoc":"/** \n * Construct a solver.\n * @deprecated in 2.2\n */\n","tf":{"freq":{"deprec":1,"solver":2,"ridder":1,"construct":1},"maxFreq":2,"totalTerms":5},"loc":3}

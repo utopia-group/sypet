@@ -1,0 +1,1 @@
+{"id":13826,"className":"java.lang.ProcessBuilder$Redirect","methodName":"type","signature":"\u003cjava.lang.ProcessBuilder$Redirect: java.lang.Type type()\u003e","javadoc":"/** \n * Returns the type of this  {@code Redirect}.\n * @return the type of this {@code Redirect}\n */\n","tf":{"freq":{"redirect":2,"type":3},"maxFreq":3,"totalTerms":5},"loc":0}

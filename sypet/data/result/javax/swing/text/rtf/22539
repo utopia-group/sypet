@@ -1,0 +1,1 @@
+{"id":22539,"className":"javax.swing.text.rtf.RTFParser","methodName":"begingroup","signature":"\u003cjavax.swing.text.rtf.RTFParser: void begingroup()\u003e","javadoc":"/** \n * Implemented by subclasses to react to an increase in the nesting level. \n */\n","tf":{"freq":{"increas":1,"level":1,"begingroup":1,"nest":1,"subclass":1,"react":1},"maxFreq":1,"totalTerms":6},"loc":0}

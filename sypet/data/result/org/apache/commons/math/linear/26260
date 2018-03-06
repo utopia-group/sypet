@@ -1,0 +1,1 @@
+{"id":26260,"className":"org.apache.commons.math.linear.BlockRealMatrix","methodName":"transpose","signature":"\u003corg.apache.commons.math.linear.BlockRealMatrix: org.apache.commons.math.linear.BlockRealMatrix transpose()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"transpos":1},"maxFreq":1,"totalTerms":1},"loc":38}

@@ -1,0 +1,1 @@
+{"id":26019,"className":"javax.xml.stream.events.EndElement","methodName":"getName","signature":"\u003cjavax.xml.stream.events.EndElement: javax.xml.namespace.QName getName()\u003e","javadoc":"/** \n * Get the name of this event\n * @return the qualified name of this event\n */\n","tf":{"freq":{"event":2,"name":3,"qualifi":1},"maxFreq":3,"totalTerms":6},"loc":0}

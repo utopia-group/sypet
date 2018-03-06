@@ -1,0 +1,1 @@
+{"id":22899,"className":"javax.swing.text.html.HTMLEditorKit","methodName":"setLinkCursor","signature":"\u003cjavax.swing.text.html.HTMLEditorKit: void setLinkCursor(java.awt.Cursor)\u003e","javadoc":"/** \n * Sets the cursor to use over links.\n * @since 1.3\n */\n","tf":{"freq":{"cursor":2,"link":2,"use":1},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":19319,"className":"java.awt.peer.WindowPeer","methodName":"setOpacity","signature":"\u003cjava.awt.peer.WindowPeer: void setOpacity(float)\u003e","javadoc":"/** \n * Sets the level of opacity for the window.\n * @see Window#setOpacity(float)\n */\n","tf":{"freq":{"level":1,"window":2,"opac":3},"maxFreq":3,"totalTerms":6},"loc":0}

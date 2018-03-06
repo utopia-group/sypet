@@ -1,0 +1,1 @@
+{"id":15020,"className":"org.joda.time.chrono.BasicMonthOfYearDateTimeField","methodName":"getMinimumValue","signature":"\u003corg.joda.time.chrono.BasicMonthOfYearDateTimeField: int getMinimumValue()\u003e","loc":3}

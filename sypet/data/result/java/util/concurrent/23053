@@ -1,0 +1,1 @@
+{"id":23053,"className":"java.util.concurrent.CopyOnWriteArrayList$COWIterator","methodName":"nextIndex","signature":"\u003cjava.util.concurrent.CopyOnWriteArrayList$COWIterator: int nextIndex()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":27708,"className":"org.jcp.xml.dsig.internal.dom.DOMPGPData","methodName":"getExternalElements","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMPGPData: java.util.List getExternalElements()\u003e","loc":3}

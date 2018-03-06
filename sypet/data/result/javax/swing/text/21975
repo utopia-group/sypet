@@ -1,0 +1,1 @@
+{"id":21975,"className":"javax.swing.text.StyleContext$KeyBuilder","methodName":"addAttribute","signature":"\u003cjavax.swing.text.StyleContext$KeyBuilder: void addAttribute(java.lang.Object,java.lang.Object)\u003e","javadoc":"/** \n * Adds a key/value to the set.\n */\n","tf":{"freq":{"attribut":1,"valu":1,"add":2,"key":1},"maxFreq":2,"totalTerms":5},"loc":4}

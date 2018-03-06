@@ -1,0 +1,1 @@
+{"id":15423,"className":"javax.swing.DebugGraphics","methodName":"fillRoundRect","signature":"\u003cjavax.swing.DebugGraphics: void fillRoundRect(int,int,int,int,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.fillRoundRect\u003c/code\u003e.\n */\n","tf":{"freq":{"graphic":1,"fill":2,"round":2,"rect":2},"maxFreq":2,"totalTerms":7},"loc":33}

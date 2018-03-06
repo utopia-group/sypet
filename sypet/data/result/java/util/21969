@@ -1,0 +1,1 @@
+{"id":21969,"className":"java.util.Collections$SynchronizedList","methodName":"addAll","signature":"\u003cjava.util.Collections$SynchronizedList: boolean addAll(int,java.util.Collection)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":16709,"className":"javax.swing.tree.TreePath","methodName":"getPathCount","signature":"\u003cjavax.swing.tree.TreePath: int getPathCount()\u003e","javadoc":"/** \n * Returns the number of elements in the path.\n * @return the number of elements in the path\n */\n","tf":{"freq":{"element":2,"count":1,"path":3,"number":2},"maxFreq":3,"totalTerms":8},"loc":7}

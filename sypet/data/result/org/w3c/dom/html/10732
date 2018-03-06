@@ -1,0 +1,1 @@
+{"id":10732,"className":"org.w3c.dom.html.HTMLElement","methodName":"getLang","signature":"\u003corg.w3c.dom.html.HTMLElement: java.lang.String getLang()\u003e","javadoc":"/** \n * Language code defined in RFC 1766. See the  lang attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"defin":1,"attribut":1,"definit":1,"languag":1,"lang":2},"maxFreq":2,"totalTerms":6},"loc":0}

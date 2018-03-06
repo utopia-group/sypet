@@ -1,0 +1,1 @@
+{"id":16604,"className":"javax.swing.border.CompoundBorder","methodName":"CompoundBorder","signature":"\u003cjavax.swing.border.CompoundBorder: void CompoundBorder()\u003e","javadoc":"/** \n * Creates a compound border with null outside and inside borders.\n */\n","tf":{"freq":{"compound":2,"outsid":1,"creat":1,"insid":1,"border":3},"maxFreq":3,"totalTerms":8},"loc":4}

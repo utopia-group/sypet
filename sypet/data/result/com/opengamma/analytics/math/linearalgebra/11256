@@ -1,0 +1,1 @@
+{"id":11256,"className":"com.opengamma.analytics.math.linearalgebra.LUDecompositionCommonsResult","methodName":"getL","signature":"\u003ccom.opengamma.analytics.math.linearalgebra.LUDecompositionCommonsResult: com.opengamma.analytics.math.matrix.DoubleMatrix2D getL()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","loc":3}

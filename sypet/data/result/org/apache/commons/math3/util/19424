@@ -1,0 +1,1 @@
+{"id":19424,"className":"org.apache.commons.math3.util.BigRealField","methodName":"getZero","signature":"\u003corg.apache.commons.math3.util.BigRealField: org.apache.commons.math3.util.BigReal getZero()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"zero":1},"maxFreq":1,"totalTerms":1},"loc":3}

@@ -1,0 +1,1 @@
+{"id":24442,"className":"org.apache.commons.math.stat.descriptive.SynchronizedMultivariateSummaryStatistics","methodName":"getMax","signature":"\u003corg.apache.commons.math.stat.descriptive.SynchronizedMultivariateSummaryStatistics: double[] getMax()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"max":1},"maxFreq":1,"totalTerms":1},"loc":3}

@@ -1,0 +1,1 @@
+{"id":15112,"className":"org.joda.money.Ser","methodName":"Ser","signature":"\u003corg.joda.money.Ser: void Ser()\u003e","javadoc":"/** \n * Constructor for serialization.\n */\n","tf":{"freq":{"ser":1,"serial":1,"constructor":1},"maxFreq":1,"totalTerms":3},"loc":2}

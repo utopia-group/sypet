@@ -1,0 +1,1 @@
+{"id":20843,"className":"javax.swing.plaf.synth.SynthScrollPaneUI$ViewportBorder","methodName":"getBorderInsets","signature":"\u003cjavax.swing.plaf.synth.SynthScrollPaneUI$ViewportBorder: java.awt.Insets getBorderInsets(java.awt.Component,java.awt.Insets)\u003e","loc":11}

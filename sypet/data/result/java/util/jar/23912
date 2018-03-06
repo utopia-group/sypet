@@ -1,0 +1,1 @@
+{"id":23912,"className":"java.util.jar.Attributes$Name","methodName":"toString","signature":"\u003cjava.util.jar.Attributes$Name: java.lang.String toString()\u003e","javadoc":"/** \n * Returns the attribute name as a String.\n */\n","tf":{"freq":{"attribut":1,"name":1,"string":2},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":15368,"className":"org.joda.money.format.LiteralPrinterParser","methodName":"parse","signature":"\u003corg.joda.money.format.LiteralPrinterParser: void parse(org.joda.money.format.MoneyParseContext)\u003e","loc":9}

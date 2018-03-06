@@ -1,0 +1,1 @@
+{"id":21279,"className":"javax.swing.text.JTextComponent$DefaultTransferHandler","methodName":"importData","signature":"\u003cjavax.swing.text.JTextComponent$DefaultTransferHandler: boolean importData(javax.swing.JComponent,java.awt.datatransfer.Transferable)\u003e","loc":21}

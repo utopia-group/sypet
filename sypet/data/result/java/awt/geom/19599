@@ -1,0 +1,1 @@
+{"id":19599,"className":"java.awt.geom.AffineTransform","methodName":"setToIdentity","signature":"\u003cjava.awt.geom.AffineTransform: void setToIdentity()\u003e","javadoc":"/** \n * Resets this transform to the Identity transform.\n * @since 1.2\n */\n","tf":{"freq":{"transform":2,"ident":2,"reset":1},"maxFreq":2,"totalTerms":5},"loc":6}

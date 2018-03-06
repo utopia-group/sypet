@@ -1,0 +1,1 @@
+{"id":13428,"className":"org.joda.time.base.AbstractInterval","methodName":"hashCode","signature":"\u003corg.joda.time.base.AbstractInterval: int hashCode()\u003e","javadoc":"/** \n * Hashcode compatible with equals method.\n * @return suitable hashcode\n */\n","tf":{"freq":{"hash":1,"suitabl":1,"hashcod":2,"method":1,"equal":1,"compat":1},"maxFreq":2,"totalTerms":7},"loc":9}

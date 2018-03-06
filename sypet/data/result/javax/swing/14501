@@ -1,0 +1,1 @@
+{"id":14501,"className":"javax.swing.JToggleButton$ToggleButtonModel","methodName":"setPressed","signature":"\u003cjavax.swing.JToggleButton$ToggleButtonModel: void setPressed(boolean)\u003e","javadoc":"/** \n * Sets the pressed state of the toggle button.\n */\n","tf":{"freq":{"press":2,"button":1,"toggl":1,"state":1},"maxFreq":2,"totalTerms":5},"loc":33}

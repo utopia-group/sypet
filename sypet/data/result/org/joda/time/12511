@@ -1,0 +1,1 @@
+{"id":12511,"className":"org.joda.time.Weeks","methodName":"getPeriodType","signature":"\u003corg.joda.time.Weeks: org.joda.time.PeriodType getPeriodType()\u003e","javadoc":"/** \n * Gets the period type, which is \u003ccode\u003eweeks\u003c/code\u003e.\n * @return the period type\n */\n","tf":{"freq":{"type":3,"period":3,"week":1},"maxFreq":3,"totalTerms":7},"loc":3}

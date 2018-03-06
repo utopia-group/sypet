@@ -1,0 +1,1 @@
+{"id":16678,"className":"java.awt.ImageCapabilities","methodName":"clone","signature":"\u003cjava.awt.ImageCapabilities: java.lang.Object clone()\u003e","javadoc":"/** \n * @return a copy of this ImageCapabilities object.\n */\n","tf":{"freq":{"clone":1,"capabl":1,"object":1,"imag":1,"copi":1},"maxFreq":1,"totalTerms":5},"loc":8}

@@ -1,0 +1,1 @@
+{"id":14060,"className":"javax.swing.InputMap","methodName":"size","signature":"\u003cjavax.swing.InputMap: int size()\u003e","javadoc":"/** \n * Returns the number of \u003ccode\u003eKeyStroke\u003c/code\u003e bindings.\n */\n","tf":{"freq":{"stroke":1,"number":1,"bind":1,"key":1,"size":1},"maxFreq":1,"totalTerms":5},"loc":6}

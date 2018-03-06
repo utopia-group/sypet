@@ -1,0 +1,1 @@
+{"id":19381,"className":"java.awt.event.ComponentListener","methodName":"componentResized","signature":"\u003cjava.awt.event.ComponentListener: void componentResized(java.awt.event.ComponentEvent)\u003e","javadoc":"/** \n * Invoked when the component\u0027s size changes.\n */\n","tf":{"freq":{"compon":2,"invok":1,"chang":1,"size":1,"resiz":1},"maxFreq":2,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":16350,"className":"java.awt.ScrollPane","methodName":"getScrollbarDisplayPolicy","signature":"\u003cjava.awt.ScrollPane: int getScrollbarDisplayPolicy()\u003e","javadoc":"/** \n * Returns the display policy for the scrollbars.\n * @return the display policy for the scrollbars\n */\n","tf":{"freq":{"scrollbar":3,"display":3,"polici":3},"maxFreq":3,"totalTerms":9},"loc":3}

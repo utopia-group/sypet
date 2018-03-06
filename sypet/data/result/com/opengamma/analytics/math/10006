@@ -1,0 +1,1 @@
+{"id":10006,"className":"com.opengamma.analytics.math.ComplexMathUtils","methodName":"conjugate","signature":"\u003ccom.opengamma.analytics.math.ComplexMathUtils: com.opengamma.analytics.math.number.ComplexNumber conjugate(com.opengamma.analytics.math.number.ComplexNumber)\u003e","loc":4}

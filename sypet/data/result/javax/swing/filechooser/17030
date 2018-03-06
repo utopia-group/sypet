@@ -1,0 +1,1 @@
+{"id":17030,"className":"javax.swing.filechooser.FileFilter","methodName":"accept","signature":"\u003cjavax.swing.filechooser.FileFilter: boolean accept(java.io.File)\u003e","javadoc":"/** \n * Whether the given file is accepted by this filter.\n */\n","tf":{"freq":{"given":1,"file":1,"accept":2,"filter":1,"whether":1},"maxFreq":2,"totalTerms":6},"loc":0}

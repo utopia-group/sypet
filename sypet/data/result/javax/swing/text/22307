@@ -1,0 +1,1 @@
+{"id":22307,"className":"javax.swing.text.AbstractDocument$ElementEdit","methodName":"getIndex","signature":"\u003cjavax.swing.text.AbstractDocument$ElementEdit: int getIndex()\u003e","javadoc":"/** \n * Returns the index into the list of elements.\n * @return the index \u003e\u003d 0\n */\n","tf":{"freq":{"element":1,"index":3,"list":1},"maxFreq":3,"totalTerms":5},"loc":3}

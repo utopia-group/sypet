@@ -1,0 +1,1 @@
+{"id":22634,"className":"javax.swing.text.html.HTMLDocument$Iterator","methodName":"getTag","signature":"\u003cjavax.swing.text.html.HTMLDocument$Iterator: javax.swing.text.html.HTML$Tag getTag()\u003e","javadoc":"/** \n * Type of tag this iterator represents.\n */\n","tf":{"freq":{"repres":1,"tag":2,"iter":1,"type":1},"maxFreq":2,"totalTerms":5},"loc":0}

@@ -1,0 +1,1 @@
+{"id":15156,"className":"javax.swing.AbstractButton","methodName":"getText","signature":"\u003cjavax.swing.AbstractButton: java.lang.String getText()\u003e","javadoc":"/** \n * Returns the button\u0027s text.\n * @return the buttons text\n * @see #setText\n */\n","tf":{"freq":{"text":4,"button":2},"maxFreq":4,"totalTerms":6},"loc":3}

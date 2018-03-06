@@ -1,0 +1,1 @@
+{"id":23455,"className":"java.util.concurrent.atomic.AtomicReference","methodName":"set","signature":"\u003cjava.util.concurrent.atomic.AtomicReference: void set(V)\u003e","javadoc":"/** \n * Sets to the given value.\n * @param newValue the new value\n */\n","tf":{"freq":{"given":1,"valu":3},"maxFreq":3,"totalTerms":4},"loc":3}

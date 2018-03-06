@@ -1,0 +1,1 @@
+{"id":25418,"className":"javax.imageio.stream.ImageOutputStreamImpl","methodName":"writeDouble","signature":"\u003cjavax.imageio.stream.ImageOutputStreamImpl: void writeDouble(double)\u003e","loc":3}

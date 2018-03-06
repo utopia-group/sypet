@@ -1,0 +1,1 @@
+{"id":11177,"className":"java.io.PrintWriter","methodName":"write","signature":"\u003cjava.io.PrintWriter: void write(int)\u003e","javadoc":"/** \n * Writes a single character.\n * @param c int specifying a character to be written.\n */\n","tf":{"freq":{"charact":2,"singl":1,"written":1,"write":2,"specifi":1},"maxFreq":2,"totalTerms":7},"loc":14}

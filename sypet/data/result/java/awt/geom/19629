@@ -1,0 +1,1 @@
+{"id":19629,"className":"java.awt.geom.AffineTransform","methodName":"hashCode","signature":"\u003cjava.awt.geom.AffineTransform: int hashCode()\u003e","javadoc":"/** \n * Returns the hashcode for this transform.\n * @return      a hash code for this transform.\n * @since 1.2\n */\n","tf":{"freq":{"transform":2,"hash":2,"hashcod":1},"maxFreq":2,"totalTerms":5},"loc":9}

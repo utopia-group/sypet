@@ -1,0 +1,1 @@
+{"id":14629,"className":"java.lang.ref.ReferenceQueue","methodName":"ReferenceQueue","signature":"\u003cjava.lang.ref.ReferenceQueue: void ReferenceQueue()\u003e","javadoc":"/** \n * Constructs a new reference-object queue.\n */\n","tf":{"freq":{"queue":2,"refer":2,"object":1,"construct":1},"maxFreq":2,"totalTerms":6},"loc":1}

@@ -1,0 +1,1 @@
+{"id":13164,"className":"org.joda.time.MutableDateTime","methodName":"clone","signature":"\u003corg.joda.time.MutableDateTime: java.lang.Object clone()\u003e","javadoc":"/** \n * Clone this object.\n * @return a clone of this object.\n */\n","tf":{"freq":{"clone":3,"object":2},"maxFreq":3,"totalTerms":5},"loc":7}

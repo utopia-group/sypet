@@ -1,0 +1,1 @@
+{"id":25234,"className":"java.security.KeyStore","methodName":"getProvider","signature":"\u003cjava.security.KeyStore: java.security.Provider getProvider()\u003e","javadoc":"/** \n * Returns the provider of this keystore.\n * @return the provider of this keystore.\n */\n","tf":{"freq":{"keystor":2,"provid":3},"maxFreq":3,"totalTerms":5},"loc":3}

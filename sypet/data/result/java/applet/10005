@@ -1,0 +1,1 @@
+{"id":10005,"className":"java.applet.AppletStub","methodName":"getAppletContext","signature":"\u003cjava.applet.AppletStub: java.applet.AppletContext getAppletContext()\u003e","javadoc":"/** \n * Returns the applet\u0027s context.\n * @return  the applet\u0027s context.\n */\n","tf":{"freq":{"context":3,"applet":3},"maxFreq":3,"totalTerms":6},"loc":0}

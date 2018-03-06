@@ -1,0 +1,1 @@
+{"id":22254,"className":"java.util.Locale","methodName":"hashCode","signature":"\u003cjava.util.Locale: int hashCode()\u003e","javadoc":"/** \n * Override hashCode. Since Locales are often used in hashtables, caches the value for speed.\n */\n","tf":{"freq":{"speed":1,"hashtabl":1,"hash":2,"often":1,"use":1,"valu":1,"cach":1,"local":1},"maxFreq":2,"totalTerms":9},"loc":11}

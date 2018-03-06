@@ -1,0 +1,1 @@
+{"id":26846,"className":"org.jsoup.Connection$Base","methodName":"method","signature":"\u003corg.jsoup.Connection$Base: T method(org.jsoup.Method)\u003e","javadoc":"/** \n * Set the request method\n * @param method new method\n * @return this, for chaining\n */\n","tf":{"freq":{"chain":1,"request":1,"method":4},"maxFreq":4,"totalTerms":6},"loc":0}

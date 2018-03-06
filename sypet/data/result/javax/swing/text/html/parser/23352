@@ -1,0 +1,1 @@
+{"id":23352,"className":"javax.swing.text.html.parser.Element","methodName":"getType","signature":"\u003cjavax.swing.text.html.parser.Element: int getType()\u003e","javadoc":"/** \n * Get type.\n */\n","tf":{"freq":{"type":2},"maxFreq":2,"totalTerms":2},"loc":3}

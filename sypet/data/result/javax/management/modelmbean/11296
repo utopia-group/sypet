@@ -1,0 +1,1 @@
+{"id":11296,"className":"javax.management.modelmbean.ModelMBeanInfoSupport","methodName":"setMBeanDescriptor","signature":"\u003cjavax.management.modelmbean.ModelMBeanInfoSupport: void setMBeanDescriptor(javax.management.Descriptor)\u003e","loc":8}

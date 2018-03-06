@@ -1,0 +1,1 @@
+{"id":24596,"className":"java.text.BreakIterator$BreakIteratorGetter","methodName":"getObject","signature":"\u003cjava.text.BreakIterator$BreakIteratorGetter: java.text.BreakIterator getObject(java.text.spi.BreakIteratorProvider,java.util.Locale,java.lang.String,java.lang.Object[])\u003e","loc":17}

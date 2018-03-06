@@ -1,0 +1,1 @@
+{"id":17461,"className":"java.awt.Color","methodName":"getAlpha","signature":"\u003cjava.awt.Color: int getAlpha()\u003e","javadoc":"/** \n * Returns the alpha component in the range 0-255.\n * @return the alpha component.\n * @see #getRGB\n */\n","tf":{"freq":{"compon":2,"rang":1,"alpha":3},"maxFreq":3,"totalTerms":6},"loc":3}

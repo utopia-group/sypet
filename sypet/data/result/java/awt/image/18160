@@ -1,0 +1,1 @@
+{"id":18160,"className":"java.awt.image.RenderedImage","methodName":"getHeight","signature":"\u003cjava.awt.image.RenderedImage: int getHeight()\u003e","javadoc":"/** \n * Returns the height of the RenderedImage.\n * @return the height of this \u003ccode\u003eRenderedImage\u003c/code\u003e.\n */\n","tf":{"freq":{"height":3,"imag":2,"render":2},"maxFreq":3,"totalTerms":7},"loc":0}

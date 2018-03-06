@@ -1,0 +1,1 @@
+{"id":11384,"className":"org.xml.sax.ext.Locator2Impl","methodName":"getEncoding","signature":"\u003corg.xml.sax.ext.Locator2Impl: java.lang.String getEncoding()\u003e","javadoc":"/** \n * Returns the current value of the encoding property.\n * @see #setEncoding\n */\n","tf":{"freq":{"encod":3,"current":1,"valu":1,"properti":1},"maxFreq":3,"totalTerms":6},"loc":1}

@@ -1,0 +1,1 @@
+{"id":27356,"className":"org.jsoup.helper.HttpConnection$Base","methodName":"headers","signature":"\u003corg.jsoup.helper.HttpConnection$Base: java.util.Map\u003cjava.lang.String,java.lang.String\u003e headers()\u003e","loc":3}

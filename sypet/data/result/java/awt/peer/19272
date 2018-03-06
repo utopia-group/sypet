@@ -1,0 +1,1 @@
+{"id":19272,"className":"java.awt.peer.ComponentPeer","methodName":"updateCursorImmediately","signature":"\u003cjava.awt.peer.ComponentPeer: void updateCursorImmediately()\u003e","javadoc":"/** \n * Updates the cursor of the component.\n * @see Component#updateCursorImmediately\n */\n","tf":{"freq":{"cursor":3,"compon":2,"updat":3,"immedi":2},"maxFreq":3,"totalTerms":10},"loc":0}

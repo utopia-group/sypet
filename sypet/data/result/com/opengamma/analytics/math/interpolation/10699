@@ -1,0 +1,1 @@
+{"id":10699,"className":"com.opengamma.analytics.math.interpolation.GridInterpolator2D","methodName":"getYInterpolator","signature":"\u003ccom.opengamma.analytics.math.interpolation.GridInterpolator2D: com.opengamma.analytics.math.interpolation.Interpolator1D getYInterpolator()\u003e","loc":3}

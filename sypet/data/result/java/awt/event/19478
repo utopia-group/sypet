@@ -1,0 +1,1 @@
+{"id":19478,"className":"java.awt.event.ItemEvent","methodName":"getItem","signature":"\u003cjava.awt.event.ItemEvent: java.lang.Object getItem()\u003e","javadoc":"/** \n * Returns the item affected by the event.\n * @return the item (object) that was affected by the event\n */\n","tf":{"freq":{"event":2,"item":3,"object":1,"affect":2},"maxFreq":3,"totalTerms":8},"loc":3}

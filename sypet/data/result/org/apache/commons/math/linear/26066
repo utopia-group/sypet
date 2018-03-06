@@ -1,0 +1,1 @@
+{"id":26066,"className":"org.apache.commons.math.linear.ArrayRealVector","methodName":"mapExpToSelf","signature":"\u003corg.apache.commons.math.linear.ArrayRealVector: org.apache.commons.math.linear.RealVector mapExpToSelf()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"exp":1,"map":1,"self":1},"maxFreq":1,"totalTerms":3},"loc":6}

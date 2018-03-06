@@ -1,0 +1,1 @@
+{"id":19830,"className":"","methodName":"compare","signature":"\u003c: int compare(org.apache.commons.math3.optim.univariate.UnivariatePointValuePair,org.apache.commons.math3.optim.univariate.UnivariatePointValuePair)\u003e","loc":11}

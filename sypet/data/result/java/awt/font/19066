@@ -1,0 +1,1 @@
+{"id":19066,"className":"java.awt.font.TextLayout$CaretPolicy","methodName":"CaretPolicy","signature":"\u003cjava.awt.font.TextLayout$CaretPolicy: void CaretPolicy()\u003e","javadoc":"/** \n * Constructs a \u003ccode\u003eCaretPolicy\u003c/code\u003e.\n */\n","tf":{"freq":{"caret":2,"construct":1,"polici":2},"maxFreq":2,"totalTerms":5},"loc":2}

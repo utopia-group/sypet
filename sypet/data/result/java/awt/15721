@@ -1,0 +1,1 @@
+{"id":15721,"className":"java.awt.Adjustable","methodName":"getMaximum","signature":"\u003cjava.awt.Adjustable: int getMaximum()\u003e","javadoc":"/** \n * Gets the maximum value of the adjustable object.\n * @return the maximum value of the adjustable object\n */\n","tf":{"freq":{"maximum":3,"adjust":2,"valu":2,"object":2},"maxFreq":3,"totalTerms":9},"loc":0}

@@ -1,0 +1,1 @@
+{"id":12193,"className":"javax.naming.ldap.ManageReferralControl","methodName":"ManageReferralControl","signature":"\u003cjavax.naming.ldap.ManageReferralControl: void ManageReferralControl()\u003e","javadoc":"/** \n * Constructs a critical ManageReferral control.\n */\n","tf":{"freq":{"control":2,"manag":2,"referr":2,"construct":1,"critic":1},"maxFreq":2,"totalTerms":8},"loc":3}

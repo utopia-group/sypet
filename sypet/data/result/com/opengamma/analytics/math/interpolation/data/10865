@@ -1,0 +1,1 @@
+{"id":10865,"className":"com.opengamma.analytics.math.interpolation.data.Interpolator1DLogPiecewisePoynomialDataBundle","methodName":"getBreakPointsY","signature":"\u003ccom.opengamma.analytics.math.interpolation.data.Interpolator1DLogPiecewisePoynomialDataBundle: double[] getBreakPointsY()\u003e","loc":10}

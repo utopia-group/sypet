@@ -1,0 +1,1 @@
+{"id":16968,"className":"javax.swing.tree.VariableHeightLayoutCache$TreeStateNode","methodName":"isLeaf","signature":"\u003cjavax.swing.tree.VariableHeightLayoutCache$TreeStateNode: boolean isLeaf()\u003e","javadoc":"/** \n * Returns true if the receiver is a leaf.\n */\n","tf":{"freq":{"true":1,"receiv":1,"leaf":2},"maxFreq":2,"totalTerms":4},"loc":3}

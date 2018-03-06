@@ -1,0 +1,1 @@
+{"id":15909,"className":"java.awt.GridLayout","methodName":"getVgap","signature":"\u003cjava.awt.GridLayout: int getVgap()\u003e","javadoc":"/** \n * Gets the vertical gap between components.\n * @return       the vertical gap between components\n * @since        JDK1.1\n */\n","tf":{"freq":{"compon":2,"vertic":2,"vgap":1,"gap":2},"maxFreq":2,"totalTerms":7},"loc":3}

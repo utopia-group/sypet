@@ -1,0 +1,1 @@
+{"id":12647,"className":"java.beans.Statement","methodName":"toString","signature":"\u003cjava.beans.Statement: java.lang.String toString()\u003e","javadoc":"/** \n * Prints the value of this statement using a Java-style syntax.\n */\n","tf":{"freq":{"statement":1,"syntax":1,"style":1,"string":1,"use":1,"java":1,"valu":1,"print":1},"maxFreq":1,"totalTerms":8},"loc":19}

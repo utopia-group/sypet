@@ -1,0 +1,1 @@
+{"id":27448,"className":"org.jsoup.parser.TokenQueue","methodName":"consumeTagName","signature":"\u003corg.jsoup.parser.TokenQueue: java.lang.String consumeTagName()\u003e","javadoc":"/** \n * Consume an tag name off the queue (word or :, _, -)\n * @return tag name\n */\n","tf":{"freq":{"consum":2,"queue":1,"tag":3,"name":3,"word":1},"maxFreq":3,"totalTerms":10},"loc":7}

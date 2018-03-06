@@ -1,0 +1,1 @@
+{"id":13495,"className":"javax.swing.DefaultButtonModel","methodName":"isPressed","signature":"\u003cjavax.swing.DefaultButtonModel: boolean isPressed()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"press":1},"maxFreq":1,"totalTerms":1},"loc":3}

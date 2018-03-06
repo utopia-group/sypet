@@ -1,0 +1,1 @@
+{"id":24542,"className":"java.text.DecimalFormat","methodName":"getNegativeSuffix","signature":"\u003cjava.text.DecimalFormat: java.lang.String getNegativeSuffix()\u003e","javadoc":"/** \n * Get the negative suffix. \u003cP\u003eExamples: -123%, ($123) (with positive suffixes)\n */\n","tf":{"freq":{"exampl":1,"negat":2,"posit":1,"suffix":3},"maxFreq":3,"totalTerms":7},"loc":3}

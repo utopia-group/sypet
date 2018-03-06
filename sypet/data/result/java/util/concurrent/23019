@@ -1,0 +1,1 @@
+{"id":23019,"className":"java.util.concurrent.CopyOnWriteArrayList","methodName":"size","signature":"\u003cjava.util.concurrent.CopyOnWriteArrayList: int size()\u003e","javadoc":"/** \n * Returns the number of elements in this list.\n * @return the number of elements in this list\n */\n","tf":{"freq":{"element":2,"list":2,"number":2,"size":1},"maxFreq":2,"totalTerms":7},"loc":3}

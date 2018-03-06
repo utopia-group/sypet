@@ -1,0 +1,1 @@
+{"id":15102,"className":"org.joda.time.chrono.ZonedChronology$ZonedDateTimeField","methodName":"equals","signature":"\u003corg.joda.time.chrono.ZonedChronology$ZonedDateTimeField: boolean equals(java.lang.Object)\u003e","loc":12}

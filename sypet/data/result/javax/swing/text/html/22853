@@ -1,0 +1,1 @@
+{"id":22853,"className":"javax.swing.text.html.CSS$CssValue","methodName":"toString","signature":"\u003cjavax.swing.text.html.CSS$CssValue: java.lang.String toString()\u003e","javadoc":"/** \n * Return the CSS format of the value\n */\n","tf":{"freq":{"string":1,"valu":1,"format":1},"maxFreq":1,"totalTerms":3},"loc":3}

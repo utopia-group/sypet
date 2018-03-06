@@ -1,0 +1,1 @@
+{"id":22376,"className":"java.util.concurrent.ArrayBlockingQueue","methodName":"take","signature":"\u003cjava.util.concurrent.ArrayBlockingQueue: E take()\u003e","loc":11}

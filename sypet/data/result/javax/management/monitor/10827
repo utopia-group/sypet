@@ -1,0 +1,1 @@
+{"id":10827,"className":"javax.management.monitor.CounterMonitor","methodName":"stop","signature":"\u003cjavax.management.monitor.CounterMonitor: void stop()\u003e","javadoc":"/** \n * Stops the counter monitor.\n */\n","tf":{"freq":{"stop":2,"monitor":1,"counter":1},"maxFreq":2,"totalTerms":4},"loc":3}

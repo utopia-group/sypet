@@ -1,0 +1,1 @@
+{"id":24745,"className":"java.text.StringCharacterIterator","methodName":"last","signature":"\u003cjava.text.StringCharacterIterator: char last()\u003e","javadoc":"/** \n * Implements CharacterIterator.last() for String.\n * @see CharacterIterator#last\n */\n","tf":{"freq":{"last":3,"charact":2,"string":1,"iter":2},"maxFreq":3,"totalTerms":8},"loc":8}

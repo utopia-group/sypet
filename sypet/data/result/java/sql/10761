@@ -1,0 +1,1 @@
+{"id":10761,"className":"java.sql.Time","methodName":"toString","signature":"\u003cjava.sql.Time: java.lang.String toString()\u003e","javadoc":"/** \n * Formats a time in JDBC time escape format.\n * @return a \u003ccode\u003eString\u003c/code\u003e in hh:mm:ss format\n */\n","tf":{"freq":{"time":2,"string":2,"format":3,"escap":1},"maxFreq":3,"totalTerms":8},"loc":25}

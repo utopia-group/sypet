@@ -1,0 +1,1 @@
+{"id":13460,"className":"javax.swing.JDesktopPane","methodName":"remove","signature":"\u003cjavax.swing.JDesktopPane: void remove(int)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.6\n */\n","tf":{"freq":{"remov":1},"maxFreq":1,"totalTerms":1},"loc":10}

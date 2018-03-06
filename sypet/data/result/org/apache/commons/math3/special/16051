@@ -1,0 +1,1 @@
+{"id":16051,"className":"org.apache.commons.math3.special.BesselJ$BesselJResult","methodName":"getVals","signature":"\u003corg.apache.commons.math3.special.BesselJ$BesselJResult: double[] getVals()\u003e","javadoc":"/** \n * @return the computed function values\n */\n","tf":{"freq":{"val":1,"comput":1,"valu":1,"function":1},"maxFreq":1,"totalTerms":4},"loc":3}

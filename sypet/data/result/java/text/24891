@@ -1,0 +1,1 @@
+{"id":24891,"className":"java.text.DigitList","methodName":"hashCode","signature":"\u003cjava.text.DigitList: int hashCode()\u003e","javadoc":"/** \n * Generates the hash code for the digit list.\n */\n","tf":{"freq":{"digit":1,"hash":2,"generat":1,"list":1},"maxFreq":2,"totalTerms":5},"loc":9}

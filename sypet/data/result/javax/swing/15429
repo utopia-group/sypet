@@ -1,0 +1,1 @@
+{"id":15429,"className":"javax.swing.DebugGraphics","methodName":"drawArc","signature":"\u003cjavax.swing.DebugGraphics: void drawArc(int,int,int,int,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.drawArc\u003c/code\u003e.\n */\n","tf":{"freq":{"draw":2,"graphic":1,"arc":2},"maxFreq":2,"totalTerms":5},"loc":32}

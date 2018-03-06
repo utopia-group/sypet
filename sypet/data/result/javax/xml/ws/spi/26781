@@ -1,0 +1,1 @@
+{"id":26781,"className":"javax.xml.ws.spi.ServiceDelegate","methodName":"getServiceName","signature":"\u003cjavax.xml.ws.spi.ServiceDelegate: javax.xml.namespace.QName getServiceName()\u003e","javadoc":"/** \n * Gets the name of this service.\n * @return Qualified name of this service\n */\n","tf":{"freq":{"name":3,"servic":3,"qualifi":1},"maxFreq":3,"totalTerms":7},"loc":0}

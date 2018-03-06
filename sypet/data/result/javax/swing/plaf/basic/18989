@@ -1,0 +1,1 @@
+{"id":18989,"className":"javax.swing.plaf.basic.BasicTabbedPaneUI$ScrollableTabSupport","methodName":"setLeadingTabIndex","signature":"\u003cjavax.swing.plaf.basic.BasicTabbedPaneUI$ScrollableTabSupport: void setLeadingTabIndex(int,int)\u003e","loc":32}

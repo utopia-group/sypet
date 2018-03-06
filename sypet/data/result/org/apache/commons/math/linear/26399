@@ -1,0 +1,1 @@
+{"id":26399,"className":"org.apache.commons.math.linear.AbstractRealVector","methodName":"mapCbrt","signature":"\u003corg.apache.commons.math.linear.AbstractRealVector: org.apache.commons.math.linear.RealVector mapCbrt()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"map":1,"cbrt":1},"maxFreq":1,"totalTerms":2},"loc":3}

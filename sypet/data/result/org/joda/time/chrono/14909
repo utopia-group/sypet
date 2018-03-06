@@ -1,0 +1,1 @@
+{"id":14909,"className":"org.joda.time.chrono.ISOYearOfEraDateTimeField","methodName":"getRangeDurationField","signature":"\u003corg.joda.time.chrono.ISOYearOfEraDateTimeField: org.joda.time.DurationField getRangeDurationField()\u003e","loc":3}

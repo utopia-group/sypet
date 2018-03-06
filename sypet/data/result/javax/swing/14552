@@ -1,0 +1,1 @@
+{"id":14552,"className":"javax.swing.SwingWorker","methodName":"SwingWorker","signature":"\u003cjavax.swing.SwingWorker: void SwingWorker()\u003e","javadoc":"/** \n * Constructs this  {@code SwingWorker}.\n */\n","tf":{"freq":{"worker":2,"construct":1,"swing":2},"maxFreq":2,"totalTerms":5},"loc":22}

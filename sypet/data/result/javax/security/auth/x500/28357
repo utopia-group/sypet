@@ -1,0 +1,1 @@
+{"id":28357,"className":"javax.security.auth.x500.X500PrivateCredential","methodName":"getAlias","signature":"\u003cjavax.security.auth.x500.X500PrivateCredential: java.lang.String getAlias()\u003e","javadoc":"/** \n * Returns the KeyStore alias. \u003cp\u003e\n * @return the KeyStore alias\n */\n","tf":{"freq":{"store":2,"key":2,"alia":3},"maxFreq":3,"totalTerms":7},"loc":3}

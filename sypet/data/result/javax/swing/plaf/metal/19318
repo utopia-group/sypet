@@ -1,0 +1,1 @@
+{"id":19318,"className":"javax.swing.plaf.metal.MetalFileChooserUI","methodName":"uninstallComponents","signature":"\u003cjavax.swing.plaf.metal.MetalFileChooserUI: void uninstallComponents(javax.swing.JFileChooser)\u003e","loc":5}

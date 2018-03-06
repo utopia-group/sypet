@@ -1,0 +1,1 @@
+{"id":14792,"className":"javax.swing.JTable$SortManager","methodName":"setViewRowHeight","signature":"\u003cjavax.swing.JTable$SortManager: void setViewRowHeight(int,int)\u003e","javadoc":"/** \n * Sets the height for a row at a specified index.\n */\n","tf":{"freq":{"index":1,"height":2,"view":1,"row":2,"specifi":1},"maxFreq":2,"totalTerms":7},"loc":7}

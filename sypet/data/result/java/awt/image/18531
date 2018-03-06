@@ -1,0 +1,1 @@
+{"id":18531,"className":"java.awt.image.PixelGrabber","methodName":"abortGrabbing","signature":"\u003cjava.awt.image.PixelGrabber: void abortGrabbing()\u003e","javadoc":"/** \n * Request the PixelGrabber to abort the image fetch.\n */\n","tf":{"freq":{"fetch":1,"grab":1,"grabber":1,"pixel":1,"request":1,"imag":1,"abort":2},"maxFreq":2,"totalTerms":8},"loc":3}

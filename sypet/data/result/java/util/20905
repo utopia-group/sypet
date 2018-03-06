@@ -1,0 +1,1 @@
+{"id":20905,"className":"java.util.ArrayList","methodName":"clear","signature":"\u003cjava.util.ArrayList: void clear()\u003e","javadoc":"/** \n * Removes all of the elements from this list.  The list will be empty after this call returns.\n */\n","tf":{"freq":{"clear":1,"call":1,"element":1,"will":1,"remov":1,"list":2,"empti":1},"maxFreq":2,"totalTerms":8},"loc":9}

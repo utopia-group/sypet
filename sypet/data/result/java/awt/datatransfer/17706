@@ -1,0 +1,1 @@
+{"id":17706,"className":"java.awt.datatransfer.MimeTypeParameterList","methodName":"remove","signature":"\u003cjava.awt.datatransfer.MimeTypeParameterList: void remove(java.lang.String)\u003e","javadoc":"/** \n * Remove any value associated with the given name.\n */\n","tf":{"freq":{"given":1,"associ":1,"name":1,"remov":2,"valu":1},"maxFreq":2,"totalTerms":6},"loc":3}

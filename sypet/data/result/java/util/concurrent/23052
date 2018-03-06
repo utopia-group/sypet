@@ -1,0 +1,1 @@
+{"id":23052,"className":"java.util.concurrent.CopyOnWriteArrayList$COWIterator","methodName":"previous","signature":"\u003cjava.util.concurrent.CopyOnWriteArrayList$COWIterator: E previous()\u003e","loc":5}

@@ -1,0 +1,1 @@
+{"id":13504,"className":"javax.swing.DefaultButtonModel","methodName":"addChangeListener","signature":"\u003cjavax.swing.DefaultButtonModel: void addChangeListener(javax.swing.event.ChangeListener)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"chang":1,"add":1,"listen":1},"maxFreq":1,"totalTerms":3},"loc":3}

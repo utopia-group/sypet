@@ -1,0 +1,1 @@
+{"id":13619,"className":"java.lang.ArithmeticException","methodName":"ArithmeticException","signature":"\u003cjava.lang.ArithmeticException: void ArithmeticException()\u003e","javadoc":"/** \n * Constructs an  {@code ArithmeticException} with no detailmessage.\n */\n","tf":{"freq":{"detailmessag":1,"except":2,"arithmet":2,"construct":1},"maxFreq":2,"totalTerms":6},"loc":3}

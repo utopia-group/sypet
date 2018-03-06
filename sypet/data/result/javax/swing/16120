@@ -1,0 +1,1 @@
+{"id":16120,"className":"javax.swing.RowFilter$Entry","methodName":"getModel","signature":"\u003cjavax.swing.RowFilter$Entry: M getModel()\u003e","javadoc":"/** \n * Returns the underlying model.\n * @return the model containing the data that this entry represents\n */\n","tf":{"freq":{"model":3,"repres":1,"entri":1,"contain":1,"data":1},"maxFreq":3,"totalTerms":7},"loc":0}

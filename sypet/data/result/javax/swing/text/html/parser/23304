@@ -1,0 +1,1 @@
+{"id":23304,"className":"javax.swing.text.html.parser.TagStack","methodName":"toString","signature":"\u003cjavax.swing.text.html.parser.TagStack: java.lang.String toString()\u003e","javadoc":"/** \n * Convert to a string.\n */\n","tf":{"freq":{"string":2,"convert":1},"maxFreq":2,"totalTerms":3},"loc":5}

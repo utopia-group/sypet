@@ -1,0 +1,1 @@
+{"id":13996,"className":"javax.swing.AbstractAction","methodName":"AbstractAction","signature":"\u003cjavax.swing.AbstractAction: void AbstractAction()\u003e","javadoc":"/** \n * Creates an  {@code Action}.\n */\n","tf":{"freq":{"creat":1,"action":2},"maxFreq":2,"totalTerms":3},"loc":2}

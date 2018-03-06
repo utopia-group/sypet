@@ -1,0 +1,1 @@
+{"id":23780,"className":"java.util.zip.CheckedOutputStream","methodName":"getChecksum","signature":"\u003cjava.util.zip.CheckedOutputStream: java.util.zip.Checksum getChecksum()\u003e","javadoc":"/** \n * Returns the Checksum for this output stream.\n * @return the Checksum\n */\n","tf":{"freq":{"stream":1,"checksum":3,"output":1},"maxFreq":3,"totalTerms":5},"loc":3}

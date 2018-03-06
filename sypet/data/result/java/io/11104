@@ -1,0 +1,1 @@
+{"id":11104,"className":"java.io.ObjectInputStream$ValidationList","methodName":"clear","signature":"\u003cjava.io.ObjectInputStream$ValidationList: void clear()\u003e","javadoc":"/** \n * Resets the callback list to its initial (empty) state.\n */\n","tf":{"freq":{"clear":1,"state":1,"callback":1,"reset":1,"list":1,"initi":1,"empti":1},"maxFreq":1,"totalTerms":7},"loc":3}

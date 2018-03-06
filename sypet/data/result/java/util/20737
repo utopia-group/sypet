@@ -1,0 +1,1 @@
+{"id":20737,"className":"java.util.Vector","methodName":"size","signature":"\u003cjava.util.Vector: int size()\u003e","javadoc":"/** \n * Returns the number of components in this vector.\n * @return  the number of components in this vector\n */\n","tf":{"freq":{"compon":2,"vector":2,"number":2,"size":1},"maxFreq":2,"totalTerms":7},"loc":3}

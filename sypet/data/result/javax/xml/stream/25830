@@ -1,0 +1,1 @@
+{"id":25830,"className":"javax.xml.stream.XMLStreamReader","methodName":"getPITarget","signature":"\u003cjavax.xml.stream.XMLStreamReader: java.lang.String getPITarget()\u003e","javadoc":"/** \n * Get the target of a processing instruction\n * @return the target or null\n */\n","tf":{"freq":{"process":1,"instruct":1,"target":3},"maxFreq":3,"totalTerms":5},"loc":0}

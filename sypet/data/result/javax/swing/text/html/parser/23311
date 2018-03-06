@@ -1,0 +1,1 @@
+{"id":23311,"className":"javax.swing.text.html.parser.AttributeList","methodName":"getModifier","signature":"\u003cjavax.swing.text.html.parser.AttributeList: int getModifier()\u003e","javadoc":"/** \n * @return attribute modifier\n * @see DTDConstants\n */\n","tf":{"freq":{"attribut":1,"modifi":2,"dconstant":1},"maxFreq":2,"totalTerms":4},"loc":3}

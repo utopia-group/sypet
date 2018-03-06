@@ -1,0 +1,1 @@
+{"id":16269,"className":"javax.swing.JMenuBar","methodName":"getUI","signature":"\u003cjavax.swing.JMenuBar: javax.swing.plaf.MenuBarUI getUI()\u003e","javadoc":"/** \n * Returns the menubar\u0027s current UI.\n * @see #setUI\n */\n","tf":{"freq":{"current":1,"menubar":1},"maxFreq":1,"totalTerms":2},"loc":3}

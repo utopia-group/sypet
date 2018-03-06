@@ -1,0 +1,1 @@
+{"id":14238,"className":"org.joda.time.format.DateTimeFormatterBuilder$TextField","methodName":"parseInto","signature":"\u003corg.joda.time.format.DateTimeFormatterBuilder$TextField: int parseInto(org.joda.time.format.DateTimeParserBucket,java.lang.CharSequence,int)\u003e","loc":56}

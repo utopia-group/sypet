@@ -1,0 +1,1 @@
+{"id":21654,"className":"javax.swing.text.DefaultEditorKit","methodName":"DefaultEditorKit","signature":"\u003cjavax.swing.text.DefaultEditorKit: void DefaultEditorKit()\u003e","javadoc":"/** \n * default constructor for DefaultEditorKit\n */\n","tf":{"freq":{"editor":2,"kit":2,"constructor":1},"maxFreq":2,"totalTerms":5},"loc":2}

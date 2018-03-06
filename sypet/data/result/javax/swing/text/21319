@@ -1,0 +1,1 @@
+{"id":21319,"className":"javax.swing.text.JTextComponent$InputMethodRequestsHandler","methodName":"getLocationOffset","signature":"\u003cjavax.swing.text.JTextComponent$InputMethodRequestsHandler: java.awt.font.TextHitInfo getLocationOffset(int,int)\u003e","loc":16}

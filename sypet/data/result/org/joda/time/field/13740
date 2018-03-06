@@ -1,0 +1,1 @@
+{"id":13740,"className":"org.joda.time.field.PreciseDurationField","methodName":"hashCode","signature":"\u003corg.joda.time.field.PreciseDurationField: int hashCode()\u003e","javadoc":"/** \n * Gets a hash code for this instance.\n * @return a suitable hashcode\n */\n","tf":{"freq":{"hash":2,"suitabl":1,"hashcod":1,"instanc":1},"maxFreq":2,"totalTerms":5},"loc":6}

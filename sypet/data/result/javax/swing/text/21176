@@ -1,0 +1,1 @@
+{"id":21176,"className":"","methodName":"dropLocationForPoint","signature":"\u003c: javax.swing.TransferHandler$DropLocation dropLocationForPoint(javax.swing.text.JTextComponent,java.awt.Point)\u003e","loc":3}

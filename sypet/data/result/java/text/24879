@@ -1,0 +1,1 @@
+{"id":24879,"className":"java.text.RuleBasedCollator","methodName":"clone","signature":"\u003cjava.text.RuleBasedCollator: java.lang.Object clone()\u003e","javadoc":"/** \n * Standard override; no change in semantics.\n */\n","tf":{"freq":{"clone":1,"standard":1,"semant":1,"chang":1},"maxFreq":1,"totalTerms":4},"loc":17}

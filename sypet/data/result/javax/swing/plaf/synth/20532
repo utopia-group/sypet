@@ -1,0 +1,1 @@
+{"id":20532,"className":"javax.swing.plaf.synth.SynthStyle","methodName":"SynthStyle","signature":"\u003cjavax.swing.plaf.synth.SynthStyle: void SynthStyle()\u003e","javadoc":"/** \n * Constructs a SynthStyle.\n */\n","tf":{"freq":{"style":2,"synth":2,"construct":1},"maxFreq":2,"totalTerms":5},"loc":2}

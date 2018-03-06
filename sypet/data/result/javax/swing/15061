@@ -1,0 +1,1 @@
+{"id":15061,"className":"javax.swing.DefaultListModel","methodName":"setSize","signature":"\u003cjavax.swing.DefaultListModel: void setSize(int)\u003e","javadoc":"/** \n * Sets the size of this list.\n * @param newSize   the new size of this list\n * @see Vector#setSize(int)\n */\n","tf":{"freq":{"vector":1,"list":2,"size":5},"maxFreq":5,"totalTerms":8},"loc":10}

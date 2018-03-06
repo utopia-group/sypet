@@ -1,0 +1,1 @@
+{"id":11890,"className":"java.net.InMemoryCookieStore","methodName":"removeAll","signature":"\u003cjava.net.InMemoryCookieStore: boolean removeAll()\u003e","javadoc":"/** \n * Remove all cookies in this cookie store.\n */\n","tf":{"freq":{"store":1,"cooki":2,"remov":2},"maxFreq":2,"totalTerms":5},"loc":12}

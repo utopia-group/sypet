@@ -1,0 +1,1 @@
+{"id":19126,"className":"org.apache.commons.math3.util.Pair","methodName":"getValue","signature":"\u003corg.apache.commons.math3.util.Pair: V getValue()\u003e","javadoc":"/** \n * Get the value.\n * @return the value (second element of the pair).\n */\n","tf":{"freq":{"element":1,"second":1,"pair":1,"valu":3},"maxFreq":3,"totalTerms":6},"loc":3}

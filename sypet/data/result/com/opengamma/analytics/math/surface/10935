@@ -1,0 +1,1 @@
+{"id":10935,"className":"com.opengamma.analytics.math.surface.Surface","methodName":"Surface","signature":"\u003ccom.opengamma.analytics.math.surface.Surface: void Surface()\u003e","javadoc":"/** \n * Constructs a surface with an automatically-generated name\n */\n","tf":{"freq":{"surfac":2,"name":1,"generat":1,"construct":1,"automat":1},"maxFreq":2,"totalTerms":6},"loc":3}

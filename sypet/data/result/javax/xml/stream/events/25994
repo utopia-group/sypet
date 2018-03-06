@@ -1,0 +1,1 @@
+{"id":25994,"className":"javax.xml.stream.events.NotationDeclaration","methodName":"getName","signature":"\u003cjavax.xml.stream.events.NotationDeclaration: java.lang.String getName()\u003e","javadoc":"/** \n * The notation name.\n */\n","tf":{"freq":{"notat":1,"name":2},"maxFreq":2,"totalTerms":3},"loc":0}

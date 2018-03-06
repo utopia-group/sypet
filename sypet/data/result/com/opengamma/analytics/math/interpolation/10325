@@ -1,0 +1,1 @@
+{"id":10325,"className":"com.opengamma.analytics.math.interpolation.CombinedInterpolatorExtrapolator","methodName":"getRightExtrapolator","signature":"\u003ccom.opengamma.analytics.math.interpolation.CombinedInterpolatorExtrapolator: com.opengamma.analytics.math.interpolation.Interpolator1D getRightExtrapolator()\u003e","loc":3}

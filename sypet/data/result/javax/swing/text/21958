@@ -1,0 +1,1 @@
+{"id":21958,"className":"javax.swing.text.StyleContext$SmallAttributeSet","methodName":"toString","signature":"\u003cjavax.swing.text.StyleContext$SmallAttributeSet: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a string showing the key/value pairs\n */\n","tf":{"freq":{"pair":1,"string":2,"valu":1,"show":1,"key":1},"maxFreq":2,"totalTerms":6},"loc":14}

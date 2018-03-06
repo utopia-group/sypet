@@ -1,0 +1,1 @@
+{"id":19379,"className":"javax.swing.plaf.metal.MetalComboBoxEditor$EditorBorder","methodName":"getBorderInsets","signature":"\u003cjavax.swing.plaf.metal.MetalComboBoxEditor$EditorBorder: java.awt.Insets getBorderInsets(java.awt.Component,java.awt.Insets)\u003e","loc":4}

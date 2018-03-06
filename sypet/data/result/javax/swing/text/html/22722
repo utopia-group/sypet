@@ -1,0 +1,1 @@
+{"id":22722,"className":"javax.swing.text.html.Option","methodName":"isSelected","signature":"\u003cjavax.swing.text.html.Option: boolean isSelected()\u003e","javadoc":"/** \n * Fetches the selection state associated with this option.\n */\n","tf":{"freq":{"fetch":1,"associ":1,"select":2,"state":1,"option":1},"maxFreq":2,"totalTerms":6},"loc":3}

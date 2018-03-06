@@ -1,0 +1,1 @@
+{"id":10640,"className":"javax.management.relation.RoleUnresolvedList","methodName":"addAll","signature":"\u003cjavax.management.relation.RoleUnresolvedList: boolean addAll(java.util.Collection)\u003e","loc":7}

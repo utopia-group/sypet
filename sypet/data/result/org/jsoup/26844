@@ -1,0 +1,1 @@
+{"id":26844,"className":"org.jsoup.Connection$Base","methodName":"url","signature":"\u003corg.jsoup.Connection$Base: T url(java.net.URL)\u003e","javadoc":"/** \n * Set the URL\n * @param url new URL\n * @return this, for chaining\n */\n","tf":{"freq":{"chain":1,"url":2},"maxFreq":2,"totalTerms":3},"loc":0}

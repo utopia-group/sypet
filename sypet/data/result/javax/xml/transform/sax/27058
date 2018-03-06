@@ -1,0 +1,1 @@
+{"id":27058,"className":"javax.xml.transform.sax.SAXResult","methodName":"SAXResult","signature":"\u003cjavax.xml.transform.sax.SAXResult: void SAXResult()\u003e","javadoc":"/** \n * Zero-argument default constructor.\n */\n","tf":{"freq":{"argument":1,"result":1,"zero":1,"constructor":1},"maxFreq":1,"totalTerms":4},"loc":2}

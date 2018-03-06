@@ -1,0 +1,1 @@
+{"id":20073,"className":"org.apache.commons.math3.geometry.partitioning.utilities.AVLTree","methodName":"AVLTree","signature":"\u003corg.apache.commons.math3.geometry.partitioning.utilities.AVLTree: void AVLTree()\u003e","javadoc":"/** \n * Build an empty tree.\n */\n","tf":{"freq":{"tree":2,"build":1,"empti":1},"maxFreq":2,"totalTerms":4},"loc":3}

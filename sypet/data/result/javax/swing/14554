@@ -1,0 +1,1 @@
+{"id":14554,"className":"javax.swing.SwingWorker","methodName":"run","signature":"\u003cjavax.swing.SwingWorker: void run()\u003e","javadoc":"/** \n * Sets this  {@code Future} to the result of computation unlessit has been cancelled.\n */\n","tf":{"freq":{"result":1,"unlessit":1,"futur":1,"comput":1,"cancel":1,"run":1},"maxFreq":1,"totalTerms":6},"loc":3}

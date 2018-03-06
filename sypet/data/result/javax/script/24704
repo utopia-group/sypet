@@ -1,0 +1,1 @@
+{"id":24704,"className":"javax.script.SimpleBindings","methodName":"containsValue","signature":"\u003cjavax.script.SimpleBindings: boolean containsValue(java.lang.Object)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"contain":1,"valu":1},"maxFreq":1,"totalTerms":2},"loc":3}

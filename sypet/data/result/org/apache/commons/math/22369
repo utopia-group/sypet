@@ -1,0 +1,1 @@
+{"id":22369,"className":"org.apache.commons.math.ConvergenceException","methodName":"ConvergenceException","signature":"\u003corg.apache.commons.math.ConvergenceException: void ConvergenceException()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"except":1,"converg":1,"constructor":1},"maxFreq":1,"totalTerms":3},"loc":3}

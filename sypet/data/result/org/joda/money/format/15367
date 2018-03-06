@@ -1,0 +1,1 @@
+{"id":15367,"className":"org.joda.money.format.LiteralPrinterParser","methodName":"print","signature":"\u003corg.joda.money.format.LiteralPrinterParser: void print(org.joda.money.format.MoneyPrintContext,java.lang.Appendable,org.joda.money.BigMoney)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":16574,"className":"javax.swing.border.TitledBorder","methodName":"getTitleColor","signature":"\u003cjavax.swing.border.TitledBorder: java.awt.Color getTitleColor()\u003e","javadoc":"/** \n * Returns the title-color of the titled border.\n * @return the title-color of the titled border\n */\n","tf":{"freq":{"color":3,"titl":5,"border":2},"maxFreq":5,"totalTerms":10},"loc":3}

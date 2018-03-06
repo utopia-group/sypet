@@ -1,0 +1,1 @@
+{"id":13715,"className":"org.joda.time.field.DelegatedDateTimeField","methodName":"getMinimumValue","signature":"\u003corg.joda.time.field.DelegatedDateTimeField: int getMinimumValue(org.joda.time.ReadablePartial)\u003e","loc":3}

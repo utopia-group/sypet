@@ -1,0 +1,1 @@
+{"id":11103,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getZIndex","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getZIndex()\u003e","javadoc":"/** \n * See the z-index property definition in CSS2.\n */\n","tf":{"freq":{"index":1,"definit":1,"properti":1,"zindex":1},"maxFreq":1,"totalTerms":4},"loc":0}

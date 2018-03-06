@@ -1,0 +1,1 @@
+{"id":17351,"className":"javax.swing.undo.StateEdit","methodName":"getPresentationName","signature":"\u003cjavax.swing.undo.StateEdit: java.lang.String getPresentationName()\u003e","javadoc":"/** \n * Gets the presentation name for this edit\n */\n","tf":{"freq":{"present":2,"name":2,"edit":1},"maxFreq":2,"totalTerms":5},"loc":3}

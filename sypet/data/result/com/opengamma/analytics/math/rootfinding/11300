@@ -1,0 +1,1 @@
+{"id":11300,"className":"com.opengamma.analytics.math.rootfinding.NewtonRaphsonSingleRootFinder","methodName":"getRoot","signature":"\u003ccom.opengamma.analytics.math.rootfinding.NewtonRaphsonSingleRootFinder: java.lang.Double getRoot(com.opengamma.analytics.math.function.Function1D,java.lang.Double)\u003e","loc":6}

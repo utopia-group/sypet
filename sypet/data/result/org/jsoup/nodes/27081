@@ -1,0 +1,1 @@
+{"id":27081,"className":"org.jsoup.nodes.Node","methodName":"parent","signature":"\u003corg.jsoup.nodes.Node: org.jsoup.nodes.Node parent()\u003e","javadoc":"/** \n * Gets this node\u0027s parent node.\n * @return parent node; or null if no parent.\n */\n","tf":{"freq":{"node":3,"parent":4},"maxFreq":4,"totalTerms":7},"loc":3}

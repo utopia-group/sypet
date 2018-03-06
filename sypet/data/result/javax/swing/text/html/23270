@@ -1,0 +1,1 @@
+{"id":23270,"className":"javax.swing.text.html.StyleSheet$SelectorMapping","methodName":"setStyle","signature":"\u003cjavax.swing.text.html.StyleSheet$SelectorMapping: void setStyle(javax.swing.text.Style)\u003e","javadoc":"/** \n * Sets the Style associated with this mapping.\n */\n","tf":{"freq":{"style":2,"associ":1,"map":1},"maxFreq":2,"totalTerms":4},"loc":3}

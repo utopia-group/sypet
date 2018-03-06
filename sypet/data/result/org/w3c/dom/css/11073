@@ -1,0 +1,1 @@
+{"id":11073,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getTextAlign","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getTextAlign()\u003e","javadoc":"/** \n * See the text-align property definition in CSS2.\n */\n","tf":{"freq":{"text":2,"definit":1,"align":2,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

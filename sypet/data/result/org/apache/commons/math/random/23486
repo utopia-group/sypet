@@ -1,0 +1,1 @@
+{"id":23486,"className":"org.apache.commons.math.random.ValueServer","methodName":"getSigma","signature":"\u003corg.apache.commons.math.random.ValueServer: double getSigma()\u003e","javadoc":"/** \n * Getter for property sigma.\n * @return Value of property sigma.\n */\n","tf":{"freq":{"getter":1,"sigma":3,"valu":1,"properti":2},"maxFreq":3,"totalTerms":7},"loc":3}

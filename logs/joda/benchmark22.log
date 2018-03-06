@@ -1,0 +1,95 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/joda/22/benchmark22.json
+     [java] Benchmark Id: 22
+     [java] Method name: getAge
+     [java] Packages: [org.joda.time]
+     [java] Libraries: [./lib/joda-time-2.8.2.jar]
+     [java] Source type(s): [org.joda.time.DateTime]
+     [java] Target type: int
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] Warning: org.joda.convert.ToString is a phantom class!
+     [java] Warning: org.joda.convert.FromString is a phantom class!
+     [java] PetriNet for path length: 2 [places: 131 ; transitions: 2582 ; edges: 6674]
+     [java] PetriNet for path length: 3 [places: 161 ; transitions: 2827 ; edges: 7350]
+     [java] PetriNet for path length: 4 [places: 162 ; transitions: 2829 ; edges: 7356]
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.DateMidnight sypet_var327 = sypet_arg0.toDateMidnight();org.joda.time.LocalDate sypet_var328 = sypet_var327.toLocalDate();int sypet_var329 = sypet_var328.getEra();return sypet_var329;}
+     [java] 	              ^^^^^^^^^^^^
+     [java] The type DateMidnight is deprecated
+     [java] ----------
+     [java] 2. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.DateMidnight sypet_var327 = sypet_arg0.toDateMidnight();org.joda.time.LocalDate sypet_var328 = sypet_var327.toLocalDate();int sypet_var329 = sypet_var328.getEra();return sypet_var329;}
+     [java] 	                                                     ^^^^^^^^^^^^^^^^
+     [java] The method toDateMidnight() from the type DateTime is deprecated
+     [java] ----------
+     [java] 3. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.DateMidnight sypet_var327 = sypet_arg0.toDateMidnight();org.joda.time.LocalDate sypet_var328 = sypet_var327.toLocalDate();int sypet_var329 = sypet_var328.getEra();return sypet_var329;}
+     [java] 	                                                                                                                          ^^^^^^^^^^^^^
+     [java] The method toLocalDate() from the type DateMidnight is deprecated
+     [java] ----------
+     [java] 3 problems (3 warnings)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.YearMonthDay sypet_var375 = sypet_arg0.toYearMonthDay();org.joda.time.LocalDate sypet_var376 = sypet_var375.toLocalDate();int sypet_var377 = sypet_var376.getEra();return sypet_var377;}
+     [java] 	              ^^^^^^^^^^^^
+     [java] The type YearMonthDay is deprecated
+     [java] ----------
+     [java] 2. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.YearMonthDay sypet_var375 = sypet_arg0.toYearMonthDay();org.joda.time.LocalDate sypet_var376 = sypet_var375.toLocalDate();int sypet_var377 = sypet_var376.getEra();return sypet_var377;}
+     [java] 	                                                     ^^^^^^^^^^^^^^^^
+     [java] The method toYearMonthDay() from the type DateTime is deprecated
+     [java] ----------
+     [java] 3. WARNING in /Source.java (at line 3)
+     [java] 	org.joda.time.YearMonthDay sypet_var375 = sypet_arg0.toYearMonthDay();org.joda.time.LocalDate sypet_var376 = sypet_var375.toLocalDate();int sypet_var377 = sypet_var376.getEra();return sypet_var377;}
+     [java] 	                                                                                                                          ^^^^^^^^^^^^^
+     [java] The method toLocalDate() from the type YearMonthDay is deprecated
+     [java] ----------
+     [java] 3 problems (3 warnings)
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 22
+     [java] Sketch Generation Time: 3139.0842169999996
+     [java] Sketch Completion Time: 90.14794299999997
+     [java] Compilation Time: 6521.855628
+     [java] Running Test cases Time: 4678.193217999999
+     [java] Synthesis Time: 7907.425377999999
+     [java] Total Time: 14429.281006
+     [java] Number of components: 3
+     [java] Number of holes: 4
+     [java] Number of completed programs: 288
+     [java] Number of sketches: 142
+     [java] 
+     [java] Solution:
+     [java]  org.joda.time.DateTime sypet_var461 = org.joda.time.DateTime.now();
+     [java]  org.joda.time.Years sypet_var462 = org.joda.time.Years.yearsBetween(sypet_arg0,sypet_var461);
+     [java]  int sypet_var463 = sypet_var462.getYears();
+     [java]  return sypet_var463;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 22 seconds

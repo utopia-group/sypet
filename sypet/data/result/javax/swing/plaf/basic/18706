@@ -1,0 +1,1 @@
+{"id":18706,"className":"javax.swing.plaf.basic.BasicToolBarUI","methodName":"setFloatingColor","signature":"\u003cjavax.swing.plaf.basic.BasicToolBarUI: void setFloatingColor(java.awt.Color)\u003e","javadoc":"/** \n * Sets the color displayed when over a floating area\n */\n","tf":{"freq":{"area":1,"color":2,"display":1},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":16629,"className":"javax.swing.border.LineBorder","methodName":"getLineColor","signature":"\u003cjavax.swing.border.LineBorder: java.awt.Color getLineColor()\u003e","javadoc":"/** \n * Returns the color of the border.\n */\n","tf":{"freq":{"color":2,"line":1,"border":1},"maxFreq":2,"totalTerms":4},"loc":3}

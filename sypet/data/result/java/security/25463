@@ -1,0 +1,1 @@
+{"id":25463,"className":"java.security.Permissions","methodName":"Permissions","signature":"\u003cjava.security.Permissions: void Permissions()\u003e","javadoc":"/** \n * Creates a new Permissions object containing no PermissionCollections.\n */\n","tf":{"freq":{"creat":1,"contain":1,"permiss":3,"object":1,"collect":1},"maxFreq":3,"totalTerms":7},"loc":4}

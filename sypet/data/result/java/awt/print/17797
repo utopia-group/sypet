@@ -1,0 +1,1 @@
+{"id":17797,"className":"java.awt.print.PrinterJob","methodName":"getUserName","signature":"\u003cjava.awt.print.PrinterJob: java.lang.String getUserName()\u003e","javadoc":"/** \n * Gets the name of the printing user.\n * @return the name of the printing user\n */\n","tf":{"freq":{"name":3,"user":3,"print":2},"maxFreq":3,"totalTerms":8},"loc":0}

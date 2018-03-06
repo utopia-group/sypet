@@ -1,0 +1,1 @@
+{"id":20988,"className":"java.util.TreeMap","methodName":"pollFirstEntry","signature":"\u003cjava.util.TreeMap: java.util.Map$Entry\u003cK,V\u003e pollFirstEntry()\u003e","javadoc":"/** \n * @since 1.6\n */\n","tf":{"freq":{"poll":1,"entri":1,"first":1},"maxFreq":1,"totalTerms":3},"loc":7}

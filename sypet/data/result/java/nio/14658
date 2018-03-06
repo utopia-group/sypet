@@ -1,0 +1,1 @@
+{"id":14658,"className":"java.nio.Buffer","methodName":"position","signature":"\u003cjava.nio.Buffer: int position()\u003e","javadoc":"/** \n * Returns this buffer\u0027s position. \u003c/p\u003e\n * @return  The position of this buffer\n */\n","tf":{"freq":{"buffer":2,"posit":3},"maxFreq":3,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":21310,"className":"javax.swing.text.JTextComponent$MutableCaretEvent","methodName":"mouseClicked","signature":"\u003cjavax.swing.text.JTextComponent$MutableCaretEvent: void mouseClicked(java.awt.event.MouseEvent)\u003e","loc":2}

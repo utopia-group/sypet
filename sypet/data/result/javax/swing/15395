@@ -1,0 +1,1 @@
+{"id":15395,"className":"javax.swing.DebugGraphics","methodName":"create","signature":"\u003cjavax.swing.DebugGraphics: java.awt.Graphics create()\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.create\u003c/code\u003e to return a DebugGraphics object.\n */\n","tf":{"freq":{"graphic":2,"creat":2,"object":1,"debug":1},"maxFreq":2,"totalTerms":6},"loc":10}

@@ -1,0 +1,1 @@
+{"id":21883,"className":"java.util.Collections$UnmodifiableList","methodName":"addAll","signature":"\u003cjava.util.Collections$UnmodifiableList: boolean addAll(int,java.util.Collection)\u003e","loc":3}

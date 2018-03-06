@@ -1,0 +1,1 @@
+{"id":20316,"className":"javax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter","methodName":"paintTreeBorder","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter: void paintTreeBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":5}

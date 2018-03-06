@@ -1,0 +1,1 @@
+{"id":10357,"className":"javax.management.OrQueryExp","methodName":"getRightExp","signature":"\u003cjavax.management.OrQueryExp: javax.management.QueryExp getRightExp()\u003e","javadoc":"/** \n * Returns the right query expression.\n */\n","tf":{"freq":{"queri":1,"exp":1,"express":1,"right":2},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":14231,"className":"java.lang.reflect.ReflectAccess","methodName":"newConstructor","signature":"\u003cjava.lang.reflect.ReflectAccess: java.lang.reflect.Constructor\u003cT\u003e newConstructor(java.lang.Class,java.lang.Class\u003c?\u003e[],java.lang.Class\u003c?\u003e[],int,int,java.lang.String,byte[],byte[])\u003e","loc":10}

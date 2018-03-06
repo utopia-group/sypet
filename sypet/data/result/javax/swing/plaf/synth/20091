@@ -1,0 +1,1 @@
+{"id":20091,"className":"javax.swing.plaf.synth.ImagePainter","methodName":"paintTabbedPaneBackground","signature":"\u003cjavax.swing.plaf.synth.ImagePainter: void paintTabbedPaneBackground(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":27073,"className":"org.jsoup.nodes.Node","methodName":"setBaseUri","signature":"\u003corg.jsoup.nodes.Node: void setBaseUri(java.lang.String)\u003e","javadoc":"/** \n * Update the base URI of this node and all of its descendants.\n * @param baseUri base URI to set\n */\n","tf":{"freq":{"node":1,"updat":1,"base":4,"descend":1,"uri":2},"maxFreq":4,"totalTerms":9},"loc":12}

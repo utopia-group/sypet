@@ -1,0 +1,1 @@
+{"id":21435,"className":"javax.swing.text.DefaultStyledDocument$SectionElement","methodName":"SectionElement","signature":"\u003cjavax.swing.text.DefaultStyledDocument$SectionElement: void SectionElement()\u003e","javadoc":"/** \n * Creates a new SectionElement.\n */\n","tf":{"freq":{"element":2,"creat":1,"section":2},"maxFreq":2,"totalTerms":5},"loc":3}

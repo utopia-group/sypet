@@ -1,0 +1,1 @@
+{"id":25779,"className":"java.security.spec.ECFieldFp","methodName":"getP","signature":"\u003cjava.security.spec.ECFieldFp: java.math.BigInteger getP()\u003e","javadoc":"/** \n * Returns the prime \u003ccode\u003ep\u003c/code\u003e of this prime finite field.\n * @return the prime.\n */\n","tf":{"freq":{"field":1,"prime":3,"finit":1},"maxFreq":3,"totalTerms":5},"loc":3}

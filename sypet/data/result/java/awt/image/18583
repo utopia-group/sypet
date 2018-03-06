@@ -1,0 +1,1 @@
+{"id":18583,"className":"java.awt.image.DataBuffer","methodName":"getSize","signature":"\u003cjava.awt.image.DataBuffer: int getSize()\u003e","javadoc":"/** \n * Returns the size (in array elements) of all banks.\n * @return the size of all banks.\n */\n","tf":{"freq":{"element":1,"bank":2,"array":1,"size":3},"maxFreq":3,"totalTerms":7},"loc":3}

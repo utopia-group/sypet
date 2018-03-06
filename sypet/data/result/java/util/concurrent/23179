@@ -1,0 +1,1 @@
+{"id":23179,"className":"java.util.concurrent.SynchronousQueue","methodName":"clear","signature":"\u003cjava.util.concurrent.SynchronousQueue: void clear()\u003e","javadoc":"/** \n * Does nothing. A \u003ctt\u003eSynchronousQueue\u003c/tt\u003e has no internal capacity.\n */\n","tf":{"freq":{"clear":1,"queue":1,"intern":1,"noth":1,"capac":1},"maxFreq":1,"totalTerms":5},"loc":2}

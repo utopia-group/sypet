@@ -1,0 +1,1 @@
+{"id":14557,"className":"javax.swing.SwingWorker","methodName":"getProgress","signature":"\u003cjavax.swing.SwingWorker: int getProgress()\u003e","javadoc":"/** \n * Returns the  {@code progress} bound property.\n * @return the progress bound property.\n */\n","tf":{"freq":{"progress":3,"properti":2,"bound":2},"maxFreq":3,"totalTerms":7},"loc":3}

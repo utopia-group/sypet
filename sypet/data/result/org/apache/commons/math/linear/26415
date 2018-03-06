@@ -1,0 +1,1 @@
+{"id":26415,"className":"org.apache.commons.math.linear.AbstractRealVector","methodName":"mapInv","signature":"\u003corg.apache.commons.math.linear.AbstractRealVector: org.apache.commons.math.linear.RealVector mapInv()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"map":1,"inv":1},"maxFreq":1,"totalTerms":2},"loc":3}

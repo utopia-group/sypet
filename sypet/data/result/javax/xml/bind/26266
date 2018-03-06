@@ -1,0 +1,1 @@
+{"id":26266,"className":"javax.xml.bind.JAXBException","methodName":"toString","signature":"\u003cjavax.xml.bind.JAXBException: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a short description of this JAXBException.\n */\n","tf":{"freq":{"except":1,"string":1,"descript":1},"maxFreq":1,"totalTerms":3},"loc":6}

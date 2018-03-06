@@ -1,0 +1,1 @@
+{"id":17256,"className":"java.awt.Scrollbar","methodName":"getVisible","signature":"\u003cjava.awt.Scrollbar: int getVisible()\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by \u003ccode\u003egetVisibleAmount()\u003c/code\u003e.\n */\n","tf":{"freq":{"amount":1,"deprec":1,"visibl":2,"replac":1,"version":1},"maxFreq":2,"totalTerms":6},"loc":3}

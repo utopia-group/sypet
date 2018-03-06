@@ -1,0 +1,1 @@
+{"id":17414,"className":"javax.swing.plaf.TabbedPaneUI","methodName":"tabForCoordinate","signature":"\u003cjavax.swing.plaf.TabbedPaneUI: int tabForCoordinate(javax.swing.JTabbedPane,int,int)\u003e","loc":0}

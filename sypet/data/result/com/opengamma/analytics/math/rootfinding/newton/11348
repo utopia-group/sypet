@@ -1,0 +1,1 @@
+{"id":11348,"className":"com.opengamma.analytics.math.rootfinding.newton.NewtonVectorRootFinder$DataBundle","methodName":"swapLambdaAndReplace","signature":"\u003ccom.opengamma.analytics.math.rootfinding.newton.NewtonVectorRootFinder$DataBundle: void swapLambdaAndReplace(double)\u003e","loc":4}

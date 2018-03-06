@@ -1,0 +1,1 @@
+{"id":13511,"className":"org.joda.time.base.AbstractPeriod","methodName":"hashCode","signature":"\u003corg.joda.time.base.AbstractPeriod: int hashCode()\u003e","javadoc":"/** \n * Gets a hash code for the period as defined by ReadablePeriod.\n * @return a hash code\n */\n","tf":{"freq":{"defin":1,"hash":3,"readabl":1,"period":2},"maxFreq":3,"totalTerms":7},"loc":8}

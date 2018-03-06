@@ -1,0 +1,1 @@
+{"id":11238,"className":"org.w3c.dom.ls.LSLoadEvent","methodName":"getInput","signature":"\u003corg.w3c.dom.ls.LSLoadEvent: org.w3c.dom.ls.LSInput getInput()\u003e","javadoc":"/** \n * The input source that was parsed.\n */\n","tf":{"freq":{"input":2,"sourc":1,"pars":1},"maxFreq":2,"totalTerms":4},"loc":0}

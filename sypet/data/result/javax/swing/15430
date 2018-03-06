@@ -1,0 +1,1 @@
+{"id":15430,"className":"javax.swing.DebugGraphics","methodName":"fillArc","signature":"\u003cjavax.swing.DebugGraphics: void fillArc(int,int,int,int,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.fillArc\u003c/code\u003e.\n */\n","tf":{"freq":{"graphic":1,"arc":2,"fill":2},"maxFreq":2,"totalTerms":5},"loc":32}

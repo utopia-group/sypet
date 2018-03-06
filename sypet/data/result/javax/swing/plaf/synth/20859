@@ -1,0 +1,1 @@
+{"id":20859,"className":"javax.swing.plaf.synth.SynthTreeUI","methodName":"getExpandedIcon","signature":"\u003cjavax.swing.plaf.synth.SynthTreeUI: javax.swing.Icon getExpandedIcon()\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"icon":1,"expand":1},"maxFreq":1,"totalTerms":2},"loc":3}

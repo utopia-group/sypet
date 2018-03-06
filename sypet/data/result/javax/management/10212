@@ -1,0 +1,1 @@
+{"id":10212,"className":"javax.management.AttributeList","methodName":"AttributeList","signature":"\u003cjavax.management.AttributeList: void AttributeList()\u003e","javadoc":"/** \n * Constructs an empty \u003cCODE\u003eAttributeList\u003c/CODE\u003e.\n */\n","tf":{"freq":{"attribut":2,"list":2,"construct":1,"empti":1},"maxFreq":2,"totalTerms":6},"loc":3}

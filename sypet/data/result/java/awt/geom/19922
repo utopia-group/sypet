@@ -1,0 +1,1 @@
+{"id":19922,"className":"java.awt.geom.QuadCurve2D$Float","methodName":"getY1","signature":"\u003cjava.awt.geom.QuadCurve2D$Float: double getY1()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","loc":3}

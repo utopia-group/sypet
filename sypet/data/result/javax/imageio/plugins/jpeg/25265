@@ -1,0 +1,1 @@
+{"id":25265,"className":"javax.imageio.plugins.jpeg.JPEGImageWriteParam","methodName":"getCompressionQualityValues","signature":"\u003cjavax.imageio.plugins.jpeg.JPEGImageWriteParam: float[] getCompressionQualityValues()\u003e","loc":11}

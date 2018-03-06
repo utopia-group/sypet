@@ -1,0 +1,1 @@
+{"id":10808,"className":"org.w3c.dom.traversal.NodeIterator","methodName":"getFilter","signature":"\u003corg.w3c.dom.traversal.NodeIterator: org.w3c.dom.traversal.NodeFilter getFilter()\u003e","javadoc":"/** \n * The \u003ccode\u003eNodeFilter\u003c/code\u003e used to screen nodes.\n */\n","tf":{"freq":{"screen":1,"node":2,"use":1,"filter":2},"maxFreq":2,"totalTerms":6},"loc":0}

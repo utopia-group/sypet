@@ -1,0 +1,1 @@
+{"id":24850,"className":"java.text.DecimalFormatSymbols","methodName":"setDigit","signature":"\u003cjava.text.DecimalFormatSymbols: void setDigit(char)\u003e","javadoc":"/** \n * Sets the character used for a digit in a pattern.\n */\n","tf":{"freq":{"digit":2,"pattern":1,"charact":1,"use":1},"maxFreq":2,"totalTerms":5},"loc":3}

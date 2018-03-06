@@ -1,0 +1,1 @@
+{"id":12273,"className":"org.joda.time.YearMonthDay","methodName":"toString","signature":"\u003corg.joda.time.YearMonthDay: java.lang.String toString()\u003e","javadoc":"/** \n * Output the date in the ISO8601 format YYYY-MM-DD.\n * @return ISO8601 formatted string\n */\n","tf":{"freq":{"string":2,"format":2,"date":1,"output":1},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":21987,"className":"javax.swing.text.StyleContext$NamedStyle","methodName":"toString","signature":"\u003cjavax.swing.text.StyleContext$NamedStyle: java.lang.String toString()\u003e","javadoc":"/** \n * Converts the style to a string.\n * @return the string\n */\n","tf":{"freq":{"style":1,"string":3,"convert":1},"maxFreq":3,"totalTerms":5},"loc":3}

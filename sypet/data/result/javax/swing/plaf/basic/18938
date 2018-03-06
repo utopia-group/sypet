@@ -1,0 +1,1 @@
+{"id":18938,"className":"javax.swing.plaf.basic.BasicComboPopup$ListDataHandler","methodName":"intervalRemoved","signature":"\u003cjavax.swing.plaf.basic.BasicComboPopup$ListDataHandler: void intervalRemoved(javax.swing.event.ListDataEvent)\u003e","loc":2}

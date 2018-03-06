@@ -1,0 +1,1 @@
+{"id":11299,"className":"java.io.FileSystem","methodName":"compare","signature":"\u003cjava.io.FileSystem: int compare(java.io.File,java.io.File)\u003e","javadoc":"/** \n * Compare two abstract pathnames lexicographically.\n */\n","tf":{"freq":{"two":1,"pathnam":1,"lexicograph":1,"compar":2},"maxFreq":2,"totalTerms":5},"loc":0}

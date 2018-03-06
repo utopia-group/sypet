@@ -1,0 +1,1 @@
+{"id":16164,"className":"org.apache.commons.math3.ml.neuralnet.oned.NeuronString","methodName":"getSize","signature":"\u003corg.apache.commons.math3.ml.neuralnet.oned.NeuronString: int getSize()\u003e","javadoc":"/** \n * Gets the number of neurons.\n * @return the number of neurons.\n */\n","tf":{"freq":{"number":2,"neuron":2,"size":1},"maxFreq":2,"totalTerms":5},"loc":3}

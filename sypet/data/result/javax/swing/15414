@@ -1,0 +1,1 @@
+{"id":15414,"className":"javax.swing.DebugGraphics","methodName":"getClipBounds","signature":"\u003cjavax.swing.DebugGraphics: java.awt.Rectangle getClipBounds()\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.getClipBounds\u003c/code\u003e.\n */\n","tf":{"freq":{"clip":2,"graphic":1,"bound":2},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":17068,"className":"javax.swing.filechooser.WindowsFileSystemView","methodName":"getHomeDirectory","signature":"\u003cjavax.swing.filechooser.WindowsFileSystemView: java.io.File getHomeDirectory()\u003e","javadoc":"/** \n * @return the Desktop folder.\n */\n","tf":{"freq":{"folder":1,"home":1,"directori":1,"desktop":1},"maxFreq":1,"totalTerms":4},"loc":3}

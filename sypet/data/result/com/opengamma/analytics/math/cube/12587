@@ -1,0 +1,1 @@
+{"id":12587,"className":"com.opengamma.analytics.math.cube.Cube","methodName":"Cube","signature":"\u003ccom.opengamma.analytics.math.cube.Cube: void Cube(java.lang.String)\u003e","javadoc":"/** \n * Constructs a cube with the supplied name\n * @param name The name of the cube\n */\n","tf":{"freq":{"name":3,"suppli":1,"construct":1,"cube":3},"maxFreq":3,"totalTerms":8},"loc":3}

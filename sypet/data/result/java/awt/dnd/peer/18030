@@ -1,0 +1,1 @@
+{"id":18030,"className":"java.awt.dnd.peer.DragSourceContextPeer","methodName":"startDrag","signature":"\u003cjava.awt.dnd.peer.DragSourceContextPeer: void startDrag(java.awt.dnd.DragSourceContext,java.awt.Cursor,java.awt.Image,java.awt.Point)\u003e","javadoc":"/** \n * start a drag\n */\n","tf":{"freq":{"start":2,"drag":2},"maxFreq":2,"totalTerms":4},"loc":0}

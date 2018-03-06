@@ -1,0 +1,1 @@
+{"id":22880,"className":"","methodName":"compare","signature":"\u003c: int compare(org.apache.commons.math.optimization.RealPointValuePair,org.apache.commons.math.optimization.RealPointValuePair)\u003e","loc":11}

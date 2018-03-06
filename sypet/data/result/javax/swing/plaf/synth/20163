@@ -1,0 +1,1 @@
+{"id":20163,"className":"javax.swing.plaf.synth.SynthTextAreaUI","methodName":"getContext","signature":"\u003cjavax.swing.plaf.synth.SynthTextAreaUI: javax.swing.plaf.synth.SynthContext getContext(javax.swing.JComponent)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"context":1},"maxFreq":1,"totalTerms":1},"loc":3}

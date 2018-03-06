@@ -1,0 +1,1 @@
+{"id":22736,"className":"javax.swing.text.html.BlockView","methodName":"getAlignment","signature":"\u003cjavax.swing.text.html.BlockView: float getAlignment(int)\u003e","javadoc":"/** \n * Gets the alignment.\n * @param axis may be either X_AXIS or Y_AXIS\n * @return the alignment\n */\n","tf":{"freq":{"either":1,"may":1,"axi":1,"align":3},"maxFreq":3,"totalTerms":6},"loc":17}

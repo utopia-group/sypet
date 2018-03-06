@@ -1,0 +1,1 @@
+{"id":12406,"className":"javax.swing.ImageIcon","methodName":"setImage","signature":"\u003cjavax.swing.ImageIcon: void setImage(java.awt.Image)\u003e","javadoc":"/** \n * Sets the image displayed by this icon.\n * @param image the image\n */\n","tf":{"freq":{"icon":1,"display":1,"imag":4},"maxFreq":4,"totalTerms":6},"loc":4}

@@ -1,0 +1,1 @@
+{"id":10825,"className":"org.w3c.dom.css.Rect","methodName":"getBottom","signature":"\u003corg.w3c.dom.css.Rect: org.w3c.dom.css.CSSPrimitiveValue getBottom()\u003e","javadoc":"/** \n * This attribute is used for the bottom of the rect.\n */\n","tf":{"freq":{"attribut":1,"bottom":2,"use":1,"rect":1},"maxFreq":2,"totalTerms":5},"loc":0}

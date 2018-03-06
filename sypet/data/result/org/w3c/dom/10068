@@ -1,0 +1,1 @@
+{"id":10068,"className":"org.w3c.dom.DocumentType","methodName":"getPublicId","signature":"\u003corg.w3c.dom.DocumentType: java.lang.String getPublicId()\u003e","javadoc":"/** \n * The public identifier of the external subset.\n * @since DOM Level 2\n */\n","tf":{"freq":{"subset":1,"level":1,"extern":1,"identifi":1},"maxFreq":1,"totalTerms":4},"loc":0}

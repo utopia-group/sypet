@@ -1,0 +1,1 @@
+{"id":17936,"className":"javax.swing.plaf.basic.BasicSplitPaneUI","methodName":"setContinuousLayout","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneUI: void setContinuousLayout(boolean)\u003e","javadoc":"/** \n * Turn continuous layout on/off.\n */\n","tf":{"freq":{"turn":1,"layout":2,"continu":2},"maxFreq":2,"totalTerms":5},"loc":3}

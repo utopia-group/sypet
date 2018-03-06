@@ -1,0 +1,1 @@
+{"id":19235,"className":"java.awt.peer.ListPeer","methodName":"removeAll","signature":"\u003cjava.awt.peer.ListPeer: void removeAll()\u003e","javadoc":"/** \n * Removes all items from the list.\n * @see List#removeAll()\n */\n","tf":{"freq":{"item":1,"remov":3,"list":2},"maxFreq":3,"totalTerms":6},"loc":0}

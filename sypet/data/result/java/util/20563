@@ -1,0 +1,1 @@
+{"id":20563,"className":"java.util.Hashtable","methodName":"hashCode","signature":"\u003cjava.util.Hashtable: int hashCode()\u003e","javadoc":"/** \n * Returns the hash code value for this Map as per the definition in the Map interface.\n * @see Map#hashCode()\n * @since 1.2\n */\n","tf":{"freq":{"per":1,"hash":3,"definit":1,"map":3,"valu":1},"maxFreq":3,"totalTerms":9},"loc":24}

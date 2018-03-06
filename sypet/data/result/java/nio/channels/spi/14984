@@ -1,0 +1,1 @@
+{"id":14984,"className":"java.nio.channels.spi.AbstractSelectableChannel","methodName":"isRegistered","signature":"\u003cjava.nio.channels.spi.AbstractSelectableChannel: boolean isRegistered()\u003e","loc":5}

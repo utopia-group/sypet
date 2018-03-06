@@ -1,0 +1,1 @@
+{"id":15131,"className":"org.joda.money.CurrencyUnit","methodName":"isPseudoCurrency","signature":"\u003corg.joda.money.CurrencyUnit: boolean isPseudoCurrency()\u003e","javadoc":"/** \n * Checks if this is a pseudo-currency.\n * @return true if this is a pseudo-currency\n */\n","tf":{"freq":{"check":1,"pseudo":3,"currenc":3,"true":1},"maxFreq":3,"totalTerms":8},"loc":3}

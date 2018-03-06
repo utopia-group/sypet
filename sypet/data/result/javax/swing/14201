@@ -1,0 +1,1 @@
+{"id":14201,"className":"javax.swing.JViewport","methodName":"JViewport","signature":"\u003cjavax.swing.JViewport: void JViewport()\u003e","javadoc":"/** \n * Creates a \u003ccode\u003eJViewport\u003c/code\u003e. \n */\n","tf":{"freq":{"viewport":1,"creat":1,"jviewport":1},"maxFreq":1,"totalTerms":3},"loc":7}

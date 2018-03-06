@@ -1,0 +1,1 @@
+{"id":23487,"className":"org.apache.commons.math.random.ValueServer","methodName":"setSigma","signature":"\u003corg.apache.commons.math.random.ValueServer: void setSigma(double)\u003e","javadoc":"/** \n * Setter for property sigma.\n * @param sigma New value of property sigma.\n */\n","tf":{"freq":{"sigma":4,"setter":1,"valu":1,"properti":2},"maxFreq":4,"totalTerms":8},"loc":3}

@@ -1,0 +1,61 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/math/8/benchmark8.json
+     [java] Benchmark Id: 8
+     [java] Method name: predict
+     [java] Packages: [org.apache.commons.math.stat]
+     [java] Libraries: [./lib/commons-math-2.2.jar]
+     [java] Source type(s): [double[][], double]
+     [java] Target type: double
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] PetriNet for path length: 3 [places: 81 ; transitions: 856 ; edges: 2074]
+     [java] PetriNet for path length: 4 [places: 81 ; transitions: 856 ; edges: 2074]
+     [java] PetriNet for path length: 5 [places: 81 ; transitions: 856 ; edges: 2074]
+     [java] PetriNet for path length: 6 [places: 81 ; transitions: 856 ; edges: 2074]
+     [java] PetriNet for path length: 7 [places: 81 ; transitions: 856 ; edges: 2074]
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 8
+     [java] Sketch Generation Time: 1835.744036
+     [java] Sketch Completion Time: 33.9114
+     [java] Compilation Time: 1604.8372210000005
+     [java] Running Test cases Time: 696.9840629999998
+     [java] Synthesis Time: 2566.639499
+     [java] Total Time: 4171.476720000001
+     [java] Number of components: 5
+     [java] Number of holes: 5
+     [java] Number of completed programs: 51
+     [java] Number of sketches: 25
+     [java] 
+     [java] Solution:
+     [java]  org.apache.commons.math.stat.regression.SimpleRegression sypet_var142 = new org.apache.commons.math.stat.regression.SimpleRegression();
+     [java]  sypet_var142.addData(sypet_arg0);
+     [java]  double sypet_var144 = sypet_var142.predict(sypet_arg1);
+     [java]  return sypet_var144;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 10 seconds

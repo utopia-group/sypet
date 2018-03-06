@@ -1,0 +1,1 @@
+{"id":13514,"className":"javax.swing.DefaultButtonModel","methodName":"getSelectedObjects","signature":"\u003cjavax.swing.DefaultButtonModel: java.lang.Object[] getSelectedObjects()\u003e","javadoc":"/** \n * Overridden to return \u003ccode\u003enull\u003c/code\u003e. \n */\n","tf":{"freq":{"overridden":1,"select":1,"object":1},"maxFreq":1,"totalTerms":3},"loc":3}

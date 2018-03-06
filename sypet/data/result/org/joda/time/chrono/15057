@@ -1,0 +1,1 @@
+{"id":15057,"className":"org.joda.time.chrono.ZonedChronology","methodName":"hashCode","signature":"\u003corg.joda.time.chrono.ZonedChronology: int hashCode()\u003e","javadoc":"/** \n * A suitable hashcode for the chronology.\n * @return the hashcode\n * @since 1.4\n */\n","tf":{"freq":{"hash":1,"chronolog":1,"suitabl":1,"hashcod":2},"maxFreq":2,"totalTerms":5},"loc":3}

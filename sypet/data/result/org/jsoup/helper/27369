@@ -1,0 +1,1 @@
+{"id":27369,"className":"org.jsoup.helper.HttpConnection$Request","methodName":"validateTLSCertificates","signature":"\u003corg.jsoup.helper.HttpConnection$Request: boolean validateTLSCertificates()\u003e","loc":3}

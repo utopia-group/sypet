@@ -1,0 +1,1 @@
+{"id":25462,"className":"org.apache.commons.math.linear.RealVector$Entry","methodName":"getValue","signature":"\u003corg.apache.commons.math.linear.RealVector$Entry: double getValue()\u003e","javadoc":"/** \n * Get the value of the entry.\n * @return the value of the entry.\n */\n","tf":{"freq":{"entri":2,"valu":3},"maxFreq":3,"totalTerms":5},"loc":0}

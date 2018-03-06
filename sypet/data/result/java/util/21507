@@ -1,0 +1,1 @@
+{"id":21507,"className":"java.util.SimpleTimeZone","methodName":"setStartYear","signature":"\u003cjava.util.SimpleTimeZone: void setStartYear(int)\u003e","javadoc":"/** \n * Sets the daylight saving time starting year.\n * @param year  The daylight saving starting year.\n */\n","tf":{"freq":{"time":1,"save":2,"start":3,"year":4,"daylight":2},"maxFreq":4,"totalTerms":12},"loc":4}

@@ -1,0 +1,1 @@
+{"id":10182,"className":"com.opengamma.analytics.math.function.special.OrthogonalPolynomialFunctionGenerator","methodName":"getPolynomials","signature":"\u003ccom.opengamma.analytics.math.function.special.OrthogonalPolynomialFunctionGenerator: com.opengamma.analytics.math.function.DoubleFunction1D[] getPolynomials(int)\u003e","loc":0}

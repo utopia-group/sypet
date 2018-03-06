@@ -1,0 +1,1 @@
+{"id":10004,"className":"org.w3c.dom.DOMError","methodName":"getRelatedException","signature":"\u003corg.w3c.dom.DOMError: java.lang.Object getRelatedException()\u003e","javadoc":"/** \n * The related platform dependent exception if any.\n */\n","tf":{"freq":{"platform":1,"except":2,"depend":1,"relat":2},"maxFreq":2,"totalTerms":6},"loc":0}

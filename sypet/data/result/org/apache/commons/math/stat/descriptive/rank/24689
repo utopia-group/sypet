@@ -1,0 +1,1 @@
+{"id":24689,"className":"org.apache.commons.math.stat.descriptive.rank.Max","methodName":"copy","signature":"\u003corg.apache.commons.math.stat.descriptive.rank.Max: org.apache.commons.math.stat.descriptive.rank.Max copy()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"copi":1},"maxFreq":1,"totalTerms":1},"loc":5}

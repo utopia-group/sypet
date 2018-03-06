@@ -1,0 +1,1 @@
+{"id":20435,"className":"org.apache.commons.math3.geometry.euclidean.twod.Line","methodName":"revertSelf","signature":"\u003corg.apache.commons.math3.geometry.euclidean.twod.Line: void revertSelf()\u003e","javadoc":"/** \n * Revert the instance.\n */\n","tf":{"freq":{"revert":2,"self":1,"instanc":1},"maxFreq":2,"totalTerms":4},"loc":11}

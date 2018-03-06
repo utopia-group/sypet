@@ -1,0 +1,1 @@
+{"id":27732,"className":"javax.smartcardio.ATR","methodName":"getBytes","signature":"\u003cjavax.smartcardio.ATR: byte[] getBytes()\u003e","javadoc":"/** \n * Returns a copy of the bytes in this ATR.\n * @return a copy of the bytes in this ATR.\n */\n","tf":{"freq":{"copi":2},"maxFreq":2,"totalTerms":2},"loc":3}

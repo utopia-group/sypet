@@ -1,0 +1,1 @@
+{"id":24967,"className":"java.text.RuleBasedBreakIterator","methodName":"toString","signature":"\u003cjava.text.RuleBasedBreakIterator: java.lang.String toString()\u003e","javadoc":"/** \n * Returns text\n */\n","tf":{"freq":{"text":1,"string":1},"maxFreq":1,"totalTerms":2},"loc":7}

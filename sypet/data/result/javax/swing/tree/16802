@@ -1,0 +1,1 @@
+{"id":16802,"className":"javax.swing.tree.MutableTreeNode","methodName":"remove","signature":"\u003cjavax.swing.tree.MutableTreeNode: void remove(int)\u003e","javadoc":"/** \n * Removes the child at \u003ccode\u003eindex\u003c/code\u003e from the receiver.\n */\n","tf":{"freq":{"child":1,"index":1,"remov":2,"receiv":1},"maxFreq":2,"totalTerms":5},"loc":0}

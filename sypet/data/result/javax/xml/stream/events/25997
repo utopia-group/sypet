@@ -1,0 +1,1 @@
+{"id":25997,"className":"javax.xml.stream.events.Namespace","methodName":"getPrefix","signature":"\u003cjavax.xml.stream.events.Namespace: java.lang.String getPrefix()\u003e","javadoc":"/** \n * Gets the prefix, returns \"\" if this is a default namespace declaration.\n */\n","tf":{"freq":{"namespac":1,"declar":1,"prefix":2},"maxFreq":2,"totalTerms":4},"loc":0}

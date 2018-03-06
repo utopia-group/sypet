@@ -1,0 +1,1 @@
+{"id":17524,"className":"java.awt.Container","methodName":"countComponents","signature":"\u003cjava.awt.Container: int countComponents()\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by getComponentCount().\n */\n","tf":{"freq":{"deprec":1,"compon":2,"count":2,"replac":1,"version":1},"maxFreq":2,"totalTerms":7},"loc":6}

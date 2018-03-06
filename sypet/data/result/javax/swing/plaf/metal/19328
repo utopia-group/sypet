@@ -1,0 +1,1 @@
+{"id":19328,"className":"javax.swing.plaf.metal.MetalFileChooserUI$MetalFileChooserUIAccessor","methodName":"createDoubleClickListener","signature":"\u003cjavax.swing.plaf.metal.MetalFileChooserUI$MetalFileChooserUIAccessor: java.awt.event.MouseListener createDoubleClickListener(javax.swing.JList)\u003e","loc":4}

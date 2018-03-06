@@ -1,0 +1,1 @@
+{"id":24754,"className":"java.text.StringCharacterIterator","methodName":"hashCode","signature":"\u003cjava.text.StringCharacterIterator: int hashCode()\u003e","javadoc":"/** \n * Computes a hashcode for this iterator.\n * @return A hash code\n */\n","tf":{"freq":{"hash":2,"hashcod":1,"comput":1,"iter":1},"maxFreq":2,"totalTerms":5},"loc":3}

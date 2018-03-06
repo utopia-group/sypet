@@ -1,0 +1,1 @@
+{"id":28986,"className":"javax.sound.sampled.Port$Info","methodName":"getName","signature":"\u003cjavax.sound.sampled.Port$Info: java.lang.String getName()\u003e","javadoc":"/** \n * Obtains the name of the port.\n * @return the string that names the port\n */\n","tf":{"freq":{"port":2,"obtain":1,"string":1,"name":3},"maxFreq":3,"totalTerms":7},"loc":3}

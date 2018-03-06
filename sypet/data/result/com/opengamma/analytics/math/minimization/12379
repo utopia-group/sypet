@@ -1,0 +1,1 @@
+{"id":12379,"className":"com.opengamma.analytics.math.minimization.PositiveOrZero","methodName":"evaluate","signature":"\u003ccom.opengamma.analytics.math.minimization.PositiveOrZero: java.lang.Boolean evaluate(com.opengamma.analytics.math.matrix.DoubleMatrix1D)\u003e","loc":10}

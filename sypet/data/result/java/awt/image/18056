@@ -1,0 +1,1 @@
+{"id":18056,"className":"java.awt.image.ConvolveOp","methodName":"getRenderingHints","signature":"\u003cjava.awt.image.ConvolveOp: java.awt.RenderingHints getRenderingHints()\u003e","javadoc":"/** \n * Returns the rendering hints for this op.\n */\n","tf":{"freq":{"hint":2,"render":2},"maxFreq":2,"totalTerms":4},"loc":3}

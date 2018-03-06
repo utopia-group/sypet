@@ -1,0 +1,1 @@
+{"id":24749,"className":"java.text.StringCharacterIterator","methodName":"previous","signature":"\u003cjava.text.StringCharacterIterator: char previous()\u003e","javadoc":"/** \n * Implements CharacterIterator.previous() for String.\n * @see CharacterIterator#previous\n */\n","tf":{"freq":{"previous":3,"charact":2,"string":1,"iter":2},"maxFreq":3,"totalTerms":8},"loc":9}

@@ -1,0 +1,1 @@
+{"id":15799,"className":"javax.swing.AbstractCellEditor","methodName":"cancelCellEditing","signature":"\u003cjavax.swing.AbstractCellEditor: void cancelCellEditing()\u003e","javadoc":"/** \n * Calls \u003ccode\u003efireEditingCanceled\u003c/code\u003e.\n */\n","tf":{"freq":{"call":1,"cell":1,"edit":2,"cancel":2,"fire":1},"maxFreq":2,"totalTerms":7},"loc":3}

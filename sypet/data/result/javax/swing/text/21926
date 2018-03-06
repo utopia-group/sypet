@@ -1,0 +1,1 @@
+{"id":21926,"className":"javax.swing.text.DefaultCaret$DefaultFilterBypass","methodName":"moveDot","signature":"\u003cjavax.swing.text.DefaultCaret$DefaultFilterBypass: void moveDot(int,javax.swing.text.Position$Bias)\u003e","loc":3}

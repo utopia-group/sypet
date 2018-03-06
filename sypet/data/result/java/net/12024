@@ -1,0 +1,1 @@
+{"id":12024,"className":"java.net.HttpCookie","methodName":"clone","signature":"\u003cjava.net.HttpCookie: java.lang.Object clone()\u003e","javadoc":"/** \n * Create and return a copy of this object.\n * @return          a clone of this http cookie\n */\n","tf":{"freq":{"clone":2,"http":1,"creat":1,"cooki":1,"object":1,"copi":1},"maxFreq":2,"totalTerms":7},"loc":7}

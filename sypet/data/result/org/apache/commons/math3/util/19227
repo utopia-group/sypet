@@ -1,0 +1,1 @@
+{"id":19227,"className":"org.apache.commons.math3.util.Incrementor","methodName":"resetCount","signature":"\u003corg.apache.commons.math3.util.Incrementor: void resetCount()\u003e","javadoc":"/** \n * Resets the counter to 0.\n */\n","tf":{"freq":{"count":1,"counter":1,"reset":2},"maxFreq":2,"totalTerms":4},"loc":3}

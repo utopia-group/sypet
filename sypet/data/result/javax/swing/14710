@@ -1,0 +1,1 @@
+{"id":14710,"className":"javax.swing.JTable","methodName":"clearSelection","signature":"\u003cjavax.swing.JTable: void clearSelection()\u003e","javadoc":"/** \n * Deselects all selected columns and rows.\n */\n","tf":{"freq":{"clear":1,"select":2,"column":1,"deselect":1,"row":1},"maxFreq":2,"totalTerms":6},"loc":4}

@@ -1,0 +1,1 @@
+{"id":16727,"className":"java.awt.Dimension","methodName":"equals","signature":"\u003cjava.awt.Dimension: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * Checks whether two dimension objects have equal values.\n */\n","tf":{"freq":{"two":1,"check":1,"valu":1,"equal":2,"object":1,"dimens":1,"whether":1},"maxFreq":2,"totalTerms":8},"loc":7}

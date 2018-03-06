@@ -1,0 +1,1 @@
+{"id":10398,"className":"javax.management.ClassAttributeValueExp","methodName":"toString","signature":"\u003cjavax.management.ClassAttributeValueExp: java.lang.String toString()\u003e","javadoc":"/** \n * Returns the string \"Class\" representing its value\n */\n","tf":{"freq":{"repres":1,"string":2,"valu":1},"maxFreq":2,"totalTerms":4},"loc":3}

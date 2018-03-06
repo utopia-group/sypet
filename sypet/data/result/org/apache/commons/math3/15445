@@ -1,0 +1,1 @@
+{"id":15445,"className":"org.apache.commons.math3.RealFieldElement","methodName":"atanh","signature":"\u003corg.apache.commons.math3.RealFieldElement: T atanh()\u003e","javadoc":"/** \n * Inverse hyperbolic  tangent operation.\n * @return atanh(this)\n */\n","tf":{"freq":{"invers":1,"oper":1,"hyperbol":1,"tangent":1,"atanh":2},"maxFreq":2,"totalTerms":6},"loc":0}

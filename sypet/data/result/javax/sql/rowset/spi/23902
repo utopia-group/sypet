@@ -1,0 +1,1 @@
+{"id":23902,"className":"javax.sql.rowset.spi.ProviderImpl","methodName":"getDataSourceLock","signature":"\u003cjavax.sql.rowset.spi.ProviderImpl: int getDataSourceLock()\u003e","loc":12}

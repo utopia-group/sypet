@@ -1,0 +1,1 @@
+{"id":10420,"className":"javax.management.MBeanOperationInfo","methodName":"getReturnType","signature":"\u003cjavax.management.MBeanOperationInfo: java.lang.String getReturnType()\u003e","javadoc":"/** \n * Returns the type of the method\u0027s return value.\n * @return the return type.\n */\n","tf":{"freq":{"valu":1,"method":1,"type":3},"maxFreq":3,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":15062,"className":"java.nio.file.WatchEvent$Kind","methodName":"name","signature":"\u003cjava.nio.file.WatchEvent$Kind: java.lang.String name()\u003e","javadoc":"/** \n * Returns the name of the event kind.\n */\n","tf":{"freq":{"event":1,"name":2,"kind":1},"maxFreq":2,"totalTerms":4},"loc":0}

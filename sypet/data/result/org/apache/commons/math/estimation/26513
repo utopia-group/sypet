@@ -1,0 +1,1 @@
+{"id":26513,"className":"org.apache.commons.math.estimation.WeightedMeasurement","methodName":"getMeasuredValue","signature":"\u003corg.apache.commons.math.estimation.WeightedMeasurement: double getMeasuredValue()\u003e","javadoc":"/** \n * Get the measured value\n * @return measured value\n */\n","tf":{"freq":{"valu":3,"measur":3},"maxFreq":3,"totalTerms":6},"loc":3}

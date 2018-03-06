@@ -1,0 +1,1 @@
+{"id":20573,"className":"javax.swing.plaf.synth.SynthMenuItemUI","methodName":"getContext","signature":"\u003cjavax.swing.plaf.synth.SynthMenuItemUI: javax.swing.plaf.synth.SynthContext getContext(javax.swing.JComponent)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"context":1},"maxFreq":1,"totalTerms":1},"loc":3}

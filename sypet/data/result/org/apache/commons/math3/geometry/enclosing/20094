@@ -1,0 +1,1 @@
+{"id":20094,"className":"org.apache.commons.math3.geometry.enclosing.EnclosingBall","methodName":"getCenter","signature":"\u003corg.apache.commons.math3.geometry.enclosing.EnclosingBall: P getCenter()\u003e","javadoc":"/** \n * Get the center of the ball.\n * @return center of the ball\n */\n","tf":{"freq":{"center":3,"ball":2},"maxFreq":3,"totalTerms":5},"loc":3}

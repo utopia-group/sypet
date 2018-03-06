@@ -1,0 +1,1 @@
+{"id":28962,"className":"javax.sound.sampled.Control","methodName":"getType","signature":"\u003cjavax.sound.sampled.Control: javax.sound.sampled.Control$Type getType()\u003e","javadoc":"/** \n * Obtains the control\u0027s type.\n * @return the control\u0027s type.\n */\n","tf":{"freq":{"control":2,"obtain":1,"type":3},"maxFreq":3,"totalTerms":6},"loc":3}

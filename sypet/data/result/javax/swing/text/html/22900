@@ -1,0 +1,1 @@
+{"id":22900,"className":"javax.swing.text.html.HTMLEditorKit","methodName":"getLinkCursor","signature":"\u003cjavax.swing.text.html.HTMLEditorKit: java.awt.Cursor getLinkCursor()\u003e","javadoc":"/** \n * Returns the cursor to use over hyper links.\n * @since 1.3\n */\n","tf":{"freq":{"hyper":1,"cursor":2,"link":2,"use":1},"maxFreq":2,"totalTerms":6},"loc":3}

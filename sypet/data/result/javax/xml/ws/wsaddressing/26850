@@ -1,0 +1,1 @@
+{"id":26850,"className":"javax.xml.ws.wsaddressing.W3CEndpointReference","methodName":"writeTo","signature":"\u003cjavax.xml.ws.wsaddressing.W3CEndpointReference: void writeTo(javax.xml.transform.Result)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"write":1},"maxFreq":1,"totalTerms":1},"loc":8}

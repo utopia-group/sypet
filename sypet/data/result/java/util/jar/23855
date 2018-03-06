@@ -1,0 +1,1 @@
+{"id":23855,"className":"java.util.jar.JarFile","methodName":"entries","signature":"\u003cjava.util.jar.JarFile: java.util.Enumeration\u003cjava.util.jar.JarEntry\u003e entries()\u003e","javadoc":"/** \n * Returns an enumeration of the zip file entries.\n */\n","tf":{"freq":{"zip":1,"file":1,"entri":2},"maxFreq":2,"totalTerms":4},"loc":12}

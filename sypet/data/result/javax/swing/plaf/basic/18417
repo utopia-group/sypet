@@ -1,0 +1,1 @@
+{"id":18417,"className":"javax.swing.plaf.basic.BasicTextUI","methodName":"BasicTextUI","signature":"\u003cjavax.swing.plaf.basic.BasicTextUI: void BasicTextUI()\u003e","javadoc":"/** \n * Creates a new UI.\n */\n","tf":{"freq":{"text":1,"creat":1,"basic":1},"maxFreq":1,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":22744,"className":"javax.swing.text.html.CSSParser$CSSParserCallback","methodName":"handleImport","signature":"\u003cjavax.swing.text.html.CSSParser$CSSParserCallback: void handleImport(java.lang.String)\u003e","javadoc":"/** \n * Called when an @import is encountered. \n */\n","tf":{"freq":{"call":1,"encount":1,"handl":1},"maxFreq":1,"totalTerms":3},"loc":0}

@@ -1,0 +1,1 @@
+{"id":28990,"className":"javax.sound.sampled.Port$Info","methodName":"hashCode","signature":"\u003cjavax.sound.sampled.Port$Info: int hashCode()\u003e","javadoc":"/** \n * Finalizes the hashCode method\n */\n","tf":{"freq":{"hash":2,"method":1},"maxFreq":2,"totalTerms":3},"loc":3}

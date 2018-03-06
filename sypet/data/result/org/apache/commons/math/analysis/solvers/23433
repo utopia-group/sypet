@@ -1,0 +1,1 @@
+{"id":23433,"className":"org.apache.commons.math.analysis.solvers.BisectionSolver","methodName":"solve","signature":"\u003corg.apache.commons.math.analysis.solvers.BisectionSolver: double solve(double,double,double)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"solv":1},"maxFreq":1,"totalTerms":1},"loc":3}

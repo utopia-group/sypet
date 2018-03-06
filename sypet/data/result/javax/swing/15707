@@ -1,0 +1,1 @@
+{"id":15707,"className":"javax.swing.ButtonGroup","methodName":"remove","signature":"\u003cjavax.swing.ButtonGroup: void remove(javax.swing.AbstractButton)\u003e","javadoc":"/** \n * Removes the button from the group.\n * @param b the button to be removed\n */\n","tf":{"freq":{"button":2,"remov":3,"group":1},"maxFreq":3,"totalTerms":6},"loc":10}

@@ -1,0 +1,1 @@
+{"id":21018,"className":"javax.swing.event.DocumentEvent","methodName":"getType","signature":"\u003cjavax.swing.event.DocumentEvent: javax.swing.event.DocumentEvent$EventType getType()\u003e","javadoc":"/** \n * Gets the type of event.\n * @return the type\n */\n","tf":{"freq":{"event":1,"type":3},"maxFreq":3,"totalTerms":4},"loc":0}

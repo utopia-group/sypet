@@ -1,0 +1,1 @@
+{"id":25315,"className":"javax.imageio.stream.ImageInputStreamImpl","methodName":"readBits","signature":"\u003cjavax.imageio.stream.ImageInputStreamImpl: long readBits(int)\u003e","loc":43}

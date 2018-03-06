@@ -1,0 +1,1 @@
+{"id":19059,"className":"org.apache.commons.math3.stat.descriptive.summary.Product","methodName":"copy","signature":"\u003corg.apache.commons.math3.stat.descriptive.summary.Product: org.apache.commons.math3.stat.descriptive.summary.Product copy()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"copi":1},"maxFreq":1,"totalTerms":1},"loc":6}

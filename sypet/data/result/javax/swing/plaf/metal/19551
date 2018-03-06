@@ -1,0 +1,1 @@
+{"id":19551,"className":"javax.swing.plaf.metal.MetalIconFactory$InternalFrameMinimizeIcon","methodName":"paintIcon","signature":"\u003cjavax.swing.plaf.metal.MetalIconFactory$InternalFrameMinimizeIcon: void paintIcon(java.awt.Component,java.awt.Graphics,int,int)\u003e","loc":87}

@@ -1,0 +1,1 @@
+{"id":14941,"className":"org.joda.time.chrono.BasicWeekOfWeekyearDateTimeField","methodName":"getRangeDurationField","signature":"\u003corg.joda.time.chrono.BasicWeekOfWeekyearDateTimeField: org.joda.time.DurationField getRangeDurationField()\u003e","loc":3}

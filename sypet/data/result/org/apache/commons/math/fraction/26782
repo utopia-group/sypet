@@ -1,0 +1,1 @@
+{"id":26782,"className":"org.apache.commons.math.fraction.FractionField","methodName":"getOne","signature":"\u003corg.apache.commons.math.fraction.FractionField: org.apache.commons.math.fraction.Fraction getOne()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"one":1},"maxFreq":1,"totalTerms":1},"loc":3}

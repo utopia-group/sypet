@@ -1,0 +1,1 @@
+{"id":13948,"className":"org.joda.time.field.DecoratedDateTimeField","methodName":"getMinimumValue","signature":"\u003corg.joda.time.field.DecoratedDateTimeField: int getMinimumValue()\u003e","loc":3}

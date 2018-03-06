@@ -1,0 +1,1 @@
+{"id":19359,"className":"org.apache.commons.math3.util.Decimal64","methodName":"getReal","signature":"\u003corg.apache.commons.math3.util.Decimal64: double getReal()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 3.2\n */\n","tf":{"freq":{"real":1},"maxFreq":1,"totalTerms":1},"loc":3}

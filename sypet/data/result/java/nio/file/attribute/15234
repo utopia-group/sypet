@@ -1,0 +1,1 @@
+{"id":15234,"className":"java.nio.file.attribute.FileAttribute","methodName":"name","signature":"\u003cjava.nio.file.attribute.FileAttribute: java.lang.String name()\u003e","javadoc":"/** \n * Returns the attribute name.\n */\n","tf":{"freq":{"attribut":1,"name":2},"maxFreq":2,"totalTerms":3},"loc":0}

@@ -1,0 +1,1 @@
+{"id":23334,"className":"javax.swing.text.html.parser.ParserDelegator","methodName":"parse","signature":"\u003cjavax.swing.text.html.parser.ParserDelegator: void parse(java.io.Reader,javax.swing.text.html.HTMLEditorKit$ParserCallback,boolean)\u003e","loc":3}

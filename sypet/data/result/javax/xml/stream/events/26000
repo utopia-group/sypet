@@ -1,0 +1,1 @@
+{"id":26000,"className":"javax.xml.stream.events.EntityReference","methodName":"getDeclaration","signature":"\u003cjavax.xml.stream.events.EntityReference: javax.xml.stream.events.EntityDeclaration getDeclaration()\u003e","javadoc":"/** \n * Return the declaration of this entity.\n */\n","tf":{"freq":{"entiti":1,"declar":2},"maxFreq":2,"totalTerms":3},"loc":0}

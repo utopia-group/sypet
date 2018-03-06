@@ -1,0 +1,1 @@
+{"id":16006,"className":"javax.swing.TransferHandler$SwingDropTarget","methodName":"dragEnter","signature":"\u003cjavax.swing.TransferHandler$SwingDropTarget: void dragEnter(java.awt.dnd.DropTargetDragEvent)\u003e","loc":11}

@@ -1,0 +1,1 @@
+{"id":20106,"className":"org.apache.commons.math3.geometry.spherical.oned.Arc","methodName":"getSize","signature":"\u003corg.apache.commons.math3.geometry.spherical.oned.Arc: double getSize()\u003e","javadoc":"/** \n * Get the angular size of the arc.\n * @return angular size of the arc\n */\n","tf":{"freq":{"arc":2,"angular":2,"size":3},"maxFreq":3,"totalTerms":7},"loc":3}

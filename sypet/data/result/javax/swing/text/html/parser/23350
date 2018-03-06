@@ -1,0 +1,1 @@
+{"id":23350,"className":"javax.swing.text.html.parser.Element","methodName":"omitStart","signature":"\u003cjavax.swing.text.html.parser.Element: boolean omitStart()\u003e","javadoc":"/** \n * Return true if the start tag can be omitted.\n */\n","tf":{"freq":{"start":2,"tag":1,"omit":2,"true":1},"maxFreq":2,"totalTerms":6},"loc":3}

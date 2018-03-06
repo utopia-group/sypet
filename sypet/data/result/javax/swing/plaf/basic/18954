@@ -1,0 +1,1 @@
+{"id":18954,"className":"javax.swing.plaf.basic.BasicComboPopup","methodName":"isFocusTraversable","signature":"\u003cjavax.swing.plaf.basic.BasicComboPopup: boolean isFocusTraversable()\u003e","javadoc":"/** \n * Overridden to unconditionally return false.\n */\n","tf":{"freq":{"fals":1,"travers":1,"uncondit":1,"overridden":1,"focus":1},"maxFreq":1,"totalTerms":5},"loc":3}

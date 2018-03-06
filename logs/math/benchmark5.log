@@ -1,0 +1,223 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/math/5/benchmark5.json
+     [java] Benchmark Id: 5
+     [java] Method name: invert
+     [java] Packages: [com.opengamma.analytics.math, org.apache.commons.math.linear]
+     [java] Libraries: [./lib/commons-math-2.2.jar, ./lib/og-analytics-2.17.0.jar, ./lib/commons-lang-2.6.jar]
+     [java] Source type(s): [com.opengamma.analytics.math.matrix.DoubleMatrix2D]
+     [java] Target type: com.opengamma.analytics.math.matrix.DoubleMatrix2D
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] Warning: com.opengamma.util.money.Currency is a phantom class!
+     [java] Warning: com.opengamma.util.ArgumentChecker is a phantom class!
+     [java] Warning: com.opengamma.util.money.CurrencyAmount is a phantom class!
+     [java] Warning: com.opengamma.util.money.MultipleCurrencyAmount is a phantom class!
+     [java] Warning: org.threeten.bp.ZonedDateTime is a phantom class!
+     [java] Warning: org.threeten.bp.Period is a phantom class!
+     [java] Warning: com.opengamma.util.tuple.Pairs is a phantom class!
+     [java] Warning: com.opengamma.util.tuple.Pair is a phantom class!
+     [java] Warning: com.opengamma.id.ExternalId is a phantom class!
+     [java] Warning: com.opengamma.OpenGammaRuntimeException is a phantom class!
+     [java] Warning: it.unimi.dsi.fastutil.doubles.DoubleArrayList is a phantom class!
+     [java] Warning: com.opengamma.util.time.Expiry is a phantom class!
+     [java] Warning: org.threeten.bp.LocalDate is a phantom class!
+     [java] Warning: org.joda.convert.FromStringFactory is a phantom class!
+     [java] Warning: org.joda.convert.ToString is a phantom class!
+     [java] Warning: org.threeten.bp.temporal.TemporalAdjuster is a phantom class!
+     [java] Warning: org.joda.beans.ImmutableBean is a phantom class!
+     [java] Warning: com.google.common.collect.ImmutableSet is a phantom class!
+     [java] Warning: org.joda.beans.Bean is a phantom class!
+     [java] Warning: org.joda.beans.MetaBean is a phantom class!
+     [java] Warning: org.joda.beans.Property is a phantom class!
+     [java] Warning: org.joda.beans.PropertyDefinition is a phantom class!
+     [java] Warning: org.joda.beans.JodaBeanUtils is a phantom class!
+     [java] Warning: org.joda.beans.MetaProperty is a phantom class!
+     [java] Warning: com.opengamma.util.i18n.Country is a phantom class!
+     [java] Warning: org.joda.beans.BeanDefinition is a phantom class!
+     [java] Warning: org.joda.beans.impl.flexi.FlexiBean is a phantom class!
+     [java] Warning: org.joda.convert.FromString is a phantom class!
+     [java] Warning: com.google.common.collect.ImmutableMap$Builder is a phantom class!
+     [java] Warning: com.google.common.collect.ImmutableMap is a phantom class!
+     [java] Warning: com.opengamma.util.CompareUtils is a phantom class!
+     [java] Warning: org.threeten.bp.chrono.ChronoZonedDateTime is a phantom class!
+     [java] Warning: com.opengamma.util.time.DateUtils is a phantom class!
+     [java] Warning: org.joda.beans.impl.direct.DirectMetaBean is a phantom class!
+     [java] Warning: org.joda.beans.BeanBuilder is a phantom class!
+     [java] Warning: org.joda.beans.impl.direct.DirectMetaProperty is a phantom class!
+     [java] Warning: org.joda.beans.impl.direct.DirectMetaPropertyMap is a phantom class!
+     [java] Warning: org.joda.beans.impl.direct.DirectBeanBuilder is a phantom class!
+     [java] Warning: com.opengamma.util.tuple.DoublesPair is a phantom class!
+     [java] Warning: org.slf4j.LoggerFactory is a phantom class!
+     [java] Warning: org.slf4j.Logger is a phantom class!
+     [java] Warning: com.opengamma.util.tuple.ObjectsPair is a phantom class!
+     [java] Warning: org.joda.beans.impl.direct.DirectFieldsBeanBuilder is a phantom class!
+     [java] Warning: org.threeten.bp.temporal.TemporalAmount is a phantom class!
+     [java] Warning: org.threeten.bp.temporal.Temporal is a phantom class!
+     [java] Warning: org.threeten.bp.Month is a phantom class!
+     [java] Warning: com.opengamma.util.time.Tenor is a phantom class!
+     [java] Warning: org.threeten.bp.temporal.TemporalAdjusters is a phantom class!
+     [java] Warning: com.opengamma.timeseries.DoubleTimeSeries is a phantom class!
+     [java] Warning: com.opengamma.timeseries.precise.zdt.ZonedDateTimeDoubleTimeSeries is a phantom class!
+     [java] Warning: com.google.common.collect.ImmutableList is a phantom class!
+     [java] Warning: com.opengamma.util.time.Tenor$BusinessDayTenor is a phantom class!
+     [java] Warning: org.threeten.bp.LocalDateTime is a phantom class!
+     [java] Warning: com.opengamma.util.tuple.FirstThenSecondDoublesPairComparator is a phantom class!
+     [java] Warning: com.opengamma.util.tuple.Triple is a phantom class!
+     [java] Warning: org.threeten.bp.LocalTime is a phantom class!
+     [java] Warning: org.threeten.bp.ZoneId is a phantom class!
+     [java] Warning: com.opengamma.timeseries.precise.zdt.ImmutableZonedDateTimeDoubleTimeSeries is a phantom class!
+     [java] Warning: org.threeten.bp.ZoneOffset is a phantom class!
+     [java] Warning: org.threeten.bp.chrono.ChronoLocalDate is a phantom class!
+     [java] Warning: com.opengamma.timeseries.date.localdate.ImmutableLocalDateDoubleTimeSeries is a phantom class!
+     [java] Warning: com.opengamma.timeseries.date.localdate.LocalDateDoubleTimeSeries is a phantom class!
+     [java] Warning: org.threeten.bp.format.DateTimeFormatter is a phantom class!
+     [java] Warning: org.threeten.bp.temporal.JulianFields is a phantom class!
+     [java] Warning: org.threeten.bp.temporal.TemporalField is a phantom class!
+     [java] Warning: com.opengamma.util.ParallelArrayBinarySort is a phantom class!
+     [java] Warning: org.threeten.bp.temporal.TemporalAccessor is a phantom class!
+     [java] Warning: com.opengamma.util.tuple.FirstThenSecondPairComparator is a phantom class!
+     [java] Warning: com.opengamma.util.money.MultipleCurrencyAmountPricer is a phantom class!
+     [java] Warning: com.opengamma.util.ClassUtils is a phantom class!
+     [java] Warning: com.google.common.collect.Maps is a phantom class!
+     [java] Warning: cern.jet.random.Normal is a phantom class!
+     [java] Warning: cern.jet.stat.Probability is a phantom class!
+     [java] Warning: cern.jet.random.engine.MersenneTwister64 is a phantom class!
+     [java] Warning: cern.jet.random.engine.RandomEngine is a phantom class!
+     [java] Warning: com.opengamma.lang.annotation.ExternalFunction is a phantom class!
+     [java] Warning: com.google.common.primitives.Doubles is a phantom class!
+     [java] Warning: cern.colt.matrix.DoubleFactory2D is a phantom class!
+     [java] Warning: cern.colt.matrix.DoubleFactory1D is a phantom class!
+     [java] Warning: cern.colt.matrix.linalg.Algebra is a phantom class!
+     [java] Warning: cern.colt.matrix.DoubleMatrix1D is a phantom class!
+     [java] Warning: cern.colt.matrix.DoubleMatrix2D is a phantom class!
+     [java] Warning: cern.colt.matrix.linalg.SingularValueDecomposition is a phantom class!
+     [java] Warning: com.google.common.collect.ListMultimap is a phantom class!
+     [java] Warning: com.google.common.collect.ArrayListMultimap is a phantom class!
+     [java] Warning: it.unimi.dsi.fastutil.ints.IntArrayList is a phantom class!
+     [java] Warning: com.google.common.collect.Multimap is a phantom class!
+     [java] Warning: com.google.common.collect.LinkedListMultimap is a phantom class!
+     [java] Warning: org.joda.beans.impl.direct.DirectBean is a phantom class!
+     [java] Warning: com.google.common.collect.Iterators is a phantom class!
+     [java] Warning: cern.jet.random.engine.MersenneTwister is a phantom class!
+     [java] Warning: com.google.common.collect.Iterables is a phantom class!
+     [java] Warning: com.google.common.collect.Sets$SetView is a phantom class!
+     [java] Warning: com.google.common.collect.Sets is a phantom class!
+     [java] Warning: org.threeten.bp.DayOfWeek is a phantom class!
+     [java] Warning: org.threeten.bp.MonthDay is a phantom class!
+     [java] Warning: com.google.common.collect.Lists is a phantom class!
+     [java] Warning: com.opengamma.timeseries.date.DateDoubleTimeSeries is a phantom class!
+     [java] Warning: org.joda.beans.PropertyStyle is a phantom class!
+     [java] Warning: cern.jet.math.Bessel is a phantom class!
+     [java] Warning: com.opengamma.util.types.ParameterizedTypeImpl is a phantom class!
+     [java] Warning: com.opengamma.util.types.VariantType is a phantom class!
+     [java] Warning: org.apache.log4j.Logger is a phantom class!
+     [java] Warning: com.opengamma.timeseries.date.localdate.LocalDateToIntConverter is a phantom class!
+     [java] Warning: cern.jet.random.StudentT is a phantom class!
+     [java] Warning: com.opengamma.util.CalculationMode is a phantom class!
+     [java] Warning: com.opengamma.timeseries.TimeSeriesException is a phantom class!
+     [java] Warning: cern.colt.Arrays is a phantom class!
+     [java] Warning: cern.jet.random.ChiSquare is a phantom class!
+     [java] Warning: cern.colt.list.IntArrayList is a phantom class!
+     [java] Warning: org.testng.AssertJUnit is a phantom class!
+     [java] Warning: org.threeten.bp.temporal.ChronoField is a phantom class!
+     [java] Warning: org.threeten.bp.temporal.TemporalUnit is a phantom class!
+     [java] Warning: org.threeten.bp.temporal.ChronoUnit is a phantom class!
+     [java] Warning: com.opengamma.timeseries.date.localdate.LocalDateDoubleEntryIterator is a phantom class!
+     [java] Warning: edu.emory.mathcs.jtransforms.fft.DoubleFFT_1D is a phantom class!
+     [java] Warning: com.opengamma.timeseries.precise.PreciseDoubleTimeSeries is a phantom class!
+     [java] Warning: com.opengamma.timeseries.date.localdate.LocalDateDoubleTimeSeriesBuilder is a phantom class!
+     [java] Warning: com.opengamma.util.tuple.Quadruple is a phantom class!
+     [java] Warning: cern.colt.matrix.linalg.EigenvalueDecomposition is a phantom class!
+     [java] Warning: cern.jet.random.Gamma is a phantom class!
+     [java] Warning: org.threeten.bp.Year is a phantom class!
+     [java] PetriNet for path length: 1 [places: 56 ; transitions: 392 ; edges: 991]
+     [java] PetriNet for path length: 2 [places: 283 ; transitions: 2686 ; edges: 6860]
+     [java] PetriNet for path length: 3 [places: 448 ; transitions: 3761 ; edges: 9903]
+     [java] PetriNet for path length: 4 [places: 467 ; transitions: 3888 ; edges: 10175]
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	cern.colt.matrix.DoubleMatrix2D sypet_var7 = com.opengamma.analytics.math.util.wrapper.ColtMathWrapper.wrap(sypet_arg0);com.opengamma.analytics.math.matrix.DoubleMatrix2D sypet_var8 = com.opengamma.analytics.math.util.wrapper.ColtMathWrapper.wrap(sypet_var7);return sypet_var8;}
+     [java] 	^^^^
+     [java] cern cannot be resolved to a type
+     [java] ----------
+     [java] 2. ERROR in /Source.java (at line 3)
+     [java] 	cern.colt.matrix.DoubleMatrix2D sypet_var7 = com.opengamma.analytics.math.util.wrapper.ColtMathWrapper.wrap(sypet_arg0);com.opengamma.analytics.math.matrix.DoubleMatrix2D sypet_var8 = com.opengamma.analytics.math.util.wrapper.ColtMathWrapper.wrap(sypet_var7);return sypet_var8;}
+     [java] 	                                                                                                       ^^^^
+     [java] The method wrap(DoubleMatrix2D) from the type ColtMathWrapper refers to the missing type DoubleMatrix2D
+     [java] ----------
+     [java] 2 problems (2 errors)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	double[][] sypet_var19 = sypet_arg0.getData();com.opengamma.analytics.math.matrix.DoubleMatrix2D sypet_var20 = com.opengamma.analytics.math.matrix.DoubleMatrix2D.noCopy(sypet_var19);return sypet_var20;}
+     [java] 	                                                                                                                                                                  ^^^^^^^^^^^^^^^^^^^
+     [java] The method noCopy(double[][]) from the type DoubleMatrix2D is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	double[][] sypet_var22 = sypet_arg0.toArray();com.opengamma.analytics.math.matrix.DoubleMatrix2D sypet_var23 = com.opengamma.analytics.math.matrix.DoubleMatrix2D.noCopy(sypet_var22);return sypet_var23;}
+     [java] 	                                                                                                                                                                  ^^^^^^^^^^^^^^^^^^^
+     [java] The method noCopy(double[][]) from the type DoubleMatrix2D is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] ----------
+     [java] 1. ERROR in /Source.java (at line 3)
+     [java] 	com.opengamma.analytics.math.matrix.MatrixAlgebra sypet_var37 = new com.opengamma.analytics.math.matrix.MatrixAlgebra();com.opengamma.analytics.math.matrix.DoubleMatrix2D sypet_var38 = sypet_var37.matrixTransposeMultiplyMatrix(sypet_arg0);return sypet_var38;}
+     [java] 	                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+     [java] Cannot instantiate the type MatrixAlgebra
+     [java] ----------
+     [java] 1 problem (1 error)
+     [java] PetriNet for path length: 5 [places: 467 ; transitions: 3888 ; edges: 10175]
+     [java] ----------
+     [java] 1. WARNING in /Source.java (at line 3)
+     [java] 	org.apache.commons.math.linear.RealMatrix sypet_var44 = com.opengamma.analytics.math.util.wrapper.CommonsMathWrapper.wrap(sypet_arg0);org.apache.commons.math.linear.RealMatrix sypet_var45 = sypet_var44.inverse();com.opengamma.analytics.math.matrix.DoubleMatrix2D sypet_var46 = com.opengamma.analytics.math.util.wrapper.CommonsMathWrapper.unwrap(sypet_var45);return sypet_var46;}
+     [java] 	                                                                                                                                                                                                          ^^^^^^^^^
+     [java] The method inverse() from the type RealMatrix is deprecated
+     [java] ----------
+     [java] 1 problem (1 warning)
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 5
+     [java] Sketch Generation Time: 374.79234699999995
+     [java] Sketch Completion Time: 125.852887
+     [java] Compilation Time: 1093.942069
+     [java] Running Test cases Time: 130.496659
+     [java] Synthesis Time: 631.141893
+     [java] Total Time: 1725.083962
+     [java] Number of components: 3
+     [java] Number of holes: 4
+     [java] Number of completed programs: 31
+     [java] Number of sketches: 16
+     [java] 
+     [java] Solution:
+     [java]  org.apache.commons.math.linear.RealMatrix sypet_var44 = com.opengamma.analytics.math.util.wrapper.CommonsMathWrapper.wrap(sypet_arg0);
+     [java]  org.apache.commons.math.linear.RealMatrix sypet_var45 = sypet_var44.inverse();
+     [java]  com.opengamma.analytics.math.matrix.DoubleMatrix2D sypet_var46 = com.opengamma.analytics.math.util.wrapper.CommonsMathWrapper.unwrap(sypet_var45);
+     [java]  return sypet_var46;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 17 seconds

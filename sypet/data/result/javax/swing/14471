@@ -1,0 +1,1 @@
+{"id":14471,"className":"javax.swing.ActionMap","methodName":"clear","signature":"\u003cjavax.swing.ActionMap: void clear()\u003e","javadoc":"/** \n * Removes all the mappings from this \u003ccode\u003eActionMap\u003c/code\u003e.\n */\n","tf":{"freq":{"clear":1,"action":1,"map":2,"remov":1},"maxFreq":2,"totalTerms":5},"loc":5}

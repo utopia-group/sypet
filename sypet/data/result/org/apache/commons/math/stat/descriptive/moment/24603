@@ -1,0 +1,1 @@
+{"id":24603,"className":"org.apache.commons.math.stat.descriptive.moment.FourthMoment","methodName":"FourthMoment","signature":"\u003corg.apache.commons.math.stat.descriptive.moment.FourthMoment: void FourthMoment()\u003e","javadoc":"/** \n * Create a FourthMoment instance\n */\n","tf":{"freq":{"fourth":2,"creat":1,"moment":2,"instanc":1},"maxFreq":2,"totalTerms":6},"loc":4}

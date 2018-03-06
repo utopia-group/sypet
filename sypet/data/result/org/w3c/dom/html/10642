@@ -1,0 +1,1 @@
+{"id":10642,"className":"org.w3c.dom.html.HTMLFormElement","methodName":"getElements","signature":"\u003corg.w3c.dom.html.HTMLFormElement: org.w3c.dom.html.HTMLCollection getElements()\u003e","javadoc":"/** \n * Returns a collection of all control elements in the form.\n */\n","tf":{"freq":{"control":1,"element":2,"form":1,"collect":1},"maxFreq":2,"totalTerms":5},"loc":0}

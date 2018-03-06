@@ -1,0 +1,1 @@
+{"id":16640,"className":"java.awt.MenuComponent$AccessibleAWTMenuComponent","methodName":"requestFocus","signature":"\u003cjava.awt.MenuComponent$AccessibleAWTMenuComponent: void requestFocus()\u003e","javadoc":"/** \n * Requests focus for this object.\n */\n","tf":{"freq":{"request":2,"focus":2,"object":1},"maxFreq":2,"totalTerms":5},"loc":3}

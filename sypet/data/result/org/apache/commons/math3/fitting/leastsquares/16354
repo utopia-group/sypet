@@ -1,0 +1,1 @@
+{"id":16354,"className":"org.apache.commons.math3.fitting.leastsquares.OptimumImpl","methodName":"getRMS","signature":"\u003corg.apache.commons.math3.fitting.leastsquares.OptimumImpl: double getRMS()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","loc":3}

@@ -1,0 +1,1 @@
+{"id":24331,"className":"java.rmi.activation.ActivationException","methodName":"ActivationException","signature":"\u003cjava.rmi.activation.ActivationException: void ActivationException()\u003e","javadoc":"/** \n * Constructs an \u003ccode\u003eActivationException\u003c/code\u003e.\n */\n","tf":{"freq":{"except":2,"construct":1,"activ":2},"maxFreq":2,"totalTerms":5},"loc":3}

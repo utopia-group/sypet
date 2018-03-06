@@ -1,0 +1,1 @@
+{"id":14079,"className":"javax.swing.JInternalFrame","methodName":"getContentPane","signature":"\u003cjavax.swing.JInternalFrame: java.awt.Container getContentPane()\u003e","javadoc":"/** \n * Returns the content pane for this internal frame.\n * @return the content pane\n */\n","tf":{"freq":{"content":3,"frame":1,"intern":1,"pane":3},"maxFreq":3,"totalTerms":8},"loc":3}

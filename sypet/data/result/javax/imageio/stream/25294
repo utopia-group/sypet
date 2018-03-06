@@ -1,0 +1,1 @@
+{"id":25294,"className":"javax.imageio.stream.ImageInputStreamImpl","methodName":"readUnsignedShort","signature":"\u003cjavax.imageio.stream.ImageInputStreamImpl: int readUnsignedShort()\u003e","loc":3}

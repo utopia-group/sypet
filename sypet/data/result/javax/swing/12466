@@ -1,0 +1,1 @@
+{"id":12466,"className":"javax.swing.DefaultListSelectionModel","methodName":"getLeadSelectionIndex","signature":"\u003cjavax.swing.DefaultListSelectionModel: int getLeadSelectionIndex()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"index":1,"select":1,"lead":1},"maxFreq":1,"totalTerms":3},"loc":3}

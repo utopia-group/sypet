@@ -1,0 +1,1 @@
+{"id":16630,"className":"javax.swing.border.LineBorder","methodName":"getThickness","signature":"\u003cjavax.swing.border.LineBorder: int getThickness()\u003e","javadoc":"/** \n * Returns the thickness of the border.\n */\n","tf":{"freq":{"thick":2,"border":1},"maxFreq":2,"totalTerms":3},"loc":3}

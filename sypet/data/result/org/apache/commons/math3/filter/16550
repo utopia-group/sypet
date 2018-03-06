@@ -1,0 +1,1 @@
+{"id":16550,"className":"org.apache.commons.math3.filter.DefaultProcessModel","methodName":"getControlMatrix","signature":"\u003corg.apache.commons.math3.filter.DefaultProcessModel: org.apache.commons.math3.linear.RealMatrix getControlMatrix()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"control":1,"matrix":1},"maxFreq":1,"totalTerms":2},"loc":3}

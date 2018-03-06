@@ -1,0 +1,1 @@
+{"id":24279,"className":"javax.print.attribute.TextSyntax","methodName":"getValue","signature":"\u003cjavax.print.attribute.TextSyntax: java.lang.String getValue()\u003e","javadoc":"/** \n * Returns this text attribute\u0027s text string.\n * @return the text string.\n */\n","tf":{"freq":{"text":3,"attribut":1,"string":2,"valu":1},"maxFreq":3,"totalTerms":7},"loc":3}

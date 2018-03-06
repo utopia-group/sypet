@@ -1,0 +1,1 @@
+{"id":25056,"className":"javax.imageio.ImageWriter","methodName":"convertStreamMetadata","signature":"\u003cjavax.imageio.ImageWriter: javax.imageio.metadata.IIOMetadata convertStreamMetadata(javax.imageio.metadata.IIOMetadata,javax.imageio.ImageWriteParam)\u003e","loc":0}

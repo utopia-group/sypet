@@ -1,0 +1,1 @@
+{"id":22393,"className":"java.util.concurrent.ConcurrentSkipListMap$ComparableUsingComparator","methodName":"compareTo","signature":"\u003cjava.util.concurrent.ConcurrentSkipListMap$ComparableUsingComparator: int compareTo(K)\u003e","loc":3}

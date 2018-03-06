@@ -1,0 +1,1 @@
+{"id":11225,"className":"javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection","methodName":"invoke","signature":"\u003cjavax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection: java.lang.Object invoke(javax.management.ObjectName,java.lang.String,java.lang.Object[],java.lang.String[])\u003e","loc":29}

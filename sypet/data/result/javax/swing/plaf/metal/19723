@@ -1,0 +1,1 @@
+{"id":19723,"className":"javax.swing.plaf.metal.OceanTheme","methodName":"OceanTheme","signature":"\u003cjavax.swing.plaf.metal.OceanTheme: void OceanTheme()\u003e","javadoc":"/** \n * Creates an instance of \u003ccode\u003eOceanTheme\u003c/code\u003e\n */\n","tf":{"freq":{"creat":1,"theme":2,"ocean":2,"instanc":1},"maxFreq":2,"totalTerms":6},"loc":2}

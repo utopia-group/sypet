@@ -1,0 +1,1 @@
+{"id":14008,"className":"org.joda.time.field.MillisDurationField","methodName":"toString","signature":"\u003corg.joda.time.field.MillisDurationField: java.lang.String toString()\u003e","javadoc":"/** \n * Get a suitable debug string.\n * @return debug string\n */\n","tf":{"freq":{"suitabl":1,"string":3,"debug":2},"maxFreq":3,"totalTerms":6},"loc":3}

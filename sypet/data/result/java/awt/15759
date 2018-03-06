@@ -1,0 +1,1 @@
+{"id":15759,"className":"java.awt.List","methodName":"isSelected","signature":"\u003cjava.awt.List: boolean isSelected(int)\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by \u003ccode\u003eisIndexSelected(int)\u003c/code\u003e.\n */\n","tf":{"freq":{"index":1,"deprec":1,"select":2,"replac":1,"version":1},"maxFreq":2,"totalTerms":6},"loc":9}

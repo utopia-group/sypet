@@ -1,0 +1,1 @@
+{"id":25376,"className":"java.security.Provider","methodName":"getVersion","signature":"\u003cjava.security.Provider: double getVersion()\u003e","javadoc":"/** \n * Returns the version number for this provider.\n * @return the version number for this provider.\n */\n","tf":{"freq":{"number":2,"provid":2,"version":3},"maxFreq":3,"totalTerms":7},"loc":3}

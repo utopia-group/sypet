@@ -1,0 +1,1 @@
+{"id":13503,"className":"javax.swing.DefaultButtonModel","methodName":"getMnemonic","signature":"\u003cjavax.swing.DefaultButtonModel: int getMnemonic()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"mnemon":1},"maxFreq":1,"totalTerms":1},"loc":3}

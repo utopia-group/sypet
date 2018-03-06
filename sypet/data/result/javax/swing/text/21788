@@ -1,0 +1,1 @@
+{"id":21788,"className":"javax.swing.text.SegmentCache","methodName":"SegmentCache","signature":"\u003cjavax.swing.text.SegmentCache: void SegmentCache()\u003e","javadoc":"/** \n * Creates and returns a SegmentCache.\n */\n","tf":{"freq":{"creat":1,"segment":2,"cach":2},"maxFreq":2,"totalTerms":5},"loc":3}

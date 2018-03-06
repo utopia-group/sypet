@@ -1,0 +1,1 @@
+{"id":24701,"className":"java.text.MergeCollation","methodName":"setPattern","signature":"\u003cjava.text.MergeCollation: void setPattern(java.lang.String)\u003e","javadoc":"/** \n * sets the pattern.\n */\n","tf":{"freq":{"pattern":2},"maxFreq":2,"totalTerms":2},"loc":4}

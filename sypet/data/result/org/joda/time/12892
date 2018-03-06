@@ -1,0 +1,1 @@
+{"id":12892,"className":"org.joda.time.ReadableDateTime","methodName":"getYear","signature":"\u003corg.joda.time.ReadableDateTime: int getYear()\u003e","javadoc":"/** \n * Get the year field value.\n * @return the year\n */\n","tf":{"freq":{"field":1,"valu":1,"year":3},"maxFreq":3,"totalTerms":5},"loc":0}

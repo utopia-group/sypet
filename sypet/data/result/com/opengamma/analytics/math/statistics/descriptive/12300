@@ -1,0 +1,1 @@
+{"id":12300,"className":"com.opengamma.analytics.math.statistics.descriptive.LognormalPearsonKurtosisFromVolatilityCalculator","methodName":"evaluate","signature":"\u003ccom.opengamma.analytics.math.statistics.descriptive.LognormalPearsonKurtosisFromVolatilityCalculator: java.lang.Double evaluate(java.lang.Double,java.lang.Double)\u003e","loc":5}

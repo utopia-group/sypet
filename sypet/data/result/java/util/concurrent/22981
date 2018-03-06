@@ -1,0 +1,1 @@
+{"id":22981,"className":"java.util.concurrent.DelayQueue","methodName":"DelayQueue","signature":"\u003cjava.util.concurrent.DelayQueue: void DelayQueue()\u003e","javadoc":"/** \n * Creates a new \u003ctt\u003eDelayQueue\u003c/tt\u003e that is initially empty.\n */\n","tf":{"freq":{"queue":2,"creat":1,"initi":1,"delay":2,"empti":1},"maxFreq":2,"totalTerms":7},"loc":1}

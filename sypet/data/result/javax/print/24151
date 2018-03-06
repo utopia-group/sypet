@@ -1,0 +1,1 @@
+{"id":24151,"className":"javax.print.URIException","methodName":"getReason","signature":"\u003cjavax.print.URIException: int getReason()\u003e","javadoc":"/** \n * Return the reason for the event.\n * @return one of the predefined reasons enumerated in this interface.\n */\n","tf":{"freq":{"reason":3,"event":1,"one":1,"predefin":1},"maxFreq":3,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":11139,"className":"javax.management.remote.rmi.RMIConnectionImpl","methodName":"getAttributes","signature":"\u003cjavax.management.remote.rmi.RMIConnectionImpl: javax.management.AttributeList getAttributes(javax.management.ObjectName,java.lang.String[],javax.security.auth.Subject)\u003e","loc":25}

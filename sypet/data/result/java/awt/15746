@@ -1,0 +1,1 @@
+{"id":15746,"className":"java.awt.List","methodName":"removeAll","signature":"\u003cjava.awt.List: void removeAll()\u003e","javadoc":"/** \n * Removes all items from this list.\n * @see #remove\n * @see #delItems\n * @since JDK1.1\n */\n","tf":{"freq":{"item":2,"remov":3,"del":1,"list":1},"maxFreq":3,"totalTerms":7},"loc":3}

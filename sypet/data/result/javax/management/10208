@@ -1,0 +1,1 @@
+{"id":10208,"className":"javax.management.NumericValueExp","methodName":"isLong","signature":"\u003cjavax.management.NumericValueExp: boolean isLong()\u003e","javadoc":"/** \n * Returns true is if the numeric value is a long, false otherwise.\n */\n","tf":{"freq":{"otherwis":1,"fals":1,"numer":1,"true":1,"valu":1},"maxFreq":1,"totalTerms":5},"loc":3}

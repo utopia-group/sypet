@@ -1,0 +1,1 @@
+{"id":20296,"className":"javax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter","methodName":"paintTextPaneBorder","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter: void paintTextPaneBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":5}

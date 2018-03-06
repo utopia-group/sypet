@@ -1,0 +1,1 @@
+{"id":11432,"className":"org.xml.sax.helpers.XMLFilterImpl","methodName":"setEntityResolver","signature":"\u003corg.xml.sax.helpers.XMLFilterImpl: void setEntityResolver(org.xml.sax.EntityResolver)\u003e","javadoc":"/** \n * Set the entity resolver.\n * @param resolver The new entity resolver.\n */\n","tf":{"freq":{"entiti":3,"resolv":4},"maxFreq":4,"totalTerms":7},"loc":3}

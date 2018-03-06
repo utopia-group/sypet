@@ -1,0 +1,1 @@
+{"id":13268,"className":"javax.swing.JSlider","methodName":"JSlider","signature":"\u003cjavax.swing.JSlider: void JSlider()\u003e","javadoc":"/** \n * Creates a horizontal slider with the range 0 to 100 and an initial value of 50.\n */\n","tf":{"freq":{"slider":2,"creat":1,"rang":1,"valu":1,"horizont":1,"initi":1},"maxFreq":2,"totalTerms":7},"loc":3}

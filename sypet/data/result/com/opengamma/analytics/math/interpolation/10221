@@ -1,0 +1,1 @@
+{"id":10221,"className":"com.opengamma.analytics.math.interpolation.BarycentricRationalFunctionInterpolator1D","methodName":"BarycentricRationalFunctionInterpolator1D","signature":"\u003ccom.opengamma.analytics.math.interpolation.BarycentricRationalFunctionInterpolator1D: void BarycentricRationalFunctionInterpolator1D(int,double)\u003e","loc":5}

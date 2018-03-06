@@ -1,0 +1,1 @@
+{"id":23529,"className":"java.util.concurrent.atomic.AtomicBoolean","methodName":"set","signature":"\u003cjava.util.concurrent.atomic.AtomicBoolean: void set(boolean)\u003e","javadoc":"/** \n * Unconditionally sets to the given value.\n * @param newValue the new value\n */\n","tf":{"freq":{"uncondit":1,"given":1,"valu":3},"maxFreq":3,"totalTerms":5},"loc":3}

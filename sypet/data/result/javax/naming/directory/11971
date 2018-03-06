@@ -1,0 +1,1 @@
+{"id":11971,"className":"javax.naming.directory.InitialDirContext","methodName":"getAttributes","signature":"\u003cjavax.naming.directory.InitialDirContext: javax.naming.directory.Attributes getAttributes(java.lang.String)\u003e","loc":3}

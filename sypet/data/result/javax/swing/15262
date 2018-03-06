@@ -1,0 +1,1 @@
+{"id":15262,"className":"javax.swing.Autoscroller","methodName":"stop","signature":"\u003cjavax.swing.Autoscroller: void stop(javax.swing.JComponent)\u003e","javadoc":"/** \n * Stops autoscroll events from happening on the specified component.\n */\n","tf":{"freq":{"stop":2,"compon":1,"event":1,"autoscrol":1,"happen":1,"specifi":1},"maxFreq":2,"totalTerms":7},"loc":3}

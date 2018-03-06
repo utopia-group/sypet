@@ -1,0 +1,1 @@
+{"id":19857,"className":"javax.swing.plaf.metal.MetalBorders$RolloverMarginBorder","methodName":"getBorderInsets","signature":"\u003cjavax.swing.plaf.metal.MetalBorders$RolloverMarginBorder: java.awt.Insets getBorderInsets(java.awt.Component,java.awt.Insets)\u003e","loc":21}

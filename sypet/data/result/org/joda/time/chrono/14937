@@ -1,0 +1,1 @@
+{"id":14937,"className":"org.joda.time.chrono.IslamicChronology","methodName":"hashCode","signature":"\u003corg.joda.time.chrono.IslamicChronology: int hashCode()\u003e","javadoc":"/** \n * A suitable hash code for the chronology.\n * @return the hash code\n * @since 1.6\n */\n","tf":{"freq":{"hash":3,"chronolog":1,"suitabl":1},"maxFreq":3,"totalTerms":5},"loc":3}

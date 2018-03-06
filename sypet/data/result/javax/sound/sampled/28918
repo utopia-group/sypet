@@ -1,0 +1,1 @@
+{"id":28918,"className":"javax.sound.sampled.AudioInputStream$TargetDataLineInputStream","methodName":"available","signature":"\u003cjavax.sound.sampled.AudioInputStream$TargetDataLineInputStream: int available()\u003e","loc":3}

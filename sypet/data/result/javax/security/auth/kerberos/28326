@@ -1,0 +1,1 @@
+{"id":28326,"className":"javax.security.auth.kerberos.KerberosTicket","methodName":"isDestroyed","signature":"\u003cjavax.security.auth.kerberos.KerberosTicket: boolean isDestroyed()\u003e","javadoc":"/** \n * Determines if this ticket has been destroyed.\n */\n","tf":{"freq":{"destroy":2,"ticket":1,"determin":1},"maxFreq":2,"totalTerms":4},"loc":3}

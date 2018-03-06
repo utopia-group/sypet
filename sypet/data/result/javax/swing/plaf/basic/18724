@@ -1,0 +1,1 @@
+{"id":18724,"className":"javax.swing.plaf.basic.BasicToolBarUI$ToolBarContListener","methodName":"componentRemoved","signature":"\u003cjavax.swing.plaf.basic.BasicToolBarUI$ToolBarContListener: void componentRemoved(java.awt.event.ContainerEvent)\u003e","loc":3}

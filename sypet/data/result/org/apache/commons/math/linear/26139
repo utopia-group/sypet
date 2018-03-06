@@ -1,0 +1,1 @@
+{"id":26139,"className":"org.apache.commons.math.linear.RealMatrixImpl","methodName":"RealMatrixImpl","signature":"\u003corg.apache.commons.math.linear.RealMatrixImpl: void RealMatrixImpl()\u003e","javadoc":"/** \n * Creates a matrix with no data\n */\n","tf":{"freq":{"real":1,"impl":1,"creat":1,"matrix":2,"data":1},"maxFreq":2,"totalTerms":6},"loc":2}

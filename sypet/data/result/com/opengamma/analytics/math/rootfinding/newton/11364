@@ -1,0 +1,1 @@
+{"id":11364,"className":"com.opengamma.analytics.math.rootfinding.newton.NewtonDefaultVectorRootFinder","methodName":"NewtonDefaultVectorRootFinder","signature":"\u003ccom.opengamma.analytics.math.rootfinding.newton.NewtonDefaultVectorRootFinder: void NewtonDefaultVectorRootFinder(double,double,int,com.opengamma.analytics.math.linearalgebra.Decomposition)\u003e","loc":3}

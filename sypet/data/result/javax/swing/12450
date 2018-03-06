@@ -1,0 +1,1 @@
+{"id":12450,"className":"javax.swing.DefaultListSelectionModel","methodName":"addListSelectionListener","signature":"\u003cjavax.swing.DefaultListSelectionModel: void addListSelectionListener(javax.swing.event.ListSelectionListener)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"select":1,"list":1,"add":1,"listen":1},"maxFreq":1,"totalTerms":4},"loc":3}

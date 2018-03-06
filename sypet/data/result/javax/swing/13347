@@ -1,0 +1,1 @@
+{"id":13347,"className":"javax.swing.RowSorter$SortKey","methodName":"getColumn","signature":"\u003cjavax.swing.RowSorter$SortKey: int getColumn()\u003e","javadoc":"/** \n * Returns the index of the column.\n * @return index of column\n */\n","tf":{"freq":{"index":2,"column":3},"maxFreq":3,"totalTerms":5},"loc":3}

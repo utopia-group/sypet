@@ -1,0 +1,1 @@
+{"id":13743,"className":"org.joda.time.field.BaseDateTimeField","methodName":"isSupported","signature":"\u003corg.joda.time.field.BaseDateTimeField: boolean isSupported()\u003e","javadoc":"/** \n * @return true always\n */\n","tf":{"freq":{"support":1,"alway":1,"true":1},"maxFreq":1,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":10759,"className":"com.opengamma.analytics.math.interpolation.data.Interpolator1DDoubleQuadraticDataBundle","methodName":"getQuadratic","signature":"\u003ccom.opengamma.analytics.math.interpolation.data.Interpolator1DDoubleQuadraticDataBundle: com.opengamma.analytics.math.function.RealPolynomialFunction1D getQuadratic(int)\u003e","loc":6}

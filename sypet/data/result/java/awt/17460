@@ -1,0 +1,1 @@
+{"id":17460,"className":"java.awt.Color","methodName":"getBlue","signature":"\u003cjava.awt.Color: int getBlue()\u003e","javadoc":"/** \n * Returns the blue component in the range 0-255 in the default sRGB space.\n * @return the blue component.\n * @see #getRGB\n */\n","tf":{"freq":{"compon":2,"blue":3,"rang":1,"space":1},"maxFreq":3,"totalTerms":7},"loc":3}

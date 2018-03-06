@@ -1,0 +1,1 @@
+{"id":10231,"className":"javax.management.ObjectInstance","methodName":"getObjectName","signature":"\u003cjavax.management.ObjectInstance: javax.management.ObjectName getObjectName()\u003e","javadoc":"/** \n * Returns the object name part.\n * @return the object name.\n */\n","tf":{"freq":{"name":3,"object":3,"part":1},"maxFreq":3,"totalTerms":7},"loc":3}

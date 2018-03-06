@@ -1,0 +1,1 @@
+{"id":10588,"className":"com.opengamma.analytics.math.interpolation.InterpolatorND","methodName":"interpolate","signature":"\u003ccom.opengamma.analytics.math.interpolation.InterpolatorND: java.lang.Double interpolate(com.opengamma.analytics.math.interpolation.data.InterpolatorNDDataBundle,double[])\u003e","loc":0}

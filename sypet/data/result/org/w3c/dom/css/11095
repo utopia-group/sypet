@@ -1,0 +1,1 @@
+{"id":11095,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getWhiteSpace","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getWhiteSpace()\u003e","javadoc":"/** \n * See the white-space property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"white":2,"properti":1,"space":2},"maxFreq":2,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":10250,"className":"javax.management.MBeanParameterInfo","methodName":"getType","signature":"\u003cjavax.management.MBeanParameterInfo: java.lang.String getType()\u003e","javadoc":"/** \n * Returns the type or class name of the data.\n * @return the type string.\n */\n","tf":{"freq":{"string":1,"name":1,"data":1,"type":3},"maxFreq":3,"totalTerms":6},"loc":3}

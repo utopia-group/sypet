@@ -1,0 +1,1 @@
+{"id":10512,"className":"com.opengamma.analytics.math.interpolation.CubicSplineNakSolver","methodName":"getKnotsMat1D","signature":"\u003ccom.opengamma.analytics.math.interpolation.CubicSplineNakSolver: com.opengamma.analytics.math.matrix.DoubleMatrix1D getKnotsMat1D(double[])\u003e","loc":10}

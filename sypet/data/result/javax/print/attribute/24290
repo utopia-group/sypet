@@ -1,0 +1,1 @@
+{"id":24290,"className":"javax.print.attribute.EnumSyntax","methodName":"getValue","signature":"\u003cjavax.print.attribute.EnumSyntax: int getValue()\u003e","javadoc":"/** \n * Returns this enumeration value\u0027s integer value.\n * @return the value\n */\n","tf":{"freq":{"valu":4,"integ":1},"maxFreq":4,"totalTerms":5},"loc":3}

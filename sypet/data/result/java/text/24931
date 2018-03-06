@@ -1,0 +1,1 @@
+{"id":24931,"className":"java.text.DateFormatSymbols","methodName":"setEras","signature":"\u003cjava.text.DateFormatSymbols: void setEras(java.lang.String[])\u003e","javadoc":"/** \n * Sets era strings. For example: \"AD\" and \"BC\".\n * @param newEras the new era strings.\n */\n","tf":{"freq":{"string":2,"exampl":1,"era":4},"maxFreq":4,"totalTerms":7},"loc":3}

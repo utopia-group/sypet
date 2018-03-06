@@ -1,0 +1,1 @@
+{"id":28526,"className":"javax.crypto.CryptoPermission","methodName":"getActions","signature":"\u003cjavax.crypto.CryptoPermission: java.lang.String getActions()\u003e","javadoc":"/** \n * There is no action defined for a CryptoPermission onject.\n */\n","tf":{"freq":{"defin":1,"onject":1,"permiss":1,"action":2,"crypto":1},"maxFreq":2,"totalTerms":6},"loc":3}

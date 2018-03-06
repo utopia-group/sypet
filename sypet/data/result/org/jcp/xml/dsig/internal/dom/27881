@@ -1,0 +1,1 @@
+{"id":27881,"className":"org.jcp.xml.dsig.internal.dom.ApacheTransform","methodName":"isFeatureSupported","signature":"\u003corg.jcp.xml.dsig.internal.dom.ApacheTransform: boolean isFeatureSupported(java.lang.String)\u003e","loc":7}

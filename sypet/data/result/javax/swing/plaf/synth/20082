@@ -1,0 +1,1 @@
+{"id":20082,"className":"javax.swing.plaf.synth.ImagePainter","methodName":"paintSliderTrackBorder","signature":"\u003cjavax.swing.plaf.synth.ImagePainter: void paintSliderTrackBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int,int)\u003e","loc":3}

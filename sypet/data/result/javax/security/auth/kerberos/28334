@@ -1,0 +1,1 @@
+{"id":28334,"className":"javax.security.auth.kerberos.KerberosKey","methodName":"getKeyType","signature":"\u003cjavax.security.auth.kerberos.KerberosKey: int getKeyType()\u003e","javadoc":"/** \n * Returns the key type for this long-term key.\n * @return the key type.\n */\n","tf":{"freq":{"term":1,"type":3,"key":4},"maxFreq":4,"totalTerms":8},"loc":5}

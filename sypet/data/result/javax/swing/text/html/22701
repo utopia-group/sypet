@@ -1,0 +1,1 @@
+{"id":22701,"className":"javax.swing.text.html.CSSBorder$DottedDashedPainter","methodName":"paint","signature":"\u003cjavax.swing.text.html.CSSBorder$DottedDashedPainter: void paint(java.awt.Polygon,java.awt.Graphics,java.awt.Color,int)\u003e","loc":7}

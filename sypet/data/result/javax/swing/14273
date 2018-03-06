@@ -1,0 +1,1 @@
+{"id":14273,"className":"javax.swing.KeyboardManager","methodName":"unregisterKeyStroke","signature":"\u003cjavax.swing.KeyboardManager: void unregisterKeyStroke(javax.swing.KeyStroke,javax.swing.JComponent)\u003e","loc":50}

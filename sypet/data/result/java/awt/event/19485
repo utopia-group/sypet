@@ -1,0 +1,1 @@
+{"id":19485,"className":"java.awt.event.WindowAdapter","methodName":"windowClosed","signature":"\u003cjava.awt.event.WindowAdapter: void windowClosed(java.awt.event.WindowEvent)\u003e","javadoc":"/** \n * Invoked when a window has been closed.\n */\n","tf":{"freq":{"window":2,"invok":1,"close":2},"maxFreq":2,"totalTerms":5},"loc":1}

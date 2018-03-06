@@ -1,0 +1,1 @@
+{"id":10919,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getBottom","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getBottom()\u003e","javadoc":"/** \n * See the bottom property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"bottom":2,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

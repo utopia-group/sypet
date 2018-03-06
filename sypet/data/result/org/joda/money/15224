@@ -1,0 +1,1 @@
+{"id":15224,"className":"org.joda.money.BigMoney","methodName":"hashCode","signature":"\u003corg.joda.money.BigMoney: int hashCode()\u003e","javadoc":"/** \n * Returns a hash code for this monetary value.\n * @return a suitable hash code\n */\n","tf":{"freq":{"hash":3,"suitabl":1,"valu":1,"monetari":1},"maxFreq":3,"totalTerms":6},"loc":3}

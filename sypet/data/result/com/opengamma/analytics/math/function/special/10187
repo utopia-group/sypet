@@ -1,0 +1,1 @@
+{"id":10187,"className":"com.opengamma.analytics.math.function.special.LaguerrePolynomialFunction","methodName":"getPolynomialsAndFirstDerivative","signature":"\u003ccom.opengamma.analytics.math.function.special.LaguerrePolynomialFunction: com.opengamma.analytics.math.function.special.Pair[] getPolynomialsAndFirstDerivative(int,double)\u003e","loc":20}

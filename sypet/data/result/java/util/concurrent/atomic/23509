@@ -1,0 +1,1 @@
+{"id":23509,"className":"java.util.concurrent.atomic.AtomicLong","methodName":"lazySet","signature":"\u003cjava.util.concurrent.atomic.AtomicLong: void lazySet(long)\u003e","javadoc":"/** \n * Eventually sets to the given value.\n * @param newValue the new value\n * @since 1.6\n */\n","tf":{"freq":{"given":1,"eventu":1,"valu":3,"lazi":1},"maxFreq":3,"totalTerms":6},"loc":3}

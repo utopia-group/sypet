@@ -1,0 +1,1 @@
+{"id":15744,"className":"java.awt.List","methodName":"addItem","signature":"\u003cjava.awt.List: void addItem(java.lang.String,int)\u003e","javadoc":"/** \n * @deprecated      replaced by \u003ccode\u003eadd(String, int)\u003c/code\u003e.\n */\n","tf":{"freq":{"deprec":1,"string":1,"replac":1,"item":1,"add":2},"maxFreq":2,"totalTerms":6},"loc":20}

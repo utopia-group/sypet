@@ -1,0 +1,1 @@
+{"id":20968,"className":"javax.swing.event.TableModelEvent","methodName":"getLastRow","signature":"\u003cjavax.swing.event.TableModelEvent: int getLastRow()\u003e","javadoc":"/** \n * Returns the last row that changed. \n */\n","tf":{"freq":{"last":2,"chang":1,"row":2},"maxFreq":2,"totalTerms":5},"loc":1}

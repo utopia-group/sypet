@@ -1,0 +1,1 @@
+{"id":21352,"className":"java.util.Currency$CurrencyNameGetter","methodName":"getObject","signature":"\u003cjava.util.Currency$CurrencyNameGetter: java.lang.String getObject(java.util.spi.CurrencyNameProvider,java.util.Locale,java.lang.String,java.lang.Object[])\u003e","loc":15}

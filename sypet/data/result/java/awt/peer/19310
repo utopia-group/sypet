@@ -1,0 +1,1 @@
+{"id":19310,"className":"java.awt.peer.MenuItemPeer","methodName":"setLabel","signature":"\u003cjava.awt.peer.MenuItemPeer: void setLabel(java.lang.String)\u003e","javadoc":"/** \n * Sets the label to be displayed in this menu item.\n * @param label the label to be displayed\n */\n","tf":{"freq":{"item":1,"menu":1,"display":2,"label":4},"maxFreq":4,"totalTerms":8},"loc":0}

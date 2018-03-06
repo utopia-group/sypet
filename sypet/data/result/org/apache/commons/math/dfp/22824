@@ -1,0 +1,1 @@
+{"id":22824,"className":"org.apache.commons.math.dfp.Dfp","methodName":"getRadixDigits","signature":"\u003corg.apache.commons.math.dfp.Dfp: int getRadixDigits()\u003e","javadoc":"/** \n * Get the number of radix digits of the instance.\n * @return number of radix digits\n */\n","tf":{"freq":{"digit":3,"radix":3,"number":2,"instanc":1},"maxFreq":3,"totalTerms":9},"loc":3}

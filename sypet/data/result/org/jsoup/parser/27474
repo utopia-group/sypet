@@ -1,0 +1,1 @@
+{"id":27474,"className":"org.jsoup.parser.Tag","methodName":"isInline","signature":"\u003corg.jsoup.parser.Tag: boolean isInline()\u003e","javadoc":"/** \n * Gets if this tag is an inline tag.\n * @return if this tag is an inline tag.\n */\n","tf":{"freq":{"tag":4,"inlin":3},"maxFreq":4,"totalTerms":7},"loc":3}

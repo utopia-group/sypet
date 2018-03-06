@@ -1,0 +1,1 @@
+{"id":19675,"className":"java.awt.geom.Point2D$Float","methodName":"setLocation","signature":"\u003cjava.awt.geom.Point2D$Float: void setLocation(double,double)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"locat":1},"maxFreq":1,"totalTerms":1},"loc":4}

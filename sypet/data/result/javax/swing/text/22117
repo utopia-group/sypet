@@ -1,0 +1,1 @@
+{"id":22117,"className":"javax.swing.text.ZoneView$Zone","methodName":"getStartOffset","signature":"\u003cjavax.swing.text.ZoneView$Zone: int getStartOffset()\u003e","javadoc":"/** \n * Start of the zones range.\n * @see View#getStartOffset\n */\n","tf":{"freq":{"start":3,"rang":1,"view":1,"offset":2,"zone":1},"maxFreq":3,"totalTerms":8},"loc":3}

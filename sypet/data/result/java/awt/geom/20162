@@ -1,0 +1,1 @@
+{"id":20162,"className":"java.awt.geom.Rectangle2D$Float","methodName":"setRect","signature":"\u003cjava.awt.geom.Rectangle2D$Float: void setRect(java.awt.geom.Rectangle2D)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"rect":1},"maxFreq":1,"totalTerms":1},"loc":6}

@@ -1,0 +1,1 @@
+{"id":16573,"className":"javax.swing.border.TitledBorder","methodName":"getTitleFont","signature":"\u003cjavax.swing.border.TitledBorder: java.awt.Font getTitleFont()\u003e","javadoc":"/** \n * Returns the title-font of the titled border.\n * @return the title-font of the titled border\n */\n","tf":{"freq":{"font":3,"titl":5,"border":2},"maxFreq":5,"totalTerms":10},"loc":3}

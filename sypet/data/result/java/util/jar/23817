@@ -1,0 +1,1 @@
+{"id":23817,"className":"java.util.jar.JarVerifier","methodName":"entryNames","signature":"\u003cjava.util.jar.JarVerifier: java.util.Enumeration\u003cjava.lang.String\u003e entryNames(java.util.jar.JarFile,java.security.CodeSource[])\u003e","loc":57}

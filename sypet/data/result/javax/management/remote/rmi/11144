@@ -1,0 +1,1 @@
+{"id":11144,"className":"javax.management.remote.rmi.RMIConnectionImpl","methodName":"getDomains","signature":"\u003cjavax.management.remote.rmi.RMIConnectionImpl: java.lang.String[] getDomains(javax.security.auth.Subject)\u003e","loc":19}

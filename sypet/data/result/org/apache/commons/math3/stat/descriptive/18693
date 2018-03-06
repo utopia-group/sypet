@@ -1,0 +1,1 @@
+{"id":18693,"className":"org.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatistics","methodName":"getSumsq","signature":"\u003corg.apache.commons.math3.stat.descriptive.SynchronizedSummaryStatistics: double getSumsq()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"sumsq":1},"maxFreq":1,"totalTerms":1},"loc":3}

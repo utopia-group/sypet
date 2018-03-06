@@ -1,0 +1,1 @@
+{"id":17031,"className":"org.apache.commons.math3.analysis.function.Cbrt","methodName":"value","signature":"\u003corg.apache.commons.math3.analysis.function.Cbrt: double value(double)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"valu":1},"maxFreq":1,"totalTerms":1},"loc":3}

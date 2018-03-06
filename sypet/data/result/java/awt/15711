@@ -1,0 +1,1 @@
+{"id":15711,"className":"java.awt.Menu","methodName":"remove","signature":"\u003cjava.awt.Menu: void remove(int)\u003e","javadoc":"/** \n * Removes the menu item at the specified index from this menu.\n * @param index the position of the item to be removed.\n */\n","tf":{"freq":{"index":2,"item":2,"menu":2,"remov":3,"posit":1,"specifi":1},"maxFreq":3,"totalTerms":11},"loc":12}

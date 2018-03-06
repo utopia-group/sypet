@@ -1,0 +1,1 @@
+{"id":17539,"className":"java.awt.Container","methodName":"getLayout","signature":"\u003cjava.awt.Container: java.awt.LayoutManager getLayout()\u003e","javadoc":"/** \n * Gets the layout manager for this container.\n * @see #doLayout\n * @see #setLayout\n */\n","tf":{"freq":{"manag":1,"contain":1,"layout":4},"maxFreq":4,"totalTerms":6},"loc":3}

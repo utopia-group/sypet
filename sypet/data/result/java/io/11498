@@ -1,0 +1,1 @@
+{"id":11498,"className":"java.io.StringWriter","methodName":"StringWriter","signature":"\u003cjava.io.StringWriter: void StringWriter()\u003e","javadoc":"/** \n * Create a new string writer using the default initial string-buffer size.\n */\n","tf":{"freq":{"buffer":1,"creat":1,"string":3,"use":1,"initi":1,"writer":2,"size":1},"maxFreq":3,"totalTerms":10},"loc":4}

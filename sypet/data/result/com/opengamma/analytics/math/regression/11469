@@ -1,0 +1,1 @@
+{"id":11469,"className":"com.opengamma.analytics.math.regression.WeightedLeastSquaresRegressionResult","methodName":"getWeightedPredictedValue","signature":"\u003ccom.opengamma.analytics.math.regression.WeightedLeastSquaresRegressionResult: double getWeightedPredictedValue(double[],double[])\u003e","loc":28}

@@ -1,0 +1,1 @@
+{"id":22287,"className":"org.apache.commons.math.ConvergingAlgorithmImpl","methodName":"getRelativeAccuracy","signature":"\u003corg.apache.commons.math.ConvergingAlgorithmImpl: double getRelativeAccuracy()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"relat":1,"accuraci":1},"maxFreq":1,"totalTerms":2},"loc":3}

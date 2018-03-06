@@ -1,0 +1,1 @@
+{"id":15187,"className":"java.nio.file.spi.FileSystemProvider","methodName":"getScheme","signature":"\u003cjava.nio.file.spi.FileSystemProvider: java.lang.String getScheme()\u003e","javadoc":"/** \n * Returns the URI scheme that identifies this provider.\n * @return  The URI scheme\n */\n","tf":{"freq":{"scheme":3,"identifi":1,"provid":1},"maxFreq":3,"totalTerms":5},"loc":0}

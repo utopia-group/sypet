@@ -1,0 +1,1 @@
+{"id":12708,"className":"javax.swing.JTree","methodName":"getLeadSelectionPath","signature":"\u003cjavax.swing.JTree: javax.swing.tree.TreePath getLeadSelectionPath()\u003e","javadoc":"/** \n * Returns the path identified as the lead.\n * @return path identified as the lead\n */\n","tf":{"freq":{"select":1,"path":3,"lead":3,"identifi":2},"maxFreq":3,"totalTerms":9},"loc":3}

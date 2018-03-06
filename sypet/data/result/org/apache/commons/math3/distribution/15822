@@ -1,0 +1,1 @@
+{"id":15822,"className":"org.apache.commons.math3.distribution.LaplaceDistribution","methodName":"inverseCumulativeProbability","signature":"\u003corg.apache.commons.math3.distribution.LaplaceDistribution: double inverseCumulativeProbability(double)\u003e","loc":11}

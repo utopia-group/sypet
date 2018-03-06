@@ -1,0 +1,20 @@
+{
+  "id": 100,
+  "methodName": "distance",
+  "paramNames": [
+    "sypet_arg0",
+    "sypet_arg1"
+  ],
+  "srcTypes": [
+    "java.awt.geom.Point2D",
+    "java.awt.geom.Point2D"
+  ],
+  "tgtType": "double",
+  "packages": [
+    "java.awt.geom"
+  ],
+  "libs": [
+    "lib/rt7.jar"
+  ],
+  "testPath": "../example/TestSource.java"
+}

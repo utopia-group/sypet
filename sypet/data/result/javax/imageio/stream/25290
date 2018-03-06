@@ -1,0 +1,1 @@
+{"id":25290,"className":"javax.imageio.stream.ImageInputStreamImpl","methodName":"readBoolean","signature":"\u003cjavax.imageio.stream.ImageInputStreamImpl: boolean readBoolean()\u003e","loc":7}

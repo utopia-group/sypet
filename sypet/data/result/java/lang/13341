@@ -1,0 +1,1 @@
+{"id":13341,"className":"java.lang.StringBuffer","methodName":"trimToSize","signature":"\u003cjava.lang.StringBuffer: void trimToSize()\u003e","javadoc":"/** \n * @since      1.5\n */\n","tf":{"freq":{"trim":1,"size":1},"maxFreq":1,"totalTerms":2},"loc":3}

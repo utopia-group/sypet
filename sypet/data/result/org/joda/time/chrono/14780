@@ -1,0 +1,1 @@
+{"id":14780,"className":"org.joda.time.chrono.BasicWeekyearDateTimeField","methodName":"isLeap","signature":"\u003corg.joda.time.chrono.BasicWeekyearDateTimeField: boolean isLeap(long)\u003e","loc":3}

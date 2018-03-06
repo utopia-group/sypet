@@ -1,0 +1,1 @@
+{"id":12102,"className":"com.opengamma.analytics.math.statistics.ConfidenceInterval","methodName":"isWithinInterval","signature":"\u003ccom.opengamma.analytics.math.statistics.ConfidenceInterval: boolean isWithinInterval(double)\u003e","loc":3}

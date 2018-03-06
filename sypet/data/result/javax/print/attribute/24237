@@ -1,0 +1,1 @@
+{"id":24237,"className":"javax.print.attribute.ResolutionSyntax","methodName":"hashCode","signature":"\u003cjavax.print.attribute.ResolutionSyntax: int hashCode()\u003e","javadoc":"/** \n * Returns a hash code value for this resolution attribute.\n */\n","tf":{"freq":{"resolut":1,"attribut":1,"hash":2,"valu":1},"maxFreq":2,"totalTerms":5},"loc":4}

@@ -1,0 +1,1 @@
+{"id":11415,"className":"com.opengamma.analytics.math.integration.IntegratorRepeated2D","methodName":"integrate","signature":"\u003ccom.opengamma.analytics.math.integration.IntegratorRepeated2D: java.lang.Double integrate(com.opengamma.analytics.math.function.Function2D,java.lang.Double[],java.lang.Double[])\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":24797,"className":"org.apache.commons.math.transform.FastSineTransformer","methodName":"FastSineTransformer","signature":"\u003corg.apache.commons.math.transform.FastSineTransformer: void FastSineTransformer()\u003e","javadoc":"/** \n * Construct a default transformer.\n */\n","tf":{"freq":{"transform":2,"sine":1,"construct":1,"fast":1},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":21003,"className":"javax.swing.event.HyperlinkEvent$EventType","methodName":"toString","signature":"\u003cjavax.swing.event.HyperlinkEvent$EventType: java.lang.String toString()\u003e","javadoc":"/** \n * Converts the type to a string.\n * @return the string\n */\n","tf":{"freq":{"string":3,"convert":1,"type":1},"maxFreq":3,"totalTerms":5},"loc":3}

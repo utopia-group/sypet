@@ -1,0 +1,1 @@
+{"id":13550,"className":"javax.swing.SpringLayout$Constraints","methodName":"Constraints","signature":"\u003cjavax.swing.SpringLayout$Constraints: void Constraints()\u003e","javadoc":"/** \n * Creates an empty \u003ccode\u003eConstraints\u003c/code\u003e object.\n */\n","tf":{"freq":{"creat":1,"constraint":2,"object":1,"empti":1},"maxFreq":2,"totalTerms":5},"loc":2}

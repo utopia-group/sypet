@@ -1,0 +1,1 @@
+{"id":25216,"className":"org.apache.commons.math.linear.SparseFieldVector","methodName":"equals","signature":"\u003corg.apache.commons.math.linear.SparseFieldVector: boolean equals(java.lang.Object)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"equal":1},"maxFreq":1,"totalTerms":1},"loc":42}

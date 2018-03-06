@@ -1,0 +1,1 @@
+{"id":16609,"className":"javax.swing.border.CompoundBorder","methodName":"getOutsideBorder","signature":"\u003cjavax.swing.border.CompoundBorder: javax.swing.border.Border getOutsideBorder()\u003e","javadoc":"/** \n * Returns the outside border object.\n */\n","tf":{"freq":{"outsid":2,"object":1,"border":2},"maxFreq":2,"totalTerms":5},"loc":3}

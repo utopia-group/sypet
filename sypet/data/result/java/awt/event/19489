@@ -1,0 +1,1 @@
+{"id":19489,"className":"java.awt.event.WindowAdapter","methodName":"windowDeactivated","signature":"\u003cjava.awt.event.WindowAdapter: void windowDeactivated(java.awt.event.WindowEvent)\u003e","javadoc":"/** \n * Invoked when a window is de-activated.\n */\n","tf":{"freq":{"window":2,"invok":1,"activ":1,"deactiv":1},"maxFreq":2,"totalTerms":5},"loc":1}

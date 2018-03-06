@@ -1,0 +1,1 @@
+{"id":11015,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getOutlineWidth","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getOutlineWidth()\u003e","javadoc":"/** \n * See the outline-width property definition in CSS2.\n */\n","tf":{"freq":{"outlin":2,"definit":1,"width":2,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

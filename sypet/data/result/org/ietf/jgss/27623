@@ -1,0 +1,1 @@
+{"id":27623,"className":"org.ietf.jgss.Oid","methodName":"hashCode","signature":"\u003corg.ietf.jgss.Oid: int hashCode()\u003e","javadoc":"/** \n * Returns a hashcode value for this Oid.\n * @return a hashCode value\n */\n","tf":{"freq":{"hash":2,"oid":1,"hashcod":1,"valu":2},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11407,"className":"com.opengamma.analytics.math.integration.AdaptiveCompositeIntegrator1D","methodName":"integrate","signature":"\u003ccom.opengamma.analytics.math.integration.AdaptiveCompositeIntegrator1D: java.lang.Double integrate(com.opengamma.analytics.math.function.Function1D,java.lang.Double,java.lang.Double)\u003e","loc":14}

@@ -1,0 +1,1 @@
+{"id":26873,"className":"org.jsoup.Connection$Request","methodName":"parser","signature":"\u003corg.jsoup.Connection$Request: org.jsoup.parser.Parser parser()\u003e","javadoc":"/** \n * Get the current parser to use when parsing the document.\n * @return current Parser\n */\n","tf":{"freq":{"document":1,"current":2,"use":1,"pars":1,"parser":3},"maxFreq":3,"totalTerms":8},"loc":0}

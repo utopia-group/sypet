@@ -1,0 +1,1 @@
+{"id":10430,"className":"javax.management.JMRuntimeException","methodName":"JMRuntimeException","signature":"\u003cjavax.management.JMRuntimeException: void JMRuntimeException()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"except":1,"mruntim":1,"constructor":1},"maxFreq":1,"totalTerms":3},"loc":3}

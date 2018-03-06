@@ -1,0 +1,1 @@
+{"id":19662,"className":"java.awt.geom.RectangularShape","methodName":"contains","signature":"\u003cjava.awt.geom.RectangularShape: boolean contains(java.awt.geom.Rectangle2D)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.2\n */\n","tf":{"freq":{"contain":1},"maxFreq":1,"totalTerms":1},"loc":3}

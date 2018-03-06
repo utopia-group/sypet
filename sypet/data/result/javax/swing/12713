@@ -1,0 +1,1 @@
+{"id":12713,"className":"javax.swing.JTree","methodName":"getSelectionCount","signature":"\u003cjavax.swing.JTree: int getSelectionCount()\u003e","javadoc":"/** \n * Returns the number of nodes selected.\n * @return the number of nodes selected\n */\n","tf":{"freq":{"node":2,"count":1,"select":3,"number":2},"maxFreq":3,"totalTerms":8},"loc":3}

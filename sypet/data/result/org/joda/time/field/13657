@@ -1,0 +1,1 @@
+{"id":13657,"className":"org.joda.time.field.DelegatedDurationField","methodName":"isSupported","signature":"\u003corg.joda.time.field.DelegatedDurationField: boolean isSupported()\u003e","javadoc":"/** \n * Returns true if this field is supported.\n */\n","tf":{"freq":{"field":1,"support":2,"true":1},"maxFreq":2,"totalTerms":4},"loc":3}

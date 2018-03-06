@@ -1,0 +1,1 @@
+{"id":18110,"className":"javax.swing.plaf.basic.BasicFileChooserUI","methodName":"getApproveButtonMnemonic","signature":"\u003cjavax.swing.plaf.basic.BasicFileChooserUI: int getApproveButtonMnemonic(javax.swing.JFileChooser)\u003e","loc":12}

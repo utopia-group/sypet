@@ -1,0 +1,1 @@
+{"id":15722,"className":"java.awt.Adjustable","methodName":"setUnitIncrement","signature":"\u003cjava.awt.Adjustable: void setUnitIncrement(int)\u003e","javadoc":"/** \n * Sets the unit value increment for the adjustable object.\n * @param u the unit increment\n */\n","tf":{"freq":{"increment":3,"unit":3,"adjust":1,"valu":1,"object":1},"maxFreq":3,"totalTerms":9},"loc":0}

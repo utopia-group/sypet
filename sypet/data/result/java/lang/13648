@@ -1,0 +1,1 @@
+{"id":13648,"className":"java.lang.Integer","methodName":"intValue","signature":"\u003cjava.lang.Integer: int intValue()\u003e","javadoc":"/** \n * Returns the value of this  {@code Integer} as an{@code int}.\n */\n","tf":{"freq":{"valu":2,"integ":1},"maxFreq":2,"totalTerms":3},"loc":3}

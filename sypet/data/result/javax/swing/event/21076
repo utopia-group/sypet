@@ -1,0 +1,1 @@
+{"id":21076,"className":"javax.swing.event.UndoableEditListener","methodName":"undoableEditHappened","signature":"\u003cjavax.swing.event.UndoableEditListener: void undoableEditHappened(javax.swing.event.UndoableEditEvent)\u003e","javadoc":"/** \n * An undoable edit happened\n */\n","tf":{"freq":{"undoabl":2,"edit":2,"happen":2},"maxFreq":2,"totalTerms":6},"loc":0}

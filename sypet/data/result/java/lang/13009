@@ -1,0 +1,1 @@
+{"id":13009,"className":"java.lang.StringBuilder","methodName":"insert","signature":"\u003cjava.lang.StringBuilder: java.lang.StringBuilder insert(int,char)\u003e","javadoc":"/** \n * @throws IndexOutOfBoundsException {@inheritDoc}\n */\n","tf":{"freq":{"except":1,"index":1,"insert":1,"bound":1},"maxFreq":1,"totalTerms":4},"loc":4}

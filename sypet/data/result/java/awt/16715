@@ -1,0 +1,1 @@
+{"id":16715,"className":"java.awt.ItemSelectable","methodName":"getSelectedObjects","signature":"\u003cjava.awt.ItemSelectable: java.lang.Object[] getSelectedObjects()\u003e","javadoc":"/** \n * Returns the selected items or \u003ccode\u003enull\u003c/code\u003e if no items are selected.\n */\n","tf":{"freq":{"select":3,"item":2,"object":1},"maxFreq":3,"totalTerms":6},"loc":0}

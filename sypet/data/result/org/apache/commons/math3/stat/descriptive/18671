@@ -1,0 +1,1 @@
+{"id":18671,"className":"org.apache.commons.math3.stat.descriptive.AbstractStorelessUnivariateStatistic","methodName":"increment","signature":"\u003corg.apache.commons.math3.stat.descriptive.AbstractStorelessUnivariateStatistic: void increment(double)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"increment":1},"maxFreq":1,"totalTerms":1},"loc":0}

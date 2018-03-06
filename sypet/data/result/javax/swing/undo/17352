@@ -1,0 +1,1 @@
+{"id":17352,"className":"javax.swing.undo.UndoManager","methodName":"UndoManager","signature":"\u003cjavax.swing.undo.UndoManager: void UndoManager()\u003e","javadoc":"/** \n * Creates a new \u003ccode\u003eUndoManager\u003c/code\u003e.\n */\n","tf":{"freq":{"creat":1,"undo":2,"manag":2},"maxFreq":2,"totalTerms":5},"loc":6}

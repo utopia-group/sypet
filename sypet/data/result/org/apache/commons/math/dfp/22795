@@ -1,0 +1,1 @@
+{"id":22795,"className":"org.apache.commons.math.dfp.DfpField","methodName":"getE","signature":"\u003corg.apache.commons.math.dfp.DfpField: org.apache.commons.math.dfp.Dfp getE()\u003e","javadoc":"/** \n * Get the constant e.\n * @return a {@link Dfp} with value e\n */\n","tf":{"freq":{"constant":1,"link":1,"valu":1,"dfp":1},"maxFreq":1,"totalTerms":4},"loc":3}

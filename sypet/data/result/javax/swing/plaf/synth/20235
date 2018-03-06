@@ -1,0 +1,1 @@
+{"id":20235,"className":"javax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter","methodName":"paintProgressBarForeground","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter: void paintProgressBarForeground(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int,int)\u003e","loc":6}

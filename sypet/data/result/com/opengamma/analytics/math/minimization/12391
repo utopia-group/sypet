@@ -1,0 +1,1 @@
+{"id":12391,"className":"com.opengamma.analytics.math.minimization.NullTransform","methodName":"transform","signature":"\u003ccom.opengamma.analytics.math.minimization.NullTransform: double transform(double)\u003e","javadoc":"/** \n * Performs the null transform {x -\u003e x} {@inheritDoc}\n */\n","tf":{"freq":{"transform":2,"perform":1},"maxFreq":2,"totalTerms":3},"loc":3}

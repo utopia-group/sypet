@@ -1,0 +1,1 @@
+{"id":10611,"className":"com.opengamma.analytics.math.interpolation.LinearExtrapolator1D","methodName":"LinearExtrapolator1D","signature":"\u003ccom.opengamma.analytics.math.interpolation.LinearExtrapolator1D: void LinearExtrapolator1D(com.opengamma.analytics.math.interpolation.Interpolator1D)\u003e","loc":3}

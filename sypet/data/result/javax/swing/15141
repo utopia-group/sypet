@@ -1,0 +1,1 @@
+{"id":15141,"className":"javax.swing.DefaultComboBoxModel","methodName":"DefaultComboBoxModel","signature":"\u003cjavax.swing.DefaultComboBoxModel: void DefaultComboBoxModel()\u003e","javadoc":"/** \n * Constructs an empty DefaultComboBoxModel object.\n */\n","tf":{"freq":{"model":2,"box":2,"combo":2,"object":1,"construct":1,"empti":1},"maxFreq":2,"totalTerms":9},"loc":3}

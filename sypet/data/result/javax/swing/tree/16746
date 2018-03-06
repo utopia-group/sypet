@@ -1,0 +1,1 @@
+{"id":16746,"className":"javax.swing.tree.DefaultTreeCellRenderer","methodName":"getBorderSelectionColor","signature":"\u003cjavax.swing.tree.DefaultTreeCellRenderer: java.awt.Color getBorderSelectionColor()\u003e","javadoc":"/** \n * Returns the color the border is drawn.\n */\n","tf":{"freq":{"color":2,"select":1,"border":2,"drawn":1},"maxFreq":2,"totalTerms":6},"loc":3}

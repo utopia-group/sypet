@@ -1,0 +1,1 @@
+{"id":25083,"className":"org.apache.commons.math.util.TransformerMap","methodName":"clear","signature":"\u003corg.apache.commons.math.util.TransformerMap: void clear()\u003e","javadoc":"/** \n * Clears all the Class to Transformer mappings.\n */\n","tf":{"freq":{"clear":2,"transform":1,"map":1},"maxFreq":2,"totalTerms":4},"loc":3}

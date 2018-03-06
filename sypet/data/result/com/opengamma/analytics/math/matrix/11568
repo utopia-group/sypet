@@ -1,0 +1,1 @@
+{"id":11568,"className":"com.opengamma.analytics.math.matrix.Matrix","methodName":"getNumberOfElements","signature":"\u003ccom.opengamma.analytics.math.matrix.Matrix: int getNumberOfElements()\u003e","javadoc":"/** \n * @return The number of elements in this matrix\n */\n","tf":{"freq":{"element":2,"matrix":1,"number":2},"maxFreq":2,"totalTerms":5},"loc":0}

@@ -1,0 +1,1 @@
+{"id":12988,"className":"java.lang.StringBuilder","methodName":"append","signature":"\u003cjava.lang.StringBuilder: java.lang.StringBuilder append(java.lang.CharSequence)\u003e","javadoc":"/** \n */\n","tf":{"freq":{"append":1},"maxFreq":1,"totalTerms":1},"loc":11}

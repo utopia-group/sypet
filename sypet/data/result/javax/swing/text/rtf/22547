@@ -1,0 +1,1 @@
+{"id":22547,"className":"javax.swing.text.rtf.RTFGenerator","methodName":"writeDocument","signature":"\u003cjavax.swing.text.rtf.RTFGenerator: void writeDocument(javax.swing.text.Document,java.io.OutputStream)\u003e","loc":16}

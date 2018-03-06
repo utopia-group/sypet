@@ -1,0 +1,1 @@
+{"id":10009,"className":"javax.management.IntrospectionException","methodName":"IntrospectionException","signature":"\u003cjavax.management.IntrospectionException: void IntrospectionException()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"except":1,"introspect":1,"constructor":1},"maxFreq":1,"totalTerms":3},"loc":3}

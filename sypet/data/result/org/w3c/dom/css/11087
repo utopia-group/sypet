@@ -1,0 +1,1 @@
+{"id":11087,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getVerticalAlign","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getVerticalAlign()\u003e","javadoc":"/** \n * See the vertical-align property definition in CSS2.\n */\n","tf":{"freq":{"vertic":2,"definit":1,"align":2,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

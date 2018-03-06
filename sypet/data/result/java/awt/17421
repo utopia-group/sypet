@@ -1,0 +1,1 @@
+{"id":17421,"className":"java.awt.Cursor","methodName":"getName","signature":"\u003cjava.awt.Cursor: java.lang.String getName()\u003e","javadoc":"/** \n * Returns the name of this cursor.\n * @return    a localized description of this cursor.\n * @since     1.2\n */\n","tf":{"freq":{"cursor":2,"name":2,"descript":1,"local":1},"maxFreq":2,"totalTerms":6},"loc":3}

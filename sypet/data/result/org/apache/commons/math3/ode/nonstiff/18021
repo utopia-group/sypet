@@ -1,0 +1,1 @@
+{"id":18021,"className":"org.apache.commons.math3.ode.nonstiff.RungeKuttaStepInterpolator","methodName":"readExternal","signature":"\u003corg.apache.commons.math3.ode.nonstiff.RungeKuttaStepInterpolator: void readExternal(java.io.ObjectInput)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"extern":1,"read":1},"maxFreq":1,"totalTerms":2},"loc":35}

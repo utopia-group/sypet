@@ -1,0 +1,1 @@
+{"id":15442,"className":"org.apache.commons.math3.RealFieldElement","methodName":"tanh","signature":"\u003corg.apache.commons.math3.RealFieldElement: T tanh()\u003e","javadoc":"/** \n * Hyperbolic tangent operation.\n * @return tanh(this)\n */\n","tf":{"freq":{"tanh":2,"oper":1,"hyperbol":1,"tangent":1},"maxFreq":2,"totalTerms":5},"loc":0}

@@ -1,0 +1,1 @@
+{"id":13743,"className":"javax.swing.ProgressMonitor","methodName":"isCanceled","signature":"\u003cjavax.swing.ProgressMonitor: boolean isCanceled()\u003e","javadoc":"/** \n * Returns true if the user hits the Cancel button in the progress dialog.\n */\n","tf":{"freq":{"progress":1,"button":1,"hit":1,"true":1,"cancel":2,"dialog":1,"user":1},"maxFreq":2,"totalTerms":8},"loc":7}

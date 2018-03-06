@@ -1,0 +1,1 @@
+{"id":20852,"className":"javax.swing.plaf.synth.SynthSplitPaneUI","methodName":"createDefaultDivider","signature":"\u003cjavax.swing.plaf.synth.SynthSplitPaneUI: javax.swing.plaf.basic.BasicSplitPaneDivider createDefaultDivider()\u003e","javadoc":"/** \n * Creates the default divider.\n */\n","tf":{"freq":{"creat":2,"divid":2},"maxFreq":2,"totalTerms":4},"loc":6}

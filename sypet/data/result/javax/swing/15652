@@ -1,0 +1,1 @@
+{"id":15652,"className":"javax.swing.JPanel","methodName":"JPanel","signature":"\u003cjavax.swing.JPanel: void JPanel()\u003e","javadoc":"/** \n * Creates a new \u003ccode\u003eJPanel\u003c/code\u003e with a double buffer and a flow layout.\n */\n","tf":{"freq":{"buffer":1,"panel":1,"creat":1,"layout":1,"jpanel":1,"flow":1},"maxFreq":1,"totalTerms":6},"loc":3}

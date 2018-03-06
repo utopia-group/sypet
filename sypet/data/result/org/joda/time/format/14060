@@ -1,0 +1,1 @@
+{"id":14060,"className":"org.joda.time.format.PeriodFormatterBuilder$PeriodFieldAffix","methodName":"getAffixes","signature":"\u003corg.joda.time.format.PeriodFormatterBuilder$PeriodFieldAffix: java.lang.String[] getAffixes()\u003e","javadoc":"/** \n * @return a copy of array of affixes\n */\n","tf":{"freq":{"affix":2,"copi":1,"array":1},"maxFreq":2,"totalTerms":4},"loc":0}

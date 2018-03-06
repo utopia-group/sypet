@@ -1,0 +1,1 @@
+{"id":24654,"className":"java.text.AttributedString$AttributedStringIterator","methodName":"getAttributes","signature":"\u003cjava.text.AttributedString$AttributedStringIterator: java.util.Map\u003cjava.text.AttributedCharacterIterator.Attribute,java.lang.Object\u003e getAttributes()\u003e","loc":8}

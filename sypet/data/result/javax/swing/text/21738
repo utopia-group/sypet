@@ -1,0 +1,1 @@
+{"id":21738,"className":"javax.swing.text.GapContent$MarkVector","methodName":"addElement","signature":"\u003cjavax.swing.text.GapContent$MarkVector: void addElement(javax.swing.text.GapContent$MarkData)\u003e","javadoc":"/** \n * Add a mark to the end\n */\n","tf":{"freq":{"element":1,"mark":1,"add":2,"end":1},"maxFreq":2,"totalTerms":5},"loc":3}

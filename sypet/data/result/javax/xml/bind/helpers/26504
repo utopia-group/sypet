@@ -1,0 +1,1 @@
+{"id":26504,"className":"javax.xml.bind.helpers.AbstractMarshallerImpl","methodName":"setAttachmentMarshaller","signature":"\u003cjavax.xml.bind.helpers.AbstractMarshallerImpl: void setAttachmentMarshaller(javax.xml.bind.attachment.AttachmentMarshaller)\u003e","loc":3}

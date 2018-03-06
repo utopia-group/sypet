@@ -1,0 +1,1 @@
+{"id":15835,"className":"java.awt.TexturePaintContext","methodName":"getContext","signature":"\u003cjava.awt.TexturePaintContext: java.awt.PaintContext getContext(java.awt.image.BufferedImage,java.awt.geom.AffineTransform,java.awt.RenderingHints,java.awt.Rectangle)\u003e","loc":30}

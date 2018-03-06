@@ -1,0 +1,1 @@
+{"id":20418,"className":"java.util.TimeZone","methodName":"getAvailableIDs","signature":"\u003cjava.util.TimeZone: java.lang.String[] getAvailableIDs()\u003e","javadoc":"/** \n * Gets all the available IDs supported.\n * @return an array of IDs.\n */\n","tf":{"freq":{"id":3,"support":1,"avail":2,"array":1},"maxFreq":3,"totalTerms":7},"loc":3}

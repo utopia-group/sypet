@@ -1,0 +1,1 @@
+{"id":10417,"className":"org.w3c.dom.html.HTMLTableElement","methodName":"deleteTHead","signature":"\u003corg.w3c.dom.html.HTMLTableElement: void deleteTHead()\u003e","javadoc":"/** \n * Delete the header from the table, if one exists.\n */\n","tf":{"freq":{"thead":1,"delet":2,"tabl":1,"one":1,"exist":1,"header":1},"maxFreq":2,"totalTerms":7},"loc":0}

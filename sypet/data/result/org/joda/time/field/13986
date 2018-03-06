@@ -1,0 +1,1 @@
+{"id":13986,"className":"org.joda.time.field.BaseDurationField","methodName":"compareTo","signature":"\u003corg.joda.time.field.BaseDurationField: int compareTo(org.joda.time.DurationField)\u003e","loc":13}

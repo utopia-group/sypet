@@ -1,0 +1,1 @@
+{"id":15720,"className":"java.awt.Adjustable","methodName":"setMaximum","signature":"\u003cjava.awt.Adjustable: void setMaximum(int)\u003e","javadoc":"/** \n * Sets the maximum value of the adjustable object.\n * @param max the maximum value\n */\n","tf":{"freq":{"max":1,"maximum":3,"adjust":1,"valu":2,"object":1},"maxFreq":3,"totalTerms":8},"loc":0}

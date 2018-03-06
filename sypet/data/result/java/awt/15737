@@ -1,0 +1,1 @@
+{"id":15737,"className":"java.awt.List","methodName":"getItemCount","signature":"\u003cjava.awt.List: int getItemCount()\u003e","javadoc":"/** \n * Gets the number of items in the list.\n * @return     the number of items in the list\n * @see #getItem\n * @since      JDK1.1\n */\n","tf":{"freq":{"count":1,"item":4,"list":2,"number":2},"maxFreq":4,"totalTerms":9},"loc":3}

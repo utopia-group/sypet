@@ -1,0 +1,1 @@
+{"id":21050,"className":"javax.swing.event.MenuKeyListener","methodName":"menuKeyPressed","signature":"\u003cjavax.swing.event.MenuKeyListener: void menuKeyPressed(javax.swing.event.MenuKeyEvent)\u003e","javadoc":"/** \n * Invoked when a key has been pressed.\n */\n","tf":{"freq":{"press":2,"invok":1,"menu":1,"key":2},"maxFreq":2,"totalTerms":6},"loc":0}

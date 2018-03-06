@@ -1,0 +1,1 @@
+{"id":19534,"className":"java.awt.event.InputEvent","methodName":"isConsumed","signature":"\u003cjava.awt.event.InputEvent: boolean isConsumed()\u003e","javadoc":"/** \n * Returns whether or not this event has been consumed.\n * @see #consume\n */\n","tf":{"freq":{"consum":3,"event":1,"whether":1},"maxFreq":3,"totalTerms":5},"loc":3}

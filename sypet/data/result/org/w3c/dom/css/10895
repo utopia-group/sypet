@@ -1,0 +1,1 @@
+{"id":10895,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getBorderRightColor","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getBorderRightColor()\u003e","javadoc":"/** \n * See the border-right-color property definition in CSS2.\n */\n","tf":{"freq":{"color":2,"definit":1,"properti":1,"border":2,"right":2},"maxFreq":2,"totalTerms":8},"loc":0}

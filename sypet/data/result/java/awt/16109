@@ -1,0 +1,1 @@
+{"id":16109,"className":"java.awt.DisplayMode","methodName":"getHeight","signature":"\u003cjava.awt.DisplayMode: int getHeight()\u003e","javadoc":"/** \n * Returns the height of the display, in pixels.\n * @return the height of the display, in pixels\n */\n","tf":{"freq":{"height":3,"pixel":2,"display":2},"maxFreq":3,"totalTerms":7},"loc":3}

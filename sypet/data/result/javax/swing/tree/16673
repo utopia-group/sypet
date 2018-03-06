@@ -1,0 +1,1 @@
+{"id":16673,"className":"javax.swing.tree.FixedHeightLayoutCache$FHTreeStateNode","methodName":"isExpanded","signature":"\u003cjavax.swing.tree.FixedHeightLayoutCache$FHTreeStateNode: boolean isExpanded()\u003e","javadoc":"/** \n * Returns true if this node is expanded.\n */\n","tf":{"freq":{"node":1,"true":1,"expand":2},"maxFreq":2,"totalTerms":4},"loc":3}

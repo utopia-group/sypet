@@ -1,0 +1,1 @@
+{"id":11027,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getPaddingLeft","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getPaddingLeft()\u003e","javadoc":"/** \n * See the padding-left property definition in CSS2.\n */\n","tf":{"freq":{"pad":2,"definit":1,"left":2,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

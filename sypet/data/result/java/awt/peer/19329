@@ -1,0 +1,1 @@
+{"id":19329,"className":"java.awt.peer.FramePeer","methodName":"setState","signature":"\u003cjava.awt.peer.FramePeer: void setState(int)\u003e","javadoc":"/** \n * Changes the state of the frame.\n * @param state the new state\n * @see Frame#setExtendedState(int)\n */\n","tf":{"freq":{"frame":2,"state":5,"chang":1},"maxFreq":5,"totalTerms":8},"loc":0}

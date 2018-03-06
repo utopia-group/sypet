@@ -1,0 +1,1 @@
+{"id":12309,"className":"org.joda.time.MutablePeriod","methodName":"clear","signature":"\u003corg.joda.time.MutablePeriod: void clear()\u003e","javadoc":"/** \n * Clears the period, setting all values back to zero.\n */\n","tf":{"freq":{"clear":2,"back":1,"valu":1,"zero":1,"period":1},"maxFreq":2,"totalTerms":6},"loc":3}

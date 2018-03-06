@@ -1,0 +1,1 @@
+{"id":13662,"className":"org.joda.time.field.DelegatedDurationField","methodName":"getValueAsLong","signature":"\u003corg.joda.time.field.DelegatedDurationField: long getValueAsLong(long,long)\u003e","loc":3}

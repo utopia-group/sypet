@@ -1,0 +1,1 @@
+{"id":10244,"className":"org.w3c.dom.html.HTMLButtonElement","methodName":"getType","signature":"\u003corg.w3c.dom.html.HTMLButtonElement: java.lang.String getType()\u003e","javadoc":"/** \n * The type of button. See the  type attribute definition in HTML 4.0.\n */\n","tf":{"freq":{"attribut":1,"button":1,"definit":1,"type":3},"maxFreq":3,"totalTerms":6},"loc":0}

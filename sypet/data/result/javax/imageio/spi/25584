@@ -1,0 +1,1 @@
+{"id":25584,"className":"javax.imageio.spi.SubRegistry","methodName":"SubRegistry","signature":"\u003cjavax.imageio.spi.SubRegistry: void SubRegistry(javax.imageio.spi.ServiceRegistry,java.lang.Class)\u003e","loc":4}

@@ -1,0 +1,1 @@
+{"id":21784,"className":"javax.swing.text.WrappedPlainView$WrappedLine","methodName":"removeUpdate","signature":"\u003cjavax.swing.text.WrappedPlainView$WrappedLine: void removeUpdate(javax.swing.event.DocumentEvent,java.awt.Shape,javax.swing.text.ViewFactory)\u003e","loc":3}

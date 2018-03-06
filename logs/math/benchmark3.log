@@ -1,0 +1,59 @@
+Buildfile: /home/yufeng/Sypet/sypet/build.xml
+
+sypet:
+     [java]         ____     ___      __
+     [java]        / __/_ __/ _ \___ / /
+     [java]       _\ \/ // / ___/ -_) __/
+     [java]      /___/\_, /_/   \__/\__/
+     [java]          /___/              
+     [java] ----------Options
+     [java] Timeout:		1800 (seconds)
+     [java] Pruning:		ON
+     [java] Objective Function:	ON
+     [java] Round Robin:	ON
+     [java] ----------/home/yufeng/Sypet/sypet/benchmarks/math/3/benchmark3.json
+     [java] Benchmark Id: 3
+     [java] Method name: findRoots
+     [java] Packages: [org.apache.commons.math3]
+     [java] Libraries: [./lib/commons-math3-3.5.jar, ./lib/commons-lang-2.6.jar]
+     [java] Source type(s): [org.apache.commons.math3.analysis.polynomials.PolynomialFunction, double]
+     [java] Target type: org.apache.commons.math3.complex.Complex[]
+     [java] --------------------------------------------------------
+     [java] Warning: javax.crypto.spec.DESKeySpec is a phantom class!
+     [java] Warning: javax.crypto.spec.DESedeKeySpec is a phantom class!
+     [java] Warning: javax.crypto.SecretKey is a phantom class!
+     [java] Warning: javax.crypto.spec.IvParameterSpec is a phantom class!
+     [java] Warning: javax.crypto.Cipher is a phantom class!
+     [java] Warning: javax.crypto.SecretKeyFactory is a phantom class!
+     [java] Warning: javax.crypto.spec.SecretKeySpec is a phantom class!
+     [java] Warning: javax.crypto.Mac is a phantom class!
+     [java] Warning: javax.crypto.spec.PBEKeySpec is a phantom class!
+     [java] Warning: javax.crypto.NoSuchPaddingException is a phantom class!
+     [java] Warning: javax.crypto.IllegalBlockSizeException is a phantom class!
+     [java] Warning: javax.crypto.BadPaddingException is a phantom class!
+     [java] PetriNet for path length: 3 [places: 670 ; transitions: 5532 ; edges: 13319]
+     [java] PetriNet for path length: 4 [places: 721 ; transitions: 5729 ; edges: 13798]
+     [java] PetriNet for path length: 5 [places: 723 ; transitions: 5733 ; edges: 13808]
+     [java] ----------Statistics (time in milliseconds)----------
+     [java] Benchmark Id: 3
+     [java] Sketch Generation Time: 562.296422
+     [java] Sketch Completion Time: 12.281086
+     [java] Compilation Time: 640.102964
+     [java] Running Test cases Time: 75.20722699999999
+     [java] Synthesis Time: 649.7847350000001
+     [java] Total Time: 1289.887699
+     [java] Number of components: 3
+     [java] Number of holes: 5
+     [java] Number of completed programs: 13
+     [java] Number of sketches: 7
+     [java] 
+     [java] Solution:
+     [java]  double[] sypet_var33 = sypet_arg0.getCoefficients();
+     [java]  org.apache.commons.math3.analysis.solvers.LaguerreSolver sypet_var34 = new org.apache.commons.math3.analysis.solvers.LaguerreSolver();
+     [java]  org.apache.commons.math3.complex.Complex[] sypet_var35 = sypet_var34.solveAllComplex(sypet_var33,sypet_arg1);
+     [java]  return sypet_var35;
+     [java]  
+     [java] --------------------------------------------------------
+
+BUILD SUCCESSFUL
+Total time: 19 seconds

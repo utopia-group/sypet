@@ -1,0 +1,1 @@
+{"id":13368,"className":"java.lang.StringBuffer","methodName":"subSequence","signature":"\u003cjava.lang.StringBuffer: java.lang.CharSequence subSequence(int,int)\u003e","javadoc":"/** \n * @throws IndexOutOfBoundsException {@inheritDoc}\n * @since      1.4\n */\n","tf":{"freq":{"except":1,"index":1,"sub":1,"sequenc":1,"bound":1},"maxFreq":1,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":23692,"className":"org.apache.commons.math.ode.ODEIntegrator","methodName":"getName","signature":"\u003corg.apache.commons.math.ode.ODEIntegrator: java.lang.String getName()\u003e","javadoc":"/** \n * Get the name of the method.\n * @return name of the method\n */\n","tf":{"freq":{"name":3,"method":2},"maxFreq":3,"totalTerms":5},"loc":0}

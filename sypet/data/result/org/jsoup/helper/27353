@@ -1,0 +1,1 @@
+{"id":27353,"className":"org.jsoup.helper.HttpConnection$Base","methodName":"hasHeader","signature":"\u003corg.jsoup.helper.HttpConnection$Base: boolean hasHeader(java.lang.String)\u003e","loc":4}

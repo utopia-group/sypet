@@ -1,0 +1,1 @@
+{"id":21946,"className":"javax.swing.text.StyleContext","methodName":"getEmptySet","signature":"\u003cjavax.swing.text.StyleContext: javax.swing.text.AttributeSet getEmptySet()\u003e","javadoc":"/** \n * Fetches an empty AttributeSet.\n * @return the set\n */\n","tf":{"freq":{"fetch":1,"attribut":1,"empti":2},"maxFreq":2,"totalTerms":4},"loc":3}

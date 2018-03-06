@@ -1,0 +1,1 @@
+{"id":27807,"className":"javax.smartcardio.CardTerminal","methodName":"getName","signature":"\u003cjavax.smartcardio.CardTerminal: java.lang.String getName()\u003e","javadoc":"/** \n * Returns the unique name of this terminal.\n * @return the unique name of this terminal.\n */\n","tf":{"freq":{"termin":2,"uniqu":2,"name":3},"maxFreq":3,"totalTerms":7},"loc":0}

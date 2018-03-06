@@ -1,0 +1,1 @@
+{"id":14055,"className":"org.joda.time.format.PeriodFormatterBuilder$PeriodFieldAffix","methodName":"calculatePrintedLength","signature":"\u003corg.joda.time.format.PeriodFormatterBuilder$PeriodFieldAffix: int calculatePrintedLength(int)\u003e","loc":0}

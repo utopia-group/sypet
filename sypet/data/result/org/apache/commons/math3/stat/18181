@@ -1,0 +1,1 @@
+{"id":18181,"className":"org.apache.commons.math3.stat.Frequency","methodName":"getSumFreq","signature":"\u003corg.apache.commons.math3.stat.Frequency: long getSumFreq()\u003e","javadoc":"/** \n * Returns the sum of all frequencies.\n * @return the total frequency count.\n */\n","tf":{"freq":{"total":1,"count":1,"freq":1,"frequenc":2,"sum":2},"maxFreq":2,"totalTerms":7},"loc":8}

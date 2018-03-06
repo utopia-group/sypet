@@ -1,0 +1,1 @@
+{"id":15917,"className":"java.awt.GridBagLayout","methodName":"GridBagLayout","signature":"\u003cjava.awt.GridBagLayout: void GridBagLayout()\u003e","javadoc":"/** \n * Creates a grid bag layout manager.\n */\n","tf":{"freq":{"creat":1,"manag":1,"bag":2,"layout":2,"grid":2},"maxFreq":2,"totalTerms":8},"loc":4}

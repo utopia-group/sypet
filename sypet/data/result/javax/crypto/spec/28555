@@ -1,0 +1,1 @@
+{"id":28555,"className":"javax.crypto.spec.RC5ParameterSpec","methodName":"getVersion","signature":"\u003cjavax.crypto.spec.RC5ParameterSpec: int getVersion()\u003e","javadoc":"/** \n * Returns the version.\n * @return the version.\n */\n","tf":{"freq":{"version":3},"maxFreq":3,"totalTerms":3},"loc":3}

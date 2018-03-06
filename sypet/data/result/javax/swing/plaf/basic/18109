@@ -1,0 +1,1 @@
+{"id":18109,"className":"javax.swing.plaf.basic.BasicFileChooserUI","methodName":"getDialogTitle","signature":"\u003cjavax.swing.plaf.basic.BasicFileChooserUI: java.lang.String getDialogTitle(javax.swing.JFileChooser)\u003e","javadoc":"/** \n * Returns the title of this dialog\n */\n","tf":{"freq":{"titl":2,"dialog":2},"maxFreq":2,"totalTerms":4},"loc":12}

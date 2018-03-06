@@ -1,0 +1,1 @@
+{"id":18965,"className":"javax.swing.plaf.basic.BasicGraphicsUtils","methodName":"getPreferredButtonSize","signature":"\u003cjavax.swing.plaf.basic.BasicGraphicsUtils: java.awt.Dimension getPreferredButtonSize(javax.swing.AbstractButton,int)\u003e","loc":34}

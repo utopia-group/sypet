@@ -1,0 +1,1 @@
+{"id":25228,"className":"org.apache.commons.math.linear.AbstractFieldMatrix","methodName":"getSubMatrix","signature":"\u003corg.apache.commons.math.linear.AbstractFieldMatrix: org.apache.commons.math.linear.FieldMatrix\u003cT\u003e getSubMatrix(int[],int[])\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"sub":1,"matrix":1},"maxFreq":1,"totalTerms":2},"loc":21}

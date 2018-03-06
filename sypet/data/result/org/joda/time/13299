@@ -1,0 +1,1 @@
+{"id":13299,"className":"org.joda.time.DateTimeFieldType","methodName":"year","signature":"\u003corg.joda.time.DateTimeFieldType: org.joda.time.DateTimeFieldType year()\u003e","javadoc":"/** \n * Get the year field type.\n * @return the DateTimeFieldType constant\n */\n","tf":{"freq":{"field":2,"time":1,"constant":1,"year":2,"date":1,"type":2},"maxFreq":2,"totalTerms":9},"loc":3}

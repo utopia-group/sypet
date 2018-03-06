@@ -1,0 +1,1 @@
+{"id":21280,"className":"javax.swing.text.JTextComponent$DefaultTransferHandler","methodName":"canImport","signature":"\u003cjavax.swing.text.JTextComponent$DefaultTransferHandler: boolean canImport(javax.swing.JComponent,java.awt.datatransfer.DataFlavor[])\u003e","loc":7}

@@ -1,0 +1,1 @@
+{"id":23235,"className":"java.util.concurrent.LinkedBlockingQueue","methodName":"take","signature":"\u003cjava.util.concurrent.LinkedBlockingQueue: E take()\u003e","loc":21}

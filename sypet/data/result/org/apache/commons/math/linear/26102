@@ -1,0 +1,1 @@
+{"id":26102,"className":"org.apache.commons.math.linear.ArrayRealVector","methodName":"getLInfNorm","signature":"\u003corg.apache.commons.math.linear.ArrayRealVector: double getLInfNorm()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"norm":1,"linf":1},"maxFreq":1,"totalTerms":2},"loc":7}

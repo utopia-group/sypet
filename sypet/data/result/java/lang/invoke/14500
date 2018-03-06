@@ -1,0 +1,1 @@
+{"id":14500,"className":"java.lang.invoke.MemberName","methodName":"getReturnType","signature":"\u003cjava.lang.invoke.MemberName: java.lang.Class\u003c?\u003e getReturnType()\u003e","javadoc":"/** \n * Utility method producing the return type of the method type. \n */\n","tf":{"freq":{"produc":1,"method":2,"type":3,"util":1},"maxFreq":3,"totalTerms":7},"loc":3}

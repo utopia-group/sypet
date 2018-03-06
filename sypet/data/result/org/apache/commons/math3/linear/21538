@@ -1,0 +1,1 @@
+{"id":21538,"className":"org.apache.commons.math3.linear.AbstractRealMatrix","methodName":"transpose","signature":"\u003corg.apache.commons.math3.linear.AbstractRealMatrix: org.apache.commons.math3.linear.RealMatrix transpose()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"transpos":1},"maxFreq":1,"totalTerms":1},"loc":16}

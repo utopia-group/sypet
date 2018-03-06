@@ -1,0 +1,1 @@
+{"id":11765,"className":"com.opengamma.analytics.math.curve.SpreadDoublesCurve","methodName":"getYValue","signature":"\u003ccom.opengamma.analytics.math.curve.SpreadDoublesCurve: java.lang.Double getYValue(java.lang.Double)\u003e","loc":4}

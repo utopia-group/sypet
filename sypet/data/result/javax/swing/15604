@@ -1,0 +1,1 @@
+{"id":15604,"className":"javax.swing.UIDefaults","methodName":"UIDefaults","signature":"\u003cjavax.swing.UIDefaults: void UIDefaults()\u003e","javadoc":"/** \n * Creates an empty defaults table.\n */\n","tf":{"freq":{"creat":1,"tabl":1,"idefault":1,"empti":1},"maxFreq":1,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11005,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getMinWidth","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getMinWidth()\u003e","javadoc":"/** \n * See the min-width property definition in CSS2.\n */\n","tf":{"freq":{"min":2,"definit":1,"width":2,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

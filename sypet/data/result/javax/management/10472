@@ -1,0 +1,1 @@
+{"id":10472,"className":"javax.management.NotQueryExp","methodName":"getNegatedExp","signature":"\u003cjavax.management.NotQueryExp: javax.management.QueryExp getNegatedExp()\u003e","javadoc":"/** \n * Returns the negated query expression of the query.\n */\n","tf":{"freq":{"queri":2,"exp":1,"negat":2,"express":1},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":20312,"className":"javax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter","methodName":"paintToolBarDragWindowBorder","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter: void paintToolBarDragWindowBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int,int)\u003e","loc":6}

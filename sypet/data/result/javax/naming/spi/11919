@@ -1,0 +1,1 @@
+{"id":11919,"className":"javax.naming.spi.ContinuationContext","methodName":"getEnvironment","signature":"\u003cjavax.naming.spi.ContinuationContext: java.util.Hashtable getEnvironment()\u003e","loc":4}

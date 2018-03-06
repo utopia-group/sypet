@@ -1,0 +1,1 @@
+{"id":23811,"className":"java.util.jar.JarVerifier","methodName":"getCodeSigners","signature":"\u003cjava.util.jar.JarVerifier: java.security.CodeSigner[] getCodeSigners(java.util.jar.JarFile,java.util.jar.JarEntry)\u003e","loc":20}

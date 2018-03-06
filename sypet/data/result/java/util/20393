@@ -1,0 +1,1 @@
+{"id":20393,"className":"java.util.UUID","methodName":"hashCode","signature":"\u003cjava.util.UUID: int hashCode()\u003e","javadoc":"/** \n * Returns a hash code for this  {@code UUID}.\n * @return  A hash code value for this {@code UUID}\n */\n","tf":{"freq":{"hash":3,"valu":1},"maxFreq":3,"totalTerms":4},"loc":4}

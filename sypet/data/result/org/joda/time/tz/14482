@@ -1,0 +1,1 @@
+{"id":14482,"className":"org.joda.time.tz.DateTimeZoneBuilder$OfYear","methodName":"setInstant","signature":"\u003corg.joda.time.tz.DateTimeZoneBuilder$OfYear: long setInstant(int,int,int)\u003e","javadoc":"/** \n * @param standardOffset standard offset just before instant\n */\n","tf":{"freq":{"just":1,"standard":2,"offset":2,"instant":2},"maxFreq":2,"totalTerms":7},"loc":23}

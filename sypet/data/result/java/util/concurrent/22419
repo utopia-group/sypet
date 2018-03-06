@@ -1,0 +1,1 @@
+{"id":22419,"className":"java.util.concurrent.ConcurrentSkipListMap","methodName":"firstKey","signature":"\u003cjava.util.concurrent.ConcurrentSkipListMap: K firstKey()\u003e","javadoc":"/** \n * @throws NoSuchElementException {@inheritDoc}\n */\n","tf":{"freq":{"element":1,"except":1,"first":1,"key":1},"maxFreq":1,"totalTerms":4},"loc":6}

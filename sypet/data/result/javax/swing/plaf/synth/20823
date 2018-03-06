@@ -1,0 +1,1 @@
+{"id":20823,"className":"javax.swing.plaf.synth.SynthSliderUI","methodName":"setThumbLocation","signature":"\u003cjavax.swing.plaf.synth.SynthSliderUI: void setThumbLocation(int,int)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"locat":1,"thumb":1},"maxFreq":1,"totalTerms":2},"loc":8}

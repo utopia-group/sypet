@@ -1,0 +1,1 @@
+{"id":11656,"className":"javax.naming.CommunicationException","methodName":"CommunicationException","signature":"\u003cjavax.naming.CommunicationException: void CommunicationException()\u003e","javadoc":"/** \n * Constructs a new instance of CommunicationException.\n */\n","tf":{"freq":{"except":2,"communic":2,"construct":1,"instanc":1},"maxFreq":2,"totalTerms":6},"loc":3}

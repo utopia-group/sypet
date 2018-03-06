@@ -1,0 +1,1 @@
+{"id":11587,"className":"com.opengamma.analytics.math.matrix.DoubleMatrix1D","methodName":"DoubleMatrix1D","signature":"\u003ccom.opengamma.analytics.math.matrix.DoubleMatrix1D: void DoubleMatrix1D(java.lang.Double[])\u003e","javadoc":"/** \n * @param data The data, not null\n */\n","tf":{"freq":{"matrix":1,"data":2},"maxFreq":2,"totalTerms":3},"loc":8}

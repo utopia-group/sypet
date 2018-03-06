@@ -1,0 +1,1 @@
+{"id":20443,"className":"org.apache.commons.math3.geometry.euclidean.twod.Line","methodName":"getTolerance","signature":"\u003corg.apache.commons.math3.geometry.euclidean.twod.Line: double getTolerance()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 3.3\n */\n","tf":{"freq":{"toler":1},"maxFreq":1,"totalTerms":1},"loc":3}

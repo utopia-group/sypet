@@ -1,0 +1,1 @@
+{"id":10015,"className":"com.opengamma.analytics.math.ComplexMathUtils","methodName":"multiply","signature":"\u003ccom.opengamma.analytics.math.ComplexMathUtils: com.opengamma.analytics.math.number.ComplexNumber multiply(com.opengamma.analytics.math.number.ComplexNumber,com.opengamma.analytics.math.number.ComplexNumber)\u003e","loc":9}

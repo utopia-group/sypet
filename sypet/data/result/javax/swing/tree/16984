@@ -1,0 +1,1 @@
+{"id":16984,"className":"javax.swing.tree.VariableHeightLayoutCache$TreeStateNode","methodName":"expand","signature":"\u003cjavax.swing.tree.VariableHeightLayoutCache$TreeStateNode: void expand()\u003e","javadoc":"/** \n * Expands the receiver.\n */\n","tf":{"freq":{"expand":2,"receiv":1},"maxFreq":2,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":26386,"className":"org.apache.commons.math.linear.AbstractRealVector","methodName":"getLInfDistance","signature":"\u003corg.apache.commons.math.linear.AbstractRealVector: double getLInfDistance(double[])\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"distanc":1,"linf":1},"maxFreq":1,"totalTerms":2},"loc":10}

@@ -1,0 +1,1 @@
+{"id":19404,"className":"javax.swing.plaf.metal.MetalTitlePane","methodName":"paintComponent","signature":"\u003cjavax.swing.plaf.metal.MetalTitlePane: void paintComponent(java.awt.Graphics)\u003e","javadoc":"/** \n * Renders the TitlePane.\n */\n","tf":{"freq":{"compon":1,"titl":1,"paint":1,"pane":1,"render":1},"maxFreq":1,"totalTerms":5},"loc":96}

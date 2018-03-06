@@ -1,0 +1,1 @@
+{"id":22026,"className":"javax.swing.text.TabStop","methodName":"getAlignment","signature":"\u003cjavax.swing.text.TabStop: int getAlignment()\u003e","javadoc":"/** \n * Returns the alignment, as an integer, of the tab.\n * @return the alignment of the tab\n */\n","tf":{"freq":{"align":3,"tab":2,"integ":1},"maxFreq":3,"totalTerms":6},"loc":3}

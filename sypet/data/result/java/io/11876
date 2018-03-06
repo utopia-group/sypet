@@ -1,0 +1,1 @@
+{"id":11876,"className":"java.io.FilePermissionCollection","methodName":"FilePermissionCollection","signature":"\u003cjava.io.FilePermissionCollection: void FilePermissionCollection()\u003e","javadoc":"/** \n * Create an empty FilePermissions object.\n */\n","tf":{"freq":{"creat":1,"file":2,"permiss":2,"object":1,"empti":1,"collect":1},"maxFreq":2,"totalTerms":8},"loc":3}

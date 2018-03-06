@@ -1,0 +1,1 @@
+{"id":20505,"className":"javax.swing.plaf.synth.SynthInternalFrameTitlePane","methodName":"getContext","signature":"\u003cjavax.swing.plaf.synth.SynthInternalFrameTitlePane: javax.swing.plaf.synth.SynthContext getContext(javax.swing.JComponent,int)\u003e","loc":4}

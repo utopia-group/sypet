@@ -1,0 +1,1 @@
+{"id":26123,"className":"javax.xml.bind.JAXBElement","methodName":"isGlobalScope","signature":"\u003cjavax.xml.bind.JAXBElement: boolean isGlobalScope()\u003e","javadoc":"/** \n * Returns true iff this xml element declaration is global.\n */\n","tf":{"freq":{"element":1,"iff":1,"scope":1,"declar":1,"global":2,"true":1,"xml":1},"maxFreq":2,"totalTerms":8},"loc":3}

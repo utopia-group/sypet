@@ -1,0 +1,1 @@
+{"id":24958,"className":"org.apache.commons.math.util.FastMath","methodName":"sin","signature":"\u003corg.apache.commons.math.util.FastMath: double sin(double)\u003e","javadoc":"/** \n * Sine function.\n * @param x a number\n * @return sin(x)\n */\n","tf":{"freq":{"sine":1,"sin":2,"number":1,"function":1},"maxFreq":2,"totalTerms":5},"loc":91}

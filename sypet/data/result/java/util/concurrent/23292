@@ -1,0 +1,1 @@
+{"id":23292,"className":"java.util.concurrent.FutureTask","methodName":"get","signature":"\u003cjava.util.concurrent.FutureTask: V get()\u003e","javadoc":"/** \n * @throws CancellationException {@inheritDoc}\n */\n","tf":{"freq":{"except":1,"cancel":1},"maxFreq":1,"totalTerms":2},"loc":3}

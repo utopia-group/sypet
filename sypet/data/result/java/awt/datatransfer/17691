@@ -1,0 +1,1 @@
+{"id":17691,"className":"java.awt.datatransfer.MimeType","methodName":"toString","signature":"\u003cjava.awt.datatransfer.MimeType: java.lang.String toString()\u003e","javadoc":"/** \n * Return the String representation of this object.\n */\n","tf":{"freq":{"string":2,"object":1,"represent":1},"maxFreq":2,"totalTerms":4},"loc":3}

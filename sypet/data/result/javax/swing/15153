@@ -1,0 +1,1 @@
+{"id":15153,"className":"javax.swing.DefaultComboBoxModel","methodName":"removeAllElements","signature":"\u003cjavax.swing.DefaultComboBoxModel: void removeAllElements()\u003e","javadoc":"/** \n * Empties the list.\n */\n","tf":{"freq":{"element":1,"remov":1,"list":1,"empti":1},"maxFreq":1,"totalTerms":4},"loc":11}

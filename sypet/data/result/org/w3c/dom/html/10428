@@ -1,0 +1,1 @@
+{"id":10428,"className":"org.w3c.dom.html.HTMLSelectElement","methodName":"getValue","signature":"\u003corg.w3c.dom.html.HTMLSelectElement: java.lang.String getValue()\u003e","javadoc":"/** \n * The current form control value.\n */\n","tf":{"freq":{"control":1,"form":1,"current":1,"valu":2},"maxFreq":2,"totalTerms":5},"loc":0}

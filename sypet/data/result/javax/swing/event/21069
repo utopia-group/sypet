@@ -1,0 +1,1 @@
+{"id":21069,"className":"javax.swing.event.TableColumnModelEvent","methodName":"getToIndex","signature":"\u003cjavax.swing.event.TableColumnModelEvent: int getToIndex()\u003e","javadoc":"/** \n * Returns the toIndex.  Valid for add and moved events \n */\n","tf":{"freq":{"valid":1,"index":2,"event":1,"add":1,"move":1},"maxFreq":2,"totalTerms":6},"loc":1}

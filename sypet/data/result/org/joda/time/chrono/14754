@@ -1,0 +1,1 @@
+{"id":14754,"className":"org.joda.time.chrono.BasicSingleEraDateTimeField","methodName":"getMinimumValue","signature":"\u003corg.joda.time.chrono.BasicSingleEraDateTimeField: int getMinimumValue()\u003e","javadoc":"/** \n * @inheritDoc \n */\n","tf":{"freq":{"minimum":1,"valu":1},"maxFreq":1,"totalTerms":2},"loc":3}

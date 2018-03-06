@@ -1,0 +1,1 @@
+{"id":11792,"className":"javax.naming.InitialContext","methodName":"bind","signature":"\u003cjavax.naming.InitialContext: void bind(javax.naming.Name,java.lang.Object)\u003e","loc":3}

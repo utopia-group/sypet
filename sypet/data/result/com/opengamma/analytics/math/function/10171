@@ -1,0 +1,1 @@
+{"id":10171,"className":"com.opengamma.analytics.math.function.InterpolatedCurveVectorFunction","methodName":"getLengthOfRange","signature":"\u003ccom.opengamma.analytics.math.function.InterpolatedCurveVectorFunction: int getLengthOfRange()\u003e","loc":3}

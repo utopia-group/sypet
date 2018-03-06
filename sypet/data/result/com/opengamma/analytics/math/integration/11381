@@ -1,0 +1,1 @@
+{"id":11381,"className":"com.opengamma.analytics.math.integration.GaussJacobiQuadratureIntegrator1D","methodName":"getLimits","signature":"\u003ccom.opengamma.analytics.math.integration.GaussJacobiQuadratureIntegrator1D: java.lang.Double[] getLimits()\u003e","loc":3}

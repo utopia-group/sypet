@@ -1,0 +1,1 @@
+{"id":13597,"className":"java.lang.Compiler","methodName":"enable","signature":"\u003cjava.lang.Compiler: void enable()\u003e","javadoc":"/** \n * Cause the Compiler to resume operation.\n */\n","tf":{"freq":{"caus":1,"oper":1,"enabl":1,"resum":1,"compil":1},"maxFreq":1,"totalTerms":5},"loc":0}

@@ -1,0 +1,1 @@
+{"id":25019,"className":"java.text.NumberFormat","methodName":"setGroupingUsed","signature":"\u003cjava.text.NumberFormat: void setGroupingUsed(boolean)\u003e","javadoc":"/** \n * Set whether or not grouping will be used in this format.\n * @see #isGroupingUsed\n */\n","tf":{"freq":{"will":1,"use":3,"format":1,"group":3,"whether":1},"maxFreq":3,"totalTerms":9},"loc":3}

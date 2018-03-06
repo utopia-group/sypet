@@ -1,0 +1,1 @@
+{"id":23022,"className":"java.util.concurrent.CopyOnWriteArrayList","methodName":"indexOf","signature":"\u003cjava.util.concurrent.CopyOnWriteArrayList: int indexOf(java.lang.Object)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"index":1},"maxFreq":1,"totalTerms":1},"loc":4}

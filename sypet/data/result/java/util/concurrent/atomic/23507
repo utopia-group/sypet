@@ -1,0 +1,1 @@
+{"id":23507,"className":"java.util.concurrent.atomic.AtomicLong","methodName":"get","signature":"\u003cjava.util.concurrent.atomic.AtomicLong: long get()\u003e","javadoc":"/** \n * Gets the current value.\n * @return the current value\n */\n","tf":{"freq":{"current":2,"valu":2},"maxFreq":2,"totalTerms":4},"loc":3}

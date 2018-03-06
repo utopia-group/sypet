@@ -1,0 +1,1 @@
+{"id":21939,"className":"org.apache.commons.math3.exception.NullArgumentException","methodName":"NullArgumentException","signature":"\u003corg.apache.commons.math3.exception.NullArgumentException: void NullArgumentException()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"argument":1,"except":1,"constructor":1},"maxFreq":1,"totalTerms":3},"loc":3}

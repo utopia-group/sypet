@@ -1,0 +1,1 @@
+{"id":11704,"className":"com.opengamma.analytics.math.curve.DoublesCurveNelsonSiegel","methodName":"getDyDx","signature":"\u003ccom.opengamma.analytics.math.curve.DoublesCurveNelsonSiegel: double getDyDx(double)\u003e","loc":5}

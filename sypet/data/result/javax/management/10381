@@ -1,0 +1,1 @@
+{"id":10381,"className":"javax.management.BetweenQueryExp","methodName":"getUpperBound","signature":"\u003cjavax.management.BetweenQueryExp: javax.management.ValueExp getUpperBound()\u003e","javadoc":"/** \n * Returns the upper bound value of the query.\n */\n","tf":{"freq":{"queri":1,"upper":2,"valu":1,"bound":2},"maxFreq":2,"totalTerms":6},"loc":3}

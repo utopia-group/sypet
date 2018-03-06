@@ -1,0 +1,1 @@
+{"id":14757,"className":"org.joda.time.chrono.BasicSingleEraDateTimeField","methodName":"getMaximumTextLength","signature":"\u003corg.joda.time.chrono.BasicSingleEraDateTimeField: int getMaximumTextLength(java.util.Locale)\u003e","javadoc":"/** \n * @inheritDoc \n */\n","tf":{"freq":{"text":1,"maximum":1,"length":1},"maxFreq":1,"totalTerms":3},"loc":3}

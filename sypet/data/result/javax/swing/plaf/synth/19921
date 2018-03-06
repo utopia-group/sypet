@@ -1,0 +1,1 @@
+{"id":19921,"className":"javax.swing.plaf.synth.Region","methodName":"toString","signature":"\u003cjavax.swing.plaf.synth.Region: java.lang.String toString()\u003e","javadoc":"/** \n * Returns the name of the Region.\n * @return name of the Region.\n */\n","tf":{"freq":{"region":2,"name":2,"string":1},"maxFreq":2,"totalTerms":5},"loc":3}

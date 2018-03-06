@@ -1,0 +1,1 @@
+{"id":13555,"className":"org.joda.time.field.ScaledDurationField","methodName":"getValue","signature":"\u003corg.joda.time.field.ScaledDurationField: int getValue(long,long)\u003e","loc":3}

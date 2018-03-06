@@ -1,0 +1,1 @@
+{"id":15180,"className":"org.joda.money.BigMoney","methodName":"isNegative","signature":"\u003corg.joda.money.BigMoney: boolean isNegative()\u003e","javadoc":"/** \n * Checks if the amount is less than zero.\n * @return true if the amount is less than zero\n */\n","tf":{"freq":{"amount":2,"check":1,"true":1,"negat":1,"zero":2,"less":2},"maxFreq":2,"totalTerms":9},"loc":3}

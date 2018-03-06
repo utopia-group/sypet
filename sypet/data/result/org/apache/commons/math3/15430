@@ -1,0 +1,1 @@
+{"id":15430,"className":"org.apache.commons.math3.RealFieldElement","methodName":"expm1","signature":"\u003corg.apache.commons.math3.RealFieldElement: T expm1()\u003e","javadoc":"/** \n * Exponential minus 1.\n * @return exponential minus one of the instance\n */\n","tf":{"freq":{"minus":2,"one":1,"exponenti":2,"instanc":1,"expm":1},"maxFreq":2,"totalTerms":7},"loc":0}

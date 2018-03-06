@@ -1,0 +1,1 @@
+{"id":12416,"className":"com.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer$DataBundle","methodName":"setDeltaGrad","signature":"\u003ccom.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer$DataBundle: void setDeltaGrad(com.opengamma.analytics.math.matrix.DoubleMatrix1D)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":12211,"className":"java.net.Inet4Address","methodName":"isLoopbackAddress","signature":"\u003cjava.net.Inet4Address: boolean isLoopbackAddress()\u003e","loc":5}

@@ -1,0 +1,1 @@
+{"id":12485,"className":"org.joda.time.DurationField","methodName":"getName","signature":"\u003corg.joda.time.DurationField: java.lang.String getName()\u003e","javadoc":"/** \n * Get the name of the field. \u003cp\u003e By convention, names are plural.\n * @return field name\n */\n","tf":{"freq":{"field":2,"convent":1,"name":4,"plural":1},"maxFreq":4,"totalTerms":8},"loc":0}

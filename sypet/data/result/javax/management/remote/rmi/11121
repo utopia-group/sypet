@@ -1,0 +1,1 @@
+{"id":11121,"className":"javax.management.remote.rmi.NoCallStackClassLoader","methodName":"NoCallStackClassLoader","signature":"\u003cjavax.management.remote.rmi.NoCallStackClassLoader: void NoCallStackClassLoader(java.lang.String[],byte[][],java.lang.String[],java.lang.ClassLoader,java.security.ProtectionDomain)\u003e","loc":23}

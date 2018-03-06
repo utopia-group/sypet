@@ -1,0 +1,1 @@
+{"id":19031,"className":"org.apache.commons.math3.stat.descriptive.rank.Percentile","methodName":"copy","signature":"\u003corg.apache.commons.math3.stat.descriptive.rank.Percentile: org.apache.commons.math3.stat.descriptive.rank.Percentile copy()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"copi":1},"maxFreq":1,"totalTerms":1},"loc":3}

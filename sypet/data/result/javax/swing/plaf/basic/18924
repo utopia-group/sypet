@@ -1,0 +1,1 @@
+{"id":18924,"className":"javax.swing.plaf.basic.BasicComboPopup","methodName":"getList","signature":"\u003cjavax.swing.plaf.basic.BasicComboPopup: javax.swing.JList getList()\u003e","javadoc":"/** \n * Implementation of ComboPopup.getList().\n */\n","tf":{"freq":{"popup":1,"combo":1,"list":2},"maxFreq":2,"totalTerms":4},"loc":3}

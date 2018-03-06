@@ -1,0 +1,1 @@
+{"id":12412,"className":"com.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer$DataBundle","methodName":"setG0","signature":"\u003ccom.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer$DataBundle: void setG0(double)\u003e","loc":3}

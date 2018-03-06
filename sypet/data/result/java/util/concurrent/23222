@@ -1,0 +1,1 @@
+{"id":23222,"className":"java.util.concurrent.ExecutorCompletionService","methodName":"submit","signature":"\u003cjava.util.concurrent.ExecutorCompletionService: java.util.concurrent.Future\u003cV\u003e submit(java.util.concurrent.Callable)\u003e","loc":6}

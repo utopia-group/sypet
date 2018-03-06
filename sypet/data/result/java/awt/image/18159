@@ -1,0 +1,1 @@
+{"id":18159,"className":"java.awt.image.RenderedImage","methodName":"getWidth","signature":"\u003cjava.awt.image.RenderedImage: int getWidth()\u003e","javadoc":"/** \n * Returns the width of the RenderedImage.\n * @return the width of this \u003ccode\u003eRenderedImage\u003c/code\u003e.\n */\n","tf":{"freq":{"width":3,"imag":2,"render":2},"maxFreq":3,"totalTerms":7},"loc":0}

@@ -1,0 +1,1 @@
+{"id":11136,"className":"javax.management.remote.rmi.RMIConnectionImpl","methodName":"isRegistered","signature":"\u003cjavax.management.remote.rmi.RMIConnectionImpl: boolean isRegistered(javax.management.ObjectName,javax.security.auth.Subject)\u003e","loc":15}

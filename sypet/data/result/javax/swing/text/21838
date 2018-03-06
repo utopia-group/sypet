@@ -1,0 +1,1 @@
+{"id":21838,"className":"javax.swing.text.AsyncBoxView","methodName":"getRightInset","signature":"\u003cjavax.swing.text.AsyncBoxView: float getRightInset()\u003e","javadoc":"/** \n * Get the right part of the margin around the view.\n */\n","tf":{"freq":{"inset":1,"margin":1,"view":1,"part":1,"right":2,"around":1},"maxFreq":2,"totalTerms":7},"loc":3}

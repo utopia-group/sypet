@@ -1,0 +1,1 @@
+{"id":13328,"className":"java.lang.Package","methodName":"isAnnotationPresent","signature":"\u003cjava.lang.Package: boolean isAnnotationPresent(java.lang.Class)\u003e","javadoc":"/** \n * @throws NullPointerException {@inheritDoc}\n * @since 1.5\n */\n","tf":{"freq":{"present":1,"except":1,"annot":1,"pointer":1},"maxFreq":1,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":14448,"className":"org.joda.time.tz.ZoneInfoCompiler$Zone","methodName":"addToBuilder","signature":"\u003corg.joda.time.tz.ZoneInfoCompiler$Zone: void addToBuilder(org.joda.time.tz.DateTimeZoneBuilder,java.util.Map)\u003e","javadoc":"/** \n * Adds zone info to the builder.\n */\n","tf":{"freq":{"builder":2,"add":2,"zone":1,"info":1},"maxFreq":2,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11988,"className":"javax.naming.directory.InitialDirContext","methodName":"getSchemaClassDefinition","signature":"\u003cjavax.naming.directory.InitialDirContext: javax.naming.directory.DirContext getSchemaClassDefinition(javax.naming.Name)\u003e","loc":3}

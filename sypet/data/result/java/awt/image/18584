@@ -1,0 +1,1 @@
+{"id":18584,"className":"java.awt.image.DataBuffer","methodName":"getOffset","signature":"\u003cjava.awt.image.DataBuffer: int getOffset()\u003e","javadoc":"/** \n * Returns the offset of the default bank in array elements.\n * @return the offset of the default bank.\n */\n","tf":{"freq":{"element":1,"bank":2,"offset":3,"array":1},"maxFreq":3,"totalTerms":7},"loc":3}

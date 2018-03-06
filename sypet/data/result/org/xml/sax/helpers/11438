@@ -1,0 +1,1 @@
+{"id":11438,"className":"org.xml.sax.helpers.XMLFilterImpl","methodName":"setErrorHandler","signature":"\u003corg.xml.sax.helpers.XMLFilterImpl: void setErrorHandler(org.xml.sax.ErrorHandler)\u003e","javadoc":"/** \n * Set the error event handler.\n * @param handler the new error handler\n */\n","tf":{"freq":{"error":3,"event":1,"handler":4},"maxFreq":4,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":20696,"className":"org.apache.commons.math3.geometry.euclidean.threed.Vector3D","methodName":"getSpace","signature":"\u003corg.apache.commons.math3.geometry.euclidean.threed.Vector3D: org.apache.commons.math3.geometry.Space getSpace()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"space":1},"maxFreq":1,"totalTerms":1},"loc":3}

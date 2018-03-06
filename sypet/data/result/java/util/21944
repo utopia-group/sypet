@@ -1,0 +1,1 @@
+{"id":21944,"className":"java.util.Collections$SynchronizedCollection","methodName":"containsAll","signature":"\u003cjava.util.Collections$SynchronizedCollection: boolean containsAll(java.util.Collection)\u003e","loc":3}

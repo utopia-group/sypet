@@ -1,0 +1,1 @@
+{"id":14538,"className":"org.joda.time.tz.FixedDateTimeZone","methodName":"nextTransition","signature":"\u003corg.joda.time.tz.FixedDateTimeZone: long nextTransition(long)\u003e","loc":3}

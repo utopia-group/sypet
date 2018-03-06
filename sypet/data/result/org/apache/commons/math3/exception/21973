@@ -1,0 +1,1 @@
+{"id":21973,"className":"org.apache.commons.math3.exception.NonMonotonicSequenceException","methodName":"getPrevious","signature":"\u003corg.apache.commons.math3.exception.NonMonotonicSequenceException: java.lang.Number getPrevious()\u003e","javadoc":"/** \n * @return the previous value.\n */\n","tf":{"freq":{"previous":2,"valu":1},"maxFreq":2,"totalTerms":3},"loc":3}

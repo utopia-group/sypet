@@ -1,0 +1,1 @@
+{"id":23485,"className":"org.apache.commons.math.random.ValueServer","methodName":"setMu","signature":"\u003corg.apache.commons.math.random.ValueServer: void setMu(double)\u003e","javadoc":"/** \n * Setter for property mu.\n * @param mu New value of property mu.\n */\n","tf":{"freq":{"setter":1,"valu":1,"properti":2},"maxFreq":2,"totalTerms":4},"loc":3}

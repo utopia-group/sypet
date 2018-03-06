@@ -1,0 +1,1 @@
+{"id":18444,"className":"javax.swing.plaf.basic.BasicTextUI$RootView","methodName":"setParent","signature":"\u003cjavax.swing.plaf.basic.BasicTextUI$RootView: void setParent(javax.swing.text.View)\u003e","javadoc":"/** \n * Sets the view parent.\n * @param parent the parent view\n */\n","tf":{"freq":{"parent":4,"view":2},"maxFreq":4,"totalTerms":6},"loc":3}

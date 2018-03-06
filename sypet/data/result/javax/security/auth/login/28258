@@ -1,0 +1,1 @@
+{"id":28258,"className":"javax.security.auth.login.Configuration$ConfigDelegate","methodName":"getType","signature":"\u003cjavax.security.auth.login.Configuration$ConfigDelegate: java.lang.String getType()\u003e","loc":1}

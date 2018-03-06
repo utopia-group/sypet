@@ -1,0 +1,1 @@
+{"id":13619,"className":"javax.swing.CellRendererPane","methodName":"CellRendererPane","signature":"\u003cjavax.swing.CellRendererPane: void CellRendererPane()\u003e","javadoc":"/** \n * Construct a CellRendererPane object.\n */\n","tf":{"freq":{"cell":2,"object":1,"construct":1,"pane":2,"render":2},"maxFreq":2,"totalTerms":8},"loc":5}

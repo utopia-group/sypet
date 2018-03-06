@@ -1,0 +1,1 @@
+{"id":11953,"className":"com.opengamma.analytics.math.curve.NodalTenorDoubleCurve","methodName":"fromSorted","signature":"\u003ccom.opengamma.analytics.math.curve.NodalTenorDoubleCurve: com.opengamma.analytics.math.curve.NodalTenorDoubleCurve fromSorted(com.opengamma.analytics.math.curve.Tenor[],java.lang.Double[])\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":13348,"className":"java.lang.StringBuffer","methodName":"getChars","signature":"\u003cjava.lang.StringBuffer: void getChars(int,int,char[],int)\u003e","javadoc":"/** \n * @throws NullPointerException {@inheritDoc}\n * @throws IndexOutOfBoundsException {@inheritDoc}\n */\n","tf":{"freq":{"index":1,"except":2,"pointer":1,"bound":1},"maxFreq":2,"totalTerms":5},"loc":3}

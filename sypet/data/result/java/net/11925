@@ -1,0 +1,1 @@
+{"id":11925,"className":"java.net.InetAddress$Cache","methodName":"Cache","signature":"\u003cjava.net.InetAddress$Cache: void Cache(java.net.Type)\u003e","javadoc":"/** \n * Create cache\n */\n","tf":{"freq":{"creat":1,"cach":2},"maxFreq":2,"totalTerms":3},"loc":4}

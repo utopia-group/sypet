@@ -1,0 +1,1 @@
+{"id":20028,"className":"org.apache.commons.math3.geometry.partitioning.AbstractSubHyperplane","methodName":"isEmpty","signature":"\u003corg.apache.commons.math3.geometry.partitioning.AbstractSubHyperplane: boolean isEmpty()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"empti":1},"maxFreq":1,"totalTerms":1},"loc":3}

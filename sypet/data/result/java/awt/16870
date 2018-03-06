@@ -1,0 +1,1 @@
+{"id":16870,"className":"java.awt.Component$FlipBufferStrategy","methodName":"getCapabilities","signature":"\u003cjava.awt.Component$FlipBufferStrategy: java.awt.BufferCapabilities getCapabilities()\u003e","javadoc":"/** \n * @return the buffering capabilities of this strategy\n */\n","tf":{"freq":{"buffer":1,"strategi":1,"capabl":2},"maxFreq":2,"totalTerms":4},"loc":7}

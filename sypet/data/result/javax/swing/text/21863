@@ -1,0 +1,1 @@
+{"id":21863,"className":"javax.swing.text.AsyncBoxView$ChildState","methodName":"getMinorSpan","signature":"\u003cjavax.swing.text.AsyncBoxView$ChildState: float getMinorSpan()\u003e","javadoc":"/** \n * What is the span along the minor axis.\n */\n","tf":{"freq":{"axi":1,"minor":2,"along":1,"span":2},"maxFreq":2,"totalTerms":6},"loc":7}

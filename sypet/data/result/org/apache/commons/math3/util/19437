@@ -1,0 +1,1 @@
+{"id":19437,"className":"org.apache.commons.math3.util.Decimal64Field","methodName":"getOne","signature":"\u003corg.apache.commons.math3.util.Decimal64Field: org.apache.commons.math3.util.Decimal64 getOne()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"one":1},"maxFreq":1,"totalTerms":1},"loc":3}

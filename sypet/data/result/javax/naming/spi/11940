@@ -1,0 +1,1 @@
+{"id":11940,"className":"javax.naming.spi.ContinuationDirContext","methodName":"search","signature":"\u003cjavax.naming.spi.ContinuationDirContext: javax.naming.NamingEnumeration search(javax.naming.Name,javax.naming.directory.Attributes)\u003e","loc":4}

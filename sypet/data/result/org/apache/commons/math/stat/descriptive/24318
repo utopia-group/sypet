@@ -1,0 +1,1 @@
+{"id":24318,"className":"org.apache.commons.math.stat.descriptive.SynchronizedDescriptiveStatistics","methodName":"setWindowSize","signature":"\u003corg.apache.commons.math.stat.descriptive.SynchronizedDescriptiveStatistics: void setWindowSize(int)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"window":1,"size":1},"maxFreq":1,"totalTerms":2},"loc":3}

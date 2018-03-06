@@ -1,0 +1,1 @@
+{"id":15280,"className":"java.nio.file.attribute.AclEntry","methodName":"type","signature":"\u003cjava.nio.file.attribute.AclEntry: java.nio.file.attribute.AclEntryType type()\u003e","javadoc":"/** \n * Returns the ACL entry type.\n */\n","tf":{"freq":{"entri":1,"type":2},"maxFreq":2,"totalTerms":3},"loc":3}

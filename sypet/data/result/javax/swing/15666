@@ -1,0 +1,1 @@
+{"id":15666,"className":"javax.swing.DefaultRowSorter","methodName":"DefaultRowSorter","signature":"\u003cjavax.swing.DefaultRowSorter: void DefaultRowSorter()\u003e","javadoc":"/** \n * Creates an empty \u003ccode\u003eDefaultRowSorter\u003c/code\u003e.\n */\n","tf":{"freq":{"creat":1,"sorter":2,"row":2,"empti":1},"maxFreq":2,"totalTerms":6},"loc":4}

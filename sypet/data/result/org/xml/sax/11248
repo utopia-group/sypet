@@ -1,0 +1,1 @@
+{"id":11248,"className":"org.xml.sax.SAXNotSupportedException","methodName":"SAXNotSupportedException","signature":"\u003corg.xml.sax.SAXNotSupportedException: void SAXNotSupportedException()\u003e","javadoc":"/** \n * Construct a new exception with no message.\n */\n","tf":{"freq":{"except":2,"support":1,"messag":1,"construct":1},"maxFreq":2,"totalTerms":5},"loc":3}

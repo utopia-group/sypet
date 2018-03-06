@@ -1,0 +1,1 @@
+{"id":10200,"className":"com.opengamma.analytics.math.function.special.DiracDeltaFunction","methodName":"evaluate","signature":"\u003ccom.opengamma.analytics.math.function.special.DiracDeltaFunction: java.lang.Double evaluate(java.lang.Double)\u003e","loc":4}

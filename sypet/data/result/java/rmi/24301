@@ -1,0 +1,1 @@
+{"id":24301,"className":"java.rmi.RMISecurityManager","methodName":"RMISecurityManager","signature":"\u003cjava.rmi.RMISecurityManager: void RMISecurityManager()\u003e","javadoc":"/** \n * Constructs a new \u003ccode\u003eRMISecurityManager\u003c/code\u003e.\n * @since JDK1.1\n */\n","tf":{"freq":{"isecur":1,"secur":1,"manag":2,"construct":1},"maxFreq":2,"totalTerms":5},"loc":2}

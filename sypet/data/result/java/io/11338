@@ -1,0 +1,1 @@
+{"id":11338,"className":"java.io.CharArrayWriter","methodName":"toCharArray","signature":"\u003cjava.io.CharArrayWriter: char[] toCharArray()\u003e","javadoc":"/** \n * Returns a copy of the input data.\n * @return an array of chars copied from the input data.\n */\n","tf":{"freq":{"input":2,"data":2,"copi":2,"array":2},"maxFreq":2,"totalTerms":8},"loc":5}

@@ -1,0 +1,1 @@
+{"id":28187,"className":"javax.security.auth.callback.PasswordCallback","methodName":"clearPassword","signature":"\u003cjavax.security.auth.callback.PasswordCallback: void clearPassword()\u003e","javadoc":"/** \n * Clear the retrieved password.\n */\n","tf":{"freq":{"clear":2,"retriev":1,"password":2},"maxFreq":2,"totalTerms":5},"loc":6}

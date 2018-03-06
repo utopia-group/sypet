@@ -1,0 +1,1 @@
+{"id":12906,"className":"javax.swing.JLayer","methodName":"addNotify","signature":"\u003cjavax.swing.JLayer: void addNotify()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"notifi":1,"add":1},"maxFreq":1,"totalTerms":2},"loc":4}

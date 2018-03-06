@@ -1,0 +1,1 @@
+{"id":11817,"className":"javax.naming.InitialContext","methodName":"getNameInNamespace","signature":"\u003cjavax.naming.InitialContext: java.lang.String getNameInNamespace()\u003e","loc":3}

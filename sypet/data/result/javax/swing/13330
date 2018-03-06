@@ -1,0 +1,1 @@
+{"id":13330,"className":"javax.swing.RowSorter","methodName":"getModel","signature":"\u003cjavax.swing.RowSorter: M getModel()\u003e","javadoc":"/** \n * Returns the underlying model.\n * @return the underlying model\n */\n","tf":{"freq":{"model":3},"maxFreq":3,"totalTerms":3},"loc":0}

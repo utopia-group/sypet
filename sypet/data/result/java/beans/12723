@@ -1,0 +1,1 @@
+{"id":12723,"className":"java.beans.ChangeListenerMap","methodName":"getListeners","signature":"\u003cjava.beans.ChangeListenerMap: L[] getListeners()\u003e","javadoc":"/** \n * Returns all listeners in the map.\n * @return an array of all listeners\n */\n","tf":{"freq":{"map":1,"listen":3,"array":1},"maxFreq":3,"totalTerms":5},"loc":22}

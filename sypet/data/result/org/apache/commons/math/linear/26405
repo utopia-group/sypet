@@ -1,0 +1,1 @@
+{"id":26405,"className":"org.apache.commons.math.linear.AbstractRealVector","methodName":"mapCosh","signature":"\u003corg.apache.commons.math.linear.AbstractRealVector: org.apache.commons.math.linear.RealVector mapCosh()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"cosh":1,"map":1},"maxFreq":1,"totalTerms":2},"loc":3}

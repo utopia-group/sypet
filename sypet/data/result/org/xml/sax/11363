@@ -1,0 +1,1 @@
+{"id":11363,"className":"org.xml.sax.SAXException","methodName":"getException","signature":"\u003corg.xml.sax.SAXException: java.lang.Exception getException()\u003e","javadoc":"/** \n * Return the embedded exception, if any.\n * @return The embedded exception, or null if there is none.\n */\n","tf":{"freq":{"except":3,"none":1,"embed":2},"maxFreq":3,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":28337,"className":"javax.security.auth.kerberos.KerberosKey","methodName":"getEncoded","signature":"\u003cjavax.security.auth.kerberos.KerberosKey: byte[] getEncoded()\u003e","javadoc":"/** \n * Returns the key material of this secret key.\n * @return the key material\n */\n","tf":{"freq":{"encod":1,"materi":2,"secret":1,"key":3},"maxFreq":3,"totalTerms":7},"loc":5}

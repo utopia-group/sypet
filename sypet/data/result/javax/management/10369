@@ -1,0 +1,1 @@
+{"id":10369,"className":"javax.management.Attribute","methodName":"getName","signature":"\u003cjavax.management.Attribute: java.lang.String getName()\u003e","javadoc":"/** \n * Returns a String containing the  name of the attribute.\n * @return the name of the attribute.\n */\n","tf":{"freq":{"attribut":2,"contain":1,"string":1,"name":3},"maxFreq":3,"totalTerms":7},"loc":3}

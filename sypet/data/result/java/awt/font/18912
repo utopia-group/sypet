@@ -1,0 +1,1 @@
+{"id":18912,"className":"java.awt.font.CharArrayIterator","methodName":"clone","signature":"\u003cjava.awt.font.CharArrayIterator: java.lang.Object clone()\u003e","javadoc":"/** \n * Create a copy of this iterator\n * @return A copy of this\n */\n","tf":{"freq":{"clone":1,"creat":1,"iter":1,"copi":2},"maxFreq":2,"totalTerms":5},"loc":5}

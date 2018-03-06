@@ -1,0 +1,1 @@
+{"id":17062,"className":"javax.swing.filechooser.UnixFileSystemView","methodName":"isDrive","signature":"\u003cjavax.swing.filechooser.UnixFileSystemView: boolean isDrive(java.io.File)\u003e","loc":3}

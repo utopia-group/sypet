@@ -1,0 +1,1 @@
+{"id":19437,"className":"javax.swing.plaf.metal.MetalLookAndFeel","methodName":"provideErrorFeedback","signature":"\u003cjavax.swing.plaf.metal.MetalLookAndFeel: void provideErrorFeedback(java.awt.Component)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 1.4\n */\n","tf":{"freq":{"feedback":1,"error":1,"provid":1},"maxFreq":1,"totalTerms":3},"loc":3}

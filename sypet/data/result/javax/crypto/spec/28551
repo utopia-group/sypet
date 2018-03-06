@@ -1,0 +1,1 @@
+{"id":28551,"className":"javax.crypto.spec.PBEParameterSpec","methodName":"getIterationCount","signature":"\u003cjavax.crypto.spec.PBEParameterSpec: int getIterationCount()\u003e","javadoc":"/** \n * Returns the iteration count.\n * @return the iteration count\n */\n","tf":{"freq":{"count":3,"iter":3},"maxFreq":3,"totalTerms":6},"loc":3}

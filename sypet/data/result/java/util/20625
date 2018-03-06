@@ -1,0 +1,1 @@
+{"id":20625,"className":"java.util.IllegalFormatConversionException","methodName":"getConversion","signature":"\u003cjava.util.IllegalFormatConversionException: char getConversion()\u003e","javadoc":"/** \n * Returns the inapplicable conversion.\n * @return  The inapplicable conversion\n */\n","tf":{"freq":{"inapplic":2,"convers":3},"maxFreq":3,"totalTerms":5},"loc":3}

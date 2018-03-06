@@ -1,0 +1,1 @@
+{"id":24320,"className":"java.rmi.dgc.Lease","methodName":"getValue","signature":"\u003cjava.rmi.dgc.Lease: long getValue()\u003e","javadoc":"/** \n * Returns the lease duration.\n * @return lease duration\n */\n","tf":{"freq":{"durat":2,"valu":1,"leas":2},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":25540,"className":"java.security.Identity","methodName":"getName","signature":"\u003cjava.security.Identity: java.lang.String getName()\u003e","javadoc":"/** \n * Returns this identity\u0027s name.\n * @return the name of this identity.\n */\n","tf":{"freq":{"ident":2,"name":3},"maxFreq":3,"totalTerms":5},"loc":3}

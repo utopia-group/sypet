@@ -1,0 +1,1 @@
+{"id":15045,"className":"javax.swing.JTextArea","methodName":"getRows","signature":"\u003cjavax.swing.JTextArea: int getRows()\u003e","javadoc":"/** \n * Returns the number of rows in the TextArea.\n * @return the number of rows \u003e\u003d 0\n */\n","tf":{"freq":{"text":1,"area":1,"number":2,"row":3},"maxFreq":3,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":16540,"className":"javax.swing.border.EtchedBorder","methodName":"getEtchType","signature":"\u003cjavax.swing.border.EtchedBorder: int getEtchType()\u003e","javadoc":"/** \n * Returns which etch-type is set on the etched border.\n */\n","tf":{"freq":{"etch":3,"border":1,"type":2},"maxFreq":3,"totalTerms":6},"loc":3}

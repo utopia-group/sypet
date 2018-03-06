@@ -1,0 +1,1 @@
+{"id":15412,"className":"javax.swing.DebugGraphics","methodName":"setPaintMode","signature":"\u003cjavax.swing.DebugGraphics: void setPaintMode()\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.setPaintMode\u003c/code\u003e.\n */\n","tf":{"freq":{"graphic":1,"paint":2,"mode":2},"maxFreq":2,"totalTerms":5},"loc":6}

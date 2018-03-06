@@ -1,0 +1,1 @@
+{"id":28356,"className":"javax.security.auth.x500.X500PrivateCredential","methodName":"getPrivateKey","signature":"\u003cjavax.security.auth.x500.X500PrivateCredential: java.security.PrivateKey getPrivateKey()\u003e","javadoc":"/** \n * Returns the PrivateKey. \u003cp\u003e\n * @return the PrivateKey\n */\n","tf":{"freq":{"key":3},"maxFreq":3,"totalTerms":3},"loc":3}

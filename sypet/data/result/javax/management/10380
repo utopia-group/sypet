@@ -1,0 +1,1 @@
+{"id":10380,"className":"javax.management.BetweenQueryExp","methodName":"getLowerBound","signature":"\u003cjavax.management.BetweenQueryExp: javax.management.ValueExp getLowerBound()\u003e","javadoc":"/** \n * Returns the lower bound value of the query.\n */\n","tf":{"freq":{"queri":1,"lower":2,"valu":1,"bound":2},"maxFreq":2,"totalTerms":6},"loc":3}

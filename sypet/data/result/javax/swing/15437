@@ -1,0 +1,1 @@
+{"id":15437,"className":"javax.swing.DebugGraphics","methodName":"drawChars","signature":"\u003cjavax.swing.DebugGraphics: void drawChars(char[],int,int,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.drawChars\u003c/code\u003e.\n */\n","tf":{"freq":{"draw":2,"graphic":1},"maxFreq":2,"totalTerms":3},"loc":32}

@@ -1,0 +1,1 @@
+{"id":17955,"className":"javax.swing.plaf.basic.BasicSplitPaneUI","methodName":"getMinimumDividerLocation","signature":"\u003cjavax.swing.plaf.basic.BasicSplitPaneUI: int getMinimumDividerLocation(javax.swing.JSplitPane)\u003e","javadoc":"/** \n * Gets the minimum location of the divider.\n */\n","tf":{"freq":{"locat":2,"minimum":2,"divid":2},"maxFreq":2,"totalTerms":6},"loc":22}

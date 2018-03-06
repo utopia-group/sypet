@@ -1,0 +1,1 @@
+{"id":27310,"className":"org.jsoup.helper.Validate","methodName":"isFalse","signature":"\u003corg.jsoup.helper.Validate: void isFalse(boolean)\u003e","javadoc":"/** \n * Validates that the value is false\n * @param val object to test\n */\n","tf":{"freq":{"val":1,"fals":2,"valid":1,"test":1,"valu":1,"object":1},"maxFreq":2,"totalTerms":7},"loc":4}

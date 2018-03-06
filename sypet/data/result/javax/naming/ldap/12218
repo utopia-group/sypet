@@ -1,0 +1,1 @@
+{"id":12218,"className":"javax.naming.ldap.StartTlsRequest","methodName":"StartTlsRequest","signature":"\u003cjavax.naming.ldap.StartTlsRequest: void StartTlsRequest()\u003e","javadoc":"/** \n * Constructs a StartTLS extended request.\n */\n","tf":{"freq":{"start":2,"request":2,"tls":1,"construct":1},"maxFreq":2,"totalTerms":6},"loc":2}

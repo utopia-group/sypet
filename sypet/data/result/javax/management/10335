@@ -1,0 +1,1 @@
+{"id":10335,"className":"javax.management.MBeanServerInvocationHandler","methodName":"invoke","signature":"\u003cjavax.management.MBeanServerInvocationHandler: java.lang.Object invoke(java.lang.Object,java.lang.reflect.Method,java.lang.Object[])\u003e","loc":77}

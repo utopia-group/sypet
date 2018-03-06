@@ -1,0 +1,1 @@
+{"id":10532,"className":"com.opengamma.analytics.math.interpolation.RadialBasisFunctionInterpolatorND","methodName":"RadialBasisFunctionInterpolatorND","signature":"\u003ccom.opengamma.analytics.math.interpolation.RadialBasisFunctionInterpolatorND: void RadialBasisFunctionInterpolatorND(com.opengamma.analytics.math.function.Function1D,boolean)\u003e","loc":5}

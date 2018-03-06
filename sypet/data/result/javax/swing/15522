@@ -1,0 +1,1 @@
+{"id":15522,"className":"javax.swing.JComboBox","methodName":"hidePopup","signature":"\u003cjavax.swing.JComboBox: void hidePopup()\u003e","javadoc":"/** \n * Causes the combo box to close its popup window.\n * @see #setPopupVisible\n */\n","tf":{"freq":{"caus":1,"window":1,"hide":1,"visibl":1,"popup":3,"box":1,"combo":1,"close":1},"maxFreq":3,"totalTerms":10},"loc":3}

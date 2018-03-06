@@ -1,0 +1,1 @@
+{"id":14527,"className":"org.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone","methodName":"nextTransition","signature":"\u003corg.joda.time.tz.DateTimeZoneBuilder$PrecalculatedZone: long nextTransition(long)\u003e","loc":16}

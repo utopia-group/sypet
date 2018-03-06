@@ -1,0 +1,1 @@
+{"id":12807,"className":"java.beans.NameGenerator","methodName":"capitalize","signature":"\u003cjava.beans.NameGenerator: java.lang.String capitalize(java.lang.String)\u003e","javadoc":"/** \n * Returns a String which capitalizes the first letter of the string.\n */\n","tf":{"freq":{"letter":1,"string":2,"first":1,"capit":2},"maxFreq":2,"totalTerms":6},"loc":6}

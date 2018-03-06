@@ -1,0 +1,1 @@
+{"id":16161,"className":"org.apache.commons.math3.ml.neuralnet.FeatureInitializer","methodName":"value","signature":"\u003corg.apache.commons.math3.ml.neuralnet.FeatureInitializer: double value()\u003e","javadoc":"/** \n * Selects the initial value.\n * @return the initial value.\n */\n","tf":{"freq":{"select":1,"valu":3,"initi":2},"maxFreq":3,"totalTerms":6},"loc":0}

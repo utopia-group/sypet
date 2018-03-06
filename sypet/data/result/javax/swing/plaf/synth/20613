@@ -1,0 +1,1 @@
+{"id":20613,"className":"javax.swing.plaf.synth.SynthLabelUI","methodName":"getMinimumSize","signature":"\u003cjavax.swing.plaf.synth.SynthLabelUI: java.awt.Dimension getMinimumSize(javax.swing.JComponent)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"minimum":1,"size":1},"maxFreq":1,"totalTerms":2},"loc":16}

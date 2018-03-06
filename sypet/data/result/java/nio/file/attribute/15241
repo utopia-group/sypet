@@ -1,0 +1,1 @@
+{"id":15241,"className":"java.nio.file.attribute.BasicFileAttributes","methodName":"isSymbolicLink","signature":"\u003cjava.nio.file.attribute.BasicFileAttributes: boolean isSymbolicLink()\u003e","javadoc":"/** \n * Tells whether the file is a symbolic link.\n */\n","tf":{"freq":{"symbol":2,"file":1,"link":2,"tell":1,"whether":1},"maxFreq":2,"totalTerms":7},"loc":0}

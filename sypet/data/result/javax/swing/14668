@@ -1,0 +1,1 @@
+{"id":14668,"className":"javax.swing.JTable","methodName":"getRowHeight","signature":"\u003cjavax.swing.JTable: int getRowHeight()\u003e","javadoc":"/** \n * Returns the height of a table row, in pixels.\n * @return  the height in pixels of a table row\n * @see #setRowHeight\n */\n","tf":{"freq":{"height":4,"pixel":2,"tabl":2,"row":4},"maxFreq":4,"totalTerms":12},"loc":3}

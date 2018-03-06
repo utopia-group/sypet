@@ -1,0 +1,1 @@
+{"id":10377,"className":"javax.management.BetweenQueryExp","methodName":"BetweenQueryExp","signature":"\u003cjavax.management.BetweenQueryExp: void BetweenQueryExp()\u003e","javadoc":"/** \n * Basic Constructor.\n */\n","tf":{"freq":{"exp":1,"queri":1,"basic":1,"constructor":1},"maxFreq":1,"totalTerms":4},"loc":2}

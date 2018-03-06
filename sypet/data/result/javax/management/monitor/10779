@@ -1,0 +1,1 @@
+{"id":10779,"className":"javax.management.monitor.Monitor$ObservedObject","methodName":"setDerivedGauge","signature":"\u003cjavax.management.monitor.Monitor$ObservedObject: void setDerivedGauge(java.lang.Object)\u003e","loc":3}

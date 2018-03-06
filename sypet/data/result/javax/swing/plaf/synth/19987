@@ -1,0 +1,1 @@
+{"id":19987,"className":"javax.swing.plaf.synth.SynthButtonUI","methodName":"getBaseline","signature":"\u003cjavax.swing.plaf.synth.SynthButtonUI: int getBaseline(javax.swing.JComponent,int,int)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"baselin":1},"maxFreq":1,"totalTerms":1},"loc":46}

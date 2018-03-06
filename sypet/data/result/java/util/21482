@@ -1,0 +1,1 @@
+{"id":21482,"className":"java.util.RegularEnumSet","methodName":"size","signature":"\u003cjava.util.RegularEnumSet: int size()\u003e","javadoc":"/** \n * Returns the number of elements in this set.\n * @return the number of elements in this set\n */\n","tf":{"freq":{"element":2,"number":2,"size":1},"maxFreq":2,"totalTerms":5},"loc":3}

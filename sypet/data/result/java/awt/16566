@@ -1,0 +1,1 @@
+{"id":16566,"className":"java.awt.PrintJob","methodName":"finalize","signature":"\u003cjava.awt.PrintJob: void finalize()\u003e","javadoc":"/** \n * Ends this print job once it is no longer referenced.\n * @see #end\n */\n","tf":{"freq":{"referenc":1,"longer":1,"job":1,"print":1,"end":2},"maxFreq":2,"totalTerms":6},"loc":3}

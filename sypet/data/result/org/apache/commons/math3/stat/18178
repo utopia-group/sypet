@@ -1,0 +1,1 @@
+{"id":18178,"className":"org.apache.commons.math3.stat.Frequency","methodName":"clear","signature":"\u003corg.apache.commons.math3.stat.Frequency: void clear()\u003e","javadoc":"/** \n * Clears the frequency table \n */\n","tf":{"freq":{"clear":2,"tabl":1,"frequenc":1},"maxFreq":2,"totalTerms":4},"loc":3}

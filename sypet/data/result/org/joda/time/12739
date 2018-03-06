@@ -1,0 +1,1 @@
+{"id":12739,"className":"org.joda.time.Days","methodName":"getPeriodType","signature":"\u003corg.joda.time.Days: org.joda.time.PeriodType getPeriodType()\u003e","javadoc":"/** \n * Gets the period type, which is \u003ccode\u003edays\u003c/code\u003e.\n * @return the period type\n */\n","tf":{"freq":{"day":1,"type":3,"period":3},"maxFreq":3,"totalTerms":7},"loc":3}

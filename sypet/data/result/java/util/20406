@@ -1,0 +1,1 @@
+{"id":20406,"className":"java.util.TimeZone","methodName":"getID","signature":"\u003cjava.util.TimeZone: java.lang.String getID()\u003e","javadoc":"/** \n * Gets the ID of this time zone.\n * @return the ID of this time zone.\n */\n","tf":{"freq":{"time":2,"zone":2},"maxFreq":2,"totalTerms":4},"loc":3}

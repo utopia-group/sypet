@@ -1,0 +1,1 @@
+{"id":23116,"className":"java.util.concurrent.LinkedBlockingDeque","methodName":"removeFirst","signature":"\u003cjava.util.concurrent.LinkedBlockingDeque: E removeFirst()\u003e","javadoc":"/** \n * @throws NoSuchElementException {@inheritDoc}\n */\n","tf":{"freq":{"element":1,"except":1,"remov":1,"first":1},"maxFreq":1,"totalTerms":4},"loc":5}

@@ -1,0 +1,1 @@
+{"id":26489,"className":"org.apache.commons.math.estimation.EstimatedParameter","methodName":"getName","signature":"\u003corg.apache.commons.math.estimation.EstimatedParameter: java.lang.String getName()\u003e","javadoc":"/** \n * get the name of the parameter\n * @return parameter name\n */\n","tf":{"freq":{"name":3,"paramet":2},"maxFreq":3,"totalTerms":5},"loc":3}

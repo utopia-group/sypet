@@ -1,0 +1,1 @@
+{"id":12989,"className":"java.lang.StringBuilder","methodName":"append","signature":"\u003cjava.lang.StringBuilder: java.lang.StringBuilder append(java.lang.CharSequence,int,int)\u003e","javadoc":"/** \n * @throws IndexOutOfBoundsException {@inheritDoc}\n */\n","tf":{"freq":{"append":1,"except":1,"index":1,"bound":1},"maxFreq":1,"totalTerms":4},"loc":4}

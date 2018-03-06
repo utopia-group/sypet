@@ -1,0 +1,1 @@
+{"id":27734,"className":"javax.smartcardio.ATR","methodName":"toString","signature":"\u003cjavax.smartcardio.ATR: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a string representation of this ATR.\n * @return a String representation of this ATR.\n */\n","tf":{"freq":{"string":3,"represent":2},"maxFreq":3,"totalTerms":5},"loc":3}

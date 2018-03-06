@@ -1,0 +1,1 @@
+{"id":17815,"className":"java.awt.color.ICC_Profile","methodName":"getProfileClass","signature":"\u003cjava.awt.color.ICC_Profile: int getProfileClass()\u003e","javadoc":"/** \n * Returns the profile class.\n * @return One of the predefined profile class constants.\n */\n","tf":{"freq":{"constant":1,"one":1,"predefin":1,"profil":3},"maxFreq":3,"totalTerms":6},"loc":50}

@@ -1,0 +1,1 @@
+{"id":15710,"className":"javax.swing.ButtonGroup","methodName":"getSelection","signature":"\u003cjavax.swing.ButtonGroup: javax.swing.ButtonModel getSelection()\u003e","javadoc":"/** \n * Returns the model of the selected button.\n * @return the selected button model\n */\n","tf":{"freq":{"model":2,"button":2,"select":3},"maxFreq":3,"totalTerms":7},"loc":3}

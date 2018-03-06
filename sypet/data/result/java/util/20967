@@ -1,0 +1,1 @@
+{"id":20967,"className":"java.util.EnumSet","methodName":"clone","signature":"\u003cjava.util.EnumSet: java.util.EnumSet\u003cE\u003e clone()\u003e","javadoc":"/** \n * Returns a copy of this set.\n * @return a copy of this set\n */\n","tf":{"freq":{"clone":1,"copi":2},"maxFreq":2,"totalTerms":3},"loc":7}

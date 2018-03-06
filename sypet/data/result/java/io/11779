@@ -1,0 +1,1 @@
+{"id":11779,"className":"java.io.StreamTokenizer","methodName":"lineno","signature":"\u003cjava.io.StreamTokenizer: int lineno()\u003e","javadoc":"/** \n * Return the current line number.\n * @return  the current line number of this stream tokenizer.\n */\n","tf":{"freq":{"stream":1,"token":1,"lineno":1,"current":2,"line":2,"number":2},"maxFreq":2,"totalTerms":9},"loc":3}

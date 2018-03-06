@@ -1,0 +1,1 @@
+{"id":16819,"className":"javax.swing.tree.TreeSelectionModel","methodName":"isSelectionEmpty","signature":"\u003cjavax.swing.tree.TreeSelectionModel: boolean isSelectionEmpty()\u003e","javadoc":"/** \n * Returns true if the selection is currently empty.\n */\n","tf":{"freq":{"select":2,"current":1,"true":1,"empti":2},"maxFreq":2,"totalTerms":6},"loc":0}

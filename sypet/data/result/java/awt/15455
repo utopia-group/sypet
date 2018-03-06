@@ -1,0 +1,1 @@
+{"id":15455,"className":"java.awt.Frame","methodName":"setBackground","signature":"\u003cjava.awt.Frame: void setBackground(java.awt.Color)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"background":1},"maxFreq":1,"totalTerms":1},"loc":8}

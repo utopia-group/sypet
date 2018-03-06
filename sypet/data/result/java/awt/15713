@@ -1,0 +1,1 @@
+{"id":15713,"className":"java.awt.Menu","methodName":"removeAll","signature":"\u003cjava.awt.Menu: void removeAll()\u003e","javadoc":"/** \n * Removes all items from this menu.\n * @since       JDK1.0.\n */\n","tf":{"freq":{"menu":1,"item":1,"remov":2},"maxFreq":2,"totalTerms":4},"loc":8}

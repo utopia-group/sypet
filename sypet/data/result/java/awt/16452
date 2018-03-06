@@ -1,0 +1,1 @@
+{"id":16452,"className":"java.awt.BorderLayout","methodName":"BorderLayout","signature":"\u003cjava.awt.BorderLayout: void BorderLayout()\u003e","javadoc":"/** \n * Constructs a new border layout with no gaps between components.\n */\n","tf":{"freq":{"compon":1,"layout":2,"construct":1,"border":2,"gap":1},"maxFreq":2,"totalTerms":7},"loc":3}

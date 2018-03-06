@@ -1,0 +1,1 @@
+{"id":24128,"className":"javax.print.MimeType","methodName":"getMediaType","signature":"\u003cjavax.print.MimeType: java.lang.String getMediaType()\u003e","javadoc":"/** \n * Returns this MIME type object\u0027s media type.\n */\n","tf":{"freq":{"object":1,"type":3,"media":2},"maxFreq":3,"totalTerms":6},"loc":3}

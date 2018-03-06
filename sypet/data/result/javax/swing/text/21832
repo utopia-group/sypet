@@ -1,0 +1,1 @@
+{"id":21832,"className":"javax.swing.text.AsyncBoxView","methodName":"getTopInset","signature":"\u003cjavax.swing.text.AsyncBoxView: float getTopInset()\u003e","javadoc":"/** \n * Get the top part of the margin around the view.\n */\n","tf":{"freq":{"inset":1,"margin":1,"view":1,"part":1,"around":1,"top":2},"maxFreq":2,"totalTerms":7},"loc":3}

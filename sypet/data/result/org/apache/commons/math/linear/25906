@@ -1,0 +1,1 @@
+{"id":25906,"className":"org.apache.commons.math.linear.AbstractRealMatrix","methodName":"scalarAdd","signature":"\u003corg.apache.commons.math.linear.AbstractRealMatrix: org.apache.commons.math.linear.RealMatrix scalarAdd(double)\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"scalar":1,"add":1},"maxFreq":1,"totalTerms":2},"loc":14}

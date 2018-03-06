@@ -1,0 +1,1 @@
+{"id":10005,"className":"org.w3c.dom.DOMError","methodName":"getRelatedData","signature":"\u003corg.w3c.dom.DOMError: java.lang.Object getRelatedData()\u003e","javadoc":"/** \n * The related \u003ccode\u003eDOMError.type\u003c/code\u003e dependent data if any.\n */\n","tf":{"freq":{"merror":1,"depend":1,"data":2,"relat":2,"type":1},"maxFreq":2,"totalTerms":7},"loc":0}

@@ -1,0 +1,1 @@
+{"id":19839,"className":"org.apache.commons.math3.optim.univariate.SearchInterval","methodName":"getMax","signature":"\u003corg.apache.commons.math3.optim.univariate.SearchInterval: double getMax()\u003e","javadoc":"/** \n * Gets the upper bound.\n * @return the upper bound.\n */\n","tf":{"freq":{"upper":2,"max":1,"bound":2},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":16130,"className":"org.apache.commons.math3.ml.neuralnet.Neuron","methodName":"getIdentifier","signature":"\u003corg.apache.commons.math3.ml.neuralnet.Neuron: long getIdentifier()\u003e","javadoc":"/** \n * Gets the neuron\u0027s identifier.\n * @return the identifier.\n */\n","tf":{"freq":{"identifi":3,"neuron":1},"maxFreq":3,"totalTerms":4},"loc":3}

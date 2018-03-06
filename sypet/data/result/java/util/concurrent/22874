@@ -1,0 +1,1 @@
+{"id":22874,"className":"java.util.concurrent.Executors$DelegatedExecutorService","methodName":"isShutdown","signature":"\u003cjava.util.concurrent.Executors$DelegatedExecutorService: boolean isShutdown()\u003e","loc":1}

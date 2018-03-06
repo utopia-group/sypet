@@ -1,0 +1,1 @@
+{"id":16250,"className":"javax.swing.JFrame","methodName":"getJMenuBar","signature":"\u003cjavax.swing.JFrame: javax.swing.JMenuBar getJMenuBar()\u003e","javadoc":"/** \n * Returns the menubar set on this frame.\n * @return the menubar for this frame\n * @see #setJMenuBar\n */\n","tf":{"freq":{"frame":2,"jmenu":2,"bar":2,"menubar":2},"maxFreq":2,"totalTerms":8},"loc":3}

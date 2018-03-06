@@ -1,0 +1,1 @@
+{"id":10881,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getBorderSpacing","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getBorderSpacing()\u003e","javadoc":"/** \n * See the border-spacing property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"properti":1,"space":2,"border":2},"maxFreq":2,"totalTerms":6},"loc":0}

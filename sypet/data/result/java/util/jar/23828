@@ -1,0 +1,1 @@
+{"id":23828,"className":"java.util.jar.JarVerifier","methodName":"getCodeSource","signature":"\u003cjava.util.jar.JarVerifier: java.security.CodeSource getCodeSource(java.net.URL,java.lang.String)\u003e","loc":6}

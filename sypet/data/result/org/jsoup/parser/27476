@@ -1,0 +1,1 @@
+{"id":27476,"className":"org.jsoup.parser.Tag","methodName":"isEmpty","signature":"\u003corg.jsoup.parser.Tag: boolean isEmpty()\u003e","javadoc":"/** \n * Get if this is an empty tag\n * @return if this is an empty tag\n */\n","tf":{"freq":{"tag":2,"empti":3},"maxFreq":3,"totalTerms":5},"loc":3}

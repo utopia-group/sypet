@@ -1,0 +1,1 @@
+{"id":17369,"className":"","methodName":"getZero","signature":"\u003c: org.apache.commons.math3.analysis.differentiation.DerivativeStructure getZero()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"zero":1},"maxFreq":1,"totalTerms":1},"loc":3}

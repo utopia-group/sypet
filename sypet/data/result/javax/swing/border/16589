@@ -1,0 +1,1 @@
+{"id":16589,"className":"javax.swing.border.EmptyBorder","methodName":"isBorderOpaque","signature":"\u003cjavax.swing.border.EmptyBorder: boolean isBorderOpaque()\u003e","javadoc":"/** \n * Returns whether or not the border is opaque. Returns false by default.\n */\n","tf":{"freq":{"fals":1,"opaqu":2,"border":2,"whether":1},"maxFreq":2,"totalTerms":6},"loc":1}

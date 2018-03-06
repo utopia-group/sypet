@@ -1,0 +1,1 @@
+{"id":22149,"className":"javax.swing.text.LayoutQueue","methodName":"setDefaultQueue","signature":"\u003cjavax.swing.text.LayoutQueue: void setDefaultQueue(javax.swing.text.LayoutQueue)\u003e","javadoc":"/** \n * Set the default layout queue.\n * @param q the new queue.\n */\n","tf":{"freq":{"queue":3,"layout":1},"maxFreq":3,"totalTerms":4},"loc":5}

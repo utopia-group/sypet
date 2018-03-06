@@ -1,0 +1,1 @@
+{"id":10719,"className":"com.opengamma.analytics.math.interpolation.data.Interpolator1DQuadraticSplineDataBundle","methodName":"getB","signature":"\u003ccom.opengamma.analytics.math.interpolation.data.Interpolator1DQuadraticSplineDataBundle: double getB(int)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":15062,"className":"javax.swing.DefaultListModel","methodName":"capacity","signature":"\u003cjavax.swing.DefaultListModel: int capacity()\u003e","javadoc":"/** \n * Returns the current capacity of this list.\n * @return  the current capacity\n * @see Vector#capacity()\n */\n","tf":{"freq":{"vector":1,"current":2,"list":1,"capac":4},"maxFreq":4,"totalTerms":8},"loc":3}

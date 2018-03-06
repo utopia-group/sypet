@@ -1,0 +1,1 @@
+{"id":21161,"className":"java.util.LinkedList","methodName":"descendingIterator","signature":"\u003cjava.util.LinkedList: java.util.Iterator\u003cE\u003e descendingIterator()\u003e","javadoc":"/** \n * @since 1.6\n */\n","tf":{"freq":{"descend":1,"iter":1},"maxFreq":1,"totalTerms":2},"loc":3}

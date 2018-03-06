@@ -1,0 +1,1 @@
+{"id":24520,"className":"java.text.PatternEntry","methodName":"appendQuotedChars","signature":"\u003cjava.text.PatternEntry: void appendQuotedChars(java.lang.StringBuffer)\u003e","javadoc":"/** \n * Gets the current chars, quoted\n */\n","tf":{"freq":{"append":1,"current":1,"quot":2},"maxFreq":2,"totalTerms":4},"loc":3}

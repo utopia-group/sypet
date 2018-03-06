@@ -1,0 +1,1 @@
+{"id":13226,"className":"org.joda.time.LocalTime","methodName":"getMillisOfSecond","signature":"\u003corg.joda.time.LocalTime: int getMillisOfSecond()\u003e","javadoc":"/** \n * Get the millis of second field value.\n * @return the millis of second\n */\n","tf":{"freq":{"field":1,"second":3,"milli":3,"valu":1},"maxFreq":3,"totalTerms":8},"loc":3}

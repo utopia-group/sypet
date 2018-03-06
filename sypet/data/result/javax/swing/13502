@@ -1,0 +1,1 @@
+{"id":13502,"className":"javax.swing.DefaultButtonModel","methodName":"setMnemonic","signature":"\u003cjavax.swing.DefaultButtonModel: void setMnemonic(int)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"mnemon":1},"maxFreq":1,"totalTerms":1},"loc":4}

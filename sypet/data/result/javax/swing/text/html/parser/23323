@@ -1,0 +1,1 @@
+{"id":23323,"className":"javax.swing.text.html.parser.Entity","methodName":"getData","signature":"\u003cjavax.swing.text.html.parser.Entity: char[] getData()\u003e","javadoc":"/** \n * Returns the \u003ccode\u003edata\u003c/code\u003e.\n * @return the \u003ccode\u003edata\u003c/code\u003e\n */\n","tf":{"freq":{"data":3},"maxFreq":3,"totalTerms":3},"loc":3}

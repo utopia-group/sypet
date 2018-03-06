@@ -1,0 +1,1 @@
+{"id":14750,"className":"org.joda.time.chrono.BasicSingleEraDateTimeField","methodName":"roundHalfCeiling","signature":"\u003corg.joda.time.chrono.BasicSingleEraDateTimeField: long roundHalfCeiling(long)\u003e","javadoc":"/** \n * @inheritDoc \n */\n","tf":{"freq":{"ceil":1,"half":1,"round":1},"maxFreq":1,"totalTerms":3},"loc":3}

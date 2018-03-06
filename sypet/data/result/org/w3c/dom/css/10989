@@ -1,0 +1,1 @@
+{"id":10989,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getMarginRight","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getMarginRight()\u003e","javadoc":"/** \n * See the margin-right property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"margin":2,"properti":1,"right":2},"maxFreq":2,"totalTerms":6},"loc":0}

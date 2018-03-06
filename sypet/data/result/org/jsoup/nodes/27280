@@ -1,0 +1,1 @@
+{"id":27280,"className":"org.jsoup.nodes.XmlDeclaration","methodName":"getWholeDeclaration","signature":"\u003corg.jsoup.nodes.XmlDeclaration: java.lang.String getWholeDeclaration()\u003e","javadoc":"/** \n * Get the unencoded XML declaration.\n * @return XML declaration\n */\n","tf":{"freq":{"declar":3,"unencod":1,"whole":1},"maxFreq":3,"totalTerms":5},"loc":23}

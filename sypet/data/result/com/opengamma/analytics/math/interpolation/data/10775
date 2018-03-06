@@ -1,0 +1,1 @@
+{"id":10775,"className":"com.opengamma.analytics.math.interpolation.data.Interpolator1DDoubleQuadraticDataBundle","methodName":"setYValueAtIndex","signature":"\u003ccom.opengamma.analytics.math.interpolation.data.Interpolator1DDoubleQuadraticDataBundle: void setYValueAtIndex(int,double)\u003e","loc":32}

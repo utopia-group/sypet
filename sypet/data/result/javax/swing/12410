@@ -1,0 +1,1 @@
+{"id":12410,"className":"javax.swing.ImageIcon","methodName":"getIconWidth","signature":"\u003cjavax.swing.ImageIcon: int getIconWidth()\u003e","javadoc":"/** \n * Gets the width of the icon.\n * @return the width in pixels of this icon\n */\n","tf":{"freq":{"icon":3,"pixel":1,"width":3},"maxFreq":3,"totalTerms":7},"loc":3}

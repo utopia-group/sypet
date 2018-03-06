@@ -1,0 +1,1 @@
+{"id":12154,"className":"java.net.Socket","methodName":"isClosed","signature":"\u003cjava.net.Socket: boolean isClosed()\u003e","javadoc":"/** \n * Returns the closed state of the socket.\n * @return true if the socket has been closed\n * @since 1.4\n * @see #close\n */\n","tf":{"freq":{"state":1,"true":1,"socket":2,"close":4},"maxFreq":4,"totalTerms":8},"loc":5}

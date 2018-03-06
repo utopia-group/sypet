@@ -1,0 +1,1 @@
+{"id":11065,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getSpeakPunctuation","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getSpeakPunctuation()\u003e","javadoc":"/** \n * See the speak-punctuation property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"speak":2,"properti":1,"punctuat":2},"maxFreq":2,"totalTerms":6},"loc":0}

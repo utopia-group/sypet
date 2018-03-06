@@ -1,0 +1,1 @@
+{"id":12893,"className":"org.joda.time.ReadableDateTime","methodName":"getYearOfEra","signature":"\u003corg.joda.time.ReadableDateTime: int getYearOfEra()\u003e","javadoc":"/** \n * Get the year of era field value.\n * @return the year of era\n */\n","tf":{"freq":{"field":1,"valu":1,"era":3,"year":3},"maxFreq":3,"totalTerms":8},"loc":0}

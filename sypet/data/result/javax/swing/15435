@@ -1,0 +1,1 @@
+{"id":15435,"className":"javax.swing.DebugGraphics","methodName":"drawString","signature":"\u003cjavax.swing.DebugGraphics: void drawString(java.text.AttributedCharacterIterator,int,int)\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eGraphics.drawString\u003c/code\u003e.\n */\n","tf":{"freq":{"draw":2,"graphic":1,"string":2},"maxFreq":2,"totalTerms":5},"loc":31}

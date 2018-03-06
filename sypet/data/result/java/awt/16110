@@ -1,0 +1,1 @@
+{"id":16110,"className":"java.awt.DisplayMode","methodName":"getWidth","signature":"\u003cjava.awt.DisplayMode: int getWidth()\u003e","javadoc":"/** \n * Returns the width of the display, in pixels.\n * @return the width of the display, in pixels\n */\n","tf":{"freq":{"pixel":2,"width":3,"display":2},"maxFreq":3,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11081,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getTextTransform","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getTextTransform()\u003e","javadoc":"/** \n * See the text-transform property definition in CSS2.\n */\n","tf":{"freq":{"transform":2,"text":2,"definit":1,"properti":1},"maxFreq":2,"totalTerms":6},"loc":0}

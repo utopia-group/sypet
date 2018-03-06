@@ -1,0 +1,1 @@
+{"id":17384,"className":"javax.swing.undo.UndoableEdit","methodName":"undo","signature":"\u003cjavax.swing.undo.UndoableEdit: void undo()\u003e","javadoc":"/** \n * Undo the edit.\n * @throws CannotUndoException if this edit can not be undone\n */\n","tf":{"freq":{"except":1,"undo":3,"edit":2,"undon":1},"maxFreq":3,"totalTerms":7},"loc":0}

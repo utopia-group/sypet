@@ -1,0 +1,1 @@
+{"id":11548,"className":"com.opengamma.analytics.math.matrix.DoubleMatrix2D","methodName":"getNumberOfRows","signature":"\u003ccom.opengamma.analytics.math.matrix.DoubleMatrix2D: int getNumberOfRows()\u003e","javadoc":"/** \n * @return The number of rows in this matrix\n */\n","tf":{"freq":{"matrix":1,"number":2,"row":2},"maxFreq":2,"totalTerms":5},"loc":3}

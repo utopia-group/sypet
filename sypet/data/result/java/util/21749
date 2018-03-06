@@ -1,0 +1,1 @@
+{"id":21749,"className":"java.util.UnknownFormatConversionException","methodName":"getConversion","signature":"\u003cjava.util.UnknownFormatConversionException: java.lang.String getConversion()\u003e","javadoc":"/** \n * Returns the unknown conversion.\n * @return  The unknown conversion.\n */\n","tf":{"freq":{"convers":3,"unknown":2},"maxFreq":3,"totalTerms":5},"loc":3}

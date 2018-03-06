@@ -1,0 +1,1 @@
+{"id":25722,"className":"java.security.interfaces.RSAPrivateCrtKey","methodName":"getCrtCoefficient","signature":"\u003cjava.security.interfaces.RSAPrivateCrtKey: java.math.BigInteger getCrtCoefficient()\u003e","javadoc":"/** \n * Returns the crtCoefficient.\n * @return the crtCoefficient\n */\n","tf":{"freq":{"crt":3,"coeffici":3},"maxFreq":3,"totalTerms":6},"loc":0}

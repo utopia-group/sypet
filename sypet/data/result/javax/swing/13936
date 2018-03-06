@@ -1,0 +1,1 @@
+{"id":13936,"className":"","methodName":"acceptRequestFocus","signature":"\u003c: boolean acceptRequestFocus(java.awt.Component,java.awt.Component,boolean,boolean,sun.awt.CausedFocusEvent$Cause)\u003e","loc":47}

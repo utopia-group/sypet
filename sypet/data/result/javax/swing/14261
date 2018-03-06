@@ -1,0 +1,1 @@
+{"id":14261,"className":"javax.swing.RepaintManager$PaintManager","methodName":"beginPaint","signature":"\u003cjavax.swing.RepaintManager$PaintManager: void beginPaint()\u003e","javadoc":"/** \n * Invoked prior to any calls to paint or copyArea.\n */\n","tf":{"freq":{"call":1,"area":1,"invok":1,"paint":2,"copi":1,"prior":1,"begin":1},"maxFreq":2,"totalTerms":8},"loc":2}

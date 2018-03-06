@@ -1,0 +1,1 @@
+{"id":12932,"className":"org.joda.time.Duration","methodName":"Duration","signature":"\u003corg.joda.time.Duration: void Duration(long)\u003e","javadoc":"/** \n * Creates a duration from the given millisecond duration.\n * @param duration  the duration, in milliseconds\n */\n","tf":{"freq":{"durat":5,"given":1,"creat":1,"millisecond":2},"maxFreq":5,"totalTerms":9},"loc":3}

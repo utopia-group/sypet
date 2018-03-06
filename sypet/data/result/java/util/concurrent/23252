@@ -1,0 +1,1 @@
+{"id":23252,"className":"java.util.concurrent.ForkJoinWorkerThread","methodName":"getPool","signature":"\u003cjava.util.concurrent.ForkJoinWorkerThread: java.util.concurrent.ForkJoinPool getPool()\u003e","javadoc":"/** \n * Returns the pool hosting this thread.\n * @return the pool\n */\n","tf":{"freq":{"host":1,"pool":3,"thread":1},"maxFreq":3,"totalTerms":5},"loc":3}

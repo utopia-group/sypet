@@ -1,0 +1,1 @@
+{"id":11288,"className":"javax.management.modelmbean.ModelMBeanInfoSupport","methodName":"getDescriptor","signature":"\u003cjavax.management.modelmbean.ModelMBeanInfoSupport: javax.management.Descriptor getDescriptor(java.lang.String,java.lang.String)\u003e","loc":57}

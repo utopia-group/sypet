@@ -1,0 +1,1 @@
+{"id":20258,"className":"javax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter","methodName":"paintSeparatorForeground","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter: void paintSeparatorForeground(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int,int)\u003e","loc":6}

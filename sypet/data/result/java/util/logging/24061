@@ -1,0 +1,1 @@
+{"id":24061,"className":"java.util.logging.LogManager","methodName":"getLogManager","signature":"\u003cjava.util.logging.LogManager: java.util.logging.LogManager getLogManager()\u003e","javadoc":"/** \n * Return the global LogManager object.\n */\n","tf":{"freq":{"manag":2,"global":1,"object":1,"log":2},"maxFreq":2,"totalTerms":6},"loc":6}

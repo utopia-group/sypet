@@ -1,0 +1,1 @@
+{"id":23322,"className":"org.apache.commons.math.analysis.integration.SimpsonIntegrator","methodName":"SimpsonIntegrator","signature":"\u003corg.apache.commons.math.analysis.integration.SimpsonIntegrator: void SimpsonIntegrator()\u003e","javadoc":"/** \n * Construct an integrator.\n */\n","tf":{"freq":{"integr":2,"simpson":1,"construct":1},"maxFreq":2,"totalTerms":4},"loc":3}

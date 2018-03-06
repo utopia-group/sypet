@@ -1,0 +1,1 @@
+{"id":11634,"className":"javax.naming.RefAddr","methodName":"getContent","signature":"\u003cjavax.naming.RefAddr: java.lang.Object getContent()\u003e","javadoc":"/** \n * Retrieves the contents of this address.\n * @return The possibly null address contents.\n */\n","tf":{"freq":{"content":3,"address":2,"retriev":1,"possibl":1},"maxFreq":3,"totalTerms":7},"loc":0}

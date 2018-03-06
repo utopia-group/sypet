@@ -1,0 +1,1 @@
+{"id":10630,"className":"com.opengamma.analytics.math.interpolation.MonotonicityPreservingCubicSplineInterpolator","methodName":"interpolate","signature":"\u003ccom.opengamma.analytics.math.interpolation.MonotonicityPreservingCubicSplineInterpolator: com.opengamma.analytics.math.interpolation.PiecewisePolynomialResult interpolate(double[],double[][])\u003e","loc":72}

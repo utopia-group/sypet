@@ -1,0 +1,1 @@
+{"id":12298,"className":"javax.swing.BufferStrategyPaintManager","methodName":"paint","signature":"\u003cjavax.swing.BufferStrategyPaintManager: boolean paint(javax.swing.JComponent,javax.swing.JComponent,java.awt.Graphics,int,int,int,int)\u003e","loc":33}

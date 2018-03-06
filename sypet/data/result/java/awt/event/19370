@@ -1,0 +1,1 @@
+{"id":19370,"className":"java.awt.event.InvocationEvent","methodName":"getWhen","signature":"\u003cjava.awt.event.InvocationEvent: long getWhen()\u003e","javadoc":"/** \n * Returns the timestamp of when this event occurred.\n * @return this event\u0027s timestamp\n * @since 1.4\n */\n","tf":{"freq":{"timestamp":2,"event":2,"occur":1},"maxFreq":2,"totalTerms":5},"loc":3}

@@ -1,0 +1,1 @@
+{"id":25955,"className":"java.security.cert.Certificate","methodName":"getType","signature":"\u003cjava.security.cert.Certificate: java.lang.String getType()\u003e","javadoc":"/** \n * Returns the type of this certificate.\n * @return the type of this certificate.\n */\n","tf":{"freq":{"certif":2,"type":3},"maxFreq":3,"totalTerms":5},"loc":3}

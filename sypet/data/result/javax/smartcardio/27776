@@ -1,0 +1,1 @@
+{"id":27776,"className":"javax.smartcardio.CommandAPDU","methodName":"getP1","signature":"\u003cjavax.smartcardio.CommandAPDU: int getP1()\u003e","javadoc":"/** \n * Returns the value of the parameter byte P1.\n * @return the value of the parameter byte P1.\n */\n","tf":{"freq":{"paramet":2,"valu":2},"maxFreq":2,"totalTerms":4},"loc":3}

@@ -1,0 +1,1 @@
+{"id":24937,"className":"org.apache.commons.math.util.BigRealField","methodName":"getInstance","signature":"\u003corg.apache.commons.math.util.BigRealField: org.apache.commons.math.util.BigRealField getInstance()\u003e","javadoc":"/** \n * Get the unique instance.\n * @return the unique instance\n */\n","tf":{"freq":{"uniqu":2,"instanc":3},"maxFreq":3,"totalTerms":5},"loc":3}

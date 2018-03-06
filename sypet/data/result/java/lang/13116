@@ -1,0 +1,1 @@
+{"id":13116,"className":"java.lang.Character$Subset","methodName":"toString","signature":"\u003cjava.lang.Character$Subset: java.lang.String toString()\u003e","javadoc":"/** \n * Returns the name of this subset.\n */\n","tf":{"freq":{"subset":1,"name":1,"string":1},"maxFreq":1,"totalTerms":3},"loc":3}

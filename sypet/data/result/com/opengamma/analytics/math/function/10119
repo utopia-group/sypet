@@ -1,0 +1,1 @@
+{"id":10119,"className":"com.opengamma.analytics.math.function.ConcatenatedVectorFunction","methodName":"evaluate","signature":"\u003ccom.opengamma.analytics.math.function.ConcatenatedVectorFunction: com.opengamma.analytics.math.matrix.DoubleMatrix1D evaluate(com.opengamma.analytics.math.matrix.DoubleMatrix1D)\u003e","loc":14}

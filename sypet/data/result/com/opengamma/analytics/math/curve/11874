@@ -1,0 +1,1 @@
+{"id":11874,"className":"com.opengamma.analytics.math.curve.Curve","methodName":"clone","signature":"\u003ccom.opengamma.analytics.math.curve.Curve: com.opengamma.analytics.math.curve.Curve\u003cT,U\u003e clone()\u003e","loc":3}

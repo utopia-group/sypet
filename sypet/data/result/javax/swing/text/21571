@@ -1,0 +1,1 @@
+{"id":21571,"className":"javax.swing.text.MaskFormatter$UpperCaseCharacter","methodName":"isValidCharacter","signature":"\u003cjavax.swing.text.MaskFormatter$UpperCaseCharacter: boolean isValidCharacter(char)\u003e","loc":4}

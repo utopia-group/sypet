@@ -1,0 +1,1 @@
+{"id":11805,"className":"com.opengamma.analytics.math.curve.NodalObjectsCurve","methodName":"fromSorted","signature":"\u003ccom.opengamma.analytics.math.curve.NodalObjectsCurve: com.opengamma.analytics.math.curve.NodalObjectsCurve\u003cT,U\u003e fromSorted(java.util.Map,java.lang.String)\u003e","loc":3}

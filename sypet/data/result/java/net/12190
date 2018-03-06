@@ -1,0 +1,1 @@
+{"id":12190,"className":"java.net.Proxy","methodName":"type","signature":"\u003cjava.net.Proxy: java.net.Type type()\u003e","javadoc":"/** \n * Returns the proxy type.\n * @return a Type representing the proxy type\n */\n","tf":{"freq":{"proxi":2,"repres":1,"type":4},"maxFreq":4,"totalTerms":7},"loc":3}

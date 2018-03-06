@@ -1,0 +1,1 @@
+{"id":17736,"className":"java.awt.print.PageFormat","methodName":"PageFormat","signature":"\u003cjava.awt.print.PageFormat: void PageFormat()\u003e","javadoc":"/** \n * Creates a default, portrait-oriented \u003ccode\u003ePageFormat\u003c/code\u003e.\n */\n","tf":{"freq":{"orient":1,"creat":1,"page":2,"format":2,"portrait":1},"maxFreq":2,"totalTerms":7},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12589,"className":"com.opengamma.analytics.math.cube.Cube","methodName":"getXData","signature":"\u003ccom.opengamma.analytics.math.cube.Cube: S[] getXData()\u003e","javadoc":"/** \n * @return The \u003ci\u003ex\u003c/i\u003e data for this cube\n */\n","tf":{"freq":{"data":1,"cube":1,"xdata":1},"maxFreq":1,"totalTerms":3},"loc":0}

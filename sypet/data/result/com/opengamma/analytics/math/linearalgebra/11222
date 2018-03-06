@@ -1,0 +1,1 @@
+{"id":11222,"className":"com.opengamma.analytics.math.linearalgebra.SVDecompositionColtResult","methodName":"getNorm","signature":"\u003ccom.opengamma.analytics.math.linearalgebra.SVDecompositionColtResult: double getNorm()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"norm":1},"maxFreq":1,"totalTerms":1},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12582,"className":"com.opengamma.analytics.math.cube.ConstantDoublesCube","methodName":"getValue","signature":"\u003ccom.opengamma.analytics.math.cube.ConstantDoublesCube: java.lang.Double getValue(java.lang.Double,java.lang.Double,java.lang.Double)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"valu":1},"maxFreq":1,"totalTerms":1},"loc":3}

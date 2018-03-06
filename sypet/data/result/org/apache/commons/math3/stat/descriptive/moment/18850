@@ -1,0 +1,1 @@
+{"id":18850,"className":"org.apache.commons.math3.stat.descriptive.moment.Kurtosis","methodName":"Kurtosis","signature":"\u003corg.apache.commons.math3.stat.descriptive.moment.Kurtosis: void Kurtosis()\u003e","javadoc":"/** \n * Construct a Kurtosis\n */\n","tf":{"freq":{"construct":1,"kurtosi":2},"maxFreq":2,"totalTerms":3},"loc":4}

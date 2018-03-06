@@ -1,0 +1,1 @@
+{"id":21322,"className":"javax.swing.text.JTextComponent$InputMethodRequestsHandler","methodName":"changedUpdate","signature":"\u003cjavax.swing.text.JTextComponent$InputMethodRequestsHandler: void changedUpdate(javax.swing.event.DocumentEvent)\u003e","loc":3}

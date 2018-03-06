@@ -1,0 +1,1 @@
+{"id":28406,"className":"javax.crypto.KeyGenerator","methodName":"generateKey","signature":"\u003cjavax.crypto.KeyGenerator: javax.crypto.SecretKey generateKey()\u003e","javadoc":"/** \n * Generates a secret key.\n * @return the new key\n */\n","tf":{"freq":{"generat":2,"secret":1,"key":3},"maxFreq":3,"totalTerms":6},"loc":18}

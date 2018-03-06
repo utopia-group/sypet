@@ -1,0 +1,1 @@
+{"id":17422,"className":"java.awt.Cursor","methodName":"toString","signature":"\u003cjava.awt.Cursor: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a string representation of this cursor.\n * @return    a string representation of this cursor.\n * @since     1.2\n */\n","tf":{"freq":{"cursor":2,"string":3,"represent":2},"maxFreq":3,"totalTerms":7},"loc":3}

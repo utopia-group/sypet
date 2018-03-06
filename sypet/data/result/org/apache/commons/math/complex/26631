@@ -1,0 +1,1 @@
+{"id":26631,"className":"org.apache.commons.math.complex.Complex","methodName":"getImaginary","signature":"\u003corg.apache.commons.math.complex.Complex: double getImaginary()\u003e","javadoc":"/** \n * Access the imaginary part.\n * @return the imaginary part\n */\n","tf":{"freq":{"imaginari":3,"part":2,"access":1},"maxFreq":3,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":24047,"className":"java.util.logging.LoggingProxyImpl","methodName":"log","signature":"\u003cjava.util.logging.LoggingProxyImpl: void log(java.lang.Object,java.lang.Object,java.lang.String,java.lang.Throwable)\u003e","loc":3}

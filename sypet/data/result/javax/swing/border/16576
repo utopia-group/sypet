@@ -1,0 +1,1 @@
+{"id":16576,"className":"javax.swing.border.TitledBorder","methodName":"setBorder","signature":"\u003cjavax.swing.border.TitledBorder: void setBorder(javax.swing.border.Border)\u003e","javadoc":"/** \n * Sets the border of the titled border.\n * @param border the border\n */\n","tf":{"freq":{"titl":1,"border":5},"maxFreq":5,"totalTerms":6},"loc":3}

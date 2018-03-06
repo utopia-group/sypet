@@ -1,0 +1,1 @@
+{"id":20002,"className":"org.apache.commons.math3.geometry.partitioning.RegionFactory","methodName":"RegionFactory","signature":"\u003corg.apache.commons.math3.geometry.partitioning.RegionFactory: void RegionFactory()\u003e","javadoc":"/** \n * Simple constructor.\n */\n","tf":{"freq":{"region":1,"simpl":1,"factori":1,"constructor":1},"maxFreq":1,"totalTerms":4},"loc":3}

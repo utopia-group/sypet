@@ -1,0 +1,1 @@
+{"id":19936,"className":"javax.swing.plaf.synth.SynthToolTipUI","methodName":"getPreferredSize","signature":"\u003cjavax.swing.plaf.synth.SynthToolTipUI: java.awt.Dimension getPreferredSize(javax.swing.JComponent)\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"prefer":1,"size":1},"maxFreq":1,"totalTerms":2},"loc":23}

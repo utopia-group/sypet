@@ -1,0 +1,1 @@
+{"id":15008,"className":"org.joda.time.chrono.BasicMonthOfYearDateTimeField","methodName":"isLenient","signature":"\u003corg.joda.time.chrono.BasicMonthOfYearDateTimeField: boolean isLenient()\u003e","loc":3}

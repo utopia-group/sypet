@@ -1,0 +1,1 @@
+{"id":15039,"className":"javax.swing.JTextArea","methodName":"getLineCount","signature":"\u003cjavax.swing.JTextArea: int getLineCount()\u003e","javadoc":"/** \n * Determines the number of lines contained in the area.\n * @return the number of lines \u003e 0\n */\n","tf":{"freq":{"area":1,"count":1,"contain":1,"determin":1,"line":3,"number":2},"maxFreq":3,"totalTerms":9},"loc":4}

@@ -1,0 +1,1 @@
+{"id":24537,"className":"org.apache.commons.math.stat.descriptive.moment.ThirdMoment","methodName":"copy","signature":"\u003corg.apache.commons.math.stat.descriptive.moment.ThirdMoment: org.apache.commons.math.stat.descriptive.moment.ThirdMoment copy()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"copi":1},"maxFreq":1,"totalTerms":1},"loc":5}

@@ -1,0 +1,1 @@
+{"id":13680,"className":"org.joda.time.field.DelegatedDateTimeField","methodName":"getType","signature":"\u003corg.joda.time.field.DelegatedDateTimeField: org.joda.time.DateTimeFieldType getType()\u003e","loc":3}

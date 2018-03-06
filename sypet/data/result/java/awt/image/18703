@@ -1,0 +1,1 @@
+{"id":18703,"className":"java.awt.image.ImageFilter","methodName":"clone","signature":"\u003cjava.awt.image.ImageFilter: java.lang.Object clone()\u003e","javadoc":"/** \n * Clones this object.\n */\n","tf":{"freq":{"clone":2,"object":1},"maxFreq":2,"totalTerms":3},"loc":8}

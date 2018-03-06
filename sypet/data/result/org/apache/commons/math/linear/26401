@@ -1,0 +1,1 @@
+{"id":26401,"className":"org.apache.commons.math.linear.AbstractRealVector","methodName":"mapCeil","signature":"\u003corg.apache.commons.math.linear.AbstractRealVector: org.apache.commons.math.linear.RealVector mapCeil()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"ceil":1,"map":1},"maxFreq":1,"totalTerms":2},"loc":3}

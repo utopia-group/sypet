@@ -1,0 +1,1 @@
+{"id":24848,"className":"java.text.DecimalFormatSymbols","methodName":"setPercent","signature":"\u003cjava.text.DecimalFormatSymbols: void setPercent(char)\u003e","javadoc":"/** \n * Sets the character used for percent sign. Different for Arabic, etc.\n */\n","tf":{"freq":{"sign":1,"differ":1,"percent":2,"arab":1,"charact":1,"etc":1,"use":1},"maxFreq":2,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12476,"className":"java.net.Inet6Address","methodName":"hashCode","signature":"\u003cjava.net.Inet6Address: int hashCode()\u003e","javadoc":"/** \n * Returns a hashcode for this IP address.\n * @return  a hash code value for this IP address.\n */\n","tf":{"freq":{"address":2,"hash":2,"hashcod":1,"valu":1},"maxFreq":2,"totalTerms":6},"loc":21}

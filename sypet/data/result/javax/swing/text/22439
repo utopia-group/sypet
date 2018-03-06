@@ -1,0 +1,1 @@
+{"id":22439,"className":"javax.swing.text.DefaultFormatter","methodName":"clone","signature":"\u003cjavax.swing.text.DefaultFormatter: java.lang.Object clone()\u003e","javadoc":"/** \n * Creates a copy of the DefaultFormatter.\n * @return copy of the DefaultFormatter\n */\n","tf":{"freq":{"clone":1,"creat":1,"formatt":2,"copi":2},"maxFreq":2,"totalTerms":6},"loc":8}

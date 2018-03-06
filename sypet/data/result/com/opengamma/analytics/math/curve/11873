@@ -1,0 +1,1 @@
+{"id":11873,"className":"com.opengamma.analytics.math.curve.Curve","methodName":"name","signature":"\u003ccom.opengamma.analytics.math.curve.Curve: com.opengamma.analytics.math.curve.Property name()\u003e","javadoc":"/** \n * Gets the the  {@code name} property.\n * @return the property, not null\n */\n","tf":{"freq":{"name":2,"properti":2},"maxFreq":2,"totalTerms":4},"loc":3}

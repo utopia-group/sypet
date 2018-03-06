@@ -1,0 +1,1 @@
+{"id":12425,"className":"javax.swing.ImageIcon$AccessibleImageIcon","methodName":"getAccessibleIconHeight","signature":"\u003cjavax.swing.ImageIcon$AccessibleImageIcon: int getAccessibleIconHeight()\u003e","javadoc":"/** \n * Gets the height of the icon.\n * @return the height of the icon\n */\n","tf":{"freq":{"icon":3,"height":3,"access":1},"maxFreq":3,"totalTerms":7},"loc":3}

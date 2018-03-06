@@ -1,0 +1,1 @@
+{"id":15139,"className":"org.joda.money.CurrencyUnit","methodName":"hashCode","signature":"\u003corg.joda.money.CurrencyUnit: int hashCode()\u003e","javadoc":"/** \n * Returns a suitable hash code for the currency.\n * @return the hash code\n */\n","tf":{"freq":{"hash":3,"suitabl":1,"currenc":1},"maxFreq":3,"totalTerms":5},"loc":3}

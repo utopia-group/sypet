@@ -1,0 +1,1 @@
+{"id":21799,"className":"javax.swing.text.SimpleAttributeSet","methodName":"copyAttributes","signature":"\u003cjavax.swing.text.SimpleAttributeSet: javax.swing.text.AttributeSet copyAttributes()\u003e","javadoc":"/** \n * Makes a copy of the attributes.\n * @return the copy\n */\n","tf":{"freq":{"attribut":2,"make":1,"copi":3},"maxFreq":3,"totalTerms":6},"loc":3}

@@ -1,0 +1,1 @@
+{"id":22720,"className":"javax.swing.text.html.Option","methodName":"getAttributes","signature":"\u003cjavax.swing.text.html.Option: javax.swing.text.AttributeSet getAttributes()\u003e","javadoc":"/** \n * Fetch the attributes associated with this option.\n */\n","tf":{"freq":{"fetch":1,"attribut":2,"associ":1,"option":1},"maxFreq":2,"totalTerms":5},"loc":3}

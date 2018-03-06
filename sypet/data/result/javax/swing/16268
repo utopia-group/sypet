@@ -1,0 +1,1 @@
+{"id":16268,"className":"javax.swing.JMenuBar","methodName":"JMenuBar","signature":"\u003cjavax.swing.JMenuBar: void JMenuBar()\u003e","javadoc":"/** \n * Creates a new menu bar.\n */\n","tf":{"freq":{"creat":1,"menu":2,"bar":2},"maxFreq":2,"totalTerms":5},"loc":6}

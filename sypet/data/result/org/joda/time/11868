@@ -1,0 +1,1 @@
+{"id":11868,"className":"org.joda.time.PeriodType","methodName":"toString","signature":"\u003corg.joda.time.PeriodType: java.lang.String toString()\u003e","javadoc":"/** \n * Gets a debugging to string.\n * @return a string\n */\n","tf":{"freq":{"string":3,"debug":1},"maxFreq":3,"totalTerms":4},"loc":3}

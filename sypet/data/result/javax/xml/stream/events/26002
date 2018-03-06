@@ -1,0 +1,1 @@
+{"id":26002,"className":"javax.xml.stream.events.Attribute","methodName":"getName","signature":"\u003cjavax.xml.stream.events.Attribute: javax.xml.namespace.QName getName()\u003e","javadoc":"/** \n * Returns the QName for this attribute\n */\n","tf":{"freq":{"attribut":1,"qname":1,"name":1},"maxFreq":1,"totalTerms":3},"loc":0}

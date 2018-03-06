@@ -1,0 +1,1 @@
+{"id":10915,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getBorderLeftWidth","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getBorderLeftWidth()\u003e","javadoc":"/** \n * See the border-left-width property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"width":2,"left":2,"properti":1,"border":2},"maxFreq":2,"totalTerms":8},"loc":0}

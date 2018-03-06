@@ -1,0 +1,1 @@
+{"id":10280,"className":"org.w3c.dom.html.HTMLTextAreaElement","methodName":"getType","signature":"\u003corg.w3c.dom.html.HTMLTextAreaElement: java.lang.String getType()\u003e","javadoc":"/** \n * The type of this form control. This the string \"textarea\".\n */\n","tf":{"freq":{"control":1,"form":1,"textarea":1,"string":1,"type":2},"maxFreq":2,"totalTerms":6},"loc":0}

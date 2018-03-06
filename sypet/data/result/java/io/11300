@@ -1,0 +1,1 @@
+{"id":11300,"className":"java.io.FileSystem","methodName":"hashCode","signature":"\u003cjava.io.FileSystem: int hashCode(java.io.File)\u003e","javadoc":"/** \n * Compute the hash code of an abstract pathname.\n */\n","tf":{"freq":{"pathnam":1,"hash":2,"comput":1},"maxFreq":2,"totalTerms":4},"loc":0}

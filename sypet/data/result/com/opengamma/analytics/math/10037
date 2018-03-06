@@ -1,0 +1,1 @@
+{"id":10037,"className":"com.opengamma.analytics.math.TrigonometricFunctionUtils","methodName":"acosh","signature":"\u003ccom.opengamma.analytics.math.TrigonometricFunctionUtils: com.opengamma.analytics.math.number.ComplexNumber acosh(com.opengamma.analytics.math.number.ComplexNumber)\u003e","loc":4}

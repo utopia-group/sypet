@@ -1,0 +1,1 @@
+{"id":22622,"className":"java.util.concurrent.ConcurrentHashMap","methodName":"clear","signature":"\u003cjava.util.concurrent.ConcurrentHashMap: void clear()\u003e","javadoc":"/** \n * Removes all of the mappings from this map.\n */\n","tf":{"freq":{"clear":1,"map":2,"remov":1},"maxFreq":2,"totalTerms":4},"loc":8}

@@ -1,0 +1,1 @@
+{"id":21946,"className":"java.util.Collections$SynchronizedCollection","methodName":"removeAll","signature":"\u003cjava.util.Collections$SynchronizedCollection: boolean removeAll(java.util.Collection)\u003e","loc":3}

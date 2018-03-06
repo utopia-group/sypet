@@ -1,0 +1,1 @@
+{"id":25864,"className":"java.security.cert.CRL","methodName":"getType","signature":"\u003cjava.security.cert.CRL: java.lang.String getType()\u003e","javadoc":"/** \n * Returns the type of this CRL.\n * @return the type of this CRL.\n */\n","tf":{"freq":{"type":3},"maxFreq":3,"totalTerms":3},"loc":3}

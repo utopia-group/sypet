@@ -1,0 +1,1 @@
+{"id":16513,"className":"org.apache.commons.math3.dfp.DfpDec","methodName":"DfpDec","signature":"\u003corg.apache.commons.math3.dfp.DfpDec: void DfpDec(org.apache.commons.math3.dfp.Dfp)\u003e","javadoc":"/** \n * Copy constructor.\n * @param d instance to copy\n */\n","tf":{"freq":{"dec":1,"dfp":1,"copi":2,"instanc":1,"constructor":1},"maxFreq":2,"totalTerms":6},"loc":4}

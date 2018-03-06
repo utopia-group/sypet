@@ -1,0 +1,1 @@
+{"id":24091,"className":"org.apache.commons.math.stat.regression.SimpleRegression","methodName":"clear","signature":"\u003corg.apache.commons.math.stat.regression.SimpleRegression: void clear()\u003e","javadoc":"/** \n * Clears all data from the model.\n */\n","tf":{"freq":{"clear":2,"model":1,"data":1},"maxFreq":2,"totalTerms":4},"loc":8}

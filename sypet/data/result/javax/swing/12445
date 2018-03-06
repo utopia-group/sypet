@@ -1,0 +1,1 @@
+{"id":12445,"className":"javax.swing.DefaultListSelectionModel","methodName":"getValueIsAdjusting","signature":"\u003cjavax.swing.DefaultListSelectionModel: boolean getValueIsAdjusting()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"adjust":1,"valu":1},"maxFreq":1,"totalTerms":2},"loc":1}

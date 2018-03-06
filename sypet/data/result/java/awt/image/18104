@@ -1,0 +1,1 @@
+{"id":18104,"className":"java.awt.image.BufferedImage","methodName":"getTileHeight","signature":"\u003cjava.awt.image.BufferedImage: int getTileHeight()\u003e","javadoc":"/** \n * Returns the tile height in pixels.\n * @return the tile height in pixels.\n */\n","tf":{"freq":{"height":3,"pixel":2,"tile":3},"maxFreq":3,"totalTerms":8},"loc":3}

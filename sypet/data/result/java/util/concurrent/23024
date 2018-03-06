@@ -1,0 +1,1 @@
+{"id":23024,"className":"java.util.concurrent.CopyOnWriteArrayList","methodName":"lastIndexOf","signature":"\u003cjava.util.concurrent.CopyOnWriteArrayList: int lastIndexOf(java.lang.Object)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"index":1,"last":1},"maxFreq":1,"totalTerms":2},"loc":4}

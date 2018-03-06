@@ -1,0 +1,1 @@
+{"id":11276,"className":"java.io.FileSystem","methodName":"getPathSeparator","signature":"\u003cjava.io.FileSystem: char getPathSeparator()\u003e","javadoc":"/** \n * Return the local filesystem\u0027s path-separator character.\n */\n","tf":{"freq":{"charact":1,"separ":2,"path":2,"local":1,"filesystem":1},"maxFreq":2,"totalTerms":7},"loc":0}

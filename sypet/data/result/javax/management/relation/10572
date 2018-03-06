@@ -1,0 +1,1 @@
+{"id":10572,"className":"javax.management.relation.RoleList","methodName":"RoleList","signature":"\u003cjavax.management.relation.RoleList: void RoleList()\u003e","javadoc":"/** \n * Constructs an empty RoleList.\n */\n","tf":{"freq":{"role":2,"list":2,"construct":1,"empti":1},"maxFreq":2,"totalTerms":6},"loc":3}

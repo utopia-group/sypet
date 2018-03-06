@@ -1,0 +1,1 @@
+{"id":15472,"className":"java.awt.MenuBar","methodName":"getMenuCount","signature":"\u003cjava.awt.MenuBar: int getMenuCount()\u003e","javadoc":"/** \n * Gets the number of menus on the menu bar.\n * @return     the number of menus on the menu bar.\n * @since      JDK1.1\n */\n","tf":{"freq":{"menus":2,"count":1,"menu":3,"number":2,"bar":2},"maxFreq":3,"totalTerms":10},"loc":3}

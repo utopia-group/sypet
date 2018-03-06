@@ -1,0 +1,1 @@
+{"id":23775,"className":"java.util.zip.Adler32","methodName":"getValue","signature":"\u003cjava.util.zip.Adler32: long getValue()\u003e","javadoc":"/** \n * Returns the checksum value.\n */\n","tf":{"freq":{"valu":2,"checksum":1},"maxFreq":2,"totalTerms":3},"loc":3}

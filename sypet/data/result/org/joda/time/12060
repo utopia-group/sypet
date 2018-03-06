@@ -1,0 +1,1 @@
+{"id":12060,"className":"org.joda.time.DurationFieldType","methodName":"eras","signature":"\u003corg.joda.time.DurationFieldType: org.joda.time.DurationFieldType eras()\u003e","javadoc":"/** \n * Get the eras field type.\n * @return the DateTimeFieldType constant\n */\n","tf":{"freq":{"field":2,"time":1,"constant":1,"era":2,"date":1,"type":2},"maxFreq":2,"totalTerms":9},"loc":3}

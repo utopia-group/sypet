@@ -1,0 +1,1 @@
+{"id":12854,"className":"java.beans.beancontext.BeanContextServicesSupport","methodName":"hasService","signature":"\u003cjava.beans.beancontext.BeanContextServicesSupport: boolean hasService(java.lang.Class)\u003e","javadoc":"/** \n * has a service, which may be delegated\n */\n","tf":{"freq":{"may":1,"deleg":1,"servic":2},"maxFreq":2,"totalTerms":4},"loc":17}

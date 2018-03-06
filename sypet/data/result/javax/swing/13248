@@ -1,0 +1,1 @@
+{"id":13248,"className":"javax.swing.ComponentInputMap","methodName":"clear","signature":"\u003cjavax.swing.ComponentInputMap: void clear()\u003e","javadoc":"/** \n * Removes all the mappings from this object.\n */\n","tf":{"freq":{"clear":1,"map":1,"remov":1,"object":1},"maxFreq":1,"totalTerms":4},"loc":7}

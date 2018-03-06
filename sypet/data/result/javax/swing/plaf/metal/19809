@@ -1,0 +1,1 @@
+{"id":19809,"className":"javax.swing.plaf.metal.DefaultMetalTheme","methodName":"DefaultMetalTheme","signature":"\u003cjavax.swing.plaf.metal.DefaultMetalTheme: void DefaultMetalTheme()\u003e","javadoc":"/** \n * Creates and returns an instance of  {@code DefaultMetalTheme}.\n */\n","tf":{"freq":{"creat":1,"metal":2,"theme":2,"instanc":1},"maxFreq":2,"totalTerms":6},"loc":3}

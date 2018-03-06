@@ -1,0 +1,1 @@
+{"id":21911,"className":"javax.swing.text.DefaultCaret","methodName":"getMarkBias","signature":"\u003cjavax.swing.text.DefaultCaret: javax.swing.text.Position$Bias getMarkBias()\u003e","javadoc":"/** \n * Returns the bias of the mark.\n * @return the bias of the mark\n * @since 1.6\n */\n","tf":{"freq":{"mark":3,"bias":3},"maxFreq":3,"totalTerms":6},"loc":3}

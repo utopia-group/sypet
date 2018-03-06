@@ -1,0 +1,1 @@
+{"id":16810,"className":"java.awt.Component","methodName":"resize","signature":"\u003cjava.awt.Component: void resize(int,int)\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by \u003ccode\u003esetSize(int, int)\u003c/code\u003e.\n */\n","tf":{"freq":{"deprec":1,"replac":1,"size":1,"version":1,"resiz":1},"maxFreq":1,"totalTerms":5},"loc":6}

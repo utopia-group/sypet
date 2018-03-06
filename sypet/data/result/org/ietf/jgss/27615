@@ -1,0 +1,1 @@
+{"id":27615,"className":"org.ietf.jgss.ChannelBinding","methodName":"hashCode","signature":"\u003corg.ietf.jgss.ChannelBinding: int hashCode()\u003e","javadoc":"/** \n * Returns a hashcode value for this ChannelBinding object.\n * @return a hashCode value\n */\n","tf":{"freq":{"hash":2,"hashcod":1,"valu":2,"object":1,"bind":1,"channel":1},"maxFreq":2,"totalTerms":8},"loc":10}

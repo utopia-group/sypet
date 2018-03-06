@@ -1,0 +1,1 @@
+{"id":10376,"className":"org.w3c.dom.html.HTMLAnchorElement","methodName":"blur","signature":"\u003corg.w3c.dom.html.HTMLAnchorElement: void blur()\u003e","javadoc":"/** \n * Removes keyboard focus from this element.\n */\n","tf":{"freq":{"element":1,"keyboard":1,"remov":1,"focus":1,"blur":1},"maxFreq":1,"totalTerms":5},"loc":0}

@@ -1,0 +1,1 @@
+{"id":12413,"className":"javax.swing.ImageIcon","methodName":"getImageObserver","signature":"\u003cjavax.swing.ImageIcon: java.awt.image.ImageObserver getImageObserver()\u003e","javadoc":"/** \n * Returns the image observer for the image.\n * @return the image observer, which may be null\n */\n","tf":{"freq":{"may":1,"observ":3,"imag":4},"maxFreq":4,"totalTerms":8},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11135,"className":"java.io.IOException","methodName":"IOException","signature":"\u003cjava.io.IOException: void IOException()\u003e","javadoc":"/** \n * Constructs an  {@code IOException} with {@code null}as its error detail message.\n */\n","tf":{"freq":{"detail":1,"except":1,"error":1,"messag":1,"oexcept":1,"construct":1},"maxFreq":1,"totalTerms":6},"loc":3}

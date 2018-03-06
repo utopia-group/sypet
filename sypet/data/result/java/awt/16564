@@ -1,0 +1,1 @@
+{"id":16564,"className":"java.awt.PrintJob","methodName":"lastPageFirst","signature":"\u003cjava.awt.PrintJob: boolean lastPageFirst()\u003e","javadoc":"/** \n * Returns true if the last page will be printed first.\n */\n","tf":{"freq":{"last":2,"page":2,"will":1,"true":1,"first":2,"print":1},"maxFreq":2,"totalTerms":9},"loc":0}

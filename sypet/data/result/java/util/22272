@@ -1,0 +1,1 @@
+{"id":22272,"className":"java.util.AbstractList","methodName":"get","signature":"\u003cjava.util.AbstractList: E get(int)\u003e","javadoc":"/** \n * {@inheritDoc}\n * @throws IndexOutOfBoundsException {@inheritDoc}\n */\n","tf":{"freq":{"except":1,"index":1,"bound":1},"maxFreq":1,"totalTerms":3},"loc":0}

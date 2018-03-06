@@ -1,0 +1,1 @@
+{"id":27523,"className":"org.ietf.jgss.GSSManager","methodName":"getInstance","signature":"\u003corg.ietf.jgss.GSSManager: org.ietf.jgss.GSSManager getInstance()\u003e","javadoc":"/** \n * Returns the default GSSManager implementation.\n * @return a GSSManager implementation\n */\n","tf":{"freq":{"smanag":2,"instanc":1},"maxFreq":2,"totalTerms":3},"loc":3}

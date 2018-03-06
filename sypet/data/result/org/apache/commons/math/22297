@@ -1,0 +1,1 @@
+{"id":22297,"className":"org.apache.commons.math.MathRuntimeException","methodName":"getArguments","signature":"\u003corg.apache.commons.math.MathRuntimeException: java.lang.Object[] getArguments()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"argument":1},"maxFreq":1,"totalTerms":1},"loc":3}

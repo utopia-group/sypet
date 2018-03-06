@@ -1,0 +1,1 @@
+{"id":24883,"className":"java.text.DigitList","methodName":"append","signature":"\u003cjava.text.DigitList: void append(char)\u003e","javadoc":"/** \n * Appends a digit to the list, extending the list when necessary.\n */\n","tf":{"freq":{"digit":1,"append":2,"list":2,"necessari":1},"maxFreq":2,"totalTerms":6},"loc":8}

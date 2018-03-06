@@ -1,0 +1,1 @@
+{"id":10814,"className":"com.opengamma.analytics.math.interpolation.data.Interpolator1DMonotonicIncreasingDataBundle","methodName":"setYValueAtIndex","signature":"\u003ccom.opengamma.analytics.math.interpolation.data.Interpolator1DMonotonicIncreasingDataBundle: void setYValueAtIndex(int,double)\u003e","loc":2}

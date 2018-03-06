@@ -1,0 +1,1 @@
+{"id":17038,"className":"java.awt.Canvas","methodName":"Canvas","signature":"\u003cjava.awt.Canvas: void Canvas()\u003e","javadoc":"/** \n * Constructs a new Canvas.\n */\n","tf":{"freq":{"construct":1,"canva":2},"maxFreq":2,"totalTerms":3},"loc":2}

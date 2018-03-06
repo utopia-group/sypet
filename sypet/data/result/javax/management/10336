@@ -1,0 +1,1 @@
+{"id":10336,"className":"javax.management.MatchQueryExp","methodName":"MatchQueryExp","signature":"\u003cjavax.management.MatchQueryExp: void MatchQueryExp()\u003e","javadoc":"/** \n * Basic Constructor.\n */\n","tf":{"freq":{"exp":1,"queri":1,"basic":1,"match":1,"constructor":1},"maxFreq":1,"totalTerms":5},"loc":2}

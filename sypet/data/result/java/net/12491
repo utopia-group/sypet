@@ -1,0 +1,1 @@
+{"id":12491,"className":"java.net.URL","methodName":"getProtocol","signature":"\u003cjava.net.URL: java.lang.String getProtocol()\u003e","javadoc":"/** \n * Gets the protocol name of this \u003ccode\u003eURL\u003c/code\u003e.\n * @return  the protocol of this \u003ccode\u003eURL\u003c/code\u003e.\n */\n","tf":{"freq":{"protocol":3,"name":1},"maxFreq":3,"totalTerms":4},"loc":3}

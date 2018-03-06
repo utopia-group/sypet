@@ -1,0 +1,1 @@
+{"id":11191,"className":"com.opengamma.analytics.math.linearalgebra.TridiagonalMatrix","methodName":"getNumberOfElements","signature":"\u003ccom.opengamma.analytics.math.linearalgebra.TridiagonalMatrix: int getNumberOfElements()\u003e","loc":3}

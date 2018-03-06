@@ -1,0 +1,1 @@
+{"id":25489,"className":"java.security.Principal","methodName":"toString","signature":"\u003cjava.security.Principal: java.lang.String toString()\u003e","javadoc":"/** \n * Returns a string representation of this principal.\n * @return a string representation of this principal.\n */\n","tf":{"freq":{"string":3,"princip":2,"represent":2},"maxFreq":3,"totalTerms":7},"loc":0}

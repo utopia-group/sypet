@@ -1,0 +1,1 @@
+{"id":16942,"className":"java.awt.Component","methodName":"keyUp","signature":"\u003cjava.awt.Component: boolean keyUp(java.awt.Event,int)\u003e","javadoc":"/** \n * @deprecated As of JDK version 1.1,replaced by processKeyEvent(KeyEvent).\n */\n","tf":{"freq":{"process":1,"deprec":1,"event":2,"replac":1,"key":3,"version":1},"maxFreq":3,"totalTerms":9},"loc":3}

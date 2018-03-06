@@ -1,0 +1,1 @@
+{"id":13926,"className":"java.lang.Thread","methodName":"getName","signature":"\u003cjava.lang.Thread: java.lang.String getName()\u003e","javadoc":"/** \n * Returns this thread\u0027s name.\n * @return  this thread\u0027s name.\n * @see #setName(String)\n */\n","tf":{"freq":{"string":1,"thread":2,"name":4},"maxFreq":4,"totalTerms":7},"loc":3}

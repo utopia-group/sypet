@@ -1,0 +1,1 @@
+{"id":10695,"className":"com.opengamma.analytics.math.interpolation.GridInterpolator2D","methodName":"getDataBundle","signature":"\u003ccom.opengamma.analytics.math.interpolation.GridInterpolator2D: java.util.Map\u003cjava.lang.Double,com.opengamma.analytics.math.interpolation.data.Interpolator1DDataBundle\u003e getDataBundle(java.util.Map)\u003e","loc":4}

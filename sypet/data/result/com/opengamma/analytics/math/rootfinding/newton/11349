@@ -1,0 +1,1 @@
+{"id":11349,"className":"com.opengamma.analytics.math.rootfinding.newton.JacobianDirectionFunction","methodName":"JacobianDirectionFunction","signature":"\u003ccom.opengamma.analytics.math.rootfinding.newton.JacobianDirectionFunction: void JacobianDirectionFunction(com.opengamma.analytics.math.linearalgebra.Decomposition)\u003e","loc":4}

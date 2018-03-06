@@ -1,0 +1,1 @@
+{"id":24273,"className":"org.apache.commons.math.stat.descriptive.DescriptiveStatistics","methodName":"clear","signature":"\u003corg.apache.commons.math.stat.descriptive.DescriptiveStatistics: void clear()\u003e","javadoc":"/** \n * Resets all statistics and storage\n */\n","tf":{"freq":{"clear":1,"reset":1,"storag":1,"statist":1},"maxFreq":1,"totalTerms":4},"loc":3}

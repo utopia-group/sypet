@@ -1,0 +1,1 @@
+{"id":11377,"className":"com.opengamma.analytics.math.number.ComplexNumber","methodName":"floatValue","signature":"\u003ccom.opengamma.analytics.math.number.ComplexNumber: float floatValue()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @throws UnsupportedOperationException\n */\n","tf":{"freq":{"except":1,"unsupport":1,"oper":1,"valu":1},"maxFreq":1,"totalTerms":4},"loc":3}

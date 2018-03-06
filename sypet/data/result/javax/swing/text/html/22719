@@ -1,0 +1,1 @@
+{"id":22719,"className":"javax.swing.text.html.Option","methodName":"getLabel","signature":"\u003cjavax.swing.text.html.Option: java.lang.String getLabel()\u003e","javadoc":"/** \n * Fetch the label associated with the option.\n */\n","tf":{"freq":{"fetch":1,"associ":1,"label":2,"option":1},"maxFreq":2,"totalTerms":5},"loc":3}

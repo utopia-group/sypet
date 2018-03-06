@@ -1,0 +1,1 @@
+{"id":22118,"className":"javax.swing.text.ZoneView$Zone","methodName":"getEndOffset","signature":"\u003cjavax.swing.text.ZoneView$Zone: int getEndOffset()\u003e","javadoc":"/** \n * End of the zones range.\n */\n","tf":{"freq":{"rang":1,"offset":1,"zone":1,"end":2},"maxFreq":2,"totalTerms":5},"loc":3}

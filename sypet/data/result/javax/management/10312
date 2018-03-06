@@ -1,0 +1,1 @@
+{"id":10312,"className":"javax.management.MBeanInfo","methodName":"getDescription","signature":"\u003cjavax.management.MBeanInfo: java.lang.String getDescription()\u003e","javadoc":"/** \n * Returns a human readable description of the MBean.\n * @return the description.\n */\n","tf":{"freq":{"mbean":1,"readabl":1,"descript":3,"human":1},"maxFreq":3,"totalTerms":6},"loc":3}

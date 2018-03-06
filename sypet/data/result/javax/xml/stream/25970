@@ -1,0 +1,1 @@
+{"id":25970,"className":"javax.xml.stream.XMLStreamException","methodName":"XMLStreamException","signature":"\u003cjavax.xml.stream.XMLStreamException: void XMLStreamException()\u003e","javadoc":"/** \n * Default constructor\n */\n","tf":{"freq":{"except":1,"stream":1,"constructor":1},"maxFreq":1,"totalTerms":3},"loc":3}

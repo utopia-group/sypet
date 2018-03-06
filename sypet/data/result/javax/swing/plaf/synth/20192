@@ -1,0 +1,1 @@
+{"id":20192,"className":"javax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter","methodName":"paintCheckBoxMenuItemBorder","signature":"\u003cjavax.swing.plaf.synth.ParsedSynthStyle$AggregatePainter: void paintCheckBoxMenuItemBorder(javax.swing.plaf.synth.SynthContext,java.awt.Graphics,int,int,int,int)\u003e","loc":5}

@@ -1,0 +1,1 @@
+{"id":25115,"className":"javax.imageio.ImageReadParam","methodName":"ImageReadParam","signature":"\u003cjavax.imageio.ImageReadParam: void ImageReadParam()\u003e","javadoc":"/** \n * Constructs an \u003ccode\u003eImageReadParam\u003c/code\u003e.\n */\n","tf":{"freq":{"read":2,"construct":1,"imag":2},"maxFreq":2,"totalTerms":5},"loc":1}

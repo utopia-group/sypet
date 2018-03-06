@@ -1,0 +1,1 @@
+{"id":14503,"className":"org.joda.time.tz.DateTimeZoneBuilder$Transition","methodName":"getStandardOffset","signature":"\u003corg.joda.time.tz.DateTimeZoneBuilder$Transition: int getStandardOffset()\u003e","loc":3}

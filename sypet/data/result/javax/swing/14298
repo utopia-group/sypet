@@ -1,0 +1,1 @@
+{"id":14298,"className":"javax.swing.BoxLayout","methodName":"removeLayoutComponent","signature":"\u003cjavax.swing.BoxLayout: void removeLayoutComponent(java.awt.Component)\u003e","javadoc":"/** \n * Not used by this class.\n * @param comp the component\n */\n","tf":{"freq":{"comp":1,"compon":2,"layout":1,"remov":1,"use":1},"maxFreq":2,"totalTerms":6},"loc":3}

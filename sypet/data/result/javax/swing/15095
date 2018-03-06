@@ -1,0 +1,1 @@
+{"id":15095,"className":"javax.swing.ListSelectionModel","methodName":"setAnchorSelectionIndex","signature":"\u003cjavax.swing.ListSelectionModel: void setAnchorSelectionIndex(int)\u003e","javadoc":"/** \n * Set the anchor selection index.\n * @see #getAnchorSelectionIndex\n */\n","tf":{"freq":{"index":3,"select":3,"anchor":3},"maxFreq":3,"totalTerms":9},"loc":0}

@@ -1,0 +1,1 @@
+{"id":26881,"className":"org.jsoup.Connection$Response","methodName":"body","signature":"\u003corg.jsoup.Connection$Response: java.lang.String body()\u003e","javadoc":"/** \n * Get the body of the response as a plain string.\n * @return body\n */\n","tf":{"freq":{"bodi":3,"respons":1,"string":1,"plain":1},"maxFreq":3,"totalTerms":6},"loc":0}

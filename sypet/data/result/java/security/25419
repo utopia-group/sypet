@@ -1,0 +1,1 @@
+{"id":25419,"className":"java.security.Signer","methodName":"Signer","signature":"\u003cjava.security.Signer: void Signer(java.lang.String)\u003e","javadoc":"/** \n * Creates a signer with the specified identity name.\n * @param name the identity name.\n */\n","tf":{"freq":{"signer":2,"ident":2,"creat":1,"name":3,"specifi":1},"maxFreq":3,"totalTerms":9},"loc":3}

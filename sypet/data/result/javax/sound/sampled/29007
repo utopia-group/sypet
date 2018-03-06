@@ -1,0 +1,1 @@
+{"id":29007,"className":"javax.sound.sampled.EnumControl","methodName":"getValues","signature":"\u003cjavax.sound.sampled.EnumControl: java.lang.Object[] getValues()\u003e","javadoc":"/** \n * Returns the set of possible values for this control.\n * @return the set of possible values\n */\n","tf":{"freq":{"control":1,"possibl":2,"valu":3},"maxFreq":3,"totalTerms":6},"loc":10}

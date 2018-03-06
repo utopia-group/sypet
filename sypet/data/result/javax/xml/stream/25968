@@ -1,0 +1,1 @@
+{"id":25968,"className":"javax.xml.stream.Location","methodName":"getPublicId","signature":"\u003cjavax.xml.stream.Location: java.lang.String getPublicId()\u003e","javadoc":"/** \n * Returns the public ID of the XML\n * @return the public ID, or null if not available\n */\n","tf":{"freq":{"avail":1},"maxFreq":1,"totalTerms":1},"loc":0}

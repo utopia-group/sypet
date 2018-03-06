@@ -1,0 +1,1 @@
+{"id":13161,"className":"org.joda.time.MutableDateTime","methodName":"millisOfDay","signature":"\u003corg.joda.time.MutableDateTime: org.joda.time.MutableDateTime$Property millisOfDay()\u003e","javadoc":"/** \n * Get the millis of day property\n * @return the millis of day property\n */\n","tf":{"freq":{"milli":3,"properti":2,"day":3},"maxFreq":3,"totalTerms":8},"loc":3}

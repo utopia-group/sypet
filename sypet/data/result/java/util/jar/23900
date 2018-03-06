@@ -1,0 +1,1 @@
+{"id":23900,"className":"java.util.jar.Attributes","methodName":"clear","signature":"\u003cjava.util.jar.Attributes: void clear()\u003e","javadoc":"/** \n * Removes all attributes from this Map.\n */\n","tf":{"freq":{"clear":1,"attribut":1,"map":1,"remov":1},"maxFreq":1,"totalTerms":4},"loc":3}

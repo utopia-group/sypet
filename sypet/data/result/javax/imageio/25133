@@ -1,0 +1,1 @@
+{"id":25133,"className":"javax.imageio.ImageIO$CacheInfo","methodName":"setCacheDirectory","signature":"\u003cjavax.imageio.ImageIO$CacheInfo: void setCacheDirectory(java.io.File)\u003e","loc":3}

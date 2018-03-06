@@ -1,0 +1,1 @@
+{"id":23508,"className":"java.util.concurrent.atomic.AtomicLong","methodName":"set","signature":"\u003cjava.util.concurrent.atomic.AtomicLong: void set(long)\u003e","javadoc":"/** \n * Sets to the given value.\n * @param newValue the new value\n */\n","tf":{"freq":{"given":1,"valu":3},"maxFreq":3,"totalTerms":4},"loc":3}

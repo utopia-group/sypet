@@ -1,0 +1,1 @@
+{"id":18556,"className":"javax.swing.plaf.basic.BasicBorders$MarginBorder","methodName":"getBorderInsets","signature":"\u003cjavax.swing.plaf.basic.BasicBorders$MarginBorder: java.awt.Insets getBorderInsets(java.awt.Component,java.awt.Insets)\u003e","loc":24}

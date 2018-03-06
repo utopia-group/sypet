@@ -1,0 +1,1 @@
+{"id":11142,"className":"javax.management.remote.rmi.RMIConnectionImpl","methodName":"invoke","signature":"\u003cjavax.management.remote.rmi.RMIConnectionImpl: java.lang.Object invoke(javax.management.ObjectName,java.lang.String,java.rmi.MarshalledObject,java.lang.String[],javax.security.auth.Subject)\u003e","loc":47}

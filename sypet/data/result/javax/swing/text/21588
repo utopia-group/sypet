@@ -1,0 +1,1 @@
+{"id":21588,"className":"javax.swing.text.Highlighter","methodName":"removeHighlight","signature":"\u003cjavax.swing.text.Highlighter: void removeHighlight(java.lang.Object)\u003e","javadoc":"/** \n * Removes a highlight from the view.\n * @param tag  which highlight to remove\n */\n","tf":{"freq":{"tag":1,"remov":3,"view":1,"highlight":3},"maxFreq":3,"totalTerms":8},"loc":0}

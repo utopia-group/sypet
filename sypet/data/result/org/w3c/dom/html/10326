@@ -1,0 +1,1 @@
+{"id":10326,"className":"org.w3c.dom.html.HTMLScriptElement","methodName":"getEvent","signature":"\u003corg.w3c.dom.html.HTMLScriptElement: java.lang.String getEvent()\u003e","javadoc":"/** \n * Reserved for future use.\n */\n","tf":{"freq":{"futur":1,"reserv":1,"event":1,"use":1},"maxFreq":1,"totalTerms":4},"loc":0}

@@ -1,0 +1,1 @@
+{"id":22012,"className":"org.apache.commons.math3.exception.util.DummyLocalizable","methodName":"getSourceString","signature":"\u003corg.apache.commons.math3.exception.util.DummyLocalizable: java.lang.String getSourceString()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"string":1,"sourc":1},"maxFreq":1,"totalTerms":2},"loc":3}

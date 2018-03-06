@@ -1,0 +1,1 @@
+{"id":25874,"className":"org.apache.commons.math.linear.OpenMapRealVector","methodName":"outerProduct","signature":"\u003corg.apache.commons.math.linear.OpenMapRealVector: org.apache.commons.math.linear.RealMatrix outerProduct(double[])\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"product":1,"outer":1},"maxFreq":1,"totalTerms":2},"loc":14}

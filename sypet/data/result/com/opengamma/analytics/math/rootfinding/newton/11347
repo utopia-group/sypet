@@ -1,0 +1,1 @@
+{"id":11347,"className":"com.opengamma.analytics.math.rootfinding.newton.NewtonVectorRootFinder$DataBundle","methodName":"setX","signature":"\u003ccom.opengamma.analytics.math.rootfinding.newton.NewtonVectorRootFinder$DataBundle: void setX(com.opengamma.analytics.math.matrix.DoubleMatrix1D)\u003e","loc":3}

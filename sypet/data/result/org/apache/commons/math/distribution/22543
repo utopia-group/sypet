@@ -1,0 +1,1 @@
+{"id":22543,"className":"org.apache.commons.math.distribution.NormalDistributionImpl","methodName":"getMean","signature":"\u003corg.apache.commons.math.distribution.NormalDistributionImpl: double getMean()\u003e","javadoc":"/** \n * Access the mean.\n * @return mean for this distribution\n */\n","tf":{"freq":{"distribut":1,"mean":3,"access":1},"maxFreq":3,"totalTerms":5},"loc":3}

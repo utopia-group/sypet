@@ -1,0 +1,1 @@
+{"id":19977,"className":"javax.swing.plaf.synth.SynthScrollBarUI","methodName":"getSupportsAbsolutePositioning","signature":"\u003cjavax.swing.plaf.synth.SynthScrollBarUI: boolean getSupportsAbsolutePositioning()\u003e","javadoc":"/** \n * @inheritDoc\n */\n","tf":{"freq":{"support":1,"absolut":1,"posit":1},"maxFreq":1,"totalTerms":3},"loc":7}

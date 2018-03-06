@@ -1,0 +1,1 @@
+{"id":10116,"className":"javax.management.MBeanServerDelegate","methodName":"MBeanServerDelegate","signature":"\u003cjavax.management.MBeanServerDelegate: void MBeanServerDelegate()\u003e","javadoc":"/** \n * Create a MBeanServerDelegate object.\n */\n","tf":{"freq":{"mbean":1,"deleg":2,"bean":1,"creat":1,"server":2,"object":1},"maxFreq":2,"totalTerms":8},"loc":4}

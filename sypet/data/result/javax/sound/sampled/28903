@@ -1,0 +1,1 @@
+{"id":28903,"className":"javax.sound.sampled.AudioFormat$Encoding","methodName":"hashCode","signature":"\u003cjavax.sound.sampled.AudioFormat$Encoding: int hashCode()\u003e","javadoc":"/** \n * Finalizes the hashCode method\n */\n","tf":{"freq":{"hash":2,"method":1},"maxFreq":2,"totalTerms":3},"loc":6}

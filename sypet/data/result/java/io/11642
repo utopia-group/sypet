@@ -1,0 +1,1 @@
+{"id":11642,"className":"java.io.FilterReader","methodName":"markSupported","signature":"\u003cjava.io.FilterReader: boolean markSupported()\u003e","javadoc":"/** \n * Tells whether this stream supports the mark() operation.\n */\n","tf":{"freq":{"stream":1,"support":2,"oper":1,"tell":1,"mark":2,"whether":1},"maxFreq":2,"totalTerms":8},"loc":3}

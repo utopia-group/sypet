@@ -1,0 +1,1 @@
+{"id":15059,"className":"org.joda.time.chrono.ZonedChronology$ZonedDurationField","methodName":"isPrecise","signature":"\u003corg.joda.time.chrono.ZonedChronology$ZonedDurationField: boolean isPrecise()\u003e","loc":3}

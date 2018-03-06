@@ -1,0 +1,1 @@
+{"id":15281,"className":"java.nio.file.attribute.AclEntry","methodName":"principal","signature":"\u003cjava.nio.file.attribute.AclEntry: java.nio.file.attribute.UserPrincipal principal()\u003e","javadoc":"/** \n * Returns the principal component.\n */\n","tf":{"freq":{"compon":1,"princip":2},"maxFreq":2,"totalTerms":3},"loc":3}

@@ -1,0 +1,1 @@
+{"id":28563,"className":"javax.crypto.spec.GCMParameterSpec","methodName":"getTLen","signature":"\u003cjavax.crypto.spec.GCMParameterSpec: int getTLen()\u003e","javadoc":"/** \n * Returns the authentication tag length.\n * @return the authentication tag length (in bits)\n */\n","tf":{"freq":{"authent":2,"bit":1,"tag":2,"length":2,"tlen":1},"maxFreq":2,"totalTerms":8},"loc":3}

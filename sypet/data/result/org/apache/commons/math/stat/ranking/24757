@@ -1,0 +1,1 @@
+{"id":24757,"className":"org.apache.commons.math.stat.ranking.NaturalRanking$IntDoublePair","methodName":"getValue","signature":"\u003corg.apache.commons.math.stat.ranking.NaturalRanking$IntDoublePair: double getValue()\u003e","javadoc":"/** \n * Returns the value of the pair.\n * @return value\n */\n","tf":{"freq":{"pair":1,"valu":3},"maxFreq":3,"totalTerms":4},"loc":3}

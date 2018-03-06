@@ -1,0 +1,1 @@
+{"id":11282,"className":"java.io.FileSystem","methodName":"isAbsolute","signature":"\u003cjava.io.FileSystem: boolean isAbsolute(java.io.File)\u003e","javadoc":"/** \n * Tell whether or not the given abstract pathname is absolute.\n */\n","tf":{"freq":{"pathnam":1,"given":1,"tell":1,"absolut":2,"whether":1},"maxFreq":2,"totalTerms":6},"loc":0}

@@ -1,0 +1,1 @@
+{"id":27564,"className":"javax.xml.crypto.dom.DOMStructure","methodName":"isFeatureSupported","signature":"\u003cjavax.xml.crypto.dom.DOMStructure: boolean isFeatureSupported(java.lang.String)\u003e","javadoc":"/** \n * @throws NullPointerException {@inheritDoc}\n */\n","tf":{"freq":{"except":1,"support":1,"featur":1,"pointer":1},"maxFreq":1,"totalTerms":4},"loc":7}

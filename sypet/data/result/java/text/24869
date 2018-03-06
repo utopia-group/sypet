@@ -1,0 +1,1 @@
+{"id":24869,"className":"java.text.DecimalFormatSymbols","methodName":"clone","signature":"\u003cjava.text.DecimalFormatSymbols: java.lang.Object clone()\u003e","javadoc":"/** \n * Standard override.\n */\n","tf":{"freq":{"clone":1,"standard":1},"maxFreq":1,"totalTerms":2},"loc":8}

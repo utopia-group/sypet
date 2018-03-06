@@ -1,0 +1,1 @@
+{"id":14072,"className":"org.joda.time.format.PeriodFormatterBuilder$PluralAffix","methodName":"parse","signature":"\u003corg.joda.time.format.PeriodFormatterBuilder$PluralAffix: int parse(java.lang.String,int)\u003e","loc":24}

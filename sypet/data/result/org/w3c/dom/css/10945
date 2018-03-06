@@ -1,0 +1,1 @@
+{"id":10945,"className":"org.w3c.dom.css.CSS2Properties","methodName":"getDisplay","signature":"\u003corg.w3c.dom.css.CSS2Properties: java.lang.String getDisplay()\u003e","javadoc":"/** \n * See the display property definition in CSS2.\n */\n","tf":{"freq":{"definit":1,"display":2,"properti":1},"maxFreq":2,"totalTerms":4},"loc":0}

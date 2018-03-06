@@ -1,0 +1,1 @@
+{"id":20845,"className":"javax.swing.plaf.synth.SynthScrollPaneUI$ViewportViewFocusHandler","methodName":"componentAdded","signature":"\u003cjavax.swing.plaf.synth.SynthScrollPaneUI$ViewportViewFocusHandler: void componentAdded(java.awt.event.ContainerEvent)\u003e","loc":7}

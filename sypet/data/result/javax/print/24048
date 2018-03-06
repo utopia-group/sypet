@@ -1,0 +1,1 @@
+{"id":24048,"className":"javax.print.DocFlavor","methodName":"getMediaType","signature":"\u003cjavax.print.DocFlavor: java.lang.String getMediaType()\u003e","javadoc":"/** \n * Returns this doc flavor object\u0027s media type (from the MIME type).\n * @return the media type\n */\n","tf":{"freq":{"flavor":1,"object":1,"type":4,"media":3},"maxFreq":4,"totalTerms":9},"loc":3}

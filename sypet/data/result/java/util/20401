@@ -1,0 +1,1 @@
+{"id":20401,"className":"java.util.TimeZone","methodName":"TimeZone","signature":"\u003cjava.util.TimeZone: void TimeZone()\u003e","javadoc":"/** \n * Sole constructor.  (For invocation by subclass constructors, typically implicit.)\n */\n","tf":{"freq":{"time":1,"implicit":1,"typic":1,"subclass":1,"invoc":1,"sole":1,"zone":1,"constructor":2},"maxFreq":2,"totalTerms":9},"loc":2}

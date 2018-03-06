@@ -1,0 +1,1 @@
+{"id":18917,"className":"java.awt.font.ShapeGraphicAttribute","methodName":"draw","signature":"\u003cjava.awt.font.ShapeGraphicAttribute: void draw(java.awt.Graphics2D,float,float)\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"draw":1},"maxFreq":1,"totalTerms":1},"loc":18}

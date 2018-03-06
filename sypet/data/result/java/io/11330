@@ -1,0 +1,1 @@
+{"id":11330,"className":"java.io.CharArrayWriter","methodName":"write","signature":"\u003cjava.io.CharArrayWriter: void write(int)\u003e","javadoc":"/** \n * Writes a character to the buffer.\n */\n","tf":{"freq":{"buffer":1,"charact":1,"write":2},"maxFreq":2,"totalTerms":4},"loc":10}

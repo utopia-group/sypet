@@ -1,0 +1,1 @@
+{"id":22345,"className":"javax.swing.text.Segment","methodName":"getIndex","signature":"\u003cjavax.swing.text.Segment: int getIndex()\u003e","javadoc":"/** \n * Returns the current index.\n * @return the current index.\n * @since 1.3\n */\n","tf":{"freq":{"index":3,"current":2},"maxFreq":3,"totalTerms":5},"loc":3}

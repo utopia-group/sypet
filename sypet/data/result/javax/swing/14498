@@ -1,0 +1,1 @@
+{"id":14498,"className":"javax.swing.JToggleButton$ToggleButtonModel","methodName":"ToggleButtonModel","signature":"\u003cjavax.swing.JToggleButton$ToggleButtonModel: void ToggleButtonModel()\u003e","javadoc":"/** \n * Creates a new ToggleButton Model\n */\n","tf":{"freq":{"model":2,"creat":1,"button":2,"toggl":2},"maxFreq":2,"totalTerms":7},"loc":2}

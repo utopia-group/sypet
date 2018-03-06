@@ -1,0 +1,1 @@
+{"id":12767,"className":"java.beans.ParameterDescriptor","methodName":"ParameterDescriptor","signature":"\u003cjava.beans.ParameterDescriptor: void ParameterDescriptor()\u003e","javadoc":"/** \n * Public default constructor.\n */\n","tf":{"freq":{"descriptor":1,"paramet":1,"constructor":1},"maxFreq":1,"totalTerms":3},"loc":2}

@@ -1,0 +1,1 @@
+{"id":10529,"className":"javax.management.JMException","methodName":"JMException","signature":"\u003cjavax.management.JMException: void JMException()\u003e","javadoc":"/** \n * Default constructor.\n */\n","tf":{"freq":{"mexcept":1,"constructor":1},"maxFreq":1,"totalTerms":2},"loc":3}

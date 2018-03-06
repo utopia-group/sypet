@@ -1,0 +1,1 @@
+{"id":24866,"className":"java.text.DecimalFormatSymbols","methodName":"setMonetaryDecimalSeparator","signature":"\u003cjava.text.DecimalFormatSymbols: void setMonetaryDecimalSeparator(char)\u003e","javadoc":"/** \n * Sets the monetary decimal separator.\n * @since 1.2\n */\n","tf":{"freq":{"separ":2,"decim":2,"monetari":2},"maxFreq":2,"totalTerms":6},"loc":3}

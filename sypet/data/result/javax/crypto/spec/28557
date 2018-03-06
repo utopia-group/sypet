@@ -1,0 +1,1 @@
+{"id":28557,"className":"javax.crypto.spec.RC5ParameterSpec","methodName":"getWordSize","signature":"\u003cjavax.crypto.spec.RC5ParameterSpec: int getWordSize()\u003e","javadoc":"/** \n * Returns the word size in bits.\n * @return the word size in bits.\n */\n","tf":{"freq":{"bit":2,"word":3,"size":3},"maxFreq":3,"totalTerms":8},"loc":3}

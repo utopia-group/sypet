@@ -1,0 +1,1 @@
+{"id":12326,"className":"java.net.ConnectException","methodName":"ConnectException","signature":"\u003cjava.net.ConnectException: void ConnectException()\u003e","javadoc":"/** \n * Construct a new ConnectException with no detailed message.\n */\n","tf":{"freq":{"detail":1,"except":2,"connect":2,"messag":1,"construct":1},"maxFreq":2,"totalTerms":7},"loc":1}

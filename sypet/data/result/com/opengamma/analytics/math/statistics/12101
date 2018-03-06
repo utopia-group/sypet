@@ -1,0 +1,1 @@
+{"id":12101,"className":"com.opengamma.analytics.math.statistics.ConfidenceInterval","methodName":"getConfidenceLevel","signature":"\u003ccom.opengamma.analytics.math.statistics.ConfidenceInterval: double getConfidenceLevel()\u003e","loc":3}

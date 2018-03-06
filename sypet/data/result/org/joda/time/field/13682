@@ -1,0 +1,1 @@
+{"id":13682,"className":"org.joda.time.field.DelegatedDateTimeField","methodName":"isSupported","signature":"\u003corg.joda.time.field.DelegatedDateTimeField: boolean isSupported()\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":18867,"className":"java.awt.image.renderable.ParameterBlock","methodName":"removeSources","signature":"\u003cjava.awt.image.renderable.ParameterBlock: void removeSources()\u003e","javadoc":"/** \n * Clears the list of source images. \n */\n","tf":{"freq":{"clear":1,"remov":1,"list":1,"sourc":2,"imag":1},"maxFreq":2,"totalTerms":6},"loc":3}

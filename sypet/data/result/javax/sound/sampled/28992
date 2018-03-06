@@ -1,0 +1,1 @@
+{"id":28992,"className":"javax.sound.sampled.ReverbType","methodName":"getName","signature":"\u003cjavax.sound.sampled.ReverbType: java.lang.String getName()\u003e","javadoc":"/** \n * Obtains the name of this reverb type.\n * @return the name of this reverb type\n * @since 1.5\n */\n","tf":{"freq":{"reverb":2,"obtain":1,"name":3,"type":2},"maxFreq":3,"totalTerms":8},"loc":3}

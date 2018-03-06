@@ -1,0 +1,1 @@
+{"id":10419,"className":"org.w3c.dom.html.HTMLTableElement","methodName":"deleteTFoot","signature":"\u003corg.w3c.dom.html.HTMLTableElement: void deleteTFoot()\u003e","javadoc":"/** \n * Delete the footer from the table, if one exists.\n */\n","tf":{"freq":{"footer":1,"delet":2,"tabl":1,"one":1,"exist":1,"tfoot":1},"maxFreq":2,"totalTerms":7},"loc":0}

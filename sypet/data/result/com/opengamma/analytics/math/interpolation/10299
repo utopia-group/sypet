@@ -1,0 +1,1 @@
+{"id":10299,"className":"com.opengamma.analytics.math.interpolation.PiecewisePolynomialInterpolator1D","methodName":"firstDerivative","signature":"\u003ccom.opengamma.analytics.math.interpolation.PiecewisePolynomialInterpolator1D: double firstDerivative(com.opengamma.analytics.math.interpolation.data.Interpolator1DDataBundle,java.lang.Double)\u003e","loc":8}

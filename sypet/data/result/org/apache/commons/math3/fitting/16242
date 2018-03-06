@@ -1,0 +1,1 @@
+{"id":16242,"className":"org.apache.commons.math3.fitting.WeightedObservedPoints","methodName":"clear","signature":"\u003corg.apache.commons.math3.fitting.WeightedObservedPoints: void clear()\u003e","javadoc":"/** \n * Removes all observations from this container.\n */\n","tf":{"freq":{"clear":1,"observ":1,"contain":1,"remov":1},"maxFreq":1,"totalTerms":4},"loc":3}

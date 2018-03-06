@@ -1,0 +1,1 @@
+{"id":24244,"className":"javax.print.attribute.Size2DSyntax","methodName":"hashCode","signature":"\u003cjavax.print.attribute.Size2DSyntax: int hashCode()\u003e","javadoc":"/** \n * Returns a hash code value for this two-dimensional size attribute.\n */\n","tf":{"freq":{"two":1,"dimension":1,"attribut":1,"hash":2,"valu":1,"size":1},"maxFreq":2,"totalTerms":7},"loc":4}

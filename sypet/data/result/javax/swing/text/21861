@@ -1,0 +1,1 @@
+{"id":21861,"className":"javax.swing.text.AsyncBoxView$ChildState","methodName":"getChildView","signature":"\u003cjavax.swing.text.AsyncBoxView$ChildState: javax.swing.text.View getChildView()\u003e","javadoc":"/** \n * Fetch the child view this record represents\n */\n","tf":{"freq":{"child":2,"record":1,"fetch":1,"repres":1,"view":2},"maxFreq":2,"totalTerms":7},"loc":3}

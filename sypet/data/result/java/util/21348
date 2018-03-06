@@ -1,0 +1,1 @@
+{"id":21348,"className":"java.util.Currency","methodName":"getNumericCode","signature":"\u003cjava.util.Currency: int getNumericCode()\u003e","javadoc":"/** \n * Returns the ISO 4217 numeric code of this currency.\n * @return the ISO 4217 numeric code of this currency\n * @since 1.7\n */\n","tf":{"freq":{"numer":3,"currenc":2},"maxFreq":3,"totalTerms":5},"loc":3}

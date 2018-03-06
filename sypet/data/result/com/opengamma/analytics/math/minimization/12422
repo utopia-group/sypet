@@ -1,0 +1,1 @@
+{"id":12422,"className":"com.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer$DataBundle","methodName":"swapLambdaAndReplace","signature":"\u003ccom.opengamma.analytics.math.minimization.QuasiNewtonVectorMinimizer$DataBundle: void swapLambdaAndReplace(double)\u003e","loc":4}

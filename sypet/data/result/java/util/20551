@@ -1,0 +1,1 @@
+{"id":20551,"className":"java.util.Hashtable$EntrySet","methodName":"iterator","signature":"\u003cjava.util.Hashtable$EntrySet: java.util.Iterator\u003cjava.util.Map.Entry\u003cK,V\u003e\u003e iterator()\u003e","loc":3}

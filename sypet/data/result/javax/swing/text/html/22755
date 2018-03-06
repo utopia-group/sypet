@@ -1,0 +1,1 @@
+{"id":22755,"className":"javax.swing.text.html.TableView","methodName":"getRowSpan","signature":"\u003cjavax.swing.text.html.TableView: int getRowSpan(int)\u003e","javadoc":"/** \n * Fetches the span (height) of the given row.\n */\n","tf":{"freq":{"fetch":1,"height":1,"given":1,"row":2,"span":2},"maxFreq":2,"totalTerms":7},"loc":7}

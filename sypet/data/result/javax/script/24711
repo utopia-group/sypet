@@ -1,0 +1,1 @@
+{"id":24711,"className":"javax.script.SimpleBindings","methodName":"values","signature":"\u003cjavax.script.SimpleBindings: java.util.Collection\u003cjava.lang.Object\u003e values()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"valu":1},"maxFreq":1,"totalTerms":1},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12755,"className":"javax.swing.JTree","methodName":"clearSelection","signature":"\u003cjavax.swing.JTree: void clearSelection()\u003e","javadoc":"/** \n * Clears the selection.\n */\n","tf":{"freq":{"clear":2,"select":2},"maxFreq":2,"totalTerms":4},"loc":3}

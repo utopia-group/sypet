@@ -1,0 +1,1 @@
+{"id":25947,"className":"org.apache.commons.math.linear.AbstractRealMatrix","methodName":"isSquare","signature":"\u003corg.apache.commons.math.linear.AbstractRealMatrix: boolean isSquare()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"squar":1},"maxFreq":1,"totalTerms":1},"loc":3}

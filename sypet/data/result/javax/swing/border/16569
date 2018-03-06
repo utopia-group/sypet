@@ -1,0 +1,1 @@
+{"id":16569,"className":"javax.swing.border.TitledBorder","methodName":"getTitle","signature":"\u003cjavax.swing.border.TitledBorder: java.lang.String getTitle()\u003e","javadoc":"/** \n * Returns the title of the titled border.\n * @return the title of the titled border\n */\n","tf":{"freq":{"titl":5,"border":2},"maxFreq":5,"totalTerms":7},"loc":3}

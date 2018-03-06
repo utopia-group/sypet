@@ -1,0 +1,1 @@
+{"id":21017,"className":"javax.swing.event.DocumentEvent","methodName":"getDocument","signature":"\u003cjavax.swing.event.DocumentEvent: javax.swing.text.Document getDocument()\u003e","javadoc":"/** \n * Gets the document that sourced the change event.\n * @return the document\n */\n","tf":{"freq":{"document":3,"event":1,"sourc":1,"chang":1},"maxFreq":3,"totalTerms":6},"loc":0}

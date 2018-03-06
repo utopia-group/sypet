@@ -1,0 +1,1 @@
+{"id":23351,"className":"javax.swing.text.html.parser.Element","methodName":"omitEnd","signature":"\u003cjavax.swing.text.html.parser.Element: boolean omitEnd()\u003e","javadoc":"/** \n * Return true if the end tag can be omitted.\n */\n","tf":{"freq":{"tag":1,"omit":2,"true":1,"end":2},"maxFreq":2,"totalTerms":6},"loc":3}

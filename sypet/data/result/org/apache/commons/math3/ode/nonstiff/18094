@@ -1,0 +1,1 @@
+{"id":18094,"className":"org.apache.commons.math3.ode.nonstiff.AdaptiveStepsizeIntegrator","methodName":"getMaxStep","signature":"\u003corg.apache.commons.math3.ode.nonstiff.AdaptiveStepsizeIntegrator: double getMaxStep()\u003e","javadoc":"/** \n * Get the maximal step.\n * @return maximal step\n */\n","tf":{"freq":{"maxim":2,"max":1,"step":3},"maxFreq":3,"totalTerms":6},"loc":3}

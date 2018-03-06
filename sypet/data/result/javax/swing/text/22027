@@ -1,0 +1,1 @@
+{"id":22027,"className":"javax.swing.text.TabStop","methodName":"getLeader","signature":"\u003cjavax.swing.text.TabStop: int getLeader()\u003e","javadoc":"/** \n * Returns the leader of the tab.\n * @return the leader of the tab\n */\n","tf":{"freq":{"leader":3,"tab":2},"maxFreq":3,"totalTerms":5},"loc":3}

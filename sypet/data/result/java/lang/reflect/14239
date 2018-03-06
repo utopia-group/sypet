@@ -1,0 +1,1 @@
+{"id":14239,"className":"java.lang.reflect.ReflectAccess","methodName":"getConstructorParameterAnnotations","signature":"\u003cjava.lang.reflect.ReflectAccess: byte[] getConstructorParameterAnnotations(java.lang.reflect.Constructor)\u003e","loc":3}

@@ -1,0 +1,1 @@
+{"id":10217,"className":"org.w3c.dom.html.HTMLTitleElement","methodName":"getText","signature":"\u003corg.w3c.dom.html.HTMLTitleElement: java.lang.String getText()\u003e","javadoc":"/** \n * The specified title as a string.\n */\n","tf":{"freq":{"text":1,"titl":1,"string":1,"specifi":1},"maxFreq":1,"totalTerms":4},"loc":0}

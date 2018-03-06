@@ -1,0 +1,1 @@
+{"id":15478,"className":"javax.swing.Box","methodName":"createHorizontalGlue","signature":"\u003cjavax.swing.Box: java.awt.Component createHorizontalGlue()\u003e","javadoc":"/** \n * Creates a horizontal glue component.\n * @return the component\n */\n","tf":{"freq":{"compon":2,"creat":2,"glue":2,"horizont":2},"maxFreq":2,"totalTerms":8},"loc":4}

@@ -1,0 +1,1 @@
+{"id":23063,"className":"org.apache.commons.math.optimization.fitting.HarmonicFunction","methodName":"getAmplitude","signature":"\u003corg.apache.commons.math.optimization.fitting.HarmonicFunction: double getAmplitude()\u003e","javadoc":"/** \n * Get the amplitude a.\n * @return amplitude a;\n */\n","tf":{"freq":{"amplitud":3},"maxFreq":3,"totalTerms":3},"loc":3}

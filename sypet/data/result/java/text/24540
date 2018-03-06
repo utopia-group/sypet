@@ -1,0 +1,1 @@
+{"id":24540,"className":"java.text.DecimalFormat","methodName":"getPositiveSuffix","signature":"\u003cjava.text.DecimalFormat: java.lang.String getPositiveSuffix()\u003e","javadoc":"/** \n * Get the positive suffix. \u003cP\u003eExample: 123%\n */\n","tf":{"freq":{"exampl":1,"suffix":2,"posit":2},"maxFreq":2,"totalTerms":5},"loc":3}

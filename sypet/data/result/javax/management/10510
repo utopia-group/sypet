@@ -1,0 +1,1 @@
+{"id":10510,"className":"javax.management.BinaryOpValueExp","methodName":"getRightValue","signature":"\u003cjavax.management.BinaryOpValueExp: javax.management.ValueExp getRightValue()\u003e","javadoc":"/** \n * Returns the right value of the value expression.\n */\n","tf":{"freq":{"valu":3,"express":1,"right":2},"maxFreq":3,"totalTerms":6},"loc":3}

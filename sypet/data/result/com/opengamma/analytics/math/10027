@@ -1,0 +1,1 @@
+{"id":10027,"className":"com.opengamma.analytics.math.FunctionUtils","methodName":"square","signature":"\u003ccom.opengamma.analytics.math.FunctionUtils: double square(double)\u003e","javadoc":"/** \n * Returns the square of a number\n * @param x some number\n * @return x*x\n */\n","tf":{"freq":{"squar":2,"number":2},"maxFreq":2,"totalTerms":4},"loc":3}

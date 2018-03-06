@@ -1,0 +1,1 @@
+{"id":19061,"className":"org.apache.commons.math3.stat.descriptive.summary.SumOfSquares","methodName":"SumOfSquares","signature":"\u003corg.apache.commons.math3.stat.descriptive.summary.SumOfSquares: void SumOfSquares()\u003e","javadoc":"/** \n * Create a SumOfSquares instance\n */\n","tf":{"freq":{"squar":2,"creat":1,"sum":2,"instanc":1},"maxFreq":2,"totalTerms":6},"loc":4}

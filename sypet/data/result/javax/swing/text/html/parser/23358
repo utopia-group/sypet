@@ -1,0 +1,1 @@
+{"id":23358,"className":"javax.swing.text.html.parser.Element","methodName":"getAttribute","signature":"\u003cjavax.swing.text.html.parser.Element: javax.swing.text.html.parser.AttributeList getAttribute(java.lang.String)\u003e","javadoc":"/** \n * Get an attribute by name.\n */\n","tf":{"freq":{"attribut":2,"name":1},"maxFreq":2,"totalTerms":3},"loc":8}

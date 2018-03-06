@@ -1,0 +1,1 @@
+{"id":11091,"className":"com.opengamma.analytics.math.surface.FunctionalSurfaceAdditiveShiftFunction$ShiftedFunction","methodName":"ShiftedFunction","signature":"\u003ccom.opengamma.analytics.math.surface.FunctionalSurfaceAdditiveShiftFunction$ShiftedFunction: void ShiftedFunction(double,com.opengamma.analytics.math.function.Function)\u003e","loc":4}

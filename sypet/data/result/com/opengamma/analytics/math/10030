@@ -1,0 +1,1 @@
+{"id":10030,"className":"com.opengamma.analytics.math.FunctionUtils","methodName":"fromTensorIndex","signature":"\u003ccom.opengamma.analytics.math.FunctionUtils: int[] fromTensorIndex(int,int[])\u003e","loc":21}

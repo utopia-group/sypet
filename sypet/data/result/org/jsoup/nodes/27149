@@ -1,0 +1,1 @@
+{"id":27149,"className":"org.jsoup.nodes.Attribute","methodName":"getValue","signature":"\u003corg.jsoup.nodes.Attribute: java.lang.String getValue()\u003e","javadoc":"/** \n * Get the attribute value.\n * @return the attribute value\n */\n","tf":{"freq":{"attribut":2,"valu":3},"maxFreq":3,"totalTerms":5},"loc":3}

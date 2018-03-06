@@ -1,0 +1,1 @@
+{"id":18648,"className":"javax.swing.plaf.basic.BasicRadioButtonUI","methodName":"paint","signature":"\u003cjavax.swing.plaf.basic.BasicRadioButtonUI: void paint(java.awt.Graphics,javax.swing.JComponent)\u003e","javadoc":"/** \n * paint the radio button\n */\n","tf":{"freq":{"button":1,"radio":1,"paint":2},"maxFreq":2,"totalTerms":4},"loc":88}

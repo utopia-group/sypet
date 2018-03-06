@@ -1,0 +1,1 @@
+{"id":21599,"className":"javax.swing.text.ElementIterator","methodName":"first","signature":"\u003cjavax.swing.text.ElementIterator: javax.swing.text.Element first()\u003e","javadoc":"/** \n * Fetches the first element.\n * @return an Element.\n */\n","tf":{"freq":{"element":2,"fetch":1,"first":2},"maxFreq":2,"totalTerms":5},"loc":12}

@@ -1,0 +1,1 @@
+{"id":19370,"className":"org.apache.commons.math3.util.Decimal64","methodName":"round","signature":"\u003corg.apache.commons.math3.util.Decimal64: long round()\u003e","javadoc":"/** \n * {@inheritDoc}\n * @since 3.2\n */\n","tf":{"freq":{"round":1},"maxFreq":1,"totalTerms":1},"loc":3}

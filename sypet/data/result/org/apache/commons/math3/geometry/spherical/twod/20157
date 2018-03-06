@@ -1,0 +1,1 @@
+{"id":20157,"className":"org.apache.commons.math3.geometry.spherical.twod.Sphere2D","methodName":"getDimension","signature":"\u003corg.apache.commons.math3.geometry.spherical.twod.Sphere2D: int getDimension()\u003e","javadoc":"/** \n * {@inheritDoc} \n */\n","tf":{"freq":{"dimens":1},"maxFreq":1,"totalTerms":1},"loc":3}

@@ -1,0 +1,1 @@
+{"id":11258,"className":"com.opengamma.analytics.math.linearalgebra.LUDecompositionCommonsResult","methodName":"getPivot","signature":"\u003ccom.opengamma.analytics.math.linearalgebra.LUDecompositionCommonsResult: int[] getPivot()\u003e","javadoc":"/** \n * {@inheritDoc}\n */\n","tf":{"freq":{"pivot":1},"maxFreq":1,"totalTerms":1},"loc":3}

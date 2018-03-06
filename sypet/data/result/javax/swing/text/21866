@@ -1,0 +1,1 @@
+{"id":21866,"className":"javax.swing.text.AsyncBoxView$ChildState","methodName":"getMajorOffset","signature":"\u003cjavax.swing.text.AsyncBoxView$ChildState: float getMajorOffset()\u003e","javadoc":"/** \n * Get the offset along the major axis\n */\n","tf":{"freq":{"axi":1,"along":1,"offset":2,"major":2},"maxFreq":2,"totalTerms":6},"loc":3}

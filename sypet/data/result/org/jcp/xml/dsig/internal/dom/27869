@@ -1,0 +1,1 @@
+{"id":27869,"className":"org.jcp.xml.dsig.internal.dom.DOMDigestMethod","methodName":"getParameterSpec","signature":"\u003corg.jcp.xml.dsig.internal.dom.DOMDigestMethod: java.security.spec.AlgorithmParameterSpec getParameterSpec()\u003e","loc":3}

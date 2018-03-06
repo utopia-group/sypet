@@ -1,0 +1,1 @@
+{"id":10846,"className":"org.w3c.dom.css.Counter","methodName":"getListStyle","signature":"\u003corg.w3c.dom.css.Counter: java.lang.String getListStyle()\u003e","javadoc":"/** \n * This attribute is used for the style of the list.\n */\n","tf":{"freq":{"attribut":1,"style":2,"use":1,"list":2},"maxFreq":2,"totalTerms":6},"loc":0}

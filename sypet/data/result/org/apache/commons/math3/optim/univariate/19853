@@ -1,0 +1,1 @@
+{"id":19853,"className":"org.apache.commons.math3.optim.univariate.UnivariatePointValuePair","methodName":"getPoint","signature":"\u003corg.apache.commons.math3.optim.univariate.UnivariatePointValuePair: double getPoint()\u003e","javadoc":"/** \n * Get the point.\n * @return the point.\n */\n","tf":{"freq":{"point":3},"maxFreq":3,"totalTerms":3},"loc":3}

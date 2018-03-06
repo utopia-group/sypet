@@ -1,0 +1,1 @@
+{"id":15007,"className":"org.joda.time.chrono.LimitChronology$LimitDateTimeField","methodName":"getMaximumShortTextLength","signature":"\u003corg.joda.time.chrono.LimitChronology$LimitDateTimeField: int getMaximumShortTextLength(java.util.Locale)\u003e","loc":3}

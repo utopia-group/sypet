@@ -1,0 +1,1 @@
+{"id":23874,"className":"java.util.jar.Manifest","methodName":"clear","signature":"\u003cjava.util.jar.Manifest: void clear()\u003e","javadoc":"/** \n * Clears the main Attributes as well as the entries in this Manifest.\n */\n","tf":{"freq":{"clear":2,"attribut":1,"entri":1,"manifest":1,"well":1,"main":1},"maxFreq":2,"totalTerms":7},"loc":4}

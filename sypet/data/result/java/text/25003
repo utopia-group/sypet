@@ -1,0 +1,1 @@
+{"id":25003,"className":"java.text.NumberFormat","methodName":"setParseIntegerOnly","signature":"\u003cjava.text.NumberFormat: void setParseIntegerOnly(boolean)\u003e","javadoc":"/** \n * Sets whether or not numbers should be parsed as integers only.\n * @see #isParseIntegerOnly\n */\n","tf":{"freq":{"number":1,"integ":3,"pars":3,"whether":1},"maxFreq":3,"totalTerms":8},"loc":3}

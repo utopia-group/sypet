@@ -1,0 +1,1 @@
+{"id":21160,"className":"org.apache.commons.math3.linear.RealVector$Entry","methodName":"setValue","signature":"\u003corg.apache.commons.math3.linear.RealVector$Entry: void setValue(double)\u003e","javadoc":"/** \n * Set the value of the entry.\n * @param value New value for the entry.\n */\n","tf":{"freq":{"entri":2,"valu":4},"maxFreq":4,"totalTerms":6},"loc":3}

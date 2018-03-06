@@ -1,0 +1,1 @@
+{"id":25836,"className":"java.security.acl.Acl","methodName":"getName","signature":"\u003cjava.security.acl.Acl: java.lang.String getName()\u003e","javadoc":"/** \n * Returns the name of this ACL.\n * @return the name of this ACL.\n * @see #setName\n */\n","tf":{"freq":{"name":4},"maxFreq":4,"totalTerms":4},"loc":0}

@@ -1,0 +1,1 @@
+{"id":11884,"className":"java.net.InMemoryCookieStore","methodName":"InMemoryCookieStore","signature":"\u003cjava.net.InMemoryCookieStore: void InMemoryCookieStore()\u003e","javadoc":"/** \n * The default ctor\n */\n","tf":{"freq":{"memori":1,"ctor":1,"store":1,"cooki":1},"maxFreq":1,"totalTerms":4},"loc":7}

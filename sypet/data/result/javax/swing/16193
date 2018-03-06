@@ -1,0 +1,1 @@
+{"id":16193,"className":"javax.swing.ComboBoxEditor","methodName":"getItem","signature":"\u003cjavax.swing.ComboBoxEditor: java.lang.Object getItem()\u003e","javadoc":"/** \n * Return the edited item \n */\n","tf":{"freq":{"item":2,"edit":1},"maxFreq":2,"totalTerms":3},"loc":0}

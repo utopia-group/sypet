@@ -1,0 +1,1 @@
+{"id":21476,"className":"java.util.IllegalFormatWidthException","methodName":"getWidth","signature":"\u003cjava.util.IllegalFormatWidthException: int getWidth()\u003e","javadoc":"/** \n * Returns the width\n * @return  The width\n */\n","tf":{"freq":{"width":3},"maxFreq":3,"totalTerms":3},"loc":3}

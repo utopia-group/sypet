@@ -1,0 +1,1 @@
+{"id":24665,"className":"org.apache.commons.math.stat.descriptive.moment.FirstMoment","methodName":"FirstMoment","signature":"\u003corg.apache.commons.math.stat.descriptive.moment.FirstMoment: void FirstMoment()\u003e","javadoc":"/** \n * Create a FirstMoment instance\n */\n","tf":{"freq":{"creat":1,"moment":2,"first":2,"instanc":1},"maxFreq":2,"totalTerms":6},"loc":6}

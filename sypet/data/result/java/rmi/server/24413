@@ -1,0 +1,1 @@
+{"id":24413,"className":"java.rmi.server.RemoteServer","methodName":"getLog","signature":"\u003cjava.rmi.server.RemoteServer: java.io.PrintStream getLog()\u003e","javadoc":"/** \n * Returns stream for the RMI call log.\n * @return the call log\n * @see #setLog\n * @since JDK1.1\n */\n","tf":{"freq":{"call":2,"stream":1,"log":4},"maxFreq":4,"totalTerms":7},"loc":3}

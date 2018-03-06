@@ -1,0 +1,1 @@
+{"id":22477,"className":"java.util.concurrent.ConcurrentSkipListMap$EntrySet","methodName":"iterator","signature":"\u003cjava.util.concurrent.ConcurrentSkipListMap$EntrySet: java.util.Iterator\u003cjava.util.Map.Entry\u003cK1,V1\u003e\u003e iterator()\u003e","loc":6}

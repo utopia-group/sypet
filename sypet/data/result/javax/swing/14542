@@ -1,0 +1,1 @@
+{"id":14542,"className":"javax.swing.JSeparator","methodName":"JSeparator","signature":"\u003cjavax.swing.JSeparator: void JSeparator()\u003e","javadoc":"/** \n * Creates a new horizontal separator. \n */\n","tf":{"freq":{"creat":1,"separ":2,"horizont":1},"maxFreq":2,"totalTerms":4},"loc":3}

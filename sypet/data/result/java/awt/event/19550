@@ -1,0 +1,1 @@
+{"id":19550,"className":"java.awt.event.KeyAdapter","methodName":"keyReleased","signature":"\u003cjava.awt.event.KeyAdapter: void keyReleased(java.awt.event.KeyEvent)\u003e","javadoc":"/** \n * Invoked when a key has been released.\n */\n","tf":{"freq":{"releas":2,"invok":1,"key":2},"maxFreq":2,"totalTerms":5},"loc":1}

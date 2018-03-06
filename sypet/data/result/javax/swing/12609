@@ -1,0 +1,1 @@
+{"id":12609,"className":"javax.swing.JScrollBar","methodName":"updateUI","signature":"\u003cjavax.swing.JScrollBar: void updateUI()\u003e","javadoc":"/** \n * Overrides \u003ccode\u003eJComponent.updateUI\u003c/code\u003e.\n * @see JComponent#updateUI\n */\n","tf":{"freq":{"jcompon":2,"updat":3},"maxFreq":3,"totalTerms":5},"loc":3}

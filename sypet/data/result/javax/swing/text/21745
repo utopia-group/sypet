@@ -1,0 +1,1 @@
+{"id":21745,"className":"javax.swing.text.ComponentView","methodName":"getComponent","signature":"\u003cjavax.swing.text.ComponentView: java.awt.Component getComponent()\u003e","javadoc":"/** \n * Fetch the component associated with the view.\n */\n","tf":{"freq":{"fetch":1,"compon":2,"associ":1,"view":1},"maxFreq":2,"totalTerms":5},"loc":3}

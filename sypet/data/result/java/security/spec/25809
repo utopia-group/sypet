@@ -1,0 +1,1 @@
+{"id":25809,"className":"java.security.spec.RSAOtherPrimeInfo","methodName":"getPrime","signature":"\u003cjava.security.spec.RSAOtherPrimeInfo: java.math.BigInteger getPrime()\u003e","javadoc":"/** \n * Returns the prime.\n * @return the prime.\n */\n","tf":{"freq":{"prime":3},"maxFreq":3,"totalTerms":3},"loc":3}

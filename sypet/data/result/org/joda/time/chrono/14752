@@ -1,0 +1,1 @@
+{"id":14752,"className":"org.joda.time.chrono.BasicSingleEraDateTimeField","methodName":"getDurationField","signature":"\u003corg.joda.time.chrono.BasicSingleEraDateTimeField: org.joda.time.DurationField getDurationField()\u003e","javadoc":"/** \n * @inheritDoc \n */\n","tf":{"freq":{"field":1,"durat":1},"maxFreq":1,"totalTerms":2},"loc":3}

@@ -1,0 +1,1 @@
+{"id":12529,"className":"com.opengamma.analytics.math.cube.InterpolatedDoublesCube","methodName":"getValue","signature":"\u003ccom.opengamma.analytics.math.cube.InterpolatedDoublesCube: java.lang.Double getValue(com.opengamma.analytics.math.cube.Triple)\u003e","loc":10}

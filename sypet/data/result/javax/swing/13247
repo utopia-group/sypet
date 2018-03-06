@@ -1,0 +1,1 @@
+{"id":13247,"className":"javax.swing.ComponentInputMap","methodName":"remove","signature":"\u003cjavax.swing.ComponentInputMap: void remove(javax.swing.KeyStroke)\u003e","javadoc":"/** \n * Removes the binding for \u003ccode\u003ekey\u003c/code\u003e from this object.\n */\n","tf":{"freq":{"remov":2,"object":1,"bind":1,"key":1},"maxFreq":2,"totalTerms":5},"loc":6}

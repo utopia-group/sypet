@@ -1,0 +1,1 @@
+{"id":11183,"className":"com.opengamma.analytics.math.linearalgebra.TridiagonalMatrix","methodName":"getDiagonal","signature":"\u003ccom.opengamma.analytics.math.linearalgebra.TridiagonalMatrix: double[] getDiagonal()\u003e","javadoc":"/** \n * @return An array of the values of the diagonal\n */\n","tf":{"freq":{"valu":1,"diagon":2,"array":1},"maxFreq":2,"totalTerms":4},"loc":3}
