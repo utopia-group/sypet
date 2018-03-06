@@ -103,34 +103,19 @@ Example:
 We refer the interested reader to the paper for more information regarding the 
 underlying techniques used in these options. 
 
-
 # D. Directory Structure
-.
 
-+-- README : this file
-
-+-- example : directory with a new example
-
-|	+-- example.json : .json file for a new example
-
-|   +-- TestSource.java : .java test file for a new example
-
-+-- logs : directory with the logs of the experiment done for the paper
-
-+-- output : directory that will contain the output of the experiment of 'run-all.sh'
-
-+-- run-all.sh : script to run all benchmarks
-
-+-- run-sypet.sh : script to run SyPet
-
-+-- sypet
-
-|	+-- benchmarks : directory with the .json and Java test cases
-
-| 	+-- build.xml
-
-| 	+-- data : NLP data for the similarity metrics
-
-|	+-- lib : Java libraries used to run SyPet and to run the benchmarks
-
-|	+-- sypet.jar
+* README : this file
+* example : directory with a new example
+  + example.json : .json file for a new example
+  + TestSource.java : .java test file for a new example
+* logs : directory with the logs of the experiment done for the paper
+* output : directory that will contain the output of the experiment of 'run-all.sh'
+* run-all.sh : script to run all benchmarks
+* run-sypet.sh : script to run SyPet
+* sypet
+  + benchmarks : directory with the .json and Java test cases
+  + build.xml
+  + data : NLP data for the similarity metrics
+  + lib : Java libraries used to run SyPet and to run the benchmarks
+  + sypet.jar
