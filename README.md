@@ -14,11 +14,11 @@ implementation of S. The programs synthesized by our algorithm are guaranteed to
 type check and pass all test cases provided by the user.
 
 # Release 0.1 (November 2016)
-This release corresponds to binary version of SyPet that was used in the paper: 
+This release corresponds to the binary version of SyPet that was used in the paper: 
 "Component-based synthesis for complex APIs" Yu Feng, Ruben Martins, Yuepeng 
 Wang, Isil Dillig, Thomas W. Reps. POPL 2017.
 
-For more details see the website of this release at: 
+More details for this release are available at: 
 https://fredfeng.github.io/sypet/
 
 # A. Reproducing the results from the POPL'17 paper
