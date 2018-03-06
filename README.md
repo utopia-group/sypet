@@ -14,7 +14,7 @@ implementation of S. The programs synthesized by our algorithm are guaranteed to
 type check and pass all test cases provided by the user.
 
 # Release 0.1 (November 2016)
-This release corresponds to the version that was used in the paper 
+This release corresponds to binary version of SyPet that was used in the paper: 
 "Component-based synthesis for complex APIs" Yu Feng, Ruben Martins, Yuepeng 
 Wang, Isil Dillig, Thomas W. Reps. POPL 2017.
 
@@ -42,7 +42,7 @@ Steps to reproduce the results from Table 1:
 4. The contents of Table 1 will be automatically generated and appear in the 
    file 'result.csv'
 
-# B. How to solve a new benchmark with SyPet?                                  | 
+# B. How to solve a new benchmark with SyPet?
 
 To run SyPet the user must provide:
 
@@ -106,17 +106,31 @@ underlying techniques used in these options.
 
 # D. Directory Structure
 .
+
 +-- README : this file
+
 +-- example : directory with a new example
+
 |	+-- example.json : .json file for a new example
+
 |   +-- TestSource.java : .java test file for a new example
+
 +-- logs : directory with the logs of the experiment done for the paper
+
 +-- output : directory that will contain the output of the experiment of 'run-all.sh'
+
 +-- run-all.sh : script to run all benchmarks
+
 +-- run-sypet.sh : script to run SyPet
+
 +-- sypet
+
 |	+-- benchmarks : directory with the .json and Java test cases
+
 | 	+-- build.xml
+
 | 	+-- data : NLP data for the similarity metrics
+
 |	+-- lib : Java libraries used to run SyPet and to run the benchmarks
+
 |	+-- sypet.jar
