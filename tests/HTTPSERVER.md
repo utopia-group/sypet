@@ -1,6 +1,13 @@
 # How to run SyPet using as an HTTP server?
 
 Step 1. Launch SyPet in server mode with:
+
+Compile SyPet:
+```
+ant
+```
+
+Launch server:
 ```
 ant server
 ```

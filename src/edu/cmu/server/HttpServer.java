@@ -134,8 +134,8 @@ public class HttpServer extends NanoHTTPD {
 
 			// TODO: map from packages to required libraries
 			ArrayList<String> libs = new ArrayList<>();
-			libs.add("../lib/rt7.jar");
-			libs.add("../lib/simplepoint.jar");
+			libs.add("./lib/rt7.jar");
+			//libs.add("../lib/simplepoint.jar");
 			qb.setLibs(libs);
 
 			/////////////////////////////////////////////////////////////////////////////////
