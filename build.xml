@@ -38,7 +38,7 @@
 
     <target name="sypet">
     <java classname="edu.utexas.sypet.Experiment"
-          maxmemory="4g"
+          maxmemory="16g"
           fork="true"
           failonerror="true">
         <arg line="${args}"/>
@@ -67,7 +67,7 @@
 
     <target name="server">
     <java classname="edu.cmu.server.HttpServer"
-          maxmemory="4g"
+          maxmemory="16g"
           fork="true"
           failonerror="true">
         <arg line="${args}"/>
