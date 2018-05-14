@@ -11,7 +11,7 @@ if [ $# -le 0 ]; then
 fi
 
 if [ $# -eq 1 ]; then
-    OPT="-r"
+    OPT=""
 fi
 
 # run the experiment

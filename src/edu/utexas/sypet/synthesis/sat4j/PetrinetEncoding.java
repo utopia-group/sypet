@@ -994,6 +994,55 @@ public class PetrinetEncoding {
 		// Domain heuristic for point : if getX is used then we prefer getY and vice versa
 		for (Place initPlace : inits) {
 
+			if (initPlace.getId().equals("point.Point") || initPlace.getId().equals("point.MyPoint")) {
+				ArrayList<Variable> getters = new ArrayList<Variable>();
+				for (Transition t : initPlace.getPostset()) {
+					if (!t.getId().contains("getX") && !t.getId().contains("getY"))
+						continue;
+
+					Pair<Transition, Integer> pair = new Pair<>(t, 0);
+					Variable fv = functionMap_vars.get(pair);
+					getters.add(map_eq_fn_vars.get(fv));
+				}
+
+				if (!getters.isEmpty()) {
+
+					FunctionVar eqPoint2D = new FunctionVar(index_var++, -1, null);
+					list_variables.add(eqPoint2D);
+					Constraint ato = new Constraint(new ArrayList<Variable>(), new ArrayList<Integer>(),
+							ConstraintType.GEQ, 1);
+					for (int i = 0; i < getters.size(); i++) {
+						ato.addLiteral(getters.get(i), 1);
+						for (int j = 0; j < getters.size(); j++) {
+							if (i == j)
+								continue;
+
+							Constraint req = new Constraint(new ArrayList<Variable>(), new ArrayList<Integer>(),
+									ConstraintType.GEQ, 0);
+							req.addLiteral(getters.get(i), -1);
+							req.addLiteral(getters.get(j), 1);
+							req.addLiteral(eqPoint2D, 1);
+							problem_constraints.add(req);
+
+							Constraint leq = new Constraint(new ArrayList<Variable>(), new ArrayList<Integer>(),
+									ConstraintType.GEQ, 0);
+							leq.addLiteral(getters.get(i), 1);
+							leq.addLiteral(getters.get(j), -1);
+							leq.addLiteral(eqPoint2D, 1);
+							problem_constraints.add(leq);
+
+						}
+					}
+					ato.addLiteral(eqPoint2D, 1);
+					problem_constraints.add(ato);
+					objective_function.addLiteral(eqPoint2D, 100);
+				}
+			}
+		}
+		
+		// Domain heuristic for point : if getX is used then we prefer getY and vice versa
+		for (Place initPlace : inits) {
+
 			if (initPlace.getId().equals("java.awt.geom.Point2D") || initPlace.getId().equals("java.awt.Point")) {
 				ArrayList<Variable> getters = new ArrayList<Variable>();
 				for (Transition t : initPlace.getPostset()) {

@@ -59,7 +59,7 @@ public class Cli {
 		timeout = 600000;
 		roundRobinIterationsLimit = 100;
 		roundRobinRange = 2;
-		roundRobinFlag = true;
+		roundRobinFlag = false;
 		solverLimit = 5;
 
 	}

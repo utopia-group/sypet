@@ -143,7 +143,9 @@ public class SketchSolver {
 	public boolean fillSketch() {
 
 		try {
-			return solver.isSatisfiable();
+			boolean ok = solver.isSatisfiable();
+			solver.expireTimeout();
+			return ok;
 		} catch (TimeoutException e) {
 			// if the solver did not terminate in a given timeout
 			return false;

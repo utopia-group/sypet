@@ -89,7 +89,7 @@ public class Solver {
 
 		// rebuild the solver
 		solver = new OptToPBSATAdapter(new PseudoOptDecorator(SolverFactory.newDefault()));
-		solver.setTimeout(3600);
+		//solver.setTimeout(3600);
 
 		// create variables in the solver
 		solver.newVar(encoding.nVars());
@@ -111,6 +111,7 @@ public class Solver {
 	public boolean solve() {
 		try {
 			if(solver.isSatisfiable()){
+				solver.expireTimeout();
 				int len = solver.model().length;
 				Boolean[] modelArray = new Boolean[len];
 				for (int i = 0; i < len; ++i) {
@@ -126,7 +127,7 @@ public class Solver {
 	}
 
 	public boolean solve(PetrinetEncoding encoding) {
-		
+
 		int itn = 0;
 		model.clear();
 		
@@ -146,19 +147,27 @@ public class Solver {
 
 				boolean res = false;
 
-				solver.setTimeout(3600); // Timeout for the SAT solver
+				//solver.setTimeout(3600); // Timeout for the SAT solver
 				
 				if (assumption_var == 0) {
-					if (encoding.getVoidBlocker() != 0)
+					if (encoding.getVoidBlocker() != 0){
 						res = solver.isSatisfiable(new VecInt(new int [] {-(encoding.getVoidBlocker())}));
-					else 
+						solver.expireTimeout();
+					}
+					else {
 					 res = solver.isSatisfiable();
+					 solver.expireTimeout();
+					}
 				}
 				else {
-					if (encoding.getVoidBlocker() != 0)
+					if (encoding.getVoidBlocker() != 0){
 						res = solver.isSatisfiable(new VecInt(new int[] {-assumption_var, -(encoding.getVoidBlocker())}));
-					else 
+						solver.expireTimeout();
+					}
+					else {
 						res = solver.isSatisfiable(new VecInt(new int[] {-assumption_var}));
+						solver.expireTimeout();
+					}
 				}
 
 				if (res) {

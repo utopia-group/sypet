@@ -1,29 +1,11 @@
-/*
- * Copyright (C) 2017 The SyPet Authors
- *
- * Licensed under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
- *
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
-package edu.utexas.sypet;
+package edu.cmu.server;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
-
+import java.util.logging.Logger;
 import com.google.gson.Gson;
 
 import edu.utexas.sypet.synthesis.PathFinder;
@@ -34,20 +16,23 @@ import edu.utexas.sypet.synthesis.model.Pair;
 import edu.utexas.sypet.synthesis.sat4j.PetrinetEncoding.Option;
 import edu.utexas.sypet.util.SootUtil;
 import edu.utexas.sypet.util.TimeUtil;
-import polyglot.ext.jl.types.PlaceHolder_c;
+import fi.iki.elonen.NanoHTTPD;
+import fi.iki.elonen.NanoHTTPD.Response.Status;
+import fi.iki.elonen.util.ServerRunner;
 import soot.CompilationDeathException;
 import soot.Scene;
 import soot.options.Options;
 import uniol.apt.adt.pn.PetriNet;
 import uniol.apt.adt.pn.Place;
-import uniol.apt.adt.pn.Transition;
 
-// Status: ?
 /**
- * Parametric framework for running benchmarks
- *
+ * A custom subclass of NanoHTTPD.
  */
-public class Experiment {
+public class HttpServer extends NanoHTTPD {
+
+	private static final Logger LOG = Logger.getLogger(HttpServer.class.getName());
+	private static int httpServerPort = 9092;
+
 	public static boolean VERBOSE = false;
 	public static String benchLoc = null;
 	public static long TIMEOUT = 600000;
@@ -57,7 +42,18 @@ public class Experiment {
 	public static Option objectiveOption = Option.AT_LEAST_ONE;
 	public static int maxIterations = 5;
 
-	public static List<String> clones;
+	public static List<String> clones = new ArrayList<>();
+	public static List<String> libsCP = new ArrayList<>();
+
+	public static void main(String[] args) {
+		// Start the HTTP Server
+		ServerRunner.run(HttpServer.class);
+	}
+
+	public HttpServer() {
+		super(httpServerPort);
+		System.out.println("SyPet HttpServer starting on port: " + httpServerPort);
+	}
 
 	public static PathFinder initPetriNet(Benchmark qb, List<PetriNet> pNetList, int pn, int local) {
 
@@ -66,8 +62,7 @@ public class Experiment {
 		}
 
 		PetriNet pNet = pNetList.get(pn);
-
-		System.out.println("PetriNet for path length: " + (local-1) + " [places: " + pNet.getPlaces().size()
+		HttpServer.LOG.info("PetriNet for path length: " + (local-1) + " [places: " + pNet.getPlaces().size()
 				+ " ; transitions: " + pNet.getTransitions().size() + " ; edges: " + pNet.getEdges().size() + "]");
 
 		List<Place> inits = new ArrayList<>();
@@ -91,36 +86,40 @@ public class Experiment {
 		pf.setVars(vars);
 		pf.setTgt(tgt);
 		return pf;
-
 	}
 
-	public static void main(String[] args) throws FileNotFoundException {
+	protected static String genMethodHeader(Benchmark bench) {
+		StringBuilder builder = new StringBuilder();
+		builder.append(bench.getTgtType().replaceAll("\\$", ".")).append(' ');
+		builder.append(bench.getMethodName()).append('(');
+		ArrayList<String> paramTypes = new ArrayList<String>(bench.getSrcTypes());
+		ArrayList<String> paramNames = new ArrayList<String>(bench.getParamNames());
+		assert paramTypes.size() == paramNames.size();
+		for (int i = 0; i < paramTypes.size(); ++i) {
+			builder.append(paramTypes.get(i)).append(' ').append(paramNames.get(i));
+			if (i < paramTypes.size() - 1) {
+				builder.append(", ");
+			}
+		}
+		builder.append(')');
+		return builder.toString();
+	}
+
+	public String runSyPet(String bench) {
+
+		clones.clear();
 		long startSoot = System.nanoTime();
+
+		// options
 		int roundRobinPosition = 0;
 		int roundRobinIterations = 0;
 		int roundRobinIterationsLimit = 40;
 		int roundRobinRange = 3;
 		boolean roundRobinFlag = false;
+		objectiveOption = Option.AT_LEAST_ONE;
+		maxIterations = 5;
 
-		Cli cmdOptions = new Cli(args);
-		cmdOptions.parse();
-
-		VERBOSE = cmdOptions.getVerbose();
-		TIMEOUT = cmdOptions.getTimeout();
-		roundRobinFlag = cmdOptions.getRoundRobin();
-		// The objective function can be used to add preferences over which
-		// methods to explore
-		objectiveOption = objectiveOption.AT_LEAST_ONE;
-		maxIterations = cmdOptions.getSolverLimit();
-
-		cmdOptions.printOptions();
-
-		benchLoc = cmdOptions.getFilename();
-		if (!new File(benchLoc).exists()) {
-			System.out.println("Cannot find json file: " + benchLoc);
-			System.exit(2);
-		}
-
+		// statistics to run SyPet
 		double timeGetPath = 0;
 		double timeInitSketch = 0;
 		double timeFillHoles = 0;
@@ -128,29 +127,28 @@ public class Experiment {
 		double timeRunTest = 0;
 		double timeTotal = 0;
 		long cntFillHoles = 0;
-		Gson gson = new Gson();
-		BufferedReader br;
 		try {
-			br = new BufferedReader(new FileReader(benchLoc));
-			Benchmark qb = gson.fromJson(br, Benchmark.class);
+			Benchmark qb = new Gson().fromJson(bench, Benchmark.class);
 			// generate the method header
 			qb.setMethodHeader(genMethodHeader(qb));
-			// generate the test string
-			qb.setTestBody(genTest(qb));
+
+			// TODO: map from packages to required libraries
+			ArrayList<String> libs = new ArrayList<>();
+			libs.add("../lib/rt7.jar");
+			libs.add("../lib/simplepoint.jar");
+			qb.setLibs(libs);
 
 			/////////////////////////////////////////////////////////////////////////////////
-			System.out.println("----------" + benchLoc);
-			System.out.println("Benchmark Id: " + qb.getId());
-			System.out.println("Method name: " + qb.getMethodName());
-			System.out.println("Packages: " + qb.getPackages());
-			System.out.println("Libraries: " + qb.getLibs());
-			System.out.println("Source type(s): " + qb.getSrcTypes());
-			System.out.println("Target type: " + qb.getTgtType());
-			System.out.println("--------------------------------------------------------");
-
+			HttpServer.LOG.info("--------------------------------------------------------");
+			HttpServer.LOG.info("Benchmark Id: " + qb.getId());
+			HttpServer.LOG.info("Method name: " + qb.getMethodName());
+			HttpServer.LOG.info("Packages: " + qb.getPackages());
+			HttpServer.LOG.info("Libraries: " + qb.getLibs());
+			HttpServer.LOG.info("Source type(s): " + qb.getSrcTypes());
+			HttpServer.LOG.info("Target type: " + qb.getTgtType());
+			HttpServer.LOG.info("--------------------------------------------------------");
 			///////////////////////////////////////////////////
 			Set<String> pkgs = qb.getPackages();
-			String keyword = qb.getMethodName();
 
 			StringBuilder options = new StringBuilder();
 			options.append("-prepend-classpath");
@@ -158,38 +156,35 @@ public class Experiment {
 			options.append(" -allow-phantom-refs");
 			StringBuilder cp = new StringBuilder();
 			for (String lib : qb.getLibs()) {
-				cp.append(lib);
-				cp.append(":");
-				options.append(" -process-dir " + lib);
+				if (!libsCP.contains(lib)) {
+					cp.append(lib);
+					cp.append(":");
+					options.append(" -process-dir " + lib);
+					libsCP.add(lib);
+				}
 			}
-
-			options.append(" -cp " + cp.toString());
-
+			if (!cp.toString().isEmpty())
+				options.append(" -cp " + cp.toString());
 			if (!Options.v().parse(options.toString().split(" ")))
 				throw new CompilationDeathException(CompilationDeathException.COMPILATION_ABORTED,
-						"Option parse error");
+						"Error: Parsing libraries.");
 
 			Scene.v().loadBasicClasses();
 			Scene.v().loadNecessaryClasses();
 
 			List<PetriNet> pNetList = new ArrayList<>();
 
-			// SootUtil.genDepGraph(qb.getLibs(), pkgs, qb.getTgtType());
-			// FIXME: get lower bound. Will place with shortest path.
-			// int low = Math.max(1, SootUtil.getLowerBound(qb));
-			int low = 1;
-
-			PetriNet pNet = new PetriNet();
 			// only one petrinet without pruning.
+			PetriNet pNet = new PetriNet();
 			for (String lib : qb.getLibs()) {
 				SootUtil.processJar(lib, pkgs, pNet);
 			}
 			SootUtil.handlePolymorphism(pNet);
-			System.out.println("#Classes: " + SootUtil.classNum);
-			System.out.println("#Methods: " + SootUtil.methodNum);
+			HttpServer.LOG.info("#Classes: " + SootUtil.classNum);
+			HttpServer.LOG.info("#Methods: " + SootUtil.methodNum);
 			long endSoot = System.nanoTime();
 			double sootTime = TimeUtil.computeTime(startSoot, endSoot);
-			System.out.println("Soot Time: " + sootTime);
+			HttpServer.LOG.info("Soot Time: " + sootTime);
 			pNetList.add(pNet);
 
 			// Multiple args: check if we need put clone as initial constraints.
@@ -197,11 +192,7 @@ public class Experiment {
 
 			int petriIterator = 0;
 
-			// System.out.println("Petri nets: " + pNetList.size());
-
 			int cnt = 0;
-			// int localMax = 1 + clones.size();
-			// System.out.println("Lower bound: " + low);
 			int localMax = 2;
 			boolean flag = false;
 			long start0 = System.nanoTime();
@@ -218,13 +209,7 @@ public class Experiment {
 				PathFinder pf;
 				if (roundRobinFlag) {
 					pf = roundRobin.get(roundRobinPosition);
-					// if (VERBOSE)
-					// System.out.println("Searching with local max: " +
-					// pf.getEncoding().getTimeline());
 				} else {
-					// pf = new PathFinder(pNet, inits, tgtPlace, localMax,
-					// maxTokens, nlplist, clones,
-					// objectiveOption, maxIterations);
 					if (pNetList.size() > 1)
 						assert (petriIterator < pNetList.size());
 					pf = initPetriNet(qb, pNetList, petriIterator++, localMax);
@@ -246,7 +231,6 @@ public class Experiment {
 						break;
 
 					cnt++;
-
 					List<String> solution = new ArrayList<>();
 					for (String meth : res) {
 						if (meth.startsWith("sypet_clone_"))
@@ -254,11 +238,10 @@ public class Experiment {
 
 						solution.add(meth);
 					}
-					// System.out.println("current sketch:" + res);
 					// init sketcher.
 					long start2 = System.nanoTime();
 					Sketcher sk = new Sketcher(solution, pf.getVars(), pf.getTgt());
-					boolean hasSketch = sk.initSketch();
+					sk.initSketch();
 					long end2 = System.nanoTime();
 					timeInitSketch += TimeUtil.computeTime(start2, end2);
 					if (VERBOSE)
@@ -276,7 +259,6 @@ public class Experiment {
 						if (snippet.equals("UNSAT"))
 							break;
 
-						// invoke yuepeng's method.
 						if (VERBOSE)
 							System.out.println("snippet:" + snippet);
 						qb.setBody(snippet);
@@ -290,41 +272,37 @@ public class Experiment {
 						if (VERBOSE)
 							System.out.println("Running Time: " + SypetTestUtil.getRunningTime());
 						long end0 = System.nanoTime();
-						// note: this should be = instead of +=
 						timeTotal = TimeUtil.computeTime(start0, end0);
 						if (passTest) {
-							System.out.println("=========Statistics (time in milliseconds)=========");
-							System.out.println("Benchmark Id: " + qb.getId());
-							System.out.println("Sketch Generation Time: " + timeGetPath);
-							System.out.println("Sketch Completion Time: " + (timeInitSketch + timeFillHoles));
-							System.out.println("Compilation Time: " + timeCompilation);
-							System.out.println("Running Test cases Time: " + timeRunTest);
-							System.out.println(
+							HttpServer.LOG.info("=========Statistics (time in milliseconds)=========");
+							HttpServer.LOG.info("Benchmark Id: " + qb.getId());
+							HttpServer.LOG.info("Sketch Generation Time: " + timeGetPath);
+							HttpServer.LOG.info("Sketch Completion Time: " + (timeInitSketch + timeFillHoles));
+							HttpServer.LOG.info("Compilation Time: " + timeCompilation);
+							HttpServer.LOG.info("Running Test cases Time: " + timeRunTest);
+							HttpServer.LOG.info(
 									"Synthesis Time: " + (timeGetPath + timeInitSketch + timeFillHoles + timeRunTest));
-							System.out.println("Total Time: "
+							HttpServer.LOG.info("Total Time: "
 									+ (timeGetPath + timeInitSketch + timeFillHoles + timeRunTest + timeCompilation));
-							System.out.println("Number of components: " + res.size());
-							System.out.println("Number of holes: " + sk.getHolesNum());
-							System.out.println("Number of completed programs: " + cntFillHoles);
-							System.out.println("Number of sketches: " + cnt);
-							System.out.println("Solution:\n " + snippet.replace(";", ";\n "));
-
-							System.out.println("============================");
-							br.close();
-							return;
+							HttpServer.LOG.info("Number of components: " + res.size());
+							HttpServer.LOG.info("Number of holes: " + sk.getHolesNum());
+							HttpServer.LOG.info("Number of completed programs: " + cntFillHoles);
+							HttpServer.LOG.info("Number of sketches: " + cnt);
+							HttpServer.LOG.info("Solution:\n " + snippet.replace(";", ";\n "));
+							HttpServer.LOG.info("============================");
+							return snippet.replace(";", ";\n ");
 						} else if (timeTotal > TIMEOUT) {
-							System.out.println("=========Statistics=========");
-							System.out.println("Benchmark Id: " + qb.getId());
-							System.out.println("Sketch Generation Time: " + timeGetPath);
-							System.out.println("Sketch Completion Time: " + (timeInitSketch + timeFillHoles));
-							System.out.println("Compilation Time: " + timeCompilation);
-							System.out.println("Running Test cases Time: " + timeRunTest);
-							System.out.println("Number of completed programs: " + cntFillHoles);
-							System.out.println("Number of sketches: " + cnt);
-							System.out.println("TIMEOUT after " + TIMEOUT + " ms");
-							System.out.println("============================");
-							br.close();
-							return;
+							HttpServer.LOG.info("=========Statistics=========");
+							HttpServer.LOG.info("Benchmark Id: " + qb.getId());
+							HttpServer.LOG.info("Sketch Generation Time: " + timeGetPath);
+							HttpServer.LOG.info("Sketch Completion Time: " + (timeInitSketch + timeFillHoles));
+							HttpServer.LOG.info("Compilation Time: " + timeCompilation);
+							HttpServer.LOG.info("Running Test cases Time: " + timeRunTest);
+							HttpServer.LOG.info("Number of completed programs: " + cntFillHoles);
+							HttpServer.LOG.info("Number of sketches: " + cnt);
+							HttpServer.LOG.info("TIMEOUT after " + TIMEOUT + " ms");
+							HttpServer.LOG.info("============================");
+							return "// SyPet timeout! We are sorry but we could not find a program in less than 5 minutes!";
 						}
 					}
 					roundRobinIterations++;
@@ -346,43 +324,51 @@ public class Experiment {
 			if (e.getStatus() != CompilationDeathException.COMPILATION_SUCCEEDED)
 				throw e;
 			else
-				return;
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+				return "// SyPet failure!";
 		}
+		return "// SyPet failure!";
 
 	}
 
-	protected static String genMethodHeader(Benchmark bench) {
-		StringBuilder builder = new StringBuilder();
-		builder.append(bench.getTgtType().replaceAll("\\$", ".")).append(' ');
-		builder.append(bench.getMethodName()).append('(');
-		ArrayList<String> paramTypes = new ArrayList<String>(bench.getSrcTypes());
-		ArrayList<String> paramNames = new ArrayList<String>(bench.getParamNames());
-		assert paramTypes.size() == paramNames.size();
-		for (int i = 0; i < paramTypes.size(); ++i) {
-			builder.append(paramTypes.get(i)).append(' ').append(paramNames.get(i));
-			if (i < paramTypes.size() - 1) {
-				builder.append(", ");
-			}
-		}
-		builder.append(')');
-		return builder.toString();
-	}
+	@Override
+	public Response serve(IHTTPSession session) {
 
-	protected static String genTest(Benchmark bench) {
-		StringBuilder builder = new StringBuilder();
+		String response = "";
 		try {
-			BufferedReader reader = new BufferedReader(new FileReader(bench.getTestPath()));
-			String line = null;
-			while ((line = reader.readLine()) != null) {
-				builder.append(line);
+			Method method = session.getMethod();
+			String uri = session.getUri();
+			HttpServer.LOG.info(method + " '" + uri + "' ");
+			session.getHeaders();
+
+			if (session.getMethod() == Method.POST) {
+
+				Map<String, String> form = new HashMap<String, String>();
+				session.parseBody(form);
+				String benchmark = "";
+				for (String s : form.keySet()) {
+					benchmark += form.get(s);
+				}
+				response = runSyPet(benchmark);
+				Response resp = newFixedLengthResponse(Status.OK, NanoHTTPD.MIME_PLAINTEXT, response);
+				resp.addHeader("Access-Control-Allow-Origin", "*");
+				resp.addHeader("Access-Control-Allow-Methods", "POST");
+				return resp;
+
 			}
-			reader.close();
-		} catch (IOException e) {
-			e.printStackTrace();
+
+		} catch (Exception e) {
+			System.out.println("e = " + e);
+			response = "// SyPet error: Http Server exception!";
+			Response resp = newFixedLengthResponse(Status.OK, NanoHTTPD.MIME_PLAINTEXT, response);
+			resp.addHeader("Access-Control-Allow-Origin", "*");
+			resp.addHeader("Access-Control-Allow-Methods", "POST");
+			return resp;
 		}
-		return builder.toString();
+
+		response += "// SyPet error: Http Server does not support the received request!";
+		Response resp = newFixedLengthResponse(Status.OK, NanoHTTPD.MIME_PLAINTEXT, response);
+		resp.addHeader("Access-Control-Allow-Origin", "*");
+		resp.addHeader("Access-Control-Allow-Methods", "POST");
+		return resp;
 	}
 }
