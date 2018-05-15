@@ -131,7 +131,7 @@ public class HttpServer extends NanoHTTPD {
 			Benchmark qb = new Gson().fromJson(bench, Benchmark.class);
 			// generate the method header
 			qb.setMethodHeader(genMethodHeader(qb));
-
+			
 			// TODO: map from packages to required libraries
 			ArrayList<String> libs = new ArrayList<>();
 			libs.add("./lib/rt7.jar");
@@ -173,6 +173,13 @@ public class HttpServer extends NanoHTTPD {
 			Scene.v().loadNecessaryClasses();
 
 			List<PetriNet> pNetList = new ArrayList<>();
+			
+			// check if the test case compiles
+			qb.setBody("return null;");
+			SypetTestUtil.runTest(qb);
+			boolean testCompilation = SypetTestUtil.isCompilationSuccess();
+			if (!testCompilation)
+				return "// SyPet error! Test cases do not compile!\n";
 
 			// only one petrinet without pruning.
 			PetriNet pNet = new PetriNet();
@@ -288,9 +295,11 @@ public class HttpServer extends NanoHTTPD {
 							HttpServer.LOG.info("Number of holes: " + sk.getHolesNum());
 							HttpServer.LOG.info("Number of completed programs: " + cntFillHoles);
 							HttpServer.LOG.info("Number of sketches: " + cnt);
-							HttpServer.LOG.info("Solution:\n " + snippet.replace(";", ";\n "));
+							HttpServer.LOG.info("Solution:\n " + snippet.replace(";", ";\n"));
 							HttpServer.LOG.info("============================");
-							return snippet.replace(";", ";\n ");
+							String snippet_method = qb.getMethodHeader() + " {\n\n" + snippet.replace(";", ";\n");
+							snippet_method +=  "\n}\n";
+							return snippet_method;
 						} else if (timeTotal > TIMEOUT) {
 							HttpServer.LOG.info("=========Statistics=========");
 							HttpServer.LOG.info("Benchmark Id: " + qb.getId());
@@ -302,7 +311,7 @@ public class HttpServer extends NanoHTTPD {
 							HttpServer.LOG.info("Number of sketches: " + cnt);
 							HttpServer.LOG.info("TIMEOUT after " + TIMEOUT + " ms");
 							HttpServer.LOG.info("============================");
-							return "// SyPet timeout! We are sorry but we could not find a program in less than 5 minutes!";
+							return "// SyPet timeout! We are sorry but we could not find a program in less than 5 minutes!\n";
 						}
 					}
 					roundRobinIterations++;
@@ -324,9 +333,9 @@ public class HttpServer extends NanoHTTPD {
 			if (e.getStatus() != CompilationDeathException.COMPILATION_SUCCEEDED)
 				throw e;
 			else
-				return "// SyPet failure!";
+				return "// SyPet failure!\n";
 		}
-		return "// SyPet failure!";
+		return "// SyPet failure!\n";
 
 	}
 
