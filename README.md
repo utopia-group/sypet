@@ -1,66 +1,144 @@
-```                            
-                            ____     ___      __ 
-                           / __/_ __/ _ \___ / /_
-                          _\ \/ // / ___/ -_) __/
-                         /___/\_, /_/   \__/\__/ 
-                             /___/               
-      
+# How to run SyPet using as an HTTP server?
+
+Step 1. Launch SyPet in server mode with:
+
+Compile SyPet:
+```
+ant
 ```
 
-#Component-Based Synthesis for Complex APIs
+Launch server:
+```
+ant server
+```
 
-SyPet is a novel type-directed tool for component-based synthesis. The key 
-novelty of our approach is the use of a compact Petri-net representation to 
-model relationships between methods in an API. Given a target method signature 
-S, our approach performs reachability analysis on the underlying Petri-net model 
-to identify sequences of method calls that could be used to synthesize an 
-implementation of S. The programs synthesized by our algorithm are guaranteed 
-to type check and pass all test cases provided by the user.
+Step 2. Send a post request with the configuration .json file as the body. 
 
+Example:
+curl -X POST -d @test1.json http://127.0.0.1:9092 --header "Content-Type:application/json"
 
-#Publication
+Output:
+```
+java.awt.geom.Rectangle2D scale(java.awt.geom.Rectangle2D sypet_arg0, double sypet_arg1, double sypet_arg2) {
 
-Component-Based Synthesis for Complex APIs. 
-Yu Feng, Ruben Martins, Yuepeng Wang, Isil Dillig, Thomas W. Reps. POPL 2017.
+java.awt.Shape sypet_var273 = sypet_arg0;
+java.awt.geom.AffineTransform sypet_var274 = java.awt.geom.AffineTransform.getScaleInstance(sypet_arg1,sypet_arg2);
+java.awt.geom.Path2D.Float sypet_var275 = new java.awt.geom.Path2D.Float(sypet_var273,sypet_var274);
+java.awt.geom.Rectangle2D sypet_var276 = sypet_var275.getBounds2D();
+return sypet_var276;
 
-#Disclaimer
+}
+```
 
-The open source version of SyPet is a simplified version of the one that was 
-described in the POPL 2017 paper. In particular, we did not include the 
-optimizations done by pruning or by the objective function (see Appendix D of 
-the extended version of the paper for more details on the impact of those 
-features). Note that, this version is more compact than the original SyPet 
-version and should be easier to extend. 
-
-The open version of SyPet should be extended in the next year with new features. 
-In this version, the user can provide additional information to SyPet using 
-the CONFIG.json file. In particular, the user can specify a set of "blacklist" 
-keywords and all methods that contain those keywords will not be used when 
-constructing the Petri-net. Additionally, the user can also manually specify 
-which methods are polymorphic in the "poly" field. Finally, the user can specify 
-packages that will always be included in the construction of the Petri-net in 
-the "buildinPkg".
-
-NOTE: If you want to compare against the original version of SyPet and reproduce 
-the results from the POPL 2017 paper, we recommend you to use the binary version 
-available at SyPet's webpage: https://fredfeng.github.io/sypet/
-
-#Usage
+Where test1.json:
 
 ```
-$ ant
-$ ./run-sypet.sh benchmarks/xml/23/benchmark23.json
+{
+  "methodName": "scale",
+  "paramNames": [
+    "sypet_arg0",
+    "sypet_arg1",
+    "sypet_arg2"
+  ],
+  "srcTypes": [
+    "java.awt.geom.Rectangle2D",
+    "double",
+    "double"
+  ],
+  "tgtType": "java.awt.geom.Rectangle2D",
+  "packages": [
+    "java.awt.geom"
+  ],
+  "testBody": "public static boolean test() throws Throwable { java.awt.geom.Rectangle2D rec = new java.awt.geom.Rectangle2D.Double(10, 20, 10, 2); java.awt.geom.Rectangle2D target = new java.awt.geom.Rectangle2D.Double(20, 60, 20, 6); java.awt.geom.Rectangle2D result = scale(rec, 2, 3); return (target.equals(result));}"
+}
+```
+
+# Manual Testing
+
+Examples for manual testing in the localhost:
+- curl -X POST -d @test1.json http://127.0.0.1:9092 --header "Content-Type:application/json"
+- curl -X POST -d @test2.json http://127.0.0.1:9092 --header "Content-Type:application/json"
+- curl -X POST -d @test3.json http://127.0.0.1:9092 --header "Content-Type:application/json"
+- curl -X POST -d @test4.json http://127.0.0.1:9092 --header "Content-Type:application/json"
+- curl -X POST -d @test5.json http://127.0.0.1:9092 --header "Content-Type:application/json"
+- curl -X POST -d @test6.json http://127.0.0.1:9092 --header "Content-Type:application/json"
 
 
-#Config file (CONFIG.json)
+# Automatic Testing
 
-*blacklist: SyPet will not include those methods in the PetriNet
+Testing can be done by running the script:
 
-*poly: Specify sub-typing relationship on-demand
+./run-tests.sh 100.120.0.7 30050
 
-*buildinPkg: Build-in packages included by SyPet
+This should be done from outside the container to test the network communication. The IP address (100.120.0.7) depends if the connection is being done from outside the network with VPN or within the network (192.168.0.7).
 
-#Requirements
- - JDK 1.7+
- - ANT
+After running the script you should get the following output:
 
+```
+              ____     ___      __
+             / __/_ __/ _ \___ / /_
+            _\ \/ // / ___/ -_) __/
+           /___/\_, /_/   \__/\__/
+               /___/
+[SyPet] Running  benchmarks...
+[SyPet] Benchmark test1.json            [OK]
+java.awt.geom.Rectangle2D scale(java.awt.geom.Rectangle2D sypet_arg0, double sypet_arg1, double sypet_arg2) {
+
+java.awt.Shape sypet_var3191 = sypet_arg0;
+java.awt.geom.AffineTransform sypet_var3192 = java.awt.geom.AffineTransform.getScaleInstance(sypet_arg1,sypet_arg2);
+java.awt.geom.Path2D.Float sypet_var3193 = new java.awt.geom.Path2D.Float(sypet_var3191,sypet_var3192);
+java.awt.geom.Rectangle2D sypet_var3194 = sypet_var3193.getBounds2D();
+return sypet_var3194;
+
+}
+[SyPet] Benchmark test2.json            [OK]
+java.awt.geom.Rectangle2D shear(java.awt.geom.Rectangle2D sypet_arg0, double sypet_arg1, double sypet_arg2) {
+
+java.awt.Shape sypet_var3481 = sypet_arg0;
+java.awt.geom.AffineTransform sypet_var3482 = java.awt.geom.AffineTransform.getShearInstance(sypet_arg1,sypet_arg2);
+java.awt.geom.Path2D.Double sypet_var3483 = new java.awt.geom.Path2D.Double(sypet_var3481,sypet_var3482);
+java.awt.geom.Rectangle2D sypet_var3484 = sypet_var3483.getBounds2D();
+return sypet_var3484;
+
+}
+[SyPet] Benchmark test3.json            [OK]
+java.awt.geom.Rectangle2D rotateQuadrant(java.awt.geom.Rectangle2D sypet_arg0, int sypet_arg1) {
+
+java.awt.Shape sypet_var3527 = sypet_arg0;
+java.awt.geom.AffineTransform sypet_var3528 = java.awt.geom.AffineTransform.getQuadrantRotateInstance(sypet_arg1);
+java.awt.geom.Path2D.Double sypet_var3529 = new java.awt.geom.Path2D.Double(sypet_var3527,sypet_var3528);
+java.awt.geom.Rectangle2D sypet_var3530 = sypet_var3529.getBounds2D();
+return sypet_var3530;
+
+}
+[SyPet] Benchmark test4.json            [OK]
+java.awt.geom.Area rotate(java.awt.geom.Area sypet_arg0, java.awt.geom.Point2D sypet_arg1, double sypet_arg2) {
+
+double sypet_var3962 = sypet_arg1.getY();
+double sypet_var3963 = sypet_arg1.getX();
+java.awt.geom.AffineTransform sypet_var3964 = java.awt.geom.AffineTransform.getRotateInstance(sypet_arg2,sypet_var3963,sypet_var3962);
+java.awt.geom.Area sypet_var3965 = sypet_arg0.createTransformedArea(sypet_var3964);
+return sypet_var3965;
+
+}
+[SyPet] Benchmark test5.json            [OK]
+java.awt.geom.Rectangle2D translate(java.awt.geom.Rectangle2D sypet_arg0, double sypet_arg1, double sypet_arg2) {
+
+java.awt.Shape sypet_var4224 = sypet_arg0;
+java.awt.geom.AffineTransform sypet_var4225 = java.awt.geom.AffineTransform.getTranslateInstance(sypet_arg1,sypet_arg2);
+java.awt.geom.Path2D.Double sypet_var4226 = new java.awt.geom.Path2D.Double(sypet_var4224,sypet_var4225);
+java.awt.geom.Rectangle2D sypet_var4227 = sypet_var4226.getBounds2D();
+return sypet_var4227;
+
+}
+[SyPet] Benchmark test6.json            [OK]
+java.awt.geom.Rectangle2D getIntersection(java.awt.geom.Rectangle2D sypet_arg0, java.awt.geom.Ellipse2D sypet_arg1) {
+
+java.awt.Shape sypet_var4236 = sypet_arg1;
+java.awt.geom.Path2D.Float sypet_var4237 = new java.awt.geom.Path2D.Float(sypet_var4236);
+java.awt.geom.Rectangle2D sypet_var4238 = sypet_var4237.getBounds2D();
+java.awt.geom.Rectangle2D sypet_var4239 = sypet_var4238.createIntersection(sypet_arg0);
+return sypet_var4239;
+
+}
+```
